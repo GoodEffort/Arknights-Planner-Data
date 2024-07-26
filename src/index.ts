@@ -12,6 +12,7 @@ import { Readable } from "stream";
 import imagemin from 'imagemin';
 import imageminWebp from 'imagemin-webp';
 import getCommitHashes from "./data/versiondata";
+import { argv } from "process";
 
 const __filename = fileURLToPath(import.meta.url); // get the resolved path to the file
 const __dirname = path.dirname(__filename); // get the name of the directory
@@ -229,7 +230,7 @@ async function getJSONData() {
     return data;
 }
 
-async function main(command: string = "json-only") {
+async function main(command: string) {
     createFolders();
 
     const data = await getJSONData();
@@ -248,5 +249,9 @@ async function main(command: string = "json-only") {
     await convertImagesToWebp();
 }
 
-
-await main();
+if (!argv[2]) {
+    await main("json-only");
+}
+else {
+    await main(argv[2]); // can be literally anything but json-only
+}
