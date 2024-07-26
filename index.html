@@ -2,6 +2,17 @@
 
 <pre id="jsondata"></pre>
 
+<style>
+  pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+  body {
+    background-color: black;
+    color: white;
+  }
+</style>
+
 <script>
   fetch('arknights-data-pretty.json')
     .then(response => response.json())

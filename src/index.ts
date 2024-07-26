@@ -12,13 +12,12 @@ import { Readable } from "stream";
 import imagemin from 'imagemin';
 import imageminWebp from 'imagemin-webp';
 import getCommitHashes from "./data/versiondata";
-import { argv } from "process";
 
 const __filename = fileURLToPath(import.meta.url); // get the resolved path to the file
 const __dirname = path.dirname(__filename); // get the name of the directory
 
 function readJson(commitHashes: { yostar: string, cn: string }): JSONData | undefined {
-    const filepath = __dirname + "/../jsondata/arknights-data.json";
+    const filepath = __dirname + "/../production-files/arknights-data.json";
     if (fs.existsSync(filepath)) {
         const data = JSON.parse(fs.readFileSync(filepath).toString());
         if (data.commitHashes.yostar === commitHashes.yostar && data.commitHashes.cn === commitHashes.cn) {
@@ -29,26 +28,38 @@ function readJson(commitHashes: { yostar: string, cn: string }): JSONData | unde
 }
 
 function createFolders() {
+
     const folders = ["operators", "items", "other"];
-    const webp = "webp";
 
     const jsonDataPath = `${__dirname}/../jsondata/`;
+    const prodDataPath = `${__dirname}/../production-files/`;
+    const pngpath = `${__dirname}/../images/`;
+
     if (!fs.existsSync(jsonDataPath)) {
         fs.mkdirSync(jsonDataPath);
     }
 
-    const basepath = `${__dirname}/../images/`;
-    if (!fs.existsSync(basepath)) {
-        fs.mkdirSync(basepath);
+    if (!fs.existsSync(prodDataPath)) {
+        fs.mkdirSync(prodDataPath);
+    }
+
+    if (!fs.existsSync(`${prodDataPath}/images/`)) {
+        fs.mkdirSync(`${prodDataPath}/images/`);
+    }
+
+    if (!fs.existsSync(pngpath)) {
+        fs.mkdirSync(pngpath);
     }
 
     for (const folder of folders) {
-        const filepath = `${__dirname}/../images/${folder}`;
-        if (!fs.existsSync(filepath)) {
-            fs.mkdirSync(filepath);
+        let subPNGPath = `${pngpath}/${folder}`;
+        let subWebpPath = `${prodDataPath}/images/${folder}`;
+        if (!fs.existsSync(subPNGPath)) {
+            fs.mkdirSync(subPNGPath);
         }
-        if (!fs.existsSync(`${filepath}/${webp}`)) {
-            fs.mkdirSync(`${filepath}/${webp}`);
+        
+        if (!fs.existsSync(subWebpPath)) {
+            fs.mkdirSync(subWebpPath);
         }
     }
 }
@@ -92,10 +103,10 @@ async function buildJSON(commitHashes: { yostar: string, cn: string }): Promise<
 }
 
 function writeJson(data: JSONData) {
-    const filepath = __dirname + "/../jsondata/";
+    const filepath = __dirname + "/../";
 
-    fs.writeFileSync(filepath + "arknights-data-pretty.json", JSON.stringify(data, null, 2));
-    fs.writeFileSync(filepath + "arknights-data.json", JSON.stringify(data));
+    fs.writeFileSync(filepath + "jsondata/arknights-data-pretty.json", JSON.stringify(data, null, 2));
+    fs.writeFileSync(filepath + "production-files/arknights-data.json", JSON.stringify(data));
 }
 
 async function toReadable(stream: ReadableStream<Uint8Array>) {
@@ -190,21 +201,21 @@ async function getImages(sources: string[], filepathstart: string, ids: string[]
 
 async function convertImagesToWebp(quality = 80) {
     await imagemin([`${__dirname}/../images/operators/*.png`], {
-        destination: `${__dirname}/../images/operators/webp/`,
+        destination: `${__dirname}/../production-files/images/operators/`,
         plugins: [
             imageminWebp({ quality })
         ]
     });
 
     await imagemin([`${__dirname}/../images/items/*.png`], {
-        destination: `${__dirname}/../images/items/webp/`,
+        destination: `${__dirname}/../production-files/images/items/`,
         plugins: [
             imageminWebp({ quality })
         ]
     });
 
     await imagemin([`${__dirname}/../images/other/*.png`], {
-        destination: `${__dirname}/../images/other/webp/`,
+        destination: `${__dirname}/../production-files/images/other/`,
         plugins: [
             imageminWebp({ quality })
         ]
@@ -230,14 +241,10 @@ async function getJSONData() {
     return data;
 }
 
-async function main(command: string) {
+async function main() {
     createFolders();
 
     const data = await getJSONData();
-
-    if (command === "json-only") {
-        return;
-    }
 
     await getOperatorPicture(Object.keys(data.operators));
 
@@ -247,11 +254,18 @@ async function main(command: string) {
     await getOtherPictures();
 
     await convertImagesToWebp();
+
+    fs.cp(`${__dirname}/../index.html`, `${__dirname}/../production-files/index.html`, (err) => {
+        if (err) {
+            console.error(err);
+        }
+    });
+
+    fs.cp(`${__dirname}/../jsondata/arknights-data-pretty.json`, `${__dirname}/../production-files/arknights-data-pretty.json`, (err) => {
+        if (err) {
+            console.error(err);
+        }
+    });
 }
 
-if (!argv[2]) {
-    await main("json-only");
-}
-else {
-    await main(argv[2]); // can be literally anything but json-only
-}
+await main();

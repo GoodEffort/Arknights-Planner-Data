@@ -13,7 +13,7 @@
     "build:watch": "tsc && (concurrently \"tsc -w\" \"tsc-alias -w\")",
     "start": "node dist/index.js",
     "images": "node dist/index.js images",
-    "clean": "rimraf dist && rimraf images && rimraf jsondata"
+    "clean": "rimraf dist && rimraf images && rimraf jsondata && rimraf production-files"
   },
   "author": "",
   "license": "MIT",
