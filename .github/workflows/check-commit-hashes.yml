@@ -17,6 +17,7 @@ env:
 jobs:
     get-hashes:
         runs-on: ubuntu-latest
+        name: Get Hashes
         outputs:
             yostar-repo-hash: ${{ steps.get-yostar-repo-hash.outputs.yostar-repo-hash }}
             cn-repo-hash: ${{ steps.get-cn-repo-hash.outputs.cn-repo-hash }}
@@ -40,15 +41,18 @@ jobs:
     compare-hashes:
         runs-on: ubuntu-latest
         needs: get-hashes
+        name: Compare Hashes
+        env:
+            yostar-repo-hash: ${{ needs.get-hashes.outputs.yostar-repo-hash }}
+            yostar-json-hash: ${{ needs.get-hashes.outputs.yostar-json-hash }}
+            cn-repo-hash: ${{ needs.get-hashes.outputs.cn-repo-hash }}
+            cn-json-hash: ${{ needs.get-hashes.outputs.cn-json-hash }}
         steps:
-          - env:
-              yostar-repo-hash: ${{ needs.get-hashes.outputs.yostar-repo-hash }}
-              yostar-json-hash: ${{ needs.get-hashes.outputs.yostar-json-hash }}
-              cn-repo-hash: ${{ needs.get-hashes.outputs.cn-repo-hash }}
-              cn-json-hash: ${{ needs.get-hashes.outputs.cn-json-hash }}
+          - name: Fail if hashes are the same
+            id: compare-yostar-hashes
             run: |
-              if [ ${{ env.yostar-json-hash }} == ${{ env.yostar-repo-hash }} ] || [ ${{ env.cn-json-hash }} != ${{ env.cn-repo-hash }} ]; then
-                  echo "Yostar repo hash is not up to date"
+              if [ ${{ env.yostar-json-hash }} == ${{ env.yostar-repo-hash }} ] && [ ${{ env.cn-json-hash }} == ${{ env.cn-repo-hash }} ]; then
+                  echo "Yostar repo hash is up to date"
                   exit 1
               fi
             
