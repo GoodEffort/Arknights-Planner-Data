@@ -13,8 +13,6 @@ env:
     api-url: https://api.github.com/repos/Kengxxiao/
     cn-repo: ArknightsGameData/commits/master
     yostar-repo: ArknightsGameData_YoStar/commits/main
-    yostar-json-hash: 0
-    cn-json-hash: 0
 
 jobs:
     get-hashes:
@@ -25,15 +23,19 @@ jobs:
             yostar-json-hash: ${{ steps.get-yostar-json-hash.outputs.yostar-json-hash }}
             cn-json-hash: ${{ steps.get-cn-json-hash.outputs.cn-json-hash }}
         steps:
-            - name: download-json
+            - name: Download arknights-data.json
               run: curl -o arknights-data.json ${{ env.json-url }}
-            - name: get-yostar-json-hash
+            - name: Get Yostar hash
+              id: get-yostar-json-hash
               run: echo "yostar-json-hash=$(jq -r '.commitHashes.yostar' arknights-data.json)" >> "$GITHUB_OUTPUT"
-            - name: get-cn-json-hash
+            - name: Get CN hash
+              id: get-cn-json-hash
               run: echo "cn-json-hash=$(jq -r '.commitHashes.cn' arknights-data.json)" >> "$GITHUB_OUTPUT"
-            - name: get-yostar-repo-hash
+            - name: Get Yostar repo hash
+              id: get-yostar-repo-hash
               run: echo "yostar-repo-hash=$(curl -s ${{ env.api-url }}${{ env.yostar-repo }} | jq -r '.sha')" >> "$GITHUB_OUTPUT"
-            - name: get-cn-repo-hash
+            - name: Get CN repo hash
+              id: get-cn-repo-hash
               run: echo "cn-repo-hash=$(curl -s ${{ env.api-url }}${{ env.cn-repo }} | jq -r '.sha')" >> "$GITHUB_OUTPUT"
     compare-hashes:
         runs-on: ubuntu-latest
