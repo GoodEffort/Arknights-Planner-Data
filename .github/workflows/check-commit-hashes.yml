@@ -47,14 +47,27 @@ jobs:
             yostar-json-hash: ${{ needs.get-hashes.outputs.yostar-json-hash }}
             cn-repo-hash: ${{ needs.get-hashes.outputs.cn-repo-hash }}
             cn-json-hash: ${{ needs.get-hashes.outputs.cn-json-hash }}
+        outputs:
+          continue: ${{ steps.compare-yostar-hashes.outputs.continue }}
         steps:
-          - name: Fail if hashes are the same
+          - name: Stop if hashes match
             id: compare-yostar-hashes
             run: |
               if [ ${{ env.yostar-json-hash }} == ${{ env.yostar-repo-hash }} ] && [ ${{ env.cn-json-hash }} == ${{ env.cn-repo-hash }} ]; then
-                  echo "Yostar repo hash is up to date"
-                  exit 1
+                  echo "hashes match, do not continue"
+                  echo "continue=false" >> "$GITHUB_OUTPUT"
+              else
+                  echo "hashes do not match, continue"
+                  echo "continue=true" >> "$GITHUB_OUTPUT"
               fi
+    rebuild-data:
+      runs-on: ubuntu-latest
+      needs: compare-hashes
+      name: Rebuild Data
+      if: ${{ needs.compare-hashes.outputs.continue == 'true' }}
+      steps:
+        - name: Rebuild data
+          run: echo "Rebuilding data"
             
 
 
