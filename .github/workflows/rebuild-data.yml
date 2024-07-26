@@ -2,7 +2,8 @@ name: Rebuild JSON Data
 run-name: RebuildJSON/${{ github.run_number }}
 on:
   workflow_dispatch:
-    
+  workflow_call:
+
 jobs:
   build:
     runs-on: ubuntu-latest

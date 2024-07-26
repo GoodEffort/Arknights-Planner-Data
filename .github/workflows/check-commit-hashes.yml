@@ -69,7 +69,7 @@ jobs:
       if: ${{ needs.compare-hashes.outputs.continue == 'true' }}
       steps:
         - name: Rebuild data
-          run: echo "Rebuilding data"
+          uses: GoodEffort/Arknights-Planner-Data@main/.github/workflows/rebuild-data.yml
             
 
 
