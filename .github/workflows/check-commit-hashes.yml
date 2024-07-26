@@ -44,10 +44,10 @@ jobs:
           - env:
               yostar-repo-hash: ${{ needs.get-hashes.outputs.yostar-repo-hash }}
               yostar-json-hash: ${{ needs.get-hashes.outputs.yostar-json-hash }}
-              n-repo-hash: ${{ needs.get-hashes.outputs.cn-repo-hash }}
+              cn-repo-hash: ${{ needs.get-hashes.outputs.cn-repo-hash }}
               cn-json-hash: ${{ needs.get-hashes.outputs.cn-json-hash }}
             run: |
-              if [ $(cat ${{ env.yostar-json-hash }}) != ${{ env.yostar-repo-hash }} ]; then
+              if [ ${{ env.yostar-json-hash }} != ${{ env.yostar-repo-hash }} ] || [ ${{ env.cn-json-hash }} != ${{ env.cn-repo-hash }} ]; then
                   echo "Yostar repo hash is not up to date"
                   exit 1
               fi
