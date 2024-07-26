@@ -229,10 +229,14 @@ async function getJSONData() {
     return data;
 }
 
-async function main() {
+async function main(command: string = "json-only") {
     createFolders();
 
     const data = await getJSONData();
+
+    if (command === "json-only") {
+        return;
+    }
 
     await getOperatorPicture(Object.keys(data.operators));
 
