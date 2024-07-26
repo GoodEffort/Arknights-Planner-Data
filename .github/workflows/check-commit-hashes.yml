@@ -1,0 +1,69 @@
+name: Check Commit Hashes
+run-name: ${{ github.actor }}/${{ github.run_number }}
+on:
+    schedule:
+        - cron: '0 */6 * * *'
+env:
+    json-url: https://raw.githubusercontent.com/GoodEffort/Arknights-Planner-Data/main/jsondata/arknights-data.json
+    accept-header: application/vnd.github.VERSION.sha
+    api-url: https://api.github.com/repos/Kengxxiao/
+    cn-repo: ArknightsGameData/commits/master
+    yostar-repo: ArknightsGameData_YoStar/commits/main
+    yostar-repo-hash: 0
+    cn-repo-hash: 0
+    yostar-json-hash: 0
+    cn-json-hash: 0
+
+jobs:
+    get-hashes:
+        runs-on: ubuntu-latest
+        steps:
+            - name: download-json
+              run: curl -o arknights-data.json ${{ env.json-url }}
+            - name: get-yostar-json-hash
+              run: echo $(jq -r '.commitHashes.yostar' arknights-data.json) > yostar-json-hash
+            - name: get-cn-json-hash
+              run: echo $(jq -r '.commitHashes.cn' arknights-data.json) > cn-json-hash
+            - name: get-yostar-repo-hash
+              run: echo $(curl -s ${{ env.api-url }}${{ env.yostar-repo }} | jq -r '.sha') > yostar-repo-hash
+            - name: get-cn-repo-hash
+              run: echo $(curl -s ${{ env.api-url }}${{ env.cn-repo }} | jq -r '.sha') > cn-repo-hash
+    compare-hashes:
+        runs-on: ubuntu-latest
+        needs: get-hashes
+        steps:
+            - name: compare-yostar-repo-hash
+              run: |
+                  if [ $(cat yostar-repo-hash) != ${{ env.yostar-repo-hash }} ]; then
+                      echo "Yostar repo hash is not up to date"
+                      exit 1
+                  fi
+            - name: compare-cn-repo-hash
+              run: |
+                  if [ $(cat cn-repo-hash) != ${{ env.cn-repo-hash }} ]; then
+                      echo "CN repo hash is not up to date"
+                      exit 1
+                  fi
+            - name: compare-yostar-json-hash
+              run: |
+                  if [ $(cat yostar-json-hash) != ${{ env.yostar-json-hash }} ]; then
+                      echo "Yostar json hash is not up to date"
+                      exit 1
+                  fi
+            - name: compare-cn-json-hash
+              run: |
+                  if [ $(cat cn-json-hash) != ${{ env.cn-json-hash }} ]; then
+                      echo "CN json hash is not up to date"
+                      exit 1
+                  fi
+    out-of-date:
+        runs-on: ubuntu-latest
+        needs: compare-hashes
+        steps:
+            - name: out-of-date
+              run: echo "Data is out of date"
+            
+
+
+            
+            
