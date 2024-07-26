@@ -26,11 +26,12 @@ const mapPromotion = ({ maxLevel, evolveCost }: RawPhaseData): Promotion => {
     }
 };
 
-const mapSkills = ({ skillId, levelUpCostCond: [ levelUpCost ] }: RawSkillData, skillDict: { [key: string]: string }): Skill => {
+const mapSkills = ({ skillId, levelUpCostCond }: RawSkillData, skillDict: { [key: string]: string }): Skill => {
+    const levelUpCosts = levelUpCostCond.map(({ levelUpCost }) => levelUpCost || []);
     return {
         id: skillId,
         name: skillDict[skillId],
-        masteryCosts: levelUpCost?.levelUpCost?.map(mapLevelUpCost) ?? []
+        masteryCosts: levelUpCosts.map(c => c.map(mapLevelUpCost) ?? [])
     }
 };
 

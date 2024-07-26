@@ -26,7 +26,7 @@ type LevelUpCost = {
 type Skill = {
     name: string;
     id: string;
-    masteryCosts: LevelUpCost[];
+    masteryCosts: LevelUpCost[][];
 }
 
 type Module = {
