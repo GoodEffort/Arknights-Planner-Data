@@ -13,59 +13,42 @@ env:
     api-url: https://api.github.com/repos/Kengxxiao/
     cn-repo: ArknightsGameData/commits/master
     yostar-repo: ArknightsGameData_YoStar/commits/main
-    yostar-repo-hash: 0
-    cn-repo-hash: 0
     yostar-json-hash: 0
     cn-json-hash: 0
 
 jobs:
     get-hashes:
         runs-on: ubuntu-latest
+        outputs:
+            yostar-repo-hash: ${{ steps.get-yostar-repo-hash.outputs.yostar-repo-hash }}
+            cn-repo-hash: ${{ steps.get-cn-repo-hash.outputs.cn-repo-hash }}
+            yostar-json-hash: ${{ steps.get-yostar-json-hash.outputs.yostar-json-hash }}
+            cn-json-hash: ${{ steps.get-cn-json-hash.outputs.cn-json-hash }}
         steps:
             - name: download-json
               run: curl -o arknights-data.json ${{ env.json-url }}
             - name: get-yostar-json-hash
-              run: echo $(jq -r '.commitHashes.yostar' arknights-data.json) > yostar-json-hash
+              run: echo "yostar-json-hash=$(jq -r '.commitHashes.yostar' arknights-data.json)" >> "$GITHUB_OUTPUT"
             - name: get-cn-json-hash
-              run: echo $(jq -r '.commitHashes.cn' arknights-data.json) > cn-json-hash
+              run: echo "cn-json-hash=$(jq -r '.commitHashes.cn' arknights-data.json)" >> "$GITHUB_OUTPUT"
             - name: get-yostar-repo-hash
-              run: echo $(curl -s ${{ env.api-url }}${{ env.yostar-repo }} | jq -r '.sha') > yostar-repo-hash
+              run: echo "yostar-repo-hash=$(curl -s ${{ env.api-url }}${{ env.yostar-repo }} | jq -r '.sha')" >> "$GITHUB_OUTPUT"
             - name: get-cn-repo-hash
-              run: echo $(curl -s ${{ env.api-url }}${{ env.cn-repo }} | jq -r '.sha') > cn-repo-hash
+              run: echo "cn-repo-hash=$(curl -s ${{ env.api-url }}${{ env.cn-repo }} | jq -r '.sha')" >> "$GITHUB_OUTPUT"
     compare-hashes:
         runs-on: ubuntu-latest
         needs: get-hashes
         steps:
-            - name: compare-yostar-repo-hash
-              run: |
-                  if [ $(cat ${{ env.yostar-repo-hash }}) != ${{ env.yostar-repo-hash }} ]; then
-                      echo "Yostar repo hash is not up to date"
-                      exit 1
-                  fi
-            - name: compare-cn-repo-hash
-              run: |
-                  if [ $(cat ${{ env.cn-repo-hash }}) != ${{ env.cn-repo-hash }} ]; then
-                      echo "CN repo hash is not up to date"
-                      exit 1
-                  fi
-            - name: compare-yostar-json-hash
-              run: |
-                  if [ $(cat ${{ env.yostar-json-hash }}) != ${{ env.yostar-json-hash }} ]; then
-                      echo "Yostar json hash is not up to date"
-                      exit 1
-                  fi
-            - name: compare-cn-json-hash
-              run: |
-                  if [ $(cat ${{ env.cn-json-hash }}) != ${{ env.cn-json-hash }} ]; then
-                      echo "CN json hash is not up to date"
-                      exit 1
-                  fi
-    out-of-date:
-        runs-on: ubuntu-latest
-        needs: compare-hashes
-        steps:
-            - name: out-of-date
-              run: echo "Data is out of date"
+          - env:
+              yostar-repo-hash: ${{ needs.get-hashes.outputs.yostar-repo-hash }}
+              yostar-json-hash: ${{ needs.get-hashes.outputs.yostar-json-hash }}
+              n-repo-hash: ${{ needs.get-hashes.outputs.cn-repo-hash }}
+              cn-json-hash: ${{ needs.get-hashes.outputs.cn-json-hash }}
+            run: |
+              if [ $(cat ${{ env.yostar-json-hash }}) != ${{ env.yostar-repo-hash }} ]; then
+                  echo "Yostar repo hash is not up to date"
+                  exit 1
+              fi
             
 
 
