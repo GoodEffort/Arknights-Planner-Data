@@ -1,4 +1,8 @@
 {
+  "commitHashes": {
+    "yostar": "d3d88a758071c011139f1c2096960348db44cdfe",
+    "cn": "b9f6dc91263a48c1327c21340dcc7dda64c5b676"
+  },
   "operators": {
     "char_002_amiya": {
       "name": "Amiya",
@@ -66910,7 +66914,8 @@
           "stageId": "sub_02-03",
           "occPer": "ALWAYS"
         }
-      ]
+      ],
+      "gainExp": 200
     },
     "2002": {
       "itemId": "2002",
@@ -66934,7 +66939,8 @@
           "stageId": "main_03-05",
           "occPer": "ALWAYS"
         }
-      ]
+      ],
+      "gainExp": 400
     },
     "2003": {
       "itemId": "2003",
@@ -67010,7 +67016,8 @@
           "stageId": "sub_05-3-2",
           "occPer": "ALWAYS"
         }
-      ]
+      ],
+      "gainExp": 1000
     },
     "2004": {
       "itemId": "2004",
@@ -67026,7 +67033,8 @@
           "stageId": "wk_kc_1",
           "occPer": "ALWAYS"
         }
-      ]
+      ],
+      "gainExp": 2000
     },
     "3211": {
       "itemId": "3211",
@@ -74871,24 +74879,6 @@
           "occPer": "ALWAYS"
         }
       ]
-    }
-  },
-  "expItems": {
-    "2001": {
-      "id": "2001",
-      "gainExp": 200
-    },
-    "2002": {
-      "id": "2002",
-      "gainExp": 400
-    },
-    "2003": {
-      "id": "2003",
-      "gainExp": 1000
-    },
-    "2004": {
-      "id": "2004",
-      "gainExp": 2000
     }
   }
 }
