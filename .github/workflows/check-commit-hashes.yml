@@ -38,25 +38,25 @@ jobs:
         steps:
             - name: compare-yostar-repo-hash
               run: |
-                  if [ $(cat yostar-repo-hash) != ${{ env.yostar-repo-hash }} ]; then
+                  if [ $(cat ${{ env.yostar-repo-hash }}) != ${{ env.yostar-repo-hash }} ]; then
                       echo "Yostar repo hash is not up to date"
                       exit 1
                   fi
             - name: compare-cn-repo-hash
               run: |
-                  if [ $(cat cn-repo-hash) != ${{ env.cn-repo-hash }} ]; then
+                  if [ $(cat ${{ env.cn-repo-hash }}) != ${{ env.cn-repo-hash }} ]; then
                       echo "CN repo hash is not up to date"
                       exit 1
                   fi
             - name: compare-yostar-json-hash
               run: |
-                  if [ $(cat yostar-json-hash) != ${{ env.yostar-json-hash }} ]; then
+                  if [ $(cat ${{ env.yostar-json-hash }}) != ${{ env.yostar-json-hash }} ]; then
                       echo "Yostar json hash is not up to date"
                       exit 1
                   fi
             - name: compare-cn-json-hash
               run: |
-                  if [ $(cat cn-json-hash) != ${{ env.cn-json-hash }} ]; then
+                  if [ $(cat ${{ env.cn-json-hash }}) != ${{ env.cn-json-hash }} ]; then
                       echo "CN json hash is not up to date"
                       exit 1
                   fi
