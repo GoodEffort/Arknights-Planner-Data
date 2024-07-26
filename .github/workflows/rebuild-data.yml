@@ -35,7 +35,7 @@ jobs:
       - name: Rebuild data
         run: npm run start
       - name: Upload build files
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: github-pages
           path: ./jsondata

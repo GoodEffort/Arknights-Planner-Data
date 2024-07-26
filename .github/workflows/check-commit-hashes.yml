@@ -6,6 +6,7 @@ on:
     push:
         branches:
             - main
+    workflow_dispatch:
 
 env:
     json-url: https://raw.githubusercontent.com/GoodEffort/Arknights-Planner-Data/main/jsondata/arknights-data.json
@@ -18,6 +19,7 @@ jobs:
     get-hashes:
         runs-on: ubuntu-latest
         name: Get Hashes
+        if: github.ref == 'refs/heads/main'
         outputs:
             yostar-repo-hash: ${{ steps.get-yostar-repo-hash.outputs.yostar-repo-hash }}
             cn-repo-hash: ${{ steps.get-cn-repo-hash.outputs.cn-repo-hash }}
