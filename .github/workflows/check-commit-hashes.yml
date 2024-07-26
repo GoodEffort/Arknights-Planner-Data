@@ -68,7 +68,7 @@ jobs:
       name: Rebuild Data
       steps:
         - name: Rebuild data
-          uses: GoodEffort/Arknights-Planner-Data@main/.github/workflows/rebuild-data.yml
+          uses: GoodEffort/Arknights-Planner-Data/.github/workflows/rebuild-data.yml@main
             
 
 
