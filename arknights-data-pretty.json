@@ -88321,18 +88321,21 @@
           "occPer": "ALWAYS"
         }
       ],
-      "recipe": [
-        {
-          "id": "3271",
-          "count": 3,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 0,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 2,
+        "costs": [
+          {
+            "id": "3271",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 0,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "3212": {
       "itemId": "3212",
@@ -88349,18 +88352,21 @@
           "occPer": "ALWAYS"
         }
       ],
-      "recipe": [
-        {
-          "id": "3272",
-          "count": 3,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 0,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 2,
+        "costs": [
+          {
+            "id": "3272",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 0,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "3213": {
       "itemId": "3213",
@@ -88372,18 +88378,21 @@
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [],
-      "recipe": [
-        {
-          "id": "3212",
-          "count": 2,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "32001",
-          "count": 1,
-          "type": "MATERIAL"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "3212",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "32001",
+            "count": 1,
+            "type": "MATERIAL"
+          }
+        ]
+      }
     },
     "3221": {
       "itemId": "3221",
@@ -88400,18 +88409,21 @@
           "occPer": "ALWAYS"
         }
       ],
-      "recipe": [
-        {
-          "id": "3281",
-          "count": 3,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 0,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 2,
+        "costs": [
+          {
+            "id": "3281",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 0,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "3222": {
       "itemId": "3222",
@@ -88428,18 +88440,21 @@
           "occPer": "ALWAYS"
         }
       ],
-      "recipe": [
-        {
-          "id": "3282",
-          "count": 3,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 0,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 2,
+        "costs": [
+          {
+            "id": "3282",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 0,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "3223": {
       "itemId": "3223",
@@ -88451,18 +88466,21 @@
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [],
-      "recipe": [
-        {
-          "id": "3222",
-          "count": 2,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "32001",
-          "count": 1,
-          "type": "MATERIAL"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "3222",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "32001",
+            "count": 1,
+            "type": "MATERIAL"
+          }
+        ]
+      }
     },
     "3231": {
       "itemId": "3231",
@@ -88479,18 +88497,21 @@
           "occPer": "ALWAYS"
         }
       ],
-      "recipe": [
-        {
-          "id": "3261",
-          "count": 3,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 0,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 2,
+        "costs": [
+          {
+            "id": "3261",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 0,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "3232": {
       "itemId": "3232",
@@ -88507,18 +88528,21 @@
           "occPer": "ALWAYS"
         }
       ],
-      "recipe": [
-        {
-          "id": "3262",
-          "count": 3,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 0,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 2,
+        "costs": [
+          {
+            "id": "3262",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 0,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "3233": {
       "itemId": "3233",
@@ -88530,18 +88554,21 @@
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [],
-      "recipe": [
-        {
-          "id": "3232",
-          "count": 2,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "32001",
-          "count": 1,
-          "type": "MATERIAL"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "3232",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "32001",
+            "count": 1,
+            "type": "MATERIAL"
+          }
+        ]
+      }
     },
     "3241": {
       "itemId": "3241",
@@ -88558,18 +88585,21 @@
           "occPer": "ALWAYS"
         }
       ],
-      "recipe": [
-        {
-          "id": "3251",
-          "count": 3,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 0,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 2,
+        "costs": [
+          {
+            "id": "3251",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 0,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "3242": {
       "itemId": "3242",
@@ -88586,18 +88616,21 @@
           "occPer": "ALWAYS"
         }
       ],
-      "recipe": [
-        {
-          "id": "3252",
-          "count": 3,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 0,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 2,
+        "costs": [
+          {
+            "id": "3252",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 0,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "3243": {
       "itemId": "3243",
@@ -88609,18 +88642,21 @@
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [],
-      "recipe": [
-        {
-          "id": "3242",
-          "count": 2,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "32001",
-          "count": 1,
-          "type": "MATERIAL"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "3242",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "32001",
+            "count": 1,
+            "type": "MATERIAL"
+          }
+        ]
+      }
     },
     "3251": {
       "itemId": "3251",
@@ -88637,18 +88673,21 @@
           "occPer": "ALWAYS"
         }
       ],
-      "recipe": [
-        {
-          "id": "3241",
-          "count": 3,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 0,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 2,
+        "costs": [
+          {
+            "id": "3241",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 0,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "3252": {
       "itemId": "3252",
@@ -88665,18 +88704,21 @@
           "occPer": "ALWAYS"
         }
       ],
-      "recipe": [
-        {
-          "id": "3242",
-          "count": 3,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 0,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 2,
+        "costs": [
+          {
+            "id": "3242",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 0,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "3253": {
       "itemId": "3253",
@@ -88688,18 +88730,21 @@
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [],
-      "recipe": [
-        {
-          "id": "3252",
-          "count": 2,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "32001",
-          "count": 1,
-          "type": "MATERIAL"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "3252",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "32001",
+            "count": 1,
+            "type": "MATERIAL"
+          }
+        ]
+      }
     },
     "3261": {
       "itemId": "3261",
@@ -88716,18 +88761,21 @@
           "occPer": "ALWAYS"
         }
       ],
-      "recipe": [
-        {
-          "id": "3231",
-          "count": 3,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 0,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 2,
+        "costs": [
+          {
+            "id": "3231",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 0,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "3262": {
       "itemId": "3262",
@@ -88744,18 +88792,21 @@
           "occPer": "ALWAYS"
         }
       ],
-      "recipe": [
-        {
-          "id": "3232",
-          "count": 3,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 0,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 2,
+        "costs": [
+          {
+            "id": "3232",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 0,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "3263": {
       "itemId": "3263",
@@ -88767,18 +88818,21 @@
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [],
-      "recipe": [
-        {
-          "id": "3262",
-          "count": 2,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "32001",
-          "count": 1,
-          "type": "MATERIAL"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "3262",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "32001",
+            "count": 1,
+            "type": "MATERIAL"
+          }
+        ]
+      }
     },
     "3271": {
       "itemId": "3271",
@@ -88795,18 +88849,21 @@
           "occPer": "ALWAYS"
         }
       ],
-      "recipe": [
-        {
-          "id": "3211",
-          "count": 3,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 0,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 2,
+        "costs": [
+          {
+            "id": "3211",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 0,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "3272": {
       "itemId": "3272",
@@ -88823,18 +88880,21 @@
           "occPer": "ALWAYS"
         }
       ],
-      "recipe": [
-        {
-          "id": "3212",
-          "count": 3,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 0,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 2,
+        "costs": [
+          {
+            "id": "3212",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 0,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "3273": {
       "itemId": "3273",
@@ -88846,18 +88906,21 @@
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [],
-      "recipe": [
-        {
-          "id": "3272",
-          "count": 2,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "32001",
-          "count": 1,
-          "type": "MATERIAL"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "3272",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "32001",
+            "count": 1,
+            "type": "MATERIAL"
+          }
+        ]
+      }
     },
     "3281": {
       "itemId": "3281",
@@ -88874,18 +88937,21 @@
           "occPer": "ALWAYS"
         }
       ],
-      "recipe": [
-        {
-          "id": "3221",
-          "count": 3,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 0,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 2,
+        "costs": [
+          {
+            "id": "3221",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 0,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "3282": {
       "itemId": "3282",
@@ -88902,18 +88968,21 @@
           "occPer": "ALWAYS"
         }
       ],
-      "recipe": [
-        {
-          "id": "3222",
-          "count": 3,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 0,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 2,
+        "costs": [
+          {
+            "id": "3222",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 0,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "3283": {
       "itemId": "3283",
@@ -88925,18 +88994,21 @@
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [],
-      "recipe": [
-        {
-          "id": "3282",
-          "count": 2,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "32001",
-          "count": 1,
-          "type": "MATERIAL"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "3282",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "32001",
+            "count": 1,
+            "type": "MATERIAL"
+          }
+        ]
+      }
     },
     "3301": {
       "itemId": "3301",
@@ -88973,18 +89045,21 @@
           "occPer": "ALWAYS"
         }
       ],
-      "recipe": [
-        {
-          "id": "3301",
-          "count": 3,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 0,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "3301",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 0,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "3303": {
       "itemId": "3303",
@@ -89001,18 +89076,21 @@
           "occPer": "ALWAYS"
         }
       ],
-      "recipe": [
-        {
-          "id": "3302",
-          "count": 3,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 0,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "3302",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 0,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "4001": {
       "itemId": "4001",
@@ -89633,18 +89711,21 @@
           "occPer": "USUAL"
         }
       ],
-      "recipe": [
-        {
-          "id": "30011",
-          "count": 3,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 100,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30011",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 100,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "30013": {
       "itemId": "30013",
@@ -89749,18 +89830,21 @@
           "occPer": "USUAL"
         }
       ],
-      "recipe": [
-        {
-          "id": "30012",
-          "count": 5,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 200,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30012",
+            "count": 5,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 200,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "30014": {
       "itemId": "30014",
@@ -89813,18 +89897,21 @@
           "occPer": "SOMETIMES"
         }
       ],
-      "recipe": [
-        {
-          "id": "30013",
-          "count": 4,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 300,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30013",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 300,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "30021": {
       "itemId": "30021",
@@ -90341,18 +90428,21 @@
           "occPer": "ALWAYS"
         }
       ],
-      "recipe": [
-        {
-          "id": "30021",
-          "count": 3,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 100,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30021",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 100,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "30023": {
       "itemId": "30023",
@@ -90457,18 +90547,21 @@
           "occPer": "OFTEN"
         }
       ],
-      "recipe": [
-        {
-          "id": "30022",
-          "count": 4,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 200,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30022",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 200,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "30024": {
       "itemId": "30024",
@@ -90517,28 +90610,31 @@
           "occPer": "SOMETIMES"
         }
       ],
-      "recipe": [
-        {
-          "id": "30023",
-          "count": 2,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "30043",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "30083",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 300,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30023",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30043",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30083",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 300,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "30031": {
       "itemId": "30031",
@@ -91019,18 +91115,21 @@
           "occPer": "ALWAYS"
         }
       ],
-      "recipe": [
-        {
-          "id": "30031",
-          "count": 3,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 100,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30031",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 100,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "30033": {
       "itemId": "30033",
@@ -91131,18 +91230,21 @@
           "occPer": "OFTEN"
         }
       ],
-      "recipe": [
-        {
-          "id": "30032",
-          "count": 4,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 200,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30032",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 200,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "30034": {
       "itemId": "30034",
@@ -91183,28 +91285,31 @@
           "occPer": "SOMETIMES"
         }
       ],
-      "recipe": [
-        {
-          "id": "30033",
-          "count": 2,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "30053",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "30073",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 300,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30033",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30053",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30073",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 300,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "30041": {
       "itemId": "30041",
@@ -91689,18 +91794,21 @@
           "occPer": "ALWAYS"
         }
       ],
-      "recipe": [
-        {
-          "id": "30041",
-          "count": 3,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 100,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30041",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 100,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "30043": {
       "itemId": "30043",
@@ -91793,18 +91901,21 @@
           "occPer": "OFTEN"
         }
       ],
-      "recipe": [
-        {
-          "id": "30042",
-          "count": 4,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 200,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30042",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 200,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "30044": {
       "itemId": "30044",
@@ -91853,28 +91964,31 @@
           "occPer": "SOMETIMES"
         }
       ],
-      "recipe": [
-        {
-          "id": "30043",
-          "count": 2,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "30063",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "30033",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 300,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30043",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30063",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30033",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 300,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "30051": {
       "itemId": "30051",
@@ -92355,18 +92469,21 @@
           "occPer": "ALWAYS"
         }
       ],
-      "recipe": [
-        {
-          "id": "30051",
-          "count": 3,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 100,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30051",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 100,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "30053": {
       "itemId": "30053",
@@ -92483,18 +92600,21 @@
           "occPer": "OFTEN"
         }
       ],
-      "recipe": [
-        {
-          "id": "30052",
-          "count": 4,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 200,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30052",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 200,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "30054": {
       "itemId": "30054",
@@ -92543,28 +92663,31 @@
           "occPer": "SOMETIMES"
         }
       ],
-      "recipe": [
-        {
-          "id": "30053",
-          "count": 2,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "30023",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "30083",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 300,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30053",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30023",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30083",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 300,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "30061": {
       "itemId": "30061",
@@ -93089,18 +93212,21 @@
           "occPer": "ALMOST"
         }
       ],
-      "recipe": [
-        {
-          "id": "30061",
-          "count": 3,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 100,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30061",
+            "count": 3,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 100,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "30063": {
       "itemId": "30063",
@@ -93189,18 +93315,21 @@
           "occPer": "OFTEN"
         }
       ],
-      "recipe": [
-        {
-          "id": "30062",
-          "count": 4,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 200,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30062",
+            "count": 4,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 200,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "30064": {
       "itemId": "30064",
@@ -93237,28 +93366,31 @@
           "occPer": "SOMETIMES"
         }
       ],
-      "recipe": [
-        {
-          "id": "30063",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "30013",
-          "count": 2,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "30093",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 300,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30063",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30013",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30093",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 300,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "30073": {
       "itemId": "30073",
@@ -93435,28 +93567,31 @@
           "occPer": "SOMETIMES"
         }
       ],
-      "recipe": [
-        {
-          "id": "30073",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "30023",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "30103",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 300,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30073",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30023",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30103",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 300,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "30083": {
       "itemId": "30083",
@@ -93601,28 +93736,31 @@
           "occPer": "SOMETIMES"
         }
       ],
-      "recipe": [
-        {
-          "id": "30083",
-          "count": 2,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "30033",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "30073",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 300,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30083",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30033",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30073",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 300,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "30093": {
       "itemId": "30093",
@@ -93755,28 +93893,31 @@
           "occPer": "SOMETIMES"
         }
       ],
-      "recipe": [
-        {
-          "id": "30093",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "30043",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "30063",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 300,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30093",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30043",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30063",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 300,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "30103": {
       "itemId": "30103",
@@ -93917,28 +94058,31 @@
           "occPer": "SOMETIMES"
         }
       ],
-      "recipe": [
-        {
-          "id": "30103",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "30013",
-          "count": 2,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "30053",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 300,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30103",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30013",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30053",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 300,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "30115": {
       "itemId": "30115",
@@ -93950,28 +94094,31 @@
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [],
-      "recipe": [
-        {
-          "id": "30014",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "30044",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "30054",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 400,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30014",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30044",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30054",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 400,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "30125": {
       "itemId": "30125",
@@ -93983,23 +94130,26 @@
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [],
-      "recipe": [
-        {
-          "id": "30064",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "30074",
-          "count": 2,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 400,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30064",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30074",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 400,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "30135": {
       "itemId": "30135",
@@ -94011,28 +94161,31 @@
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [],
-      "recipe": [
-        {
-          "id": "30084",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "30094",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "30104",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 400,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30084",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30094",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30104",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 400,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "30145": {
       "itemId": "30145",
@@ -94044,28 +94197,31 @@
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [],
-      "recipe": [
-        {
-          "id": "31034",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "31014",
-          "count": 2,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "31024",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 400,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "31034",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31014",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31024",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 400,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "30155": {
       "itemId": "30155",
@@ -94077,28 +94233,31 @@
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [],
-      "recipe": [
-        {
-          "id": "31064",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "31054",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "31044",
-          "count": 2,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 400,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "31064",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31054",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31044",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 400,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "31013": {
       "itemId": "31013",
@@ -94227,28 +94386,31 @@
           "occPer": "SOMETIMES"
         }
       ],
-      "recipe": [
-        {
-          "id": "30043",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "31013",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "31023",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 300,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30043",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31013",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31023",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 300,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "31023": {
       "itemId": "31023",
@@ -94421,28 +94583,31 @@
           "occPer": "SOMETIMES"
         }
       ],
-      "recipe": [
-        {
-          "id": "30063",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "30093",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "31023",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 300,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30063",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30093",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31023",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 300,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "31033": {
       "itemId": "31033",
@@ -94575,28 +94740,31 @@
           "occPer": "SOMETIMES"
         }
       ],
-      "recipe": [
-        {
-          "id": "31033",
-          "count": 2,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "31013",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "31023",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 300,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "31033",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31013",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31023",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 300,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "31043": {
       "itemId": "31043",
@@ -94697,28 +94865,31 @@
           "occPer": "SOMETIMES"
         }
       ],
-      "recipe": [
-        {
-          "id": "31043",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "31053",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "31013",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 300,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "31043",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31053",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31013",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 300,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "31053": {
       "itemId": "31053",
@@ -94791,28 +94962,31 @@
           "occPer": "SOMETIMES"
         }
       ],
-      "recipe": [
-        {
-          "id": "31053",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "31033",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "30103",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 300,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "31053",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31033",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30103",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 300,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "31063": {
       "itemId": "31063",
@@ -94909,28 +95083,31 @@
           "occPer": "SOMETIMES"
         }
       ],
-      "recipe": [
-        {
-          "id": "31063",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "31043",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "30023",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 300,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "31063",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31043",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30023",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 300,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "31073": {
       "itemId": "31073",
@@ -94971,28 +95148,31 @@
           "occPer": "SOMETIMES"
         }
       ],
-      "recipe": [
-        {
-          "id": "31073",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "30033",
-          "count": 2,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "30013",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 300,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "31073",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30033",
+            "count": 2,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "30013",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 300,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "31083": {
       "itemId": "31083",
@@ -95033,28 +95213,31 @@
           "occPer": "SOMETIMES"
         }
       ],
-      "recipe": [
-        {
-          "id": "31083",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "31073",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "31063",
-          "count": 1,
-          "type": "MATERIAL"
-        },
-        {
-          "id": "4001",
-          "count": 300,
-          "type": "gold"
-        }
-      ]
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "31083",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31073",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31063",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 300,
+            "type": "gold"
+          }
+        ]
+      }
     },
     "32001": {
       "itemId": "32001",
