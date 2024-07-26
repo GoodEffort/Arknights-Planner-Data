@@ -1,5 +1,5 @@
 name: Check Commit Hashes
-run-name: ${{ github.actor }}/${{ github.run_number }}
+run-name: CheckHashes/${{ github.run_number }}
 on:
     schedule:
         - cron: '0 */6 * * *'
