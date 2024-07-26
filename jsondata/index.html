@@ -1,0 +1,11 @@
+<a href="arknights-data.json">Arknights Data</a>
+
+<pre id="jsondata"></pre>
+
+<script>
+  fetch('arknights-data-pretty.json')
+    .then(response => response.json())
+    .then(data => {
+      document.getElementById('jsondata').textContent = JSON.stringify(data, null, 2);
+    });
+</script>
