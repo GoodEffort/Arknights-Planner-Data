@@ -2,7 +2,7 @@ name: Check Hashes, Build and Deploy
 run-name: CheckBuildDeploy/${{ github.run_number }}
 on:
     schedule:
-        - cron: '0 */6 * * *'
+        - cron: '9 * * * *'
     push:
         branches:
             - main
