@@ -3,6 +3,10 @@ run-name: ${{ github.actor }}/${{ github.run_number }}
 on:
     schedule:
         - cron: '0 */6 * * *'
+    push:
+        branches:
+            - main
+
 env:
     json-url: https://raw.githubusercontent.com/GoodEffort/Arknights-Planner-Data/main/jsondata/arknights-data.json
     accept-header: application/vnd.github.VERSION.sha
