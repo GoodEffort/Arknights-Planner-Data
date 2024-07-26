@@ -51,6 +51,7 @@ type Item = {
         occPer: string;
     }[];
     recipe?: Recipe;
+    gainExp?: number;
 }
 
 type Recipe = {
@@ -59,4 +60,17 @@ type Recipe = {
     type: string;
 }[];
 
-export type { LevelUpCost, Promotion, Operator, Skill, Module, Item, Recipe };
+type JSONData = {
+    commitHashes: {
+        yostar: string;
+        cn: string;
+    };
+    operators: {
+        [key: string]: Omit<Operator, "id">;
+    };
+    items: {
+        [key: string]: Item;
+    };
+};
+
+export type { LevelUpCost, Promotion, Operator, Skill, Module, Item, Recipe, JSONData };
