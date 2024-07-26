@@ -35,7 +35,7 @@ jobs:
       - name: Rebuild data
         run: npm run start
       - name: Upload build files
-        uses: actions/upload-pages-artifact
+        uses: actions/upload-pages-artifact@v3
         with:
           name: github-pages
           path: ./jsondata
@@ -50,4 +50,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v3
