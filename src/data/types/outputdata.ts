@@ -55,10 +55,13 @@ type Item = {
 }
 
 type Recipe = {
-    id: string;
     count: number;
-    type: string;
-}[];
+    costs: {
+        id: string;
+        count: number;
+        type: string;
+    }[];
+}
 
 type JSONData = {
     commitHashes: {

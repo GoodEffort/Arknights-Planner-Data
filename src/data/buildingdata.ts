@@ -1,24 +1,20 @@
+type RawRecipeData = {
+    itemId: string;
+    count: number;
+    goldCost: number;
+    costs: {
+        id: string;
+        count: number;
+        type: string;
+    }[];
+};
+
 type Building_Table = {
     workshopFormulas: {
-        [key: string]: {
-            itemId: string;
-            goldCost: number;
-            costs: {
-                id: string;
-                count: number;
-                type: string;
-            }[];
-        };
+        [key: string]: RawRecipeData
     };
     manufactFormulas: {
-        [key: string]: {
-            itemId: string;
-            costs: {
-                id: string;
-                count: number;
-                type: string;
-            }[];
-        };
+        [key: string]: RawRecipeData
     };
 };
 
@@ -39,29 +35,35 @@ const getBuildingdata = async () => {
 
     const Recipes: {
         [key: string]: {
-            id: string;
             count: number;
-            type: string;
-        }[]
+            costs: {
+                id: string;
+                count: number;
+                type: string;
+            }[]
+        }
     } = {};
 
     for (const key in workshopFormulas) {
-        const { itemId, costs, goldCost } = workshopFormulas[key];
-        Recipes[itemId] = costs;
-        Recipes[itemId].push({ id: "4001", count: goldCost, type: "gold" });
+        const { itemId, costs, goldCost, count } = workshopFormulas[key];
+        costs.push({ id: "4001", count: goldCost, type: "gold" });
+        Recipes[itemId] = { count, costs };
     }
 
     for (const key in manufactFormulas) {
-        const { itemId, costs } = manufactFormulas[key];
-        Recipes[itemId] = costs;
+        const { itemId, costs, count } = manufactFormulas[key];
+        Recipes[itemId] = { count, costs };
     }
 
     // catalyst
-    Recipes["32001"] = [{
-        id: "4006",
-        count: 90,
-        type: ""
-    }];
+    Recipes["32001"] = {
+        count: 1,
+        costs: [{
+            id: "4006",
+            count: 90,
+            type: ""
+        }]
+    };
 
     return Recipes;
 };
