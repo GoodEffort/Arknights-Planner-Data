@@ -66,7 +66,7 @@ jobs:
 
     build:
       needs: compare-hashes
-      # if: ${{ needs.compare-hashes.outputs.continue == 'true' }}
+      if: ${{ needs.compare-hashes.outputs.continue == 'true' }}
       runs-on: ubuntu-latest
       strategy:
         matrix:
