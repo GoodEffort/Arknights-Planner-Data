@@ -11,16 +11,21 @@
   "scripts": {
     "build": "tsc --project tsconfig.json && tsc-alias -p tsconfig.jsontsc --project tsconfig.json && tsc-alias -p tsconfig.json",
     "build:watch": "tsc && (concurrently \"tsc -w\" \"tsc-alias -w\")",
-    "start": "node dist/index.js"
+    "start": "node dist/index.js",
+    "clean": "rimraf dist && rimraf images && rimraf jsondata"
   },
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@types/imagemin": "^9.0.0",
+    "@types/imagemin-webp": "^7.0.3",
     "@types/node": "^20.14.12",
     "tsc-alias": "^1.8.10",
     "typescript": "^5.5.4"
   },
   "dependencies": {
-    "fs": "^0.0.1-security"
+    "fs": "^0.0.1-security",
+    "imagemin": "^9.0.0",
+    "imagemin-webp": "^8.0.0"
   }
 }
