@@ -41,18 +41,18 @@ jobs:
           path: ./jsondata
   # Single deploy job since we're just deploying
   deploy:
+    name: Deploy
     needs: build
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main'
+    
     steps:
       - name: Download artifact
         uses: actions/download-artifact@v3
         with:
           name: production-files
-          path: ./dist
+          path: ./jsondata
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         id: deployment
