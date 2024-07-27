@@ -38,7 +38,7 @@ type Module = {
     uniEquipDesc: string;
     typeIcon: string;
     typeName1: string;
-    typeName2: 'X' | 'Y' | 'D' | null;
+    typeName2: string | null;
     equipShiningColor: string;
     showEvolvePhase: string;
     unlockEvolvePhase: string;
