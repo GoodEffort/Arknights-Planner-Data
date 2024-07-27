@@ -55,12 +55,23 @@ const getBuildingdata = async () => {
         Recipes[itemId] = { count, costs };
     }
 
+    // Red certificates
     // catalyst
     Recipes["32001"] = {
         count: 1,
         costs: [{
             id: "4006",
             count: 90,
+            type: ""
+        }]
+    };
+
+    // module data block
+    Recipes["mod_unlock_token"] = {
+        count: 1,
+        costs: [{
+            id: "4006",
+            count: 120,
             type: ""
         }]
     };
