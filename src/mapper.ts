@@ -1,7 +1,6 @@
 import type { Module as RawModuleData, RawLevelUpCostData, RawOperatorData, RawPhaseData, RawSkillData } from "./data/types/operator";
 import type { LevelUpCost, Promotion, Operator, Skill, Module, Item, Recipe } from "./data/types/outputdata";
 import type { Item as RawItemData} from "./data/types/item";
-import { dualchips } from "./data/farmingdata";
 
 type ArrayElement<ArrayType extends readonly unknown[]> = 
   ArrayType extends readonly (infer ElementType)[] ? ElementType : never;
@@ -87,7 +86,7 @@ const mapOperator = ({ id, name, rarity, profession, phases, skills, allSkillLvl
     }
 };
 
-const mapItem = ({ itemId, name, description, rarity, iconId, sortId, classifyType, itemType, stageDropList, buildingProductList }: RawItemData, recipeDict: { [key: string]: Recipe }): Item => {
+const mapItem = ({ itemId, name, description, rarity, iconId, sortId, classifyType, itemType, stageDropList }: RawItemData, recipeDict: { [key: string]: Recipe }): Item => {
 
     const newItem: Item = {
         itemId,
@@ -101,12 +100,7 @@ const mapItem = ({ itemId, name, description, rarity, iconId, sortId, classifyTy
         stageDropList
     };
 
-    // filter out wrong recipe types
-    const productCount = buildingProductList
-        .filter(b => dualchips.indexOf(itemId) >= 0 || b.roomType === 'WORKSHOP')
-        .length;
-
-    if (productCount > 0 && recipeDict[itemId]) {
+    if (recipeDict[itemId]?.costs.length ?? 0 > 0) {
         newItem.recipe = recipeDict[itemId];
     }
 

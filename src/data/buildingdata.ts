@@ -46,7 +46,9 @@ const getBuildingdata = async () => {
 
     for (const key in workshopFormulas) {
         const { itemId, costs, goldCost, count } = workshopFormulas[key];
-        costs.push({ id: "4001", count: goldCost, type: "gold" });
+        if (goldCost > 0) {
+            costs.push({ id: "4001", count: goldCost, type: "gold" });
+        }
         Recipes[itemId] = { count, costs };
     }
 

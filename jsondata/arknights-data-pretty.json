@@ -88328,11 +88328,6 @@
             "id": "3271",
             "count": 3,
             "type": "MATERIAL"
-          },
-          {
-            "id": "4001",
-            "count": 0,
-            "type": "gold"
           }
         ]
       }
@@ -88359,11 +88354,6 @@
             "id": "3272",
             "count": 3,
             "type": "MATERIAL"
-          },
-          {
-            "id": "4001",
-            "count": 0,
-            "type": "gold"
           }
         ]
       }
@@ -88416,11 +88406,6 @@
             "id": "3281",
             "count": 3,
             "type": "MATERIAL"
-          },
-          {
-            "id": "4001",
-            "count": 0,
-            "type": "gold"
           }
         ]
       }
@@ -88447,11 +88432,6 @@
             "id": "3282",
             "count": 3,
             "type": "MATERIAL"
-          },
-          {
-            "id": "4001",
-            "count": 0,
-            "type": "gold"
           }
         ]
       }
@@ -88504,11 +88484,6 @@
             "id": "3261",
             "count": 3,
             "type": "MATERIAL"
-          },
-          {
-            "id": "4001",
-            "count": 0,
-            "type": "gold"
           }
         ]
       }
@@ -88535,11 +88510,6 @@
             "id": "3262",
             "count": 3,
             "type": "MATERIAL"
-          },
-          {
-            "id": "4001",
-            "count": 0,
-            "type": "gold"
           }
         ]
       }
@@ -88592,11 +88562,6 @@
             "id": "3251",
             "count": 3,
             "type": "MATERIAL"
-          },
-          {
-            "id": "4001",
-            "count": 0,
-            "type": "gold"
           }
         ]
       }
@@ -88623,11 +88588,6 @@
             "id": "3252",
             "count": 3,
             "type": "MATERIAL"
-          },
-          {
-            "id": "4001",
-            "count": 0,
-            "type": "gold"
           }
         ]
       }
@@ -88680,11 +88640,6 @@
             "id": "3241",
             "count": 3,
             "type": "MATERIAL"
-          },
-          {
-            "id": "4001",
-            "count": 0,
-            "type": "gold"
           }
         ]
       }
@@ -88711,11 +88666,6 @@
             "id": "3242",
             "count": 3,
             "type": "MATERIAL"
-          },
-          {
-            "id": "4001",
-            "count": 0,
-            "type": "gold"
           }
         ]
       }
@@ -88768,11 +88718,6 @@
             "id": "3231",
             "count": 3,
             "type": "MATERIAL"
-          },
-          {
-            "id": "4001",
-            "count": 0,
-            "type": "gold"
           }
         ]
       }
@@ -88799,11 +88744,6 @@
             "id": "3232",
             "count": 3,
             "type": "MATERIAL"
-          },
-          {
-            "id": "4001",
-            "count": 0,
-            "type": "gold"
           }
         ]
       }
@@ -88856,11 +88796,6 @@
             "id": "3211",
             "count": 3,
             "type": "MATERIAL"
-          },
-          {
-            "id": "4001",
-            "count": 0,
-            "type": "gold"
           }
         ]
       }
@@ -88887,11 +88822,6 @@
             "id": "3212",
             "count": 3,
             "type": "MATERIAL"
-          },
-          {
-            "id": "4001",
-            "count": 0,
-            "type": "gold"
           }
         ]
       }
@@ -88944,11 +88874,6 @@
             "id": "3221",
             "count": 3,
             "type": "MATERIAL"
-          },
-          {
-            "id": "4001",
-            "count": 0,
-            "type": "gold"
           }
         ]
       }
@@ -88975,11 +88900,6 @@
             "id": "3222",
             "count": 3,
             "type": "MATERIAL"
-          },
-          {
-            "id": "4001",
-            "count": 0,
-            "type": "gold"
           }
         ]
       }
@@ -89052,11 +88972,6 @@
             "id": "3301",
             "count": 3,
             "type": "MATERIAL"
-          },
-          {
-            "id": "4001",
-            "count": 0,
-            "type": "gold"
           }
         ]
       }
@@ -89083,11 +88998,6 @@
             "id": "3302",
             "count": 3,
             "type": "MATERIAL"
-          },
-          {
-            "id": "4001",
-            "count": 0,
-            "type": "gold"
           }
         ]
       }
@@ -95248,7 +95158,17 @@
       "sortId": 400001,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
-      "stageDropList": []
+      "stageDropList": [],
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "4006",
+            "count": 90,
+            "type": ""
+          }
+        ]
+      }
     },
     "mod_unlock_token": {
       "itemId": "mod_unlock_token",
@@ -95259,7 +95179,17 @@
       "sortId": 90001,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
-      "stageDropList": []
+      "stageDropList": [],
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "4006",
+            "count": 120,
+            "type": ""
+          }
+        ]
+      }
     },
     "mod_update_token_2": {
       "itemId": "mod_update_token_2",
