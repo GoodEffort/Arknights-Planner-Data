@@ -3,17 +3,6 @@ import type { Item, Item_Table } from "./types/item";
 const jsonLink = "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData_YoStar/main/en_US/gamedata/excel/item_table.json";
 const cn_jsonLink = "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/item_table.json";
 
-const dualchips = [ 
-    "3213", // Vanguard Dualchip
-    "3223", // Guard Dualchip
-    "3233", // Defender Dualchip
-    "3243", // Sniper Dualchip
-    "3253", // Caster Dualchip
-    "3263", // Medic Dualchip
-    "3273", // Supporter Dualchip
-    "3283"  // Specialist Dualchip
-];
-
 const getItemdata = async () => {
     const [response, cn_response] = await Promise.all([
         fetch(jsonLink),
@@ -38,11 +27,6 @@ const getItemdata = async () => {
     const items: { [key: string]: Item } = {};
     for (const item of itemsArray) {
         items[item.itemId] = item;
-    }
-    
-    for (const key in items) {
-        const item = items[key];
-        item.buildingProductList = item.buildingProductList.filter(b => dualchips.indexOf(item.itemId) >= 0 || b.roomType === 'WORKSHOP');
     }
 
     return {
