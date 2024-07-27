@@ -69,7 +69,7 @@ const mapProfession = (profession: string): string => {
         case "TANK":
             return "Defender";
         default:
-            throw new Error("Unknown profession: " + profession);
+            return "";
     }
 };
 
