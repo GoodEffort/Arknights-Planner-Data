@@ -29,7 +29,7 @@ function readJson(commitHashes: { yostar: string, cn: string }): JSONData | unde
 
 function createFolders() {
 
-    const folders = ["operators", "items", "other"];
+    const folders = ["operators", "items", "skills", "other"];
 
     const jsonDataPath = `${__dirname}/../jsondata/`;
     const prodDataPath = `${__dirname}/../production-files/`;
@@ -57,16 +57,15 @@ function createFolders() {
         if (!fs.existsSync(subPNGPath)) {
             fs.mkdirSync(subPNGPath);
         }
-        
+
         if (!fs.existsSync(subWebpPath)) {
             fs.mkdirSync(subWebpPath);
         }
     }
 }
 
-async function buildJSON(commitHashes: { yostar: string, cn: string }): Promise<JSONData> {
+async function buildJSON(commitHashes: { yostar: string, cn: string }, skillData: { [key: string]: string }): Promise<JSONData> {
     const charData = await getChardata();
-    const skillData = await getSkilldata();
     const moduleData = await getModuledata();
 
     const { items, expItems } = await getItemdata();
@@ -124,6 +123,33 @@ async function toReadable(stream: ReadableStream<Uint8Array>) {
     return rs;
 }
 
+async function getSkillImages(skillData: {
+    [k: string]: string;
+}) {
+    const filepath = `${__dirname}/../images/skills/`;
+
+    for (const [id, icon] of Object.entries(skillData)) {
+        const filename = `${filepath}${id}.png`;
+        // console.log(icon);
+        // console.log(filename);
+        if (fs.existsSync(filename)) {
+            //console.log(`Skipping ${filename}`);
+        }
+        else {
+            try {
+                const response = await fetch(icon);
+                if (response.ok && response.body) {
+                    const readable = await toReadable(response.body);
+                    readable.pipe(fs.createWriteStream(filename));
+                }
+            }
+            catch (e) {
+                console.error(e);
+            }
+        }
+    }
+}
+
 async function getOperatorPicture(operatorIds: string[]) {
     // one of these should work... hopefully
     const sources = [
@@ -153,7 +179,7 @@ async function getOtherPictures() {
     const filename = `${__dirname}/../images/other/`;
 
     const notfound = "https://raw.githubusercontent.com/ArknightsAssets/ArknightsAssets/cn/assets/torappu/dynamicassets/ui/sandboxv2/%5Buc%5Dcommon/battle/sandbox_construct_character_menu/";
-    
+
     await getImages([notfound], filename, ["missing"]);
 }
 
@@ -189,7 +215,7 @@ async function getImages(sources: string[], filepathstart: string, ids: string[]
     for (const id of ids) {
         const filename = `${filepathstart}${id}.png`;
         if (fs.existsSync(filename)) {
-            console.log(`Skipping ${filename}`);
+            //console.log(`Skipping ${filename}`);
         }
         else {
             results.push(WriteImage(sources, id, filename));
@@ -214,6 +240,13 @@ async function convertImagesToWebp(quality = 80) {
         ]
     });
 
+    await imagemin([`${__dirname}/../images/skills/*.png`], {
+        destination: `${__dirname}/../production-files/images/skills/`,
+        plugins: [
+            imageminWebp({ quality })
+        ]
+    });
+
     await imagemin([`${__dirname}/../images/other/*.png`], {
         destination: `${__dirname}/../production-files/images/other/`,
         plugins: [
@@ -222,7 +255,7 @@ async function convertImagesToWebp(quality = 80) {
     });
 }
 
-async function getJSONData() {
+async function getJSONData(skillData: { [key: string]: string }) {
     const commitHashes = await getCommitHashes();
 
     // check if data exists and is up to date
@@ -231,20 +264,39 @@ async function getJSONData() {
     // if data does not exist or is out of date, rebuild it
     if (data === undefined) {
         console.log("Out of date, rebuilding data");
-        data = await buildJSON(commitHashes);
+        data = await buildJSON(commitHashes, skillData);
         writeJson(data);
     }
     else {
         console.log("Data is up to date");
     }
-    
+
     return data;
 }
 
 async function main() {
     createFolders();
 
-    const data = await getJSONData();
+    const skillData = await getSkilldata();
+
+    const data = await getJSONData(Object.fromEntries(Object.entries(skillData).map(([key, value]) => [key, value.name])));
+    const skillKeys = Object.keys(skillData);
+    const operatorSkillKeys = Object.values(data.operators).map(o => o.skills).flat().map(s => s.id);
+    const nonOperatorSkills = skillKeys.filter(s => !operatorSkillKeys.includes(s));
+
+    console.log(skillKeys.length);
+
+    for (const key of nonOperatorSkills) {
+        delete skillData[key];
+    }
+
+    const skillIcons = Object.fromEntries(Object.entries(skillData).map(([key, value]) => [key, value.icon]));
+    const distinctFilter = (value: string, index: number, self: string[]) => self.indexOf(value) === index;
+    let iconslist = Object.values(skillIcons);
+
+    console.log(iconslist.filter(distinctFilter).length);
+
+    await getSkillImages(skillIcons);
 
     await getOperatorPicture(Object.keys(data.operators));
 

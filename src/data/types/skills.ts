@@ -1,6 +1,7 @@
 type SkillTable = {
     [key: string]: {
         skillId: keyof SkillTable;
+        iconId: string | null;
         levels: [
             {
                 name: string;
