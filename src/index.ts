@@ -124,7 +124,7 @@ async function toReadable(stream: ReadableStream<Uint8Array>) {
 }
 
 async function getSkillImages(skillData: {
-    [k: string]: string;
+    [k: string]: string[];
 }) {
     const filepath = `${__dirname}/../images/skills/`;
 
@@ -136,15 +136,21 @@ async function getSkillImages(skillData: {
             //console.log(`Skipping ${filename}`);
         }
         else {
-            try {
-                const response = await fetch(icon);
-                if (response.ok && response.body) {
-                    const readable = await toReadable(response.body);
-                    readable.pipe(fs.createWriteStream(filename));
+
+            for (const source of icon) {
+                console.log(`Downloading ${source}`);
+                try {
+                    const response = await fetch(source);
+                    if (response.ok && response.body) {
+                        console.log(`Writing ${filename}`);
+                        const readable = await toReadable(response.body);
+                        readable.pipe(fs.createWriteStream(filename));
+                        break;
+                    }
                 }
-            }
-            catch (e) {
-                console.error(e);
+                catch (e) {
+                    console.error(e);
+                }
             }
         }
     }
@@ -284,17 +290,13 @@ async function main() {
     const operatorSkillKeys = Object.values(data.operators).map(o => o.skills).flat().map(s => s.id);
     const nonOperatorSkills = skillKeys.filter(s => !operatorSkillKeys.includes(s));
 
-    console.log(skillKeys.length);
-
     for (const key of nonOperatorSkills) {
         delete skillData[key];
     }
 
     const skillIcons = Object.fromEntries(Object.entries(skillData).map(([key, value]) => [key, value.icon]));
-    const distinctFilter = (value: string, index: number, self: string[]) => self.indexOf(value) === index;
-    let iconslist = Object.values(skillIcons);
 
-    console.log(iconslist.filter(distinctFilter).length);
+    console.log("Downloading images");
 
     await getSkillImages(skillIcons);
 
@@ -305,7 +307,11 @@ async function main() {
     await getItemPicture(itemIcons);
     await getOtherPictures();
 
+    console.log("Converting images to webp");
+
     await convertImagesToWebp();
+
+    console.log("Copying files");
 
     fs.cp(`${__dirname}/../index.html`, `${__dirname}/../production-files/index.html`, (err) => {
         if (err) {
@@ -318,6 +324,8 @@ async function main() {
             console.error(err);
         }
     });
+
+    console.log("Done");
 }
 
 await main();
