@@ -64,7 +64,7 @@ function createFolders() {
     }
 }
 
-async function buildJSON(commitHashes: { yostar: string, cn: string }, skillData: { [key: string]: string }): Promise<JSONData> {
+async function buildJSON(commitHashes: { yostar: string, cn: string }, skillData: { [key: string]: { icon: string, name: string } }): Promise<JSONData> {
     const charData = await getChardata();
     const moduleData = await getModuledata();
 
@@ -255,7 +255,7 @@ async function convertImagesToWebp(quality = 80) {
     });
 }
 
-async function getJSONData(skillData: { [key: string]: string }) {
+async function getJSONData(skillData: { [key: string]: { icon: string, name: string } }) {
     const commitHashes = await getCommitHashes();
 
     // check if data exists and is up to date
@@ -279,7 +279,7 @@ async function main() {
 
     const skillData = await getSkilldata();
 
-    const data = await getJSONData(Object.fromEntries(Object.entries(skillData).map(([key, value]) => [key, value.name])));
+    const data = await getJSONData(skillData);
     const skillKeys = Object.keys(skillData);
     const operatorSkillKeys = Object.values(data.operators).map(o => o.skills).flat().map(s => s.id);
     const nonOperatorSkills = skillKeys.filter(s => !operatorSkillKeys.includes(s));
