@@ -16,6 +16,8 @@ const getSkilldata = async () => {
                 [
                     id, 
                     {
+                        id: id,
+                        iconId: iconId == null ? id : iconId,
                         icon: iconId == null ?
                             iconLink + id + '.png' : 
                             iconLink + iconId + '/skill_icon_' + iconId + '.png/skill_icon_' + iconId + '.png',
