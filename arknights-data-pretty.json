@@ -1,7 +1,7 @@
 {
   "commitHashes": {
-    "yostar": "4e94549f9e2c95f92747b1687f36f7444b5e2c65",
-    "cn": "b9f6dc91263a48c1327c21340dcc7dda64c5b676"
+    "yostar": "e3cdf1412e1b71a3a7e48d8ffc164b45b640b2ed",
+    "cn": "e29ca9a33008006279a43e70935d3444ea2ec9b7"
   },
   "operators": {
     "char_002_amiya": {
@@ -696,6 +696,32 @@
               {
                 "id": "4001",
                 "count": 120000
+              }
+            ]
+          ]
+        },
+        {
+          "type": "A",
+          "icon": "uniequip_004_kalts",
+          "description": "凯尔希已获得特别认证许可根据外勤部门决议\n在集成战略行动中以改良策略应对敌人\n特别颁发此证章\n以兹证明\n“策略已确认。Mon3tr，准备歼灭，一个不留。”",
+          "name": "凯尔希特限证章",
+          "cost": [
+            [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ],
+            [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ],
+            [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
               }
             ]
           ]
@@ -3339,7 +3365,66 @@
           ]
         }
       ],
-      "modules": []
+      "modules": [
+        {
+          "type": "X",
+          "icon": "uniequip_002_agoat2",
+          "description": "【录音内容：火山熔岩的涌动声】\n命名：火山的呼吸\n附注：\n喷发止息后，我又和凯勒老师一起登上了汐斯塔火山，进行最后一次数据采集。\n在我们录下这一段熔岩翻涌的声音之后，凯勒老师忽然提议一起在山顶上坐一会儿。\n望着已成灰白的旧汐斯塔，老师的眼眶有些湿润。她提起火山博物馆的未来，还提起自己可能要推迟的退休计划，我知道，她也希望我未来能常来汐斯塔——不仅仅是为了火山研究。\n\n【录音内容：乐声与歌声】\n命名：在蛋糕店唱歌了\n附注：\n很久没有回去了。从那时起，我便觉得这座小城停了下来，好像一切都不再有变化。\n我意外发现妈妈之前很喜欢的那家蛋糕店整修完毕，重新开业了，有很多乐师在院子里即兴演奏。\n那天，我听到了很熟悉的旋律，就凑近去听，没想到竟然被歌手先生拉去跟着一起唱！唉，可惜我不记得歌词了，也听不太清大家的发音，只能跟着哼哼......我应该没有走调吧？\n\n【录音内容：一段学术讨论】\n命名：大学绿地上的研讨会\n附注：\n我带着汐斯塔火山的观测资料回到了威廉大学，偶遇了卡恩前辈和其他学者。卡恩前辈看上去有些不好意思，我试图告诉他不要在意，可他好像还是很拘束。\n好在简单的寒暄过后，话题还是很快转到火山研究上了，卡恩前辈也终于放松下来。\n我们聊得很愉快，完全没有意识到这里不是一间教室、实验室或会议室，而是大学绿地上的一条小路。\n真好啊。\n\n【录音内容：童年影像的翻录录音】\n命名：我还记得那时的愿望\n附注：\n离开了大学，我顺道回到了家里。\n我换了新窗帘，清理了一些不再需要的旧物，还意外翻到了一张小时候的录像光碟。可惜绝大部分影像内容都失真了，幸好声音没有损坏，我才能把它重新录在这个录音带里。\n我听到爸爸妈妈在给我唱生日歌，让我许一个生日愿望。录像里我当然没有说出口，但我现在还记得那时的愿望——\n现在的我，已经在实现愿望的路上啦。\n\n【录音内容：朋友们的欢笑】\n命名：大家为我举办了欢迎会！\n附注：\n将家中一切安顿妥当后，我回舰做定期体检。很久没回罗德岛，没想到大家为我举办了欢迎会。\n普罗旺斯姐姐和安洁莉娜小姐放礼花筒时出了点小差错，碰倒了堆起来的布偶山，然后小羊们不知道从哪里窜了出来，场面突然变得特别混乱......但我们都笑得很开心。\n真希望与大家相处的日子，能再久一点呀。\n\n【录音内容：暂无】\n命名：暂未命名\n附注：\n为下一次实地考察留作备用。\n若有机会，我还想再录更多——熔岩声，风雨声，还有身边人的声音。",
+          "name": "想要留住的声音",
+          "cost": [
+            [
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "30135",
+                "count": 2
+              },
+              {
+                "id": "4001",
+                "count": 80000
+              }
+            ],
+            [
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_1",
+                "count": 60
+              },
+              {
+                "id": "30125",
+                "count": 3
+              },
+              {
+                "id": "4001",
+                "count": 100000
+              }
+            ],
+            [
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_2",
+                "count": 20
+              },
+              {
+                "id": "30155",
+                "count": 4
+              },
+              {
+                "id": "4001",
+                "count": 120000
+              }
+            ]
+          ]
+        }
+      ]
     },
     "char_102_texas": {
       "name": "Texas",
@@ -15274,8 +15359,8 @@
         {
           "type": "Y",
           "icon": "uniequip_002_brownb",
-          "description": "“左一拳，右一拳！这拳风又快又重......这、这个乌萨斯是从哪里跳出来的？！\n“真没想到！神圣的擂台之上突然闯入了第三个人，而她竟然接住了那两个‘狂暴野兽’的每一记重拳！\n“啊？......要把我带去调查？我们的地下擂台涉嫌窝藏、倒卖你们的药品？\n“不，让我解说完这场比赛！自由、激烈、以一敌多、以弱御强！这才是地下擂台赛该有的样子！”\n几个罗德岛干员架着解说员，刚挡下好事观众丢过来的酒瓶与烂拳套，又有一群凶神恶煞的打手拦在他们面前。干员们本不想把事态扩大，但观赛席已经乱作一团。\n干员们正要戴上舒拉为他们准备的保护牙套，亲身来会一会地下拳场的规矩，而那个一向直来直往的乌萨斯却从擂台上跳下来，挡在了干员们的身前。\n“我来对付他们！地下拳场的规矩我熟！”\n在舒拉的记忆里，她就是在破旧擂台的昏黄灯光下、裁判钟响时的欢呼与嘘声中长大的。面对比自己强大得多的对手，面对不公平的比赛判决，面对那些她看不惯又打不赢的一切，舒拉很早就学会了咬紧牙关。倒下，再爬起来，然后继续用尽全力去挥拳，去表达心底里的不服气，去释放血液中的叛逆。\n等舒拉再回过神来时，她已经被干员们搀扶着离开了地下拳场。面对众多敌人，舒拉又一次为她的朋友们争取了足够多的时间，拿回了他们的东西。听到干员们商量着要在晚上的庆功宴上给她点一桶怎么喝都喝不完的蜂蜜，舒拉才痴痴地咧起嘴，牵动的肌肉终于让她感受到了迟来的真实的疼痛。\n“舒拉......你伤得挺重的，还是先让医疗干员帮你处理一下吧？”\n“唔......唔哇，没什么大不了的！”\n舒拉一张口，保护牙套便从她嘴里掉了出来。大家惊讶地发现，原来这个牙套已经被舒拉咬烂了。",
-          "name": "咬紧牙关",
+          "description": "'And a left, and a right! With a boxing style both fast and weighty... wh-where did this Ursine come from?!\n'I can't believe it! A third fighter has crashed the sacred ring! And she's catching every hook the Twinzerker Beasts throw at her!\n'What? ...You're taking me in for questioning? You suspect our underground arena of concealing and reselling your drugs?\n'No, let me finish commentating this match first! This is freedom, passion, one against many, the weak against the strong! THIS IS THE TRUE FACE OF THE UNDERGROUND RING!'\nA few Rhodes Island operators haul the commentator off, parrying the bottles and worn boxing gloves lobbed by the rowdy spectators, before a group of fiendish thugs blocks their path. Not that the ops want to escalate this any further, but the ringside is in chaos by now.\nThey're about to put on Shura's mouthguards and personally get to know the rules of the underground arena, but the mince-no-words Ursine opts to leap down from the ring and stop them.\n'I'll deal with 'em! Underground fight rules are MY rules!'\nIn Shura's memory, this is where she grew up, right here on the shabby stage under the sickly lights, under the cheers and jeers as the ref sounded the bell. Here, she faced opponents far stronger than her, matches called to screw her over. Here, she faced all that she couldn't see through and couldn't take down, and it didn't take long for her to learn to grin and bear it. Go down? Get up again. Keep throwing your fists. Use all your strength. Show 'em how done dirty you feel, deep inside. Free the rebel in your blood.\nOnce Shura comes back to reality, her fellow ops are bracing her. They're already leaving the underground arena. Once again, she took on a million to one. Once again, she won enough time for her friends to get back what was theirs. She hears them discuss a celebratory dinner tonight, floating the idea of ordering her a tub of honey so deep she'll never finish chugging. Finally, the corners of her mouth pull up in a punch-drunk smile, tortured muscles screaming with delayed-onset but oh so true pain.\n'Shura... you're pretty freaking beat up. Maybe we get a medic to treat you first?'\n'Oof... eaargh, I'll shake it off!'\nThe moment she loosens her jaw, her mouthguards drop right out. With a massive start, the gang realizes she's already chewed the damn things to pieces.",
+          "name": "Strong Jaw",
           "cost": [
             [
               {
@@ -18577,8 +18662,8 @@
         {
           "type": "Y",
           "icon": "uniequip_002_tiger",
-          "description": "稳住身形，控制步伐，诺伯特区的帮派领袖这样告诉自己。因陀罗此时已经无法保持清醒，但还是强撑着身体，摆出迎战的架势。快要分出胜负了，应该就是下一击。\n“还要打吗？”对方那平稳的声音几乎要被自己粗重的喘息声掩盖。\n披散的银发从额头上垂落下来，遮挡了视线，也让眼前那道坚定的金色人影在街灯的照耀下变得更加模糊。“别摆出一副赢家的嘴脸，小个子，老子可还没输呢！”因陀罗一边调整呼吸，暗暗地把身体的重心移到靠后的左腿上，一边拢起长发放到肩后。她抬起拳头，勾了勾手指，把破旧的指虎更用力地攥进手里。\n“外面来的，你给我记住。这个街区都是老子——格拉斯哥帮的因陀罗罩着！”话音刚落，银色的身影猛地蹬地，几乎是瞬间就扑到了对方面前。她抬起左拳，看似用尽了全力打出这一击，但却借着发力扭转身体，把所有的力量聚集在了稍后才到的右拳上。\n因陀罗听到了金发女孩在她耳边的低语：“嗯，格拉斯哥帮的因陀罗，我记住了。”一如既往平静的声音。因陀罗还记得，失去平衡后，她原以为自己会狠狠摔在冰冷的水泥路面上，但想象中坚硬的触感并没有如期而至，闭着眼睛的她就像是......跌入了一团阳光里。\n“跑？跑什么？对不起，维娜......我刚才走神了没听清。”\n“格拉斯哥帮战斗指南。这是你之前总结的，对吧？第四条，也是最重要的一条：该跑的时候记得跑。”\n“对！那可是老子这么多年来街头干架的经验总结。”\n“我们第一次相遇的时候。那天晚上，你怎么不跑？”\n“嗯，这我要好好想想。”因陀罗低下头，沉思了一会儿，“在以前，干架的时候逃跑说到底都是为了保命。在街头讨饭吃，保住小命可是排在第一位的事情。但是......”\n“但是？”推进之王坐了起来，看向因陀罗。\n因陀罗抬起头来，注视着推进之王。拳馆里的灯光闪烁着，两双金色的瞳孔对视，她在阿斯兰的眼睛中看见了自己。\n“但没有菲林不喜欢晒太阳，对吧？”因陀罗咧开嘴巴，放肆地露出一口白牙。",
-          "name": "“汉娜的脱臼复位套装”",
+          "description": "Keep a steady form, and control your pace. This is what the leader of Norport Borough's gang would tell herself. Indra could barely keep herself conscious, but she used all her will to keep herself together and face the enemy head-on. Here, at the decisive moment, all she ought to need was one more jab.\n'You still want to go?' The calm voice of the opposing party was nearly drowned out by the sound of her own heavy gasps for air.\nLoose silver hairs drooped down across her forehead, blocking her vision and blurring out the golden figure standing firm before her, illuminated by a streetlamp. 'Don't be so quick to call yourself the winner, you little shite! I ain't lost yet!' Indra adjusts her breathing and secretly shifts her center of gravity to behind her left hip, all while gathering her hair firmly behind her shoulders. She raises her fists and clenches her fingers, gripping her shabby brass knuckles even tighter than ever before.\n'I'll help you remember, outsider. This here street's mine—Indra of the Glasgow Gang!' As soon as the words were out of her mouth, the silver figure suddenly steps forward, pouncing upon her opponent faster than the eye could see. She lifts her left fist as if putting every last ounce of strength into this one strike, but then commands her body to turn and instead funnel all that strength into her right fist.\nIndra hears the golden-haired girl mutter in her ear: 'I'll remember alright, Indra of the Glasgow Gang.' A tranquil voice, as she always was. Indra still remembers that after, she lost her balance, she fully expected the cold embrace of the cement road, but that hard sensation looming large in her imagination never came. Through closed eyes, it was like she had... fallen onto a ball of sunshine.\n'Run? Run from what? Sorry Vina, I was daydreaming a bit, didn't hear ya.'\n'How to Fight with the Glasgow Gang. This was your work, wasn't it? Rule Number Four, and this is the most important rule: When it comes time to run, remember to run.'\n'Ah, yeah! Pretty much sums up every street fight I've gotten into over the years.'\n'That night we first met, why didn't you run?'\n'Gonna have to have a think on that one.' Indra lowers her head and contemplates for a moment. 'Back then, whenever we ran from a fight, it was so we could survive. For scroungers on the street, nothing's more important'n staying alive. But...'\n'But?' Siege sits up, facing herself towards Indra.\nIndra raises her head, looking right back at Siege. Under the flickering lights of the boxing gym, two pairs of golden eyes face each other, and she sees herself reflected in the Aslan's eyes.\n'But there's no Feline who doesn't like some time under the sun, right?' Indra draws back the corners of her mouth, impishly baring an ivory grin.",
+          "name": "'Hannah's Dislocation Rehabilitation Set'",
           "cost": [
             [
               {
@@ -18844,8 +18929,8 @@
         {
           "type": "Y",
           "icon": "uniequip_002_dagda",
-          "description": "罗德岛工程部送来的这面圆盾看起来简朴、牢靠，据说是工程部干员们在闲暇时间里一时兴起举办的“维多利亚传统制式装备制造竞赛”的产物。“这可是骑士身份的象征，”将圆盾送至达格达面前的工程部干员说着俏皮话，“我们决定将它送给往返于罗德岛和维多利亚之间的骑士小姐。”达格达看着桌上摆着的圆盾，想起来以前接受塔楼骑士训练的时光，不禁陷入恍惚。\n那段时间里，除了接受严格的体能训练和战术培训外，达格达还学习了大量有关骑士礼仪的课程。在那些复杂而折磨的记忆训练和肢体语言操练中，眼前的圆盾是课程的重要组成部分。这种历史悠久的军事装备曾经是骑士日常使用的物品，但在当下，圆盾早已不被骑士们用作战斗中的防具。它是挂在壁炉之上的装饰品，以及彰显身份的铭牌——通常点缀着用昂贵颜料绘制的家徽和骑士团纹章。鲜艳的花纹遮盖住盾牌本身的颜色，一如精致的礼仪掩饰了骑士本身代表的暴力。\n芬恩警戒长曾经向达格达描绘骑士们炫耀圆盾的景象：庆典日的傍晚，骑士们身披铠甲，手持武器走上街头，盾上的纹饰标志着他们骄傲的出身，姿态各异的武士、各色的花朵、强健的野兽和能够织成网罗的交叉图纹；清脆的军鼓节奏伴随着低沉的号声环绕在整齐的队伍周围，所有人的终点都指向塔楼上的火光。但那塔楼早已坍塌，连这些有关骑士的场景都只存在于达格达的想象之中。\n“导师回忆中的画面，我从未见过。”达格达稍稍回过神来，“我的骑士身份也早已随着那本记述着骑士生涯，能够界定骑士一生光荣与否的书籍远去了。如果说如今还有值得铭记的东西......”达格达拿起盾牌前往工坊，绘上了属于她的象征——来自街头的纹章。",
-          "name": "后街圆盾",
+          "description": "This round shield sent from Rhodes Island's Engineering Department seems rather plain, but robust and reliable. Apparently it was the result of the Department holding a 'traditional Victorian arms manufacturing competition' in their spare time. 'This was one of the symbols of a knight,' said the Engineering operator to Dagda in their most charming voice, 'so we decided it'd be best to give it to one of the lady knights making the rounds between Rhodes Island and Victoria.' Dagda looks at the shield proudly displayed atop the table, and can't help but think back to the time before she was accepted as a trainee under the Knights of the Tower.\nBack then, other than the strict physical and tactical training regimens, she also took many classes on knightly etiquette. Amongst the grueling and complicated tests of memory and body language drills, this simple round shield had been a major component of them. The historical piece of military equipment was once used daily by knights of old, but the knights of today have long since left theirs at home when marching to war. They would be hung above fireplaces, or used as a nameplate to display one's identity. Expensive paints were commonly used to draw family crests or the coats of arms of various knightly orders. These brightly-colored designs would cover up the shield's own color, just as their delicate etiquette would cover up the inherent violence a knight represents.\nFinn, the Captain of the Watch, once described a scene of the knights and their dazzling shields to Dagda: During the evenings of celebration days, the knights would parade down the street, clad in fine armor and with arms in hand. Their shields with their crests and blazons would proudly display images of their birthplaces, or warriors in various stances, or myriad different flowers, or great sturdy beasts, or checkered patterns one could weave into a net. The crisp rhythm of the military drums accompanied deep horns enveloping the orderly knights, and by the end of the parade they would all face towards the flame atop the tower. But that tower has long since collapsed, and these knightly tableaus now exist only in Dagda's imagination.\n'I've never actually seen the scene my mentor once described to me.' Recovering her senses somewhat, Dagda continues. 'Just like those books that record the exploits of knights long past, and the ones attempting to define whether a knight's life was glorious and honorable, my position as a knight is long gone. If you asked me if there's still anything worth engraving on that...' Dagda takes the shield off to the workshop, where she draws what she considers to be her emblem—a coat of arms from the streets.",
+          "name": "Backstreet Shield",
           "cost": [
             [
               {
@@ -21670,6 +21755,64 @@
               },
               {
                 "id": "30125",
+                "count": 4
+              },
+              {
+                "id": "4001",
+                "count": 120000
+              }
+            ]
+          ]
+        },
+        {
+          "type": "Y",
+          "icon": "uniequip_003_cgbird",
+          "description": "那些声音，我还记得呀。\n我还记得，山风拂过不存在的原野，青草在我们身边沙沙作响。\n我记得那条小溪刚刚没过我们的小腿，溪水潺潺流过我们，流过河床。当时有鳞在啄我们的脚趾。\n我也记得那个时候你的白剑，还有我身下的石床，它们比小溪更冰凉。\n我记得你如此谨慎小心，你的白色剑尖抵住新造的灵魂。我记得它们因法术而振动，轰鸣刺耳。\n你停止了雕琢，你犹豫了，是因为欣喜还是悲伤？\n不要愧疚，更不要为此道歉，闪灵。\n你听，这支夜歌的第一个音符，比你想象的要早。\n我当然记得与之一同而来的干枯血脉，九万个罪恶的名字，和最邪恶的咒文一样，它不想让我们发出任何声响。\n但你还记得吗？为什么那片纯白突然变得温暖，为什么新造的灵魂不再抵触你的剑尖？\n为什么在凝重的黄昏里，一只蓝色的羽兽能够挣开狭窄的天空？\n它那么小，那么脆弱，但它的绒羽在你的眼眸和在那片寂静的纯白中都留下了淡淡的光。\n你听，我还记得。\n那一刻，剑锋与那片纯白共鸣，我听到你的生命在剑锋绽放，干枯的剑鞘又能重新欢唱。\n我治愈的第一个灵魂，就在剑的另一端。\n闪灵，不必劝我区隔哪些是回忆，哪些是假象。\n我从未想过抛弃那些回响。\n它们都是我的夜歌。\n擦干眼泪，闪灵。\n来，我来唱给你听。",
+          "name": "“莺歌”",
+          "cost": [
+            [
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "30145",
+                "count": 2
+              },
+              {
+                "id": "4001",
+                "count": 80000
+              }
+            ],
+            [
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_1",
+                "count": 60
+              },
+              {
+                "id": "30115",
+                "count": 3
+              },
+              {
+                "id": "4001",
+                "count": 100000
+              }
+            ],
+            [
+              {
+                "id": "mod_unlock_token",
+                "count": 4
+              },
+              {
+                "id": "mod_update_token_2",
+                "count": 20
+              },
+              {
+                "id": "30135",
                 "count": 4
               },
               {
@@ -28345,8 +28488,8 @@
         {
           "type": "X",
           "icon": "uniequip_002_chyue",
-          "description": "他睁开眼，在香炉深处无声明灭。他感到——\n破灭。\n疼痛牵扯着他的神识，直抵本源，仿佛这一缕烟、一点火光就是他的身躯。不，他记得自己曾经剖解万物，一摆尾便能击碎群山、扫平城池。可是，这片鸿蒙中不该生出他的神识，苏醒还是沉睡，这一切不该再有任何分别。轻烟织出罗网，沉入炉底，将他吞入烟云之中。为何醒来？为何挣扎？为何这墓穴般的监牢深处还有一个更加逼仄狭小的牢笼？他的双眼化作轻烟，他在自己的身躯上大快朵颐，向近在眼前的虚无发出盛怒的咆哮。\n轻烟微斜，石室内仿佛有风扫过。他回忆起——\n耻辱。\n大狩猎，他的败亡，他镌骨铭心的耻辱。他的盛怒绘出了往昔的轮廓，强盛败于孱弱，亘古败于须臾，神明败于庸众；真龙在万民面前流血，沸腾的铜汁与熔化的赤金浇向大地；三千昼夜，工匠在群山中凿刻出峡谷般的沟壑，铸造出百种武具；祭台化为城塞，焚香礼拜者，衣袍下暗藏敕神的刀剑。是了，权谋的代价，一场足够锋利的征伐，一道无法愈合的伤口。那耻辱的印记仍在他的体内，而他要将这伤口用作铸剑的剑范。\n香炉如风箱般生出火光，值守的秉烛人敲响警钟。他扬起——\n剑刃。\n在无涯的晦暗中，还有其他神识正在诞生。眼下，那些神识虽不及他这般清醒，但他们也是他，他们也想从那一池浊水中解脱。他还记得人们怎样描述这种关系，他很清楚，他们会是他的......弟弟妹妹。他忍受着切开心口般的剧痛挥下手腕，烟云绽碎，剑刃在混沌中劈开一线天地。\n鸿蒙辟易，自晦及明。\n秉烛人涌进石室，禁军将陵墓重重包围。他终于——\n解脱。\n香炉轻烟袅袅，稳坐石台，在它下方更深处，那头巨兽仍在沉睡。他感到自己的身体变得很轻，变成了一缕烟，从香炉的孔洞中升起，飘过秉烛人与禁军的头顶，飘过封印陵墓的石门，飘过百灶上空，去向远方。",
-          "name": "“自晦及明”",
+          "description": "He opens his eyes, flickering silently in the depths of incense billowing from the censer. He feels—\nShattered.\nThe pain bites at his consciousness, charging straight at its source, and it seems that this wisp of smoke, this tiny flame is his body. No, he remembers that he had once been able to analyze all things in this world, level mountains and lay waste to cities with a flick of his tail. However, his consciousness should not have arisen from the midst of this chaos, for that which slumbers yet sleeps, and naught has changed since. The tendrils of smoke weave their way through the netting, sinking down to the base of the censer, where the wispy cloud swallows him whole. Why do I awaken? Why do I struggle? Why is it that at the deepest part of this tomb-like jail, there is an even narrower cage? His eyes become smoke, and he gorges himself on his own body, letting off a roar of fury at the nothingness before him.\nThe smoke shifts imperceptibly, as if a minute breeze has swept across the chamber of stone. He remembers—\nHumiliation.\nA great hunt, his defeat, the shame engraved on his bones and inscribed on his heart. His fury draws a picture of the past, where the strong were brought low by the weak, ancient time was overwritten by fleeting moment, and gods were toppled by commoners. The True Lung bled before the people, boiling copper and molten gold pouring onto the earth. For three thousand days and nights, smiths chiseled deep ravines into mountains, casting myriad forms of weapons. The altar became a stronghold, and the robes of the devotees burning incense concealed blades of edict divine. Yes, this was the price of such trickery. An incisive punitive strike, a wound that could not heal. The traces of this humiliation still reside in his body, and he plans to use this wound as a mold to cast a sword.\nA flame bursts forth from the censer as if pumped by a bellows, and the Candleholder on guard rings the alarm bell. He raises—\nA blade.\nWithin the boundless gloom, there are still other consciousnesses being born. At the moment, those consciousnesses are not as lucid as he, but they are as he, and they too seek to surface from the depths of this turbid pond. He still remembers how mortals would describe this sort of relationship, and he understands that they will be his... brothers and sisters. He endures the pain, as though his stomach had been split in twain, and flicks his wrist. The cloud of smoke bursts and dissipates, his sword rending apart heaven and earth from within the chaos.\nThe primordial fog shrinks back, and gloomy night becomes brightest day.\nThe Candleholders rush into the stone chamber, and the Imperial Guards surround the tomb layer by layer. At last, he feels—\nFreedom.\nThe smoke rises from the censer in spirals, standing steady on its stone platform. In the depths of its belly, the Feranmut yet slumbers. He feels that his own body has become lighter, as if he has turned into a wisp of smoke rising through a hole in the censer, floating across the heads of the Candleholders and Imperial Guards, floating past the sealed stone door of the mausoleum, floating through the skies above Baizao, towards distant lands.",
+          "name": "'When to Wake Up'",
           "cost": [
             [
               {
@@ -28520,7 +28663,7 @@
         {
           "id": "skchr_shu_1",
           "icon": "skchr_shu_1",
-          "name": "化被草木",
+          "name": "Verdant Wisdom",
           "masteryCosts": [
             [
               {
@@ -28569,7 +28712,7 @@
         {
           "id": "skchr_shu_2",
           "icon": "skchr_shu_2",
-          "name": "嘉禾盈仓",
+          "name": "Bountiful Harvest",
           "masteryCosts": [
             [
               {
@@ -28618,7 +28761,7 @@
         {
           "id": "skchr_shu_3",
           "icon": "skchr_shu_3",
-          "name": "离离枯荣",
+          "name": "Samsara",
           "masteryCosts": [
             [
               {
@@ -28669,8 +28812,8 @@
         {
           "type": "X",
           "icon": "uniequip_002_shu",
-          "description": "“黍天师啊，有件事我怎么想都想不明白，得向你请教。”\n黍抬起头，刚才还在她面前悬浮着的天师仪缩成一个小方块，轻盈地落回她的手心。来人稚嫩的腿脚正倒勾在树杈上，手里攥着颗红艳艳的果子，一对与身形相比毫无稚气的锐眼同样倒挂着，死盯着她手中的天师仪。\n黍笑笑，将天师仪握在手中：“您很少来田里，可是要检查年轻人的课业？”\n“一群不争气的，谁爱管谁管去！”孩童拿衣袖抹了抹果子，狠狠啃下一大口，清甜的果香立刻自两三丈外扑面而来。“唔，你说你，到底不是凡人，干什么要用天师仪呢？眼睛一瞥，指头一碰，这田里能有多少收成不都在你的掌握之中？”\n“兴许我并没有这样的神通？兴许只要看得多了，自然就会认识天气的变化，知道种子会不会变成庄稼？”\n“你有！别打马虎眼，正经问你事儿呢。”\n黍向田地俯下身，如云般的长尾缓缓扫过凉飕飕的田垄。刚过了育苗期，很快就要连着土地一同搬到种植地块上的绿芽，在夏日傍晚的灼灼余火中温和地闪着光。\n“春雨惊春清谷天，夏满芒夏暑相连。秋处露秋寒霜降，冬雪雪冬小大寒。”她轻声念着，像是在抚触昨夜的梦，“独以人自身之力，不能一念而令百谷长青。但早在我非我、黍非黍之时，便已有人将这首节气歌完成了一半。\n“千年之后，她的后来者造出了天师仪。它天生六相，有数种变化，能在不同地块之间共享数据，遥控天桩。”青色的小方块重新悬浮在黍的掌上。“我的虽略有些不同，但论起功用倒是相通——节气歌也好，天师仪也罢，都是钦天司时的力量。”\n“呸。”果核令箭似的蹿上了天，忿然地将歇在树上的飞羽惊散，许久之后才落在远处。“算了算了，当我没问，又搬老神农的陈词滥调出来挡箭，没劲。”\n孩童从树上一跃而下，头也不回地向小路上走去。恍然大悟一般，黍这才轻轻一拍掌。\n“您老这一趟来，莫非......是因为不会用天师仪？要不我去问问禾生......”\n“胡说八道！”",
-          "name": "“钦天司时”",
+          "description": "'Hey, Tianshi Shu, there are some things I just don't get no matter how much I think them over, and I thought you could help teach me.'\nShu raises her head, the Tianshi apparatus that was hovering before her gracefully collapsing into a cube before falling back into her palm. Her young visitor's arms and legs were hooked into the branches of a tree, her hands grasping some brilliant red fruit, her sharp eyes quite unlike her youthful figure hanging upside-down, and staring at the apparatus in Shu's hand.\nShu laughs, holding the apparatus tight, and says: 'It's rare to see you in the fields. Do you not have schoolwork to mark?'\n'That group of layabouts? Let someone else who cares take charge of that lot!' The child wipes the fruit with her sleeve, gobbling down a bite, its sweet scent clear even from two or three zhang away. 'What about you? You're hardly an ordinary person yourself, so what are you doing mucking about with a Tianshi apparatus for? Can't you decide how good the harvest will be with a point of your finger and a glance of your eye?'\n'And what if I don't have this mystical power you speak of? What if I have simply seen enough to know if the weather will change, or if the seeds will successfully become crops?'\n'You do, though! Look, don't play dumb, I'm asking you seriously here.'\nShu stoops down towards the field, her cloud-like tail slowly sweeping across the chilly crop ridges. These plants had just passed the seedling stage, and would soon join the sprouts that had been brought onto the agricultural plate alongside their fields, gleaming in the burning embers of the summer evening.\n'Chun yu jing chun qing gu tian, xia man mang xia shu xiang lian.' She recites this softly, as if reminiscing on the prior night's dream. 'One person's strength alone could not order the myriad grains everlasting. But before I was I, before Shu was Shu, there was already someone who had achieved half of what was dictated in this song of the jieqi solar terms.\n'A thousand years hence, those that came after her created this Tianshi apparatus. It can take on six forms, knows how seeds will develop, can share data between different plates, and can direct Sky Poles.' The little green cube floats above Shu's palm once more. 'Although mine is somewhat different, its functions are still interlinked: whether it is the song of the jieqi or a Tianshi apparatus, they are but manifestations of the power of the architecture of time.'\n'Pah.' A fruit pit leaps into the heavens like a signal flare, its furious rise startling some featherbeasts roosting in the tree, only landing far away a long while later. 'Forget I ever asked. Breaking out some old Shennong cliche again to avoid the question, how boring.'\nThe child leaps down from the tree, walking off along a small path without another look. As if coming to a sudden realization, Shu lightly claps her hands.\n'Could it be that the reason you came... is that you don't know how to use an apparatus? How about I go ask He Sheng to teach you...'\n'Don't talk rubbish!'",
+          "name": "On Architecture of Time",
           "cost": [
             [
               {
@@ -35706,6 +35849,32 @@
               }
             ]
           ]
+        },
+        {
+          "type": "A",
+          "icon": "uniequip_004_phatom",
+          "description": "干员傀影已获得特别认证许可根据外勤部门决议\n在集成战略行动中以改良策略应对敌人\n特别颁发此证章\n以兹证明\n“黑夜应当寂静，若有人伸手去撩那红幕布，砍断它。”",
+          "name": "傀影特限证章",
+          "cost": [
+            [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ],
+            [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ],
+            [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              }
+            ]
+          ]
         }
       ]
     },
@@ -37889,8 +38058,8 @@
         {
           "type": "Y",
           "icon": "uniequip_002_f12yin",
-          "description": "......\n在我刚进入监狱的时候，我感到愤怒。\n我对自己的境遇感到愤怒，我诅咒我的命运，我将我的怒火宣泄到周围的囚犯，甚至监狱的警卫身上，这些锁链、尖刺，曾经被我当作武器。\n它们伤害了许多人，也让我自己受了很多伤，但是，我的怒火却丝毫没有得到消减，我只感到它越烧越烈。\n直到某次从昏迷中醒来，那个一直为我疗伤的医师说，她觉得我很脆弱。\n我很感谢她。\n从那天起，我开始收敛，这些锁链和尖刺不再被我用来伤害别人，而是被用来保护自己，保护一些无法自保的人。\n我开始受到其他人的尊敬，也在监狱里赢得了一些自由。但只有我自己知道，我的怒火并没有消减，它只是不再蔓延，它依然在夜深人静的时候折磨我。\n但仅仅是这样，我也感觉自己至少能够走下去了，这些锁链和尖刺的意义，逐渐变成了让我保持克制。\n后来，锁链和尖刺跟随着我去到了一家医药公司。在那里，我依然习惯性地为自己戴上了它们，不过，它们已经成为一种更单纯的锻炼的器具，有些人甚至觉得很酷，学着做了一些仿制品。\n我在那里度过了一段很美好的时光。但是，当父母的死讯传来，一个疑问也在我的心里产生：一直以来，我为自己施加束缚的意义究竟是什么？\n是为了在某一时刻将怒火毫无保留地释放出来吗？还是为了让我在某一时刻能够对仇恨释然？\n现在，我的父母死了，陷害他们的人也死了，我身上的嫌疑也已经洗清了。\n怒火熄灭了，仇恨消退了，我彻底自由了。\n但我并不快乐，海德兄弟死去的那一刻，我感到的是虚无，因为我不知道接下来该做什么了。\n不过，当我感受到身上这些锁链与尖刺的重量时，我忽然又明白了——\n这些束缚，是我向自由支付的代价。它让我感到沉重，同时，也让我知道，我还活着。\n是的，我还活着，我有能回去的地方，我有要去做的事。\n——山在父母葬礼上的发言",
-          "name": "“自由的代价”",
+          "description": "...\nThe moment I first set foot in prison, I was angry.\nI felt anger at my circumstances. I cursed my fate. I took my rage out on the prisoners around me, and even the guards. I once treated these chains and spikes as weapons.\nThey've hurt so many others in my name, and I in turn have received plenty of wounds of my own. But my fury never diminished, not even the slightest bit. All I could feel was it burning ever brighter, ever fiercer.\nUntil one time I awoke from being beaten into unconsciousness, and the doctor treating me said that she felt I was a very weak man.\nI thanked her from the bottom of my heart.\nSince that day, I began to show restraint. These chains and spikes were no longer used to harm others, but instead to defend myself, as well as those who could not defend themselves.\nI began to earn the respect of others, even gaining some small amount of freedom within that prison. But I was the only one who knew that my burning rage had not yet flickered out. It had simply stopped growing. It continued to torment me in the dead of night.\nHowever, it was only because of this that I felt I was able to walk forwards, and the meaning of these chains and spikes gradually changed once again, becoming the means I used to keep myself in check.\nAfterwards, these restraints of mine followed me to a pharmaceutical company. There, I still habitually wore them, but they had become nothing more than a set of work-out equipment. There were even people there who thought they looked stylish, and learned to make their own for fashion.\nIt was there that I spent an indescribably beautiful period of my life. However, once news of my parents' deaths reached my ears, a question arose in my heart: why had I decided to restrain myself all this time?\nWas it for that singular moment when I could finally release my rage without reservation? Or was it for a moment when I could finally let my hatred go?\nNow, with my parents dead, and those that framed them also dead, the suspicions on me have been washed clean as well.\nMy fury sputtered out, my hatred died down, and I was truly free.\nBut I was not happy. The moment the Hyde brothers died, I felt nothing, because I had no idea what to do with myself.\nHowever, once I felt the weight of these chains and spikes on my body, I suddenly came to realize—\nThese bindings are the price I paid for my freedom. They make me feel heavy, but at the same time, they make me feel alive.\nYes. I still yet live. I still have somewhere to return to. I still have things I must do.\n—A speech given by Mountain at his parents' funeral.",
+          "name": "'Price of Freedom'",
           "cost": [
             [
               {
@@ -48733,8 +48902,8 @@
         {
           "type": "X",
           "icon": "uniequip_002_jaksel",
-          "description": "本周稍早，本市警方宣布，上周末发生在富森家具城的特大绑架案正式告破，所有涉案犯罪分子已经悉数落入法网，所有人质均已获救，目前正在医院接受治疗。据警方早前公布的信息来看，这是一个在本州与相邻三州之间流窜作案的犯罪集团，专事劫持绑架，仅今年年内犯案就多达十七起，引发社会恐慌，引起跨州安全部门的密切关注。在安全部门的严密部署和统一指挥下，这一恶性犯罪团伙终于不再逍遥法外，正义得以伸张，市民的生命财产安全得到保障。\n然而，本周内不断有市民对警方的公告提出质疑，称此次案件告破实际应归功于近日来受到热议的一位不知姓名的年轻辅警。自案件侦破后，一系列商场监控画面在本市城际网络流传。视频显示，一位身穿本市辅警制服却未佩戴警徽的年轻佩洛女性从隔壁的建筑跳上家具城楼顶，与歹徒在楼内展开了长达四十分钟的追逐和搏斗。在她孤身将歹徒全部制服后，警方才姗姗来迟。视频中这位年轻女性身手不凡，利用各类家具与歹徒周旋的技巧令人大开眼界。在传播最广的一段视频里，她被八名手持利刃和弓弩的歹徒包围，转眼间又凭借随手抄起的一件神秘武器——据家具城老板说，其实是一把有着独特设计而正面临销售困境的钢制椅子——将歹徒悉数制服，其神勇英姿令市民印象深刻。\n针对有关质疑，警方回应，虽未穿着常规制服，但视频中的女性确为警方派遣的特勤人员，按照部署暗中跟踪该团伙，接受指令后方采取行动牵制歹徒。社会上传闻的“义警”“警方不作为”等说法为误传，至于“警队勾结罪犯”等谣言更是空穴来风，“有损警方形象”。\n但有目击者称，视频中这位独自击败十余名歹徒、解救人质的神秘女子在警方到达后即被拘捕带走。也有市民指认，这位神秘女子疑似为去年的重大源石安全事故中勇救数人、揭发前市长劣行的英雄警官。目前，警方尚未对上述质疑做出回应。本台此前已发出采访这位“特勤人员”的请求，警方以她正在接受看护治疗为由回绝。",
-          "name": "D32钢椅",
+          "description": "Earlier this week, law enforcement officials announced that the major kidnapping case that occurred earlier this weekend in Fussen Furnitureville has been cracked. All suspects are now in custody, and all hostages have been rescued and are currently receiving hospital treatment. Based on facts previously made available by the police, the syndicate responsible has been active in this state as well as our three neighbors, with a focus on hijacking and kidnapping. Seventeen cases this year alone have been linked to them, all striking panic in the populace. Working across state lines to follow developments in the case, Homeland Security employed disciplined units under a single chain of command to finally put this malicious gang behind bars. Justice has finally been served, and the citizens' lives and property safe once again.\nHowever, this week some have continued raising doubts about the police announcement, claiming that credit for the breakthrough goes to a young officer from the auxiliary forces, who is presently unnamed but has captured public attention in recent days. Following the end of the case, footage from a number of mall cameras has circulated on the intercity net. They show a young Perro female in a city police uniform but without a badge hopping onto the furniture store's roof from a nearby building, marking the start of a one woman chase—and eventually brawl—with the gangsters, lasting a whole forty minutes, and ending with her pacifying them all before law enforcement arrived bizarrely late to the scene. The young woman in the video is exceptionally athletic, making use of furniture from every room of the house to contend with the gangsters, skillfully enough to leave many wide-eyed. In the most viral clip, eight of them have her surrounded with edged and bolt-loaded weapons, then in the blink of an eye she grabs a mysterious weapon—said by the store's owner to be no more than a steel chair whose unique design struggled to sell—after which she subdues all the gangsters in short order. The public will not be forgetting her heroism any time soon.\nIn response to these inquiries, law enforcement official have stated that despite her nonstandard uniform, the woman in footage was in fact a special agent they dispatched to the precinct to secretly tail the gang, with orders to take action from within and subdue the criminals. The idea that the footage shows a 'vigilante' or 'police nonfeasance' is categorically false, and rumors that their department and the criminals were 'in cahoots' are not only utterly baseless, but 'harmful to police image.'\nIn contrast, eyewitnesses report that after singlehandedly taking down over a dozen gangsters and freeing the hostages, the mysterious young woman was promptly arrested and taken away by police. Some have even identified her as possibly the valorous officer who rescued a number of people during a major Originium safety accident last year, and exposed the former mayor's misdeeds. Law enforcement officials have yet to comment on this. We have made a request for this 'special agent' to come to our station for an interview, which the police have refused, citing her current hospitalization.",
+          "name": "D32 Steel Chair",
           "cost": [
             [
               {
@@ -54945,7 +55114,7 @@
         {
           "type": "X",
           "icon": "uniequip_002_weedy",
-          "description": "Bionic Seadragon Development Log 02\nResearch lab is carrying out reaction tests on new biomaterial. Data collection is still ETA five hours. In the meantime, I'm attempting to remodel the Bionic Seadragon—strengthen connectivity between the internal conductor unit and water cannon lock-on system. In future battles, with support from Leaf and her friends, the water cannon's going to be much more accurate.\n\nBionic Seadragon Development Log 04\nBeen asked by an operator about the names again. It really is just for differentiating. Fundamentally, using '-1' or '-X' or '-β' on their serials would be fine, but using names like Leaf makes things a little more convenient... I don't really get what everyone's so curious about.\n\nBionic Seadragon Development Log 06\nTwo Bionic Seadragon core components damaged, can't be reused. Seems I'll have to iterate on their entirety. Closure wants to take the opportunity to customize them, and I refused. Lancet-2 and Castle-3 are very cute, and Operator Mayer's Meeboos have very fun interaction patterns, but I can't picture Leaf and her friends fitted with voice modules. They're doing fine as is.\n\nBionic Seadragon Development Log 09\nI've had contact with new onboards Operator Irene and Operator Lumen, so roughly got the picture of what's happened and what's happening in Iberia. The locked drawers are opened wide. As the forbidden zones start to expand, any 'secrets' will automatically reveal themselves to the people, and cause either a crisis that'll take everyone's collective effort to deal with, or a nightmare no one could escape... Sealing it away is meaningless now. No one can stand forever on the shore.\nOperator Irene took note of Leaf—not for her functionality, obviously. She's sharp for a young Inquisitor. The Bionic Seadragon was indeed created referencing designs handed down within my family. I've conjectured how those designs were formed, what they represent, what special meaning they hold, what information they hide. Perhaps I should say, what they were modeling... Of course, since leaving Iberia, they haven't been very meaningful conjectures, or very concrete. What if they do have something to do with my family, and Iberia, and the ocean's past? More importantly, with the tide surging onto the land, is there any possibility it could concern the future?\n......\nMaybe I should go have another talk with Irene. Maybe I should add a few new items to the Bionic Seadragon research project.",
+          "description": "Bionic Seadragon Development Log 02\nResearch lab is carrying out reaction tests on new biomaterial. Data collection is still ETA five hours. In the meantime, I'm attempting to remodel the Bionic Seadragon—strengthen connectivity between the internal conductor unit and water cannon lock-on system. In future battles, with support from Leaf and his friends, the water cannon's going to be much more accurate.\n\nBionic Seadragon Development Log 04\nBeen asked by an operator about the names again. It really is just for differentiating. Fundamentally, using '-1' or '-X' or '-β' on their serials would be fine, but using names like Leaf makes things a little more convenient... I don't really get what everyone's so curious about.\n\nBionic Seadragon Development Log 06\nTwo Bionic Seadragon core components damaged, can't be reused. Seems I'll have to iterate on their entirety. Closure wants to take the opportunity to customize them, and I refused. Lancet-2 and Castle-3 are very cute, and Operator Mayer's Meeboos have very fun interaction patterns, but I can't picture Leaf and his friends fitted with voice modules. They're doing fine as is.\n\nBionic Seadragon Development Log 09\nI've had contact with new onboards Operator Irene and Operator Lumen, so roughly got the picture of what's happened and what's happening in Iberia. The locked drawers are opened wide. As the forbidden zones start to expand, any 'secrets' will automatically reveal themselves to the people, and cause either a crisis that'll take everyone's collective effort to deal with, or a nightmare no one could escape... Sealing it away is meaningless now. No one can stand forever on the shore.\nOperator Irene took note of Leaf—not for her functionality, obviously. She's sharp for a young Inquisitor. The Bionic Seadragon was indeed created referencing designs handed down within my family. I've conjectured how those designs were formed, what they represent, what special meaning they hold, what information they hide. Perhaps I should say, what they were modeling... Of course, since leaving Iberia, they haven't been very meaningful conjectures, or very concrete. What if they do have something to do with my family, and Iberia, and the ocean's past? More importantly, with the tide surging onto the land, is there any possibility it could concern the future?\n......\nMaybe I should go have another talk with Irene. Maybe I should add a few new items to the Bionic Seadragon research project.",
           "name": "Custom Bionic Seadragon",
           "cost": [
             [
@@ -58488,7 +58657,7 @@
         {
           "id": "skchr_rfalcn_2",
           "icon": "skchr_rfalcn_2",
-          "name": "醉刃乱舞",
+          "name": "Drunken Bladedance",
           "masteryCosts": [
             [
               {
@@ -58539,8 +58708,8 @@
         {
           "type": "Y",
           "icon": "uniequip_002_rfalcn",
-          "description": "红隼正带队远离一片由她们亲手点燃的废墟，走回最初的集结点。火焰熊熊，从天而降的雨滴甚至来不及碰到烈焰便蒸发殆尽，空气中只剩噼啪作响的灼烧声。\n“老大，今天你杀了多少？”有人打破沉默，对红隼发问。\n“记不清了。”\n“年轻人，谁会在战斗后记住自己杀了多少呢？”另外一个疲惫的声音响起，“能活下来就已经很不错了。”\n红隼没再搭话，但她想起了那张扭曲的脸，它属于一个惊慌失措的“老熟人”，在她的步步紧逼下，他迫不得已纵身从楼顶跃下，只留给她那张即将与火海融为一体的脸。\n她认识他，那个杀死她朋友的凶手。\n“不过这次胜利值得庆祝，我们今天又解决了几个曾经残害我们同胞的凶手。”红隼停下脚步，转头对着她带来的那些后辈，远处的火焰在她的双眸中闪闪发光。\n人们发出了欢呼声，但红隼没有笑。\n“那我们还有多少凶手要解决？”那个打破了沉默的声音又响起来。\n红隼望了过去，那是一个稚气未脱的姑娘，如果部族还在，她就不应该出现在战斗的队伍里，而应该享受美好的青春时光。\n哦对了，她连“齿痕”都没有。\n“你今天表现得非常好，我决定将‘齿痕’作为奖品奖励给你。”红隼并没有正面回答姑娘的问题，“在回去的路上，你可以想一想要什么样式的纹路。”\n“真的吗？”\n红隼突然感觉，这样的对话似曾相识，只不过她才是对面的那个女孩，而站在自己位置上的那个人，是亲手将她带大的部族首领——曾经红隼最亲的那个人，为自己在左臂上勾勒了“齿痕”的第一笔纹路。\n红隼忍不住抱了抱自己的左臂，温暖的回忆似乎阻隔了雨夜的寒冷，但她很快清醒过来，因为站在雨中的她们正在等着自己。\n“真的——我们还是早点回集结点吧，我去把那个盒子找出来，然后你就可以挑了。”\n队伍开始慢慢移动起来，她们的身形逐渐融化在黑夜中，再也看不清分毫。",
-          "name": "威吓者",
+          "description": "Making distance from a ruin they personally set alight, Kestrel takes her group back to their initial gathering point. The fire rages on, and even when the skies open up, the rain can't even touch the flames before it steams away midair, leaving only the sound of crackling.\nBreaking the silence, someone asks Kestrel. 'Boss, how many did you kill today?'\n'Can't remember.'\n'Who would remember after the heat of battle how many they killed, youngster?' a weary voice adds. 'To survive is already a job well done.'\nKestrel lets the topic lapse, but that twisted face comes to mind. The one of an 'old acquaintance' scared shitless. The one she closed in on with every step. The one with no alternative but to jump from the roof. The one who left her only that face, one moment before melting into the sea of flames.\nShe knew who that was. The assassin who murdered her friend.\n'Still, this victory's worth celebrating. Today, we wiped out a few more of the killers who slaughtered our people.' Kestrel comes to a stop, looks back, sees the descendants she's brought along. The distant flames flicker in her eyes.\nThey raise a cheer, but Kestrel doesn't smile.\n'So how many killers to go?' asks again the one who broke the silence.\nKestrel gazes over. It's a girl, still young. If the tribe still was, she would never be part of these fighters. She would be living her youth, a bright one, a happy one.\nOh. That's right. She doesn't even have a 'tooth mark'.\n'You showed a great display today. I've now decided you should be rewarded with a 'tooth mark.' Kestrel fails to directly answer the girl's question. 'While we return, you can think about what style of mark you'd like.'\n'Really?'\nA feeling hits Kestrel. She's had this conversation. She was the girl before her. She, the girl, before the tribe's chief, the one who raised her—the one who was dearest to her, the one who outlined, over her left shoulder, the very first band of her 'tooth mark'.\nKestrel can't help but hug that shoulder tight, the warm memory almost abating the cold rainy eve, but it's only a moment before she comes to. For they, stood in the rain, are waiting for her.\n'Really—now let's get back to the gathering point quick. I'll find the box, and then you'll be able to choose.'\nThe group begins to slowly move, their figures gradually melting into the dark of night, never to be seen again.",
+          "name": "Intimidator",
           "cost": [
             [
               {
@@ -60513,7 +60682,66 @@
           ]
         }
       ],
-      "modules": []
+      "modules": [
+        {
+          "type": "X",
+          "icon": "uniequip_002_chnut",
+          "description": "一块谢拉格冰晶石。褐果被专门安排坐在了驮兽宝宝椅上，他裹紧了租来的大衣——说是租，但实际上老板发现最小号都能被他穿成拖地长袍，大手一挥就让他免费套在身上了。在终于登上山顶看到日出时，淡金色的阳光透过冰晶石照在褐果的脸上，他被人们高高举起来，淹没在欢呼声中。\n一块雷姆必拓黄铁矿。原本只是来见识间歇泉的喷发，但一次前所未有的地下喷发导致了矿洞塌陷，褐果从惊慌逃生的人群中挤出，一路高举着自己的从医资格证逆着人流上前。在忙了一整晚之后，他没有要矿工们递来的脏脏的钱币，只收下了一块美丽规整的黄铁矿。\n一块萨米的树根化石。一路走到极北，不知道自己下一站去哪里的褐果拿着这块化石，拜托当地人进行一次占卜。当地人告诉他，这块在地下埋藏了千万年的老树根说：“大地的广阔超出你的想象，不要停下。”\n一块炎国璞玉。在冒着热气的小吃摊上，褐果拿着用一块璞玉典当换来的钱请两拨为了一时意气快要打起来的年轻人坐下来，先尝尝当地的小吃。一顿美食下肚，年轻人们互相拍了拍肩膀表示和解，又一起凑钱赎回了璞玉。褐果想，要是人与人之间的争端都像今天的这样容易解决就好了，他愿意治病救人，但并不想看到无谓的流血争执。\n一块琥珀。褐果在哥伦比亚发现了这块封存着昆虫的琥珀，地灵和艾雅法拉仔细查看，告诉他里面的昆虫只在萨尔贡一带有分布，她们也不知道它是怎么出现在哥伦比亚的。而此时他们正站在罗德岛的舰船上，轧过荒漠，前方正是萨尔贡的无垠沙漠。\n褐果收回这块琥珀，他想，自己也该回家看看了。\n回到地底，他又来到了熟悉的石瀑前。几丛荧光蘑菇生长在潮湿的石壁上，褐果踮了踮脚，和蘑菇比了比身高。几个小脑袋围在他的身边，等他讲地面上的经历。\n一排矿石灯发出各色柔和的光芒，照亮了一双双好奇的眼睛，就和小时候一样，只是讲故事的人变成了自己。褐果笑了起来。\n“这里每一块矿石都来自一片完全不同的江河湖泊，山野峡谷，你们想听哪个呢？”",
+          "name": "地上巡旅纪念灯",
+          "cost": [
+            [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              },
+              {
+                "id": "30103",
+                "count": 4
+              },
+              {
+                "id": "4001",
+                "count": 20000
+              }
+            ],
+            [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              },
+              {
+                "id": "mod_update_token_1",
+                "count": 15
+              },
+              {
+                "id": "31043",
+                "count": 5
+              },
+              {
+                "id": "4001",
+                "count": 25000
+              }
+            ],
+            [
+              {
+                "id": "mod_unlock_token",
+                "count": 1
+              },
+              {
+                "id": "mod_update_token_2",
+                "count": 5
+              },
+              {
+                "id": "30023",
+                "count": 6
+              },
+              {
+                "id": "4001",
+                "count": 30000
+              }
+            ]
+          ]
+        }
+      ]
     },
     "char_4042_lumen": {
       "name": "Lumen",
@@ -63201,6 +63429,271 @@
           ]
         }
       ]
+    },
+    "char_4058_pepe": {
+      "name": "Pepe",
+      "profession": "Guard",
+      "rarity": "TIER_6",
+      "skillLevelUpCosts": [
+        [
+          {
+            "id": "3301",
+            "count": 5
+          }
+        ],
+        [
+          {
+            "id": "3301",
+            "count": 5
+          },
+          {
+            "id": "30061",
+            "count": 4
+          },
+          {
+            "id": "30031",
+            "count": 4
+          }
+        ],
+        [
+          {
+            "id": "3302",
+            "count": 8
+          },
+          {
+            "id": "30012",
+            "count": 7
+          }
+        ],
+        [
+          {
+            "id": "3302",
+            "count": 8
+          },
+          {
+            "id": "30022",
+            "count": 4
+          },
+          {
+            "id": "30052",
+            "count": 4
+          }
+        ],
+        [
+          {
+            "id": "3302",
+            "count": 8
+          },
+          {
+            "id": "30033",
+            "count": 7
+          }
+        ],
+        [
+          {
+            "id": "3303",
+            "count": 8
+          },
+          {
+            "id": "31063",
+            "count": 5
+          },
+          {
+            "id": "30073",
+            "count": 2
+          }
+        ]
+      ],
+      "promotions": [
+        {
+          "maxLevel": 50,
+          "evolveCost": []
+        },
+        {
+          "maxLevel": 80,
+          "evolveCost": [
+            {
+              "id": "3221",
+              "count": 5
+            },
+            {
+              "id": "30042",
+              "count": 7
+            },
+            {
+              "id": "30032",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "maxLevel": 90,
+          "evolveCost": [
+            {
+              "id": "3223",
+              "count": 4
+            },
+            {
+              "id": "30135",
+              "count": 4
+            },
+            {
+              "id": "31074",
+              "count": 5
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "id": "skchr_pepe_1",
+          "icon": "skchr_pepe_1",
+          "name": "盖戳！",
+          "masteryCosts": [
+            [
+              {
+                "id": "3303",
+                "count": 8
+              },
+              {
+                "id": "31024",
+                "count": 4
+              },
+              {
+                "id": "30073",
+                "count": 7
+              }
+            ],
+            [
+              {
+                "id": "3303",
+                "count": 12
+              },
+              {
+                "id": "31034",
+                "count": 4
+              },
+              {
+                "id": "31044",
+                "count": 7
+              }
+            ],
+            [
+              {
+                "id": "3303",
+                "count": 15
+              },
+              {
+                "id": "30145",
+                "count": 6
+              },
+              {
+                "id": "31054",
+                "count": 1
+              }
+            ]
+          ]
+        },
+        {
+          "id": "skchr_pepe_2",
+          "icon": "skchr_pepe_2",
+          "name": "阻遏混乱锤",
+          "masteryCosts": [
+            [
+              {
+                "id": "3303",
+                "count": 8
+              },
+              {
+                "id": "30084",
+                "count": 4
+              },
+              {
+                "id": "31073",
+                "count": 4
+              }
+            ],
+            [
+              {
+                "id": "3303",
+                "count": 12
+              },
+              {
+                "id": "31064",
+                "count": 4
+              },
+              {
+                "id": "31074",
+                "count": 8
+              }
+            ],
+            [
+              {
+                "id": "3303",
+                "count": 15
+              },
+              {
+                "id": "30125",
+                "count": 6
+              },
+              {
+                "id": "31014",
+                "count": 6
+              }
+            ]
+          ]
+        },
+        {
+          "id": "skchr_pepe_3",
+          "icon": "skchr_pepe_3",
+          "name": "时光震荡",
+          "masteryCosts": [
+            [
+              {
+                "id": "3303",
+                "count": 8
+              },
+              {
+                "id": "30044",
+                "count": 4
+              },
+              {
+                "id": "30093",
+                "count": 3
+              }
+            ],
+            [
+              {
+                "id": "3303",
+                "count": 12
+              },
+              {
+                "id": "31044",
+                "count": 4
+              },
+              {
+                "id": "30014",
+                "count": 10
+              }
+            ],
+            [
+              {
+                "id": "3303",
+                "count": 15
+              },
+              {
+                "id": "30115",
+                "count": 6
+              },
+              {
+                "id": "30104",
+                "count": 6
+              }
+            ]
+          ]
+        }
+      ],
+      "modules": []
     },
     "char_4062_totter": {
       "name": "Totter",
@@ -70296,7 +70789,66 @@
           ]
         }
       ],
-      "modules": []
+      "modules": [
+        {
+          "type": "X",
+          "icon": "uniequip_002_harold",
+          "description": "里斯本：\n你送的腿部护理套装我收到了，效果很不错，让我这个只剩一条好腿的糟老头在天气变冷的时候也不用那么痛苦了。没想到的是，这居然是芙蕾雅哥哥新开的药厂生产的。我记得我在谢拉格执行任务的时候，他还是当地出了名的穷小子呢！他这两年靠着向维多利亚人卖药竟然赚了这么大一笔，连厂都办起来了。\n不过，我研究了一下这喷雾的配方，这不是我当年给驮兽接腿用的药方吗？只是多加了几味原产自谢拉格的草药便有如此效果，耶拉冈德确实护佑着你们。\n你和芙蕾雅怎么样，驮兽租赁的生意顺利吗？你上上次说要在银心湖边建个小楼，怎么连照片都没给我寄过来，我还指望哪天去谢拉格住你们家呢。我此前和希瓦艾什家族的族长提过你和芙蕾雅的事，好消息是，他原则上并不反对你们的结合，好好过自己的日子，兄弟。\n说起来，我实在难以想象和谢拉格人结婚是一种什么样的体验，要经过什么步骤？请原谅我的好奇心，新人需要去银心湖、安格尔殿在耶拉冈德像前办什么仪式吗？双方父母需要到场吗？总而言之，祝你新婚快乐，希望我未来还有机会去给你们受伤的驮兽接腿。\n说到底，我们这些战争中的倒霉蛋，不靠彼此“接腿”，谁又能来帮我们呢。我虽然是贵族，也不过是戴着着贵族帽子的老倒霉蛋罢了，我有一身接驮兽腿的手艺，但我接不了自己的坏腿，更没有精力接你们所有人的腿。请允许一个丢了腿的可怜老头儿对自己的“同类”怀有怜悯之心——不知道你是否有机会通过药厂渠道去调查一下，还有多少维多利亚的士兵需要“接腿”？\n愿大家在不远的未来，都能拥有健康的双腿。\n哈洛德",
+          "name": "腿部护理套装",
+          "cost": [
+            [
+              {
+                "id": "mod_unlock_token",
+                "count": 2
+              },
+              {
+                "id": "31034",
+                "count": 3
+              },
+              {
+                "id": "4001",
+                "count": 40000
+              }
+            ],
+            [
+              {
+                "id": "mod_unlock_token",
+                "count": 2
+              },
+              {
+                "id": "mod_update_token_1",
+                "count": 20
+              },
+              {
+                "id": "30054",
+                "count": 4
+              },
+              {
+                "id": "4001",
+                "count": 50000
+              }
+            ],
+            [
+              {
+                "id": "mod_unlock_token",
+                "count": 2
+              },
+              {
+                "id": "mod_update_token_2",
+                "count": 8
+              },
+              {
+                "id": "30084",
+                "count": 5
+              },
+              {
+                "id": "4001",
+                "count": 60000
+              }
+            ]
+          ]
+        }
+      ]
     },
     "char_4116_blkkgt": {
       "name": "Degenbrecher",
@@ -71105,7 +71657,7 @@
         {
           "id": "skchr_wanqin_2",
           "icon": "skchr_wanqin_2",
-          "name": "应东风",
+          "name": "Along the Easterlies",
           "masteryCosts": [
             [
               {
@@ -71156,8 +71708,8 @@
         {
           "type": "X",
           "icon": "uniequip_002_wanqin",
-          "description": "“禾生——”\n禾生从土坡上蹿起来，回头张望。他起得急，线轴落进水里，剪尾羽兽模样的纸风筝眨眼就变成白色天光下的一个小点，沿着河流消失在他眼前。\n禾生自己就是被这条河卷来大荒城的。要不是那阵迎着岸的强风，要不是正在田里扛沙袋的职农眼尖心细，一个不到两岁的孩子必定凶多吉少。天师和职农就他的安置问题通宵开会，请示户部，也直接向上游派了信使。但这一年，北方大旱之后又有洪泛，南方的天灾也闹得凶，为他寻亲终究是没有结果。\n从此，禾生就叫禾生，就生在大荒城。\n禾生在田垄上长大，在水泵旁长大，在移动大棚的框架上长大，在天师的宿舍和职农的院落中长大，在人工水渠之间的检修通道上长大。他记得黍天师给和他差不多大的孩子们看手相，然后把酒浆点上他们的额头；他记得他和小满并肩坐在牧兽背上，眺望小山般的仓储舰缓缓驶入航道，前往百灶、尚蜀，或者北方的丹燕；他还记得有一回，一块糖料作物试验田发生了自燃，大荒城足有一个月都笼罩在煮沸的麦芽糖般的甜腻香气里。\n禾生揉揉眼睛，他望见了，那些他从小就认识的老职农向他奔来。“考校通过咯，”他们喊着禾生的名字，满脸喜色，“考校通过咯，黍天师要收你当徒弟咯。”在他们的身后，一头小牧兽慢悠悠地咀嚼着新草，背上拴着一把崭新的铁尺，还有一只银色的风筝。强风将他推向人群，铃铛在开辟天地的呼啸中丁零作响。\n他跳下土坡，在乙未号地块的水渠边奔跑起来，牵着一束银色的风。",
-          "name": "牵风",
+          "description": "'He Sheng—'\nHe Sheng leaps from the earthen slope, turning his head wildly. He rises in a hurry and his thread spool falls into the water, leaving his paper kite cut in the shape of a fowlbeast's tail to become nothing but a tiny dot in the pale blue sky in the blink of an eye, disappearing before his eyes as it follows the river's current.\nHe Sheng himself was brought to Dahuang by this very river. Were it not for the strong wind that guided him to the shore's embrace, were it not for the sharp, attentive eyes of the farmer hauling sandbags, a babe of not even two years would surely have met with disaster. The Tianshis and the farmers had discussed arrangements for him throughout the night, sent for instructions from the Ministry of Revenue, and even dispatched a Messenger to head directly upstream. However, that year the north had suffered floods after a great drought, while the south was buffeted by a vicious Catastrophe, and so the search for his parents had borne no fruit.\nSince then, he was known as He Sheng, and he was considered born in Dahuang.\nHe grew up atop the crop ridges. He grew up by the water pumps. He grew up on top of the mobile greenhouse frames. He grew up in the Tianshi dormitories and the farmers' courtyards. He grew up in the service channels between the artificial canals. He remembered Tianshi Shu giving palm readings to the children his age, then dabbing a drop of wine onto their foreheads. He remembered sitting atop the backs of stockbeasts alongside Grain Buds, surveying the container ships reminiscent of small mountains slowly entering the waterways, leaving for distant Baizao, Shangshu, or perhaps Danyan to the north. He also remembered one time that an experimental field of high-sugar crops spontaneously combusted, and Dahuang was filled with the inescapable sickly-sweet scent of boiling syrup for a month.\nHe Sheng rubs his eyes and spots the old farmers he's known since childhood rushing towards him. 'You've passed your exams,' they shout along with his name, joy plastered across their faces. 'You've passed your exams, and Tianshi Shu said she'd take you on as an apprentice!' Behind them, a small stockbeast languidly chews on the fresh grass, a brand-new metal ruler tied to its back alongside a silver kite. A strong wind pushes him towards the crowd, while little bells jingled and jangled amidst the hubbub that had swallowed up heaven and earth.\nHe jumps down from the slope, running beside the Yiwei plate's canal, pulling a silver wind behind him.",
+          "name": "With My Wind",
           "cost": [
             [
               {
@@ -71331,7 +71883,7 @@
         {
           "id": "skchr_zuole_1",
           "icon": "skchr_zuole_1",
-          "name": "破虏",
+          "name": "Fiendslayer",
           "masteryCosts": [
             [
               {
@@ -71380,7 +71932,7 @@
         {
           "id": "skchr_zuole_2",
           "icon": "skchr_zuole_2",
-          "name": "行险",
+          "name": "Risktaker",
           "masteryCosts": [
             [
               {
@@ -71429,7 +71981,7 @@
         {
           "id": "skchr_zuole_3",
           "icon": "skchr_zuole_3",
-          "name": "佑序有炎",
+          "name": "Blessings Unto Yan",
           "masteryCosts": [
             [
               {
@@ -71480,8 +72032,8 @@
         {
           "type": "X",
           "icon": "uniequip_002_zuole",
-          "description": "占广意识到，自己可能即将摔成一张肉饼。\n一同夺路而逃的山海众方才还在叫骂，转眼间就在幽幽林影中一个接一个没了动静。他只记得一枚梭镖钉入树干，从天而降的绳索便将自己吊在了江畔绝壁之上。\n“占广，男，菲林，姜齐城东人。”\n听见来人发话，被缚的凶徒定睛观瞧。只见那黑衣的斐迪亚少年挎一只长匣，只身走上绝壁。\n“你勾结山海众，纠集草莽图谋不轨......身为首犯，可知依炎律当治何罪？”\n“呸，毛都没长齐的小官差，跟老子摆什么谱？看老子不弄死你！”\n江雾散去，月光照亮了“小官差”的铁面具。\n“奶奶的！你、你是司岁台的秉烛人！”占广冒出一身冷汗。\n“既然知道司岁台，那便该知道......”少年上前一步，“对勾结山海众、身负多起命案的狂徒，秉烛人可代三法司行审，当场立决。”\n飕——\n占广也非等闲之辈，他咬碎钢牙，瞅准秉烛人在近前的时机后扬上身，蹬出一记狠辣的“倒挂金钟”！匕首般的趾爪呼啸生风，险之又险地擦过少年喉头，将绳索齐刷刷削断。魁梧的凶徒挣碎捆缚，纵身跃落绝壁下方经过的渔船，将船老大挟住。\n“开船！给老子快点！”船只发动引擎，加速驶离江畔。在司岁台手底下绝境逢生，凶徒忍不住得意地回头望去。\n这一回，借着船尾的灯光，占广看得真切——那黑衣少年稍提一口气，眨眼间便借绝崖之势在半空荡过二十来丈，于江潮的浪头上点出朵朵白花，像是片大风刮来的乌叶，悄无声息地落在甲板上。\n匣盖翻开，少年轻拍刀鞘。\n“司岁台公干，事后依律补偿。”\n“你——”\n占广刚要开口，船舷两侧的照明灯便齐齐被刀光切碎。笔直而锋锐的长刀在黑暗中卷起玻璃碎渣，将占广那颗因逃出生天而狂跳不止的心重新封入冰窟。锋刃未至，少年长槊般的踢击擦过船老大的肩膀，正中凶徒的喉咙。占广全身脱力，向后倒在甲板上，双股之间涌出一股暖流。失去意识前，他终于看清了铁面具后的暗月般的湛青色眼芒，还有那行铭在长匣内里，取刀时才能看到的灿金小字——\n“秉明烛者，岂苦夜长。”",
-          "name": "“岂苦夜长”",
+          "description": "Zhan Yan has realized that he is on the brink of falling and turning into mincemeat.\nHe had been arguing with his fellow Shanhaizhong fugitives a moment ago, when in the blink of an eye, they faded away one by one into the forest's faint shadows. All he could remember was that a spear had embedded itself into a tree trunk, and then he was bound by a rope that had suddenly dropped out of the sky, after which he found himself suspended above a riverside cliff.\n'Zhan Yan, male, Feline, from the eastern side of Jiangqi.'\nUpon hearing these words, the trussed-up villain stares at the young man who said them. All he sees is a Phidia youth clad in black, carrying a long box and walking alone atop the precipice.\n'You have collaborated with the Shanhaizhong, gathering in the wilderness as part of your sinister schemes... As chief among them, are you aware of which of Yan's laws you have broken?'\n'Pah! You think a limp-wristed bureaucrat like you with hardly a hair on his chest can scare me? I'll kill you, right here, right now!'\nThe river mist scatters, and the moonlight shines upon the 'bureaucrat's' iron mask.\n'Son of a-! You-You're a Sui Regulator Candleholder!' Zhan Yan's entire body breaks out into a cold sweat.\n'Since you are aware of the Sui Regulators, then you must also be aware that...' The youth takes a single step forward. 'While colluding with the Shanhaizhong, you have committed no small number of grisly and violent murders. A Candleholder has the authority to act as a substitute for a formal trial under the Three Organs of Justice, and may render their judgement on the spot.'\nThe wind blows—\nZhan Yan too was no ordinary man, and grits his teeth in defiance, waiting for the opportune moment when the Candleholder approached to hoist his body up, throwing out a fierce and mighty 'Daogua Jinzhong' kick! His dagger-like toe claw lets out a howling wind, coming dangerously close to the youth's throat while slicing apart the rope holding him aloft. The imposing villain shrugs off his tattered bonds, leaping down into a passing fishing boat below the cliff and grabbing the steersman by the arm.\n'Get this boat moving! Faster, dammit!' The boat's engine sputters to life, picking up speed as it leaves the riverbank. Thanks to his daring escape from a summary execution by the Sui Regulator, Zhan Yan can't help but proudly look back at the clifftop.\nWith the aid of the boat's aft lanterns, he clearly sees the black-clad youth take a deep breath before using the momentum of kicking off from the cliff edge to fly midair for twenty-odd zhang in a flash. The waves of the river are dotted with a multitude of white flowers, and he looks to all the world like an onyx leaf blown by a great gale, quietly landing aboard the boat.\nThe box opens, and the youth lightly clasps his scabbard.\n'This is Sui Regulator business. You will be compensated as per the law once I am done here.'\n'You—'\nZhan Yan begins to open his mouth, but is quickly shut up by the lanterns on either side of the boat being neatly sliced off by the youth's sword. The straight and sharp longsword stirs up fragments of glass in the dark, causing Zhan Yan's heart, still leaping wildly from his daring escape, to calm into icy terror. The cutting edge has not yet descended. Instead, like a lance, the youth kicks past the steersman's shoulder, his foot implanting itself into the villain's throat. Zhan Yan feels all the strength leave his body and he slams backwards onto the boat's deck, a warm river of fear between his thighs. Just before losing consciousness, he finally clearly sees the deep green eyes behind the iron mask, dark as the new moon, alongside the golden words inscribed on the inside of the box, only seen when fetching the sword—\n'Candle Bright, Stay Shining. You Night, Be Fleeting.'",
+          "name": "'You Night, Be Fleeting'",
           "cost": [
             [
               {
@@ -71647,7 +72199,7 @@
         {
           "id": "skchr_grabds_1",
           "icon": "skchr_grabds_1",
-          "name": "竹笛飞声",
+          "name": "Flute Flutter",
           "masteryCosts": [
             [
               {
@@ -71696,7 +72248,7 @@
         {
           "id": "skchr_grabds_2",
           "icon": "skchr_grabds_2",
-          "name": "乡音沉沉",
+          "name": "Hometown Lullaby",
           "masteryCosts": [
             [
               {
@@ -71747,8 +72299,8 @@
         {
           "type": "X",
           "icon": "uniequip_002_grabds",
-          "description": "5月10日\n兜兜转转，这所谓的社会实践还是把我带到了大荒城。别说气候和口音不适应，听说他们这边连酸菜都齁咸！接下来这一年可怎么过呀。\n来这之后果然诸事不顺。我倒是想和人说话，可我一开口就嘴瓢，不但人听不懂，连牧兽听了都会逃跑！\n\n5月21日\n碰见个奇怪的小姑娘，踮着脚站在牧兽背上，蹦来蹦去，乍一看还以为牧兽群里落了只羽兽。我在泥地里一脚深一脚浅地跋涉，她就看着我嗤嗤地笑。\n“笨！”她说。\n这......？\n“鞋子脱了！”\n啊......？\n“我教你在牧兽背上跳着走，就不用蹚泥地啦。”\n那天，我从牧兽背上摔下来八次，吃的泥巴比一天吃的饭都多。她捶打着我的后背，笑得耳羽都呼扇起来。倒霉是倒霉了，可瞅着她那副笑脸，倒觉得也没什么过不去的。\n\n7月8日\n那个小姑娘这回蹲在畜栏边上，对着一群牧兽，正摇头晃脑地吹着一支陶笛。\n“泥罐儿！快来快来！”\n谁......？\n“泥罐儿你是新来的吧！上次忘记说啦，我叫小满！”\n我......？\n“要不要学怎么和牧兽说话？这可是我的独门绝技！”\n她一手托着我的脸，一手托着牧兽的脸，叫我们对上了眼。那天我才第一次发现，牧兽那水汪汪的眼睛里，居然有着和人一样的喜怒哀乐。那之后，牧兽听到我说话居然真的不跑了，我这走路都被牙兽追着咬的人，居然有了群动物伙伴。\n\n10月4日\n去找小满姑娘的时候，她正和一个学生模样的少年一起抛着几颗小骨头块，似乎在玩什么奇妙的游戏。\n“泥罐儿！来一起玩！”\n好......\n“他是‘大水牛’，你们还不认识吗？”\n不......\n“这是黍姐姐炖汤留下的！具体是啥我也讲不清，大水牛，你说你说！”\n我还不知道牧兽腿上的骨头能当玩具。可惜我手笨，半天都没接着几次，反而全砸在了他俩脑袋上。大水牛也是好人，和我一样说话不多，但每次干活都愿意带上我。小满姑娘或在牧兽身上躺着，或在树上挂着，有时搭把手，有时扯着我们出去玩。这没个边际的田野，甚至有点像个家了。\n\n5月20日\n坐车离开大荒城时，一群漫步田野的牧兽从眼前掠过。瞅着那些胖乎乎的身影飞快地消失在身后，我居然又开始感到不安，就像一年前独自离家来到大荒城的时候。别说再也见不着大荒城的田野和牧兽，学校里上哪找小满姑娘和大水牛这样亲切的朋友？接下来这两个学年可怎么过呀。",
-          "name": "在田野上",
+          "description": "May 10th\nIt feels like I'm going in circles. These so-called 'social activities' keep dragging me back to Dahuang. Not only does the weather not suit me, I can barely understand their accent, and I heard that their pickled vegetables are super super salty! I don't know how I'm going to make it an entire year.\nAs I expected, nothing's gone right since I arrived. I thought I could at least talk to people, but I keep tripping over my own tongue. Not only can nobody understand a word I say, but the stockbeasts keep running away from me!\n\nMay 21st\nI've run into a strange young girl, standing tiptoe atop the backs of the stockbeasts. She jumped around on top of them, and at first glance you'd think she was a fowlbeast that had fallen into the herd. There I was, one leg sunk deep in the mud while my other foot is barely covered, trudging through the muck, when she started laughing at me.\n'Sillyhead!', she said.\nMe...?\n'Take off your shoes!'\nEh?\n'I'll teach you how to walk on top of the stockbeasts so you don't have to go through the mud.'\nI got thrown off the stockbeasts' backs eight times that day, and I'm sure I ate more mud than rice by dinner time. She thumped me across my back, her plumage flapping about as she laughed. Though my luck may be bad, looking at her smiling face makes me feel that there's nothing that can hold me down for long.\n\nJuly 8th\nThat girl was crouching down by the stockbeast pen this time, swaying her head as she played her flute to the herd.\n'Hey, Claypot! Come, quick!'\nWho...?\n'You're new here, right Claypot? I forgot to tell you last time, but my name's Grain Buds!'\nOh, was she talking to me?\n'Do you want to learn how to talk to stockbeasts? I'd say I'm better at it than anyone in all of Yan!'\nShe held my face in one hand, while holding a stockbeast's in the other, and told us to look into each other's eyes. That day might be the first time I realized a stockbeast's bright, intelligent eyes possess the same basic range of emotions as any man. Since then, the stockbeasts really did stop running away from the sound of my voice. I never expected someone like me—who's always getting chased and nipped by tuskbeasts—to suddenly have a group of animal friends.\n\nOctober 4th\nI was out searching for Grain Buds when I ran into her along with another youth who appeared to be a schoolboy. They were playing some odd game where they threw small pieces of bone.\n'Claypot! Come play with us!'\nOh, alright...\n'He's 'Big Buffalo', have you two not met before?'\nI'm afraid not...\n'These were left over from Shu's stew! I don't really know all the rules myself, so you'll have to explain, Big Buffalo!'\nI had no idea that you could turn stockbeast leg bones into toys. A shame I was so clumsy, though. I couldn't catch the bones for quite a long while, and kept accidentally flinging them at their heads instead. Big Buffalo was a nice guy. Didn't talk much, just like me. However, every time he went off to work, he wanted to bring me along. Sometimes Grain Buds would lie down on a stockbeast's back, or hang from a tree. Sometimes she would help us out with work, and other times she would drag us off to play. Out here in the boundless fields, it almost felt like we were a family.\n\nMay 20th\nAs I was leaving Dahuang by car, a group of stockbeasts wandering the fields walked past. Looking at their chubby figures fade into the distance behind us, I suddenly began to feel uneasy, just like I did a year ago when I left home by myself to come to Dahuang. Setting aside not being able to see Dahuang's fields and stockbeasts any longer, would I be able to find friends as good as Grain Buds and Big Buffalo at school? I don't know how I'm going to make it through the next two school years.",
+          "name": "On the Field",
           "cost": [
             [
               {
@@ -74594,6 +75146,746 @@
         }
       ]
     },
+    "char_4138_narant": {
+      "name": "Narantuya",
+      "profession": "Sniper",
+      "rarity": "TIER_6",
+      "skillLevelUpCosts": [
+        [
+          {
+            "id": "3301",
+            "count": 5
+          }
+        ],
+        [
+          {
+            "id": "3301",
+            "count": 5
+          },
+          {
+            "id": "30011",
+            "count": 6
+          },
+          {
+            "id": "30061",
+            "count": 4
+          }
+        ],
+        [
+          {
+            "id": "3302",
+            "count": 8
+          },
+          {
+            "id": "30022",
+            "count": 5
+          }
+        ],
+        [
+          {
+            "id": "3302",
+            "count": 8
+          },
+          {
+            "id": "30032",
+            "count": 4
+          },
+          {
+            "id": "30042",
+            "count": 4
+          }
+        ],
+        [
+          {
+            "id": "3302",
+            "count": 8
+          },
+          {
+            "id": "31063",
+            "count": 5
+          }
+        ],
+        [
+          {
+            "id": "3303",
+            "count": 8
+          },
+          {
+            "id": "30103",
+            "count": 5
+          },
+          {
+            "id": "31083",
+            "count": 1
+          }
+        ]
+      ],
+      "promotions": [
+        {
+          "maxLevel": 50,
+          "evolveCost": []
+        },
+        {
+          "maxLevel": 80,
+          "evolveCost": [
+            {
+              "id": "3241",
+              "count": 5
+            },
+            {
+              "id": "30052",
+              "count": 7
+            },
+            {
+              "id": "30042",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "maxLevel": 90,
+          "evolveCost": [
+            {
+              "id": "3243",
+              "count": 4
+            },
+            {
+              "id": "30125",
+              "count": 4
+            },
+            {
+              "id": "31014",
+              "count": 7
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "id": "skchr_narant_1",
+          "icon": "skchr_narant_1",
+          "name": "旋刃",
+          "masteryCosts": [
+            [
+              {
+                "id": "3303",
+                "count": 8
+              },
+              {
+                "id": "30064",
+                "count": 4
+              },
+              {
+                "id": "31063",
+                "count": 1
+              }
+            ],
+            [
+              {
+                "id": "3303",
+                "count": 12
+              },
+              {
+                "id": "31074",
+                "count": 4
+              },
+              {
+                "id": "31034",
+                "count": 7
+              }
+            ],
+            [
+              {
+                "id": "3303",
+                "count": 15
+              },
+              {
+                "id": "30155",
+                "count": 6
+              },
+              {
+                "id": "30054",
+                "count": 2
+              }
+            ]
+          ]
+        },
+        {
+          "id": "skchr_narant_2",
+          "icon": "skchr_narant_2",
+          "name": "恶魇",
+          "masteryCosts": [
+            [
+              {
+                "id": "3303",
+                "count": 8
+              },
+              {
+                "id": "30094",
+                "count": 4
+              },
+              {
+                "id": "30023",
+                "count": 7
+              }
+            ],
+            [
+              {
+                "id": "3303",
+                "count": 12
+              },
+              {
+                "id": "30014",
+                "count": 4
+              },
+              {
+                "id": "31064",
+                "count": 10
+              }
+            ],
+            [
+              {
+                "id": "3303",
+                "count": 15
+              },
+              {
+                "id": "30135",
+                "count": 6
+              },
+              {
+                "id": "31084",
+                "count": 5
+              }
+            ]
+          ]
+        },
+        {
+          "id": "skchr_narant_3",
+          "icon": "skchr_narant_3",
+          "name": "吞日",
+          "masteryCosts": [
+            [
+              {
+                "id": "3303",
+                "count": 8
+              },
+              {
+                "id": "31024",
+                "count": 4
+              },
+              {
+                "id": "31013",
+                "count": 6
+              }
+            ],
+            [
+              {
+                "id": "3303",
+                "count": 12
+              },
+              {
+                "id": "31034",
+                "count": 4
+              },
+              {
+                "id": "31044",
+                "count": 7
+              }
+            ],
+            [
+              {
+                "id": "3303",
+                "count": 15
+              },
+              {
+                "id": "30145",
+                "count": 6
+              },
+              {
+                "id": "31054",
+                "count": 1
+              }
+            ]
+          ]
+        }
+      ],
+      "modules": []
+    },
+    "char_4139_papyrs": {
+      "name": "Papyrus",
+      "profession": "Medic",
+      "rarity": "TIER_5",
+      "skillLevelUpCosts": [
+        [
+          {
+            "id": "3301",
+            "count": 4
+          }
+        ],
+        [
+          {
+            "id": "3301",
+            "count": 4
+          },
+          {
+            "id": "30021",
+            "count": 7
+          }
+        ],
+        [
+          {
+            "id": "3302",
+            "count": 6
+          },
+          {
+            "id": "30032",
+            "count": 3
+          }
+        ],
+        [
+          {
+            "id": "3302",
+            "count": 6
+          },
+          {
+            "id": "30042",
+            "count": 4
+          }
+        ],
+        [
+          {
+            "id": "3302",
+            "count": 6
+          },
+          {
+            "id": "31083",
+            "count": 3
+          }
+        ],
+        [
+          {
+            "id": "3303",
+            "count": 6
+          },
+          {
+            "id": "31033",
+            "count": 3
+          },
+          {
+            "id": "30103",
+            "count": 2
+          }
+        ]
+      ],
+      "promotions": [
+        {
+          "maxLevel": 50,
+          "evolveCost": []
+        },
+        {
+          "maxLevel": 70,
+          "evolveCost": [
+            {
+              "id": "3261",
+              "count": 4
+            },
+            {
+              "id": "30062",
+              "count": 3
+            },
+            {
+              "id": "30022",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "maxLevel": 80,
+          "evolveCost": [
+            {
+              "id": "3263",
+              "count": 3
+            },
+            {
+              "id": "30084",
+              "count": 7
+            },
+            {
+              "id": "30093",
+              "count": 13
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "id": "skchr_papyrs_1",
+          "icon": "skchr_papyrs_1",
+          "name": "巧思乍现",
+          "masteryCosts": [
+            [
+              {
+                "id": "3303",
+                "count": 5
+              },
+              {
+                "id": "31084",
+                "count": 3
+              },
+              {
+                "id": "31043",
+                "count": 2
+              }
+            ],
+            [
+              {
+                "id": "3303",
+                "count": 6
+              },
+              {
+                "id": "31024",
+                "count": 3
+              },
+              {
+                "id": "30044",
+                "count": 5
+              }
+            ],
+            [
+              {
+                "id": "3303",
+                "count": 10
+              },
+              {
+                "id": "30135",
+                "count": 4
+              },
+              {
+                "id": "31054",
+                "count": 4
+              }
+            ]
+          ]
+        },
+        {
+          "id": "skchr_papyrs_2",
+          "icon": "skchr_papyrs_2",
+          "name": "临考发挥",
+          "masteryCosts": [
+            [
+              {
+                "id": "3303",
+                "count": 5
+              },
+              {
+                "id": "31054",
+                "count": 3
+              },
+              {
+                "id": "30053",
+                "count": 4
+              }
+            ],
+            [
+              {
+                "id": "3303",
+                "count": 6
+              },
+              {
+                "id": "30084",
+                "count": 3
+              },
+              {
+                "id": "30064",
+                "count": 4
+              }
+            ],
+            [
+              {
+                "id": "3303",
+                "count": 10
+              },
+              {
+                "id": "30145",
+                "count": 4
+              },
+              {
+                "id": "31014",
+                "count": 1
+              }
+            ]
+          ]
+        }
+      ],
+      "modules": []
+    },
+    "char_4140_lasher": {
+      "name": "Sand Reckoner",
+      "profession": "Supporter",
+      "rarity": "TIER_5",
+      "skillLevelUpCosts": [
+        [
+          {
+            "id": "3301",
+            "count": 4
+          }
+        ],
+        [
+          {
+            "id": "3301",
+            "count": 4
+          },
+          {
+            "id": "30031",
+            "count": 7
+          }
+        ],
+        [
+          {
+            "id": "3302",
+            "count": 6
+          },
+          {
+            "id": "30042",
+            "count": 3
+          }
+        ],
+        [
+          {
+            "id": "3302",
+            "count": 6
+          },
+          {
+            "id": "30052",
+            "count": 4
+          }
+        ],
+        [
+          {
+            "id": "3302",
+            "count": 6
+          },
+          {
+            "id": "30083",
+            "count": 4
+          }
+        ],
+        [
+          {
+            "id": "3303",
+            "count": 6
+          },
+          {
+            "id": "30053",
+            "count": 3
+          },
+          {
+            "id": "31043",
+            "count": 2
+          }
+        ]
+      ],
+      "promotions": [
+        {
+          "maxLevel": 50,
+          "evolveCost": []
+        },
+        {
+          "maxLevel": 70,
+          "evolveCost": [
+            {
+              "id": "3271",
+              "count": 4
+            },
+            {
+              "id": "30012",
+              "count": 8
+            },
+            {
+              "id": "30022",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "maxLevel": 80,
+          "evolveCost": [
+            {
+              "id": "3273",
+              "count": 3
+            },
+            {
+              "id": "31064",
+              "count": 9
+            },
+            {
+              "id": "31023",
+              "count": 12
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "id": "skchr_lasher_1",
+          "icon": "skchr_lasher_1",
+          "name": "上紧发条",
+          "masteryCosts": [
+            [
+              {
+                "id": "3303",
+                "count": 5
+              },
+              {
+                "id": "30094",
+                "count": 3
+              },
+              {
+                "id": "30073",
+                "count": 4
+              }
+            ],
+            [
+              {
+                "id": "3303",
+                "count": 6
+              },
+              {
+                "id": "31044",
+                "count": 3
+              },
+              {
+                "id": "30014",
+                "count": 7
+              }
+            ],
+            [
+              {
+                "id": "3303",
+                "count": 10
+              },
+              {
+                "id": "30155",
+                "count": 4
+              },
+              {
+                "id": "31024",
+                "count": 1
+              }
+            ]
+          ]
+        },
+        {
+          "id": "skchr_lasher_2",
+          "icon": "skchr_lasher_2",
+          "name": "权知轻重",
+          "masteryCosts": [
+            [
+              {
+                "id": "3303",
+                "count": 5
+              },
+              {
+                "id": "31024",
+                "count": 3
+              },
+              {
+                "id": "31073",
+                "count": 3
+              }
+            ],
+            [
+              {
+                "id": "3303",
+                "count": 6
+              },
+              {
+                "id": "31074",
+                "count": 3
+              },
+              {
+                "id": "31034",
+                "count": 5
+              }
+            ],
+            [
+              {
+                "id": "3303",
+                "count": 10
+              },
+              {
+                "id": "30135",
+                "count": 4
+              },
+              {
+                "id": "30084",
+                "count": 4
+              }
+            ]
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "type": "X",
+          "icon": "uniequip_002_lasher",
+          "description": "拉恕尔打开了那扇帮他挡住了十几年恶意的厚重房门，习惯性地抓起了挂在门后的逗宠棒，朝着黑暗的房间深处摇了摇。\n一下，两下，三下。\n刚刚装上去的宝石在黑暗中发出了一连串微弱的亮光，熟悉的身影却没有出现。拉恕尔的手僵在了空气中，他突然想起，米奥不会再像往常一样从角落里冲出来了。他长叹一口气，缓缓地将逗宠棒挂回了门后。\n“啪”，伴随着轻微的机关声，柔和的光线照亮了房间深处的黑暗，那些在米纳特哈玛仪也千金难买的宝石堆满了书架、书桌，它们折射出绚烂多彩的光，在这个大巴扎最安全、最隐秘的房间里无声地勾绘出缥缈的幻景。\n这些都是拉恕尔的家族这么多年来奋斗的“结果”，为了这些宝石不被图谋不轨的人窃取，这个房间每一块砖、每一处灰尘的情况他都了如指掌。\n不过，这都不重要了，拉恕尔所背负的使命已经可以放下了，他要离开这个让他麻木的地方。\n在那之前，他得把自己最重要的一切带走。所以，自己要带走什么来着？\n哦对了，几年前的自己和米奥沃奥的画像，在架子的后面！当时它们执意要带着自己留个成年的纪念，但在画像完成之后，沃奥执意要把画像藏在这里，理由是“谁见过这么大的循兽和云兽啊！”，气得米奥两天没吃饭。\n这个给米奥用过的抓板，在桌子下面！这是小时候米奥给自己准备的宝石枕头，睡着后米奥就趴在自己的头边，后来枕头变成了米奥的抓板，为此自己还给枕头包上了全新的毯子。\n当然，还有这根门后的逗宠棒，最早是沃奥送给自己的伸缩棍，上面原来绑着一个发条羽兽，米奥常常叼着这根棍子和年少的自己在屋子里飞奔追逐......\n除此之外，只剩下这堆对自己没什么意义的宝石。\n拉恕尔从怀里摸出了已经坏掉的发条羽兽，这是米奥无数次在床头通过表演“没有任何损伤地吞下再吐出玩具”来逗得他哈哈大笑的那个道具。但如今，表面布满抓痕的发条羽兽一动不动地躺在他的手心，看来米奥也不想继续表演这种把戏了。\n拉恕尔将华贵的宝石从纸箱中倒出，把他仅有的私人回忆放入其中。在箱子拖曳和房门碰撞的声音消散后，一切又回归了沉寂。\n“别看了，走吧。”\n在脚步声远去后，一个声音在黑暗的房间角落响起。",
+          "name": "过往留痕",
+          "cost": [
+            [
+              {
+                "id": "mod_unlock_token",
+                "count": 2
+              },
+              {
+                "id": "31074",
+                "count": 3
+              },
+              {
+                "id": "4001",
+                "count": 40000
+              }
+            ],
+            [
+              {
+                "id": "mod_unlock_token",
+                "count": 2
+              },
+              {
+                "id": "mod_update_token_1",
+                "count": 20
+              },
+              {
+                "id": "31014",
+                "count": 4
+              },
+              {
+                "id": "4001",
+                "count": 50000
+              }
+            ],
+            [
+              {
+                "id": "mod_unlock_token",
+                "count": 2
+              },
+              {
+                "id": "mod_update_token_2",
+                "count": 8
+              },
+              {
+                "id": "30094",
+                "count": 5
+              },
+              {
+                "id": "4001",
+                "count": 60000
+              }
+            ]
+          ]
+        }
+      ]
+    },
     "char_4145_ulpia": {
       "name": "Ulpianus",
       "profession": "Guard",
@@ -75601,8 +76893,8 @@
         {
           "type": "Y",
           "icon": "uniequip_002_flint",
-          "description": "准备重返阿卡胡拉时，克玛尔带上了她的单词卡。即使已经不再需要这些略显稚嫩的字迹来提示自己某些词汇的意义，她还是将单词卡挂在了腰带那日渐松垮的扣眼上。\n“这些是我从家乡带来的。剩下的那些，都是后来从外面采摘的。”曾有罗德岛干员好奇贴附在卡片上的花，克玛尔便这样回答。最初，这个在雨林里长大的女孩就是借助它们来学习其他语言的——从小时候起，这些娇小之物便让她着迷，它们如迅捷的拳般勾人眼目，又如野性的嘶嚎般唤起她的共鸣。\n从某种程度上来说，这些花朵比任何一位强大的战士都更具力量。克玛尔对它们的名字与故事早已熟稔，了解雨林之外的人如何用它们来润饰四季，又如何用它们去注解生命。原本用来描述这些花朵的、已经不再陌生的词汇成了一把把钥匙，它们挂在克玛尔的腰间，陪伴她打开泰拉的每一扇门。\n“瞧瞧，她就是我们部族中最高大最强壮的战士！她的脚印留在了我们的想象都到不了的地方！而现在，她回来了！”克玛尔掀起草席门帘，便迎头撞上了族人们叽哩哇啦的家乡话。她终于反应过来，在这片最熟悉的雨林里，自己从不需要什么“钥匙”。\n族里的小不点们都凑到克玛尔的身边来，兴致勃勃地指着单词卡上那些花的名字，要克玛尔讲讲那些雨林外面的故事。\n“雨林外面......很广阔。”\n克玛尔想起了自己学习语言时最兴奋的那个时刻——不是听懂第一个词汇时，也不是能够和煌大头目顺畅沟通时，而是她意识到自己终于能够向其他人解释清楚，雨林里的花在她的家乡代表着什么含义时。\n“......但比起听我讲，你们更应该自己亲眼去看一看！\n“然后向外面的人比划，再向外面的人讲述......让他们也了解我们的强大。”克玛尔翻到最初的那一张单词卡，上面贴着雨林里的花。它生命力顽强，适应力超群，无论在雨林、草原还是荒野，都能够以最热烈的姿态盛开。",
-          "name": "这些花朵的含义",
+          "description": "Soon to return to Acahualla, Kemar takes her flashcards with her. The handwriting's kind of immature, and she doesn't need them to remember what the words mean now, but still she hooks them on her belt, the well-worn eyelet fraying day by day.\n'These ones, I brought from home. The rest, I picked on the outside,' replied Kemar once upon a time, when a Rhodes operator was curious about the flowers on her cards. At first, they were how the girl of the rainforest learned her way through other languages—they fascinated her since she was young. Tender little plants. As enrapturing as a flying fist, and they called to her the way the wild things did.\nOn a certain level, these flowers held more strength than any brave warrior. Their names and stories were some of the earliest things Kemar knew by heart: learning how the people beyond the rainforest colored the four seasons with them, interpreted their lives with them. What describes these flowers now are no longer unfamiliar words, but a ring of keys, hung on her waist, opening each of Terra's doors alongside her.\n'Look well, it's our tribe's tallest, mightiest warrior! Her footprints are left in places even our imaginations couldn't reach! And now, she's back!' Kemar parts the grass weave over the doorway, and is met headon with the eager chatter of her tribesfolk, in her native language. Eventually, she stirs; in this most familiar of rainforests, she'll never be needing any 'key'.\nThe tribe's kiddies mill around Kemar, jabbing zealously at all the names on her flashcards' flowers, pestering her to tell all her stories from beyond the forest.\n'Beyond the rainforest... it's very wide.'\nKemar recalls the most exciting moment of her own language-learning Not the first time she understood a spoken word. Not being able to fluently converse with Big Boss Blaze. It was when she realized she could finally explain to others, coherently and clearly, the things that all the flowers of her home represented.\n'...But don't let me tell you about it. You should all go see it for yourself!\n'And then face off with the people outside, and tell them... let them know how mighty we are.' Kemar flips back to the very first flashcard, pressed with a flower of the rainforest. Its power to live is unwavering, and its power to adapt is unrivalled. Rainforest, prairie, or barrens, it will bloom more avidly, more ardently than all.",
+          "name": "Meaning of Flowers",
           "cost": [
             [
               {
@@ -80553,7 +81845,66 @@
           ]
         }
       ],
-      "modules": []
+      "modules": [
+        {
+          "type": "X",
+          "icon": "uniequip_002_glider",
+          "description": "她第一次因为外勤问题和母亲闹了别扭。\n几个月前的某次外勤过后，缝补斗篷时，母亲忽然问她能不能不再参加外勤。她试图说服母亲外勤没有危险，但母亲异常执拗。劝告演变成争执，争执积聚成一根钝刺。直到现在，佐伊·伯里斯站在陡崖前，身后是喊叫声，但她仍然想着自己这次离开罗德岛时母亲的眼神。\n追赶者渐渐逼近，佐伊从崖上一跃而下。一支弩箭从身边飞过，她突然意识到，在母亲心里，擦破的下摆意味着摔伤，破洞意味着弩箭避过了要害，而裂口可能意味着侥幸保住一条手臂。\n她第一次因为外勤问题惹了女儿不开心。\n就算女儿多次跟她解释过外勤有多安全，她仍然无法摆脱那些不祥的梦境。直到现在，她打开房门，佐伊就站在门外，破破烂烂的斗篷上沾满了灰尘。\n她突然感到后悔。自己是受照顾的病人，是女儿将一切打理得井井有条。生活早就不是佐伊为自己分忧，而是自己为佐伊分忧了。\n她招呼佐伊脱下斗篷，说自己之前想太多了。可佐伊并未接话，而是拉着母亲坐下，一处一处地讲述那些破损的来历——树枝、砂石，甚至鳞兽......一直讲到那处被弩箭撕开的裂口。\n她看见母亲冲自己轻轻摇了摇头，神色不像制止，倒像恳求。但她还是说了下去，从一个无人愿意伸手相助，差点就沦为奴隶的感染者男人说起，一直说到奴隶贩子为泄愤射出的弩箭。\n“每次外勤，我们其实都帮助了一些人，一些只是比爸爸幸运一点，没有无声无息地消失的人。而斗篷上的破损也不总是武器造成的，就像这次，就只有这一支弩箭......我一定能照顾好自己的，您......能够放心吗？”\n佐伊·伯里斯咬住嘴唇看着母亲，而母亲的脸上现出悲伤与骄傲混杂的神色。最后，母亲默默拍了拍她的头，从佐伊身上解下斗篷，把先前补好的那件披在她的肩膀上。\n缝纫机运转的声音响起，佐伊披着精心补好的斗篷，轻手轻脚地离开母亲的房间，在心里为把刀锋说成鳞兽向母亲道歉。\n而在她身后，缝纫机的声音停顿了片刻——那是母亲发现裂口平滑得不自然的瞬间——随后又像先前一样，悲伤而骄傲地响了起来。",
+          "name": "落地之后",
+          "cost": [
+            [
+              {
+                "id": "mod_unlock_token",
+                "count": 2
+              },
+              {
+                "id": "31044",
+                "count": 3
+              },
+              {
+                "id": "4001",
+                "count": 40000
+              }
+            ],
+            [
+              {
+                "id": "mod_unlock_token",
+                "count": 2
+              },
+              {
+                "id": "mod_update_token_1",
+                "count": 20
+              },
+              {
+                "id": "31054",
+                "count": 4
+              },
+              {
+                "id": "4001",
+                "count": 50000
+              }
+            ],
+            [
+              {
+                "id": "mod_unlock_token",
+                "count": 2
+              },
+              {
+                "id": "mod_update_token_2",
+                "count": 8
+              },
+              {
+                "id": "30064",
+                "count": 5
+              },
+              {
+                "id": "4001",
+                "count": 60000
+              }
+            ]
+          ]
+        }
+      ]
     },
     "char_451_robin": {
       "name": "Robin",
@@ -83920,7 +85271,66 @@
           ]
         }
       ],
-      "modules": []
+      "modules": [
+        {
+          "type": "X",
+          "icon": "uniequip_002_mberry",
+          "description": "宁宁：\n近来饮食睡眠可好？上次来信，你说自己夜里常常惊醒，这令我们十分挂念。你二姊调派到了丹燕城工作，她特意去那边的山上采摘了些补心益气的药草，准备联系信使给你寄去，你的收信地址近期会有变化吗？如果有变动，希望你早些回信将新地址告知我们。或者让你二姊拜托“春乾”的队员去联系罗德岛的办事处，你觉得哪样更稳妥些？\n上次来信中所问之事，你爸爸已帮你去打听过了。上个月山里虽然受了雪灾，但所幸无人受伤。你爸爸把你寄回来的防灾小册子揣了一路，挨家挨户给他们分发过去。学堂的老师看过那些册子，还夸赞了你的书写，说你的腕上力气大有长进呢。你爸爸说给我听的时候，我也感到高兴，可到了夜里，又总觉得心酸。宁宁，你现在离家很远，不再像从前，你坐在桌前写字背书，手酸了就跑过来让我给你揉揉......妈妈能做的似乎也只有在信里多叮嘱你两句。不过，你一直都是个聪明的孩子，现在又学了很多救人性命的学问，你肯定比妈妈更清楚要怎么照顾好自己，对吗？\n说到这里，想起有件趣事该告诉你。下周就要过节了，不光家里的小朋友们期待着粽子点心，连姥娘都很有精神头。日头好的时候，她就在躺椅上做点针线活，不过她眼神不好，穿针的时候总得喊人帮忙。有天中午我刚下班回到家，她跟我抱怨说，一上午喊了你好多遍你都不肯来。我一时不知道怎么跟她解释，真是哭笑不得。那天我请了下午的假，和姥娘一起缝了两个香囊。我从来没拿过缝衣针，缝出来的图案都歪歪扭扭的，你应该一眼就能认出来哪个是我缝的。认不出来的话，也可以闻一闻，我往里面塞了些晒干的刺五加，就是从前家里压在你枕头下面的那种草药叶子，也是能够宁心静神的，挂在床头，味道不会很浓，希望能帮你睡得安稳些。\n这封信本来说好是我写开头，你爸爸来写结尾的。不过他咬着笔杆子坐了半宿也没写下一个字，天亮信使就要来了，干脆还是我来写吧。家中一切都好，我和你爸爸的工作也很顺利，大家谈起你时，总是夸你坚强又勇敢。你上次寄来的信，我和你爸爸翻来覆去看了好多遍，可还是觉得看不够。\n如果你有空的话，可以再给家里回一封信吗？",
+          "name": "宁心静神",
+          "cost": [
+            [
+              {
+                "id": "mod_unlock_token",
+                "count": 2
+              },
+              {
+                "id": "31064",
+                "count": 3
+              },
+              {
+                "id": "4001",
+                "count": 40000
+              }
+            ],
+            [
+              {
+                "id": "mod_unlock_token",
+                "count": 2
+              },
+              {
+                "id": "mod_update_token_1",
+                "count": 20
+              },
+              {
+                "id": "31084",
+                "count": 4
+              },
+              {
+                "id": "4001",
+                "count": 50000
+              }
+            ],
+            [
+              {
+                "id": "mod_unlock_token",
+                "count": 2
+              },
+              {
+                "id": "mod_update_token_2",
+                "count": 8
+              },
+              {
+                "id": "30044",
+                "count": 5
+              },
+              {
+                "id": "4001",
+                "count": 60000
+              }
+            ]
+          ]
+        }
+      ]
     },
     "char_474_glady": {
       "name": "Gladiia",
@@ -89847,11 +91257,7 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act12mini_02",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act15side_03",
+          "stageId": "act12mini_01",
           "occPer": "USUAL"
         },
         {
@@ -89887,11 +91293,11 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act16side_01",
+          "stageId": "act15side_03",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act18side_02",
+          "stageId": "act16side_01",
           "occPer": "USUAL"
         },
         {
@@ -89919,6 +91325,18 @@
           "occPer": "USUAL"
         },
         {
+          "stageId": "act12mini_04",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act12mini_03",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act18side_02",
+          "occPer": "USUAL"
+        },
+        {
           "stageId": "act14side_01",
           "occPer": "USUAL"
         },
@@ -89928,10 +91346,6 @@
         },
         {
           "stageId": "act14side_03",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act13side_01",
           "occPer": "USUAL"
         },
         {
@@ -89967,11 +91381,11 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act12mini_04",
-          "occPer": "ALMOST"
+          "stageId": "act16d5_03",
+          "occPer": "ALWAYS"
         },
         {
-          "stageId": "act16d5_03",
+          "stageId": "act17d0_03",
           "occPer": "ALWAYS"
         },
         {
@@ -90007,27 +91421,23 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act17d0_03",
-          "occPer": "ALWAYS"
+          "stageId": "act13side_01",
+          "occPer": "USUAL"
         },
         {
-          "stageId": "act12mini_03",
-          "occPer": "ALMOST"
+          "stageId": "act12mini_02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act4d0_02",
+          "occPer": "ALWAYS"
         },
         {
           "stageId": "a001_01",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act12mini_01",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act15mini_04",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act15mini_03",
+          "stageId": "act13mini_03",
           "occPer": "ALMOST"
         },
         {
@@ -90063,11 +91473,11 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act30side_03",
-          "occPer": "USUAL"
+          "stageId": "act15mini_03",
+          "occPer": "ALMOST"
         },
         {
-          "stageId": "act30side_02",
+          "stageId": "act30side_03",
           "occPer": "USUAL"
         },
         {
@@ -90091,19 +91501,19 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act27side_01",
+          "stageId": "act31side_03",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act4d0_02",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act27side_02",
+          "stageId": "act31side_02",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act26side_01",
+          "stageId": "act31side_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act30side_02",
           "occPer": "USUAL"
         },
         {
@@ -90111,8 +91521,12 @@
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act13mini_03",
+          "stageId": "act15mini_04",
           "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act27side_02",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act13mini_02",
@@ -90139,20 +91553,20 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act27side_03",
+          "stageId": "act23side_01",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act23side_01",
+          "stageId": "act14mini_04",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act27side_01",
           "occPer": "USUAL"
         },
         {
           "stageId": "act14mini_03",
           "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act14mini_02",
-          "occPer": "USUAL"
         },
         {
           "stageId": "act14mini_01",
@@ -90179,8 +91593,16 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act14mini_04",
-          "occPer": "ALMOST"
+          "stageId": "act26side_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act27side_03",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act14mini_02",
+          "occPer": "USUAL"
         },
         {
           "stageId": "main_00-09",
@@ -90204,6 +91626,10 @@
       "stageDropList": [
         {
           "stageId": "act18side_03",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act15side_04",
           "occPer": "ALMOST"
         },
         {
@@ -90231,11 +91657,11 @@
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act15side_04",
+          "stageId": "act17d0_04",
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act17d0_04",
+          "stageId": "act17d0_06",
           "occPer": "ALMOST"
         },
         {
@@ -90263,11 +91689,11 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act17d0_06",
+          "stageId": "act16side_04",
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act16side_04",
+          "stageId": "act11d0_04",
           "occPer": "ALMOST"
         },
         {
@@ -90275,7 +91701,23 @@
           "occPer": "ALWAYS"
         },
         {
+          "stageId": "act20side_05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act31side_05",
+          "occPer": "ALMOST"
+        },
+        {
           "stageId": "act11mini_06",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act30side_05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act29side_04",
           "occPer": "ALWAYS"
         },
         {
@@ -90283,19 +91725,7 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act11d0_04",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act29side_04",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act28side_04",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act30side_05",
+          "stageId": "act15mini_05",
           "occPer": "ALWAYS"
         },
         {
@@ -90311,11 +91741,7 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act20side_05",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act15mini_05",
+          "stageId": "act28side_04",
           "occPer": "ALWAYS"
         },
         {
@@ -90395,6 +91821,10 @@
         },
         {
           "stageId": "act26side_06",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act31side_07",
           "occPer": "ALWAYS"
         },
         {
@@ -90560,8 +91990,8 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act12mini_02",
-          "occPer": "OFTEN"
+          "stageId": "act13mini_04",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act15side_02",
@@ -90596,11 +92026,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act16side_01",
+          "stageId": "act15side_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act18side_02",
+          "stageId": "act16side_01",
           "occPer": "OFTEN"
         },
         {
@@ -90632,15 +92062,19 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act15side_03",
+          "stageId": "act12mini_03",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act18side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act12mini_02",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act14side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act14side_02",
           "occPer": "OFTEN"
         },
         {
@@ -90680,8 +92114,8 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act12mini_03",
-          "occPer": "USUAL"
+          "stageId": "act14side_02",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act16d5_01",
@@ -90724,23 +92158,15 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act4d0_01",
-          "occPer": "ALWAYS"
+          "stageId": "act12mini_01",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "a001_02",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act13mini_04",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act15mini_04",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act15mini_03",
+          "stageId": "act13mini_03",
           "occPer": "USUAL"
         },
         {
@@ -90776,11 +92202,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act30side_03",
-          "occPer": "OFTEN"
+          "stageId": "act15mini_03",
+          "occPer": "USUAL"
         },
         {
-          "stageId": "act30side_02",
+          "stageId": "act30side_03",
           "occPer": "OFTEN"
         },
         {
@@ -90804,24 +92230,32 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act27side_01",
+          "stageId": "act31side_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act12mini_01",
+          "stageId": "act31side_02",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act31side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act30side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act4d0_01",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act15mini_04",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act27side_02",
           "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act26side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act13mini_03",
-          "occPer": "USUAL"
         },
         {
           "stageId": "act13mini_02",
@@ -90848,20 +92282,20 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act27side_03",
+          "stageId": "act23side_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act23side_01",
+          "stageId": "act14mini_04",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act27side_01",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act14mini_03",
           "occPer": "USUAL"
-        },
-        {
-          "stageId": "act14mini_02",
-          "occPer": "OFTEN"
         },
         {
           "stageId": "act14mini_01",
@@ -90888,8 +92322,16 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act14mini_04",
-          "occPer": "USUAL"
+          "stageId": "act26side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act27side_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act14mini_02",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "main_00-07",
@@ -90916,6 +92358,10 @@
           "occPer": "ALWAYS"
         },
         {
+          "stageId": "act16side_05",
+          "occPer": "USUAL"
+        },
+        {
           "stageId": "act15side_05",
           "occPer": "USUAL"
         },
@@ -90940,12 +92386,12 @@
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act18d3_03",
-          "occPer": "ALWAYS"
+          "stageId": "act18side_04",
+          "occPer": "USUAL"
         },
         {
-          "stageId": "act18d3_05",
-          "occPer": "USUAL"
+          "stageId": "act18d3_03",
+          "occPer": "ALWAYS"
         },
         {
           "stageId": "act18d0_03",
@@ -90976,20 +92422,16 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act16side_05",
+          "stageId": "act18d3_05",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act18side_04",
-          "occPer": "USUAL"
+          "stageId": "act6d5_04",
+          "occPer": "ALWAYS"
         },
         {
           "stageId": "a001_03",
           "occPer": "USUAL"
-        },
-        {
-          "stageId": "act19side_04",
-          "occPer": "ALWAYS"
         },
         {
           "stageId": "act13mini_06",
@@ -91024,7 +92466,11 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act6d5_04",
+          "stageId": "act31side_05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act19side_04",
           "occPer": "ALWAYS"
         },
         {
@@ -91283,11 +92729,7 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act13mini_04",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act10mini_03",
+          "stageId": "act13mini_03",
           "occPer": "USUAL"
         },
         {
@@ -91315,12 +92757,12 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act10mini_04",
-          "occPer": "USUAL"
-        },
-        {
           "stageId": "act18side_01",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act11mini_03",
+          "occPer": "ALWAYS"
         },
         {
           "stageId": "act11mini_01",
@@ -91351,8 +92793,20 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act11mini_03",
-          "occPer": "ALWAYS"
+          "stageId": "act12mini_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act12mini_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act10mini_03",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act10mini_04",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act15side_01",
@@ -91360,10 +92814,6 @@
         },
         {
           "stageId": "act15side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act15side_03",
           "occPer": "OFTEN"
         },
         {
@@ -91399,11 +92849,11 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act18d0_01",
+          "stageId": "act13mini_04",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act18d3_02",
+          "stageId": "act18d0_01",
           "occPer": "USUAL"
         },
         {
@@ -91435,27 +92885,23 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act12mini_02",
+          "stageId": "act15side_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act12mini_01",
-          "occPer": "OFTEN"
+          "stageId": "act18d3_02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act6d5_01",
+          "occPer": "ALWAYS"
         },
         {
           "stageId": "a001_01",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act13mini_03",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act15mini_03",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act15mini_02",
+          "stageId": "act13mini_01",
           "occPer": "OFTEN"
         },
         {
@@ -91479,11 +92925,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act15mini_04",
-          "occPer": "USUAL"
+          "stageId": "act29side_02",
+          "occPer": "OFTEN"
         },
         {
-          "stageId": "act29side_02",
+          "stageId": "act29side_01",
           "occPer": "OFTEN"
         },
         {
@@ -91515,19 +92961,19 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act29side_01",
+          "stageId": "act31side_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act6d5_01",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act27side_01",
+          "stageId": "act31side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act27side_03",
+          "stageId": "act31side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act15mini_02",
           "occPer": "OFTEN"
         },
         {
@@ -91535,7 +92981,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act13mini_01",
+          "stageId": "act15mini_03",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act27side_01",
           "occPer": "OFTEN"
         },
         {
@@ -91559,19 +93009,19 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act27side_02",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act14mini_04",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act14mini_02",
-          "occPer": "OFTEN"
+          "stageId": "act14mini_03",
+          "occPer": "USUAL"
         },
         {
-          "stageId": "act14mini_01",
+          "stageId": "act15mini_04",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act14mini_02",
           "occPer": "OFTEN"
         },
         {
@@ -91599,8 +93049,16 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act14mini_03",
-          "occPer": "USUAL"
+          "stageId": "act27side_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act27side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act14mini_01",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "main_00-11",
@@ -91683,12 +93141,12 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "a001_04",
-          "occPer": "USUAL"
+          "stageId": "act7d5_03",
+          "occPer": "ALWAYS"
         },
         {
-          "stageId": "act25side_04",
-          "occPer": "ALWAYS"
+          "stageId": "a001_04",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act26side_04",
@@ -91715,7 +93173,11 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act7d5_03",
+          "stageId": "act31side_06",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act25side_04",
           "occPer": "ALWAYS"
         },
         {
@@ -91958,7 +93420,7 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act13mini_04",
+          "stageId": "act13mini_02",
           "occPer": "OFTEN"
         },
         {
@@ -91990,12 +93452,12 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act10mini_03",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act11mini_04",
           "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act11mini_02",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act20side_02",
@@ -92026,15 +93488,19 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act11mini_02",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act10mini_04",
+          "stageId": "act12mini_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act15side_01",
+          "stageId": "act10mini_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act13mini_04",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act10mini_04",
           "occPer": "OFTEN"
         },
         {
@@ -92110,27 +93576,19 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act12mini_01",
+          "stageId": "act15side_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act11d0_03",
-          "occPer": "ALWAYS"
+          "stageId": "act13mini_03",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act6d5_02",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act13mini_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act15mini_03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act15mini_02",
+          "stageId": "act13mini_01",
           "occPer": "OFTEN"
         },
         {
@@ -92154,11 +93612,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act15mini_04",
+          "stageId": "act29side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act29side_02",
+          "stageId": "act29side_01",
           "occPer": "OFTEN"
         },
         {
@@ -92190,23 +93648,31 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act29side_01",
+          "stageId": "act31side_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act13mini_03",
+          "stageId": "act31side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act31side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act15mini_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act11d0_03",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act15mini_03",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act27side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act27side_03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act13mini_01",
           "occPer": "OFTEN"
         },
         {
@@ -92234,15 +93700,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act27side_02",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act14mini_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act14mini_01",
+          "stageId": "act15mini_04",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act14mini_02",
           "occPer": "OFTEN"
         },
         {
@@ -92270,7 +93736,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act14mini_02",
+          "stageId": "act27side_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act27side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act14mini_01",
           "occPer": "OFTEN"
         },
         {
@@ -92298,59 +93772,27 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act7d5_04",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act10d5_04",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act9d0_04",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act12d0_05",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act13d5_05",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act16d5_07",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act18d0_04",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act18d3_06",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act13side_07",
+          "stageId": "act20side_06",
           "occPer": "USUAL"
-        },
-        {
-          "stageId": "act13side_06",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act10mini_05",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act16side_05",
-          "occPer": "ALMOST"
         },
         {
           "stageId": "act18side_04",
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act20side_06",
+          "stageId": "act16side_05",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act10mini_05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act13side_06",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act13side_07",
           "occPer": "USUAL"
         },
         {
@@ -92358,12 +93800,44 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "a001_03",
+          "stageId": "act18d3_06",
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act22side_04",
+          "stageId": "act16d5_07",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act13d5_05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act12d0_05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act9d0_04",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act10d5_04",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act7d5_04",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act18d0_04",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act4d0_04",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "a001_03",
+          "occPer": "ALMOST"
         },
         {
           "stageId": "act23side_04",
@@ -92390,8 +93864,12 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act4d0_04",
-          "occPer": "ALWAYS"
+          "stageId": "act31side_04",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act22side_04",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "main_02-01",
@@ -92637,11 +94115,7 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act13mini_03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act10mini_03",
+          "stageId": "act13mini_02",
           "occPer": "OFTEN"
         },
         {
@@ -92669,12 +94143,12 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act10mini_04",
+          "stageId": "act18side_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act18side_01",
-          "occPer": "OFTEN"
+          "stageId": "act11mini_02",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act20side_02",
@@ -92705,19 +94179,27 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act11mini_02",
-          "occPer": "USUAL"
-        },
-        {
           "stageId": "act12mini_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act15side_01",
+          "stageId": "act13mini_04",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act15side_03",
+          "stageId": "act10mini_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act13mini_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act10mini_04",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act15side_02",
           "occPer": "OFTEN"
         },
         {
@@ -92749,11 +94231,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act15side_02",
+          "stageId": "act18d0_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act18d0_02",
+          "stageId": "act18d3_02",
           "occPer": "OFTEN"
         },
         {
@@ -92785,31 +94267,23 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act18d3_02",
+          "stageId": "act15side_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act13mini_04",
+          "stageId": "act15side_01",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act11d0_02",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act7d5_02",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act13mini_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act15mini_03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act15mini_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act15mini_01",
+          "stageId": "act22side_02",
           "occPer": "OFTEN"
         },
         {
@@ -92829,11 +94303,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act15mini_04",
+          "stageId": "act29side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act29side_02",
+          "stageId": "act29side_01",
           "occPer": "OFTEN"
         },
         {
@@ -92841,11 +94315,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act30side_02",
+          "stageId": "act15mini_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act30side_01",
+          "stageId": "act30side_02",
           "occPer": "OFTEN"
         },
         {
@@ -92865,19 +94339,19 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act29side_01",
+          "stageId": "act31side_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act11d0_02",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act27side_01",
+          "stageId": "act31side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act27side_03",
+          "stageId": "act31side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act30side_01",
           "occPer": "OFTEN"
         },
         {
@@ -92885,7 +94359,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act22side_02",
+          "stageId": "act15mini_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act15mini_04",
           "occPer": "OFTEN"
         },
         {
@@ -92909,19 +94387,19 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act27side_02",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act14mini_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act14mini_01",
+          "stageId": "act14mini_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act25side_03",
+          "stageId": "act15mini_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act14mini_01",
           "occPer": "OFTEN"
         },
         {
@@ -92945,7 +94423,19 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act14mini_02",
+          "stageId": "act27side_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act27side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act27side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act25side_03",
           "occPer": "OFTEN"
         },
         {
@@ -92973,51 +94463,7 @@
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act10d5_03",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act11d0_05",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act13d5_03",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act15d0_05",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act16d5_05",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act17d0_04",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act18d0_03",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act18d3_04",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act13side_05",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act14side_04",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act15side_04",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act10mini_06",
+          "stageId": "act19side_05",
           "occPer": "ALWAYS"
         },
         {
@@ -93025,19 +94471,63 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act19side_05",
+          "stageId": "act10mini_06",
           "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act15side_04",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act14side_04",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act13side_05",
+          "occPer": "ALMOST"
         },
         {
           "stageId": "act13mini_05",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "a001_04",
+          "stageId": "act18d3_04",
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act23side_05",
+          "stageId": "act17d0_04",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act16d5_05",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act15d0_05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act13d5_03",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act11d0_05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act10d5_03",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act18d0_03",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act4d0_03",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "a001_04",
           "occPer": "ALMOST"
         },
         {
@@ -93061,7 +94551,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act4d0_03",
+          "stageId": "act31side_04",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act23side_05",
           "occPer": "ALMOST"
         },
         {
@@ -93336,7 +94830,7 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act12mini_02",
+          "stageId": "act13mini_04",
           "occPer": "OFTEN"
         },
         {
@@ -93372,11 +94866,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act16side_01",
+          "stageId": "act15side_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act18side_02",
+          "stageId": "act16side_01",
           "occPer": "OFTEN"
         },
         {
@@ -93408,15 +94902,19 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act15side_03",
+          "stageId": "act12mini_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act18side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act12mini_02",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act14side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act14side_02",
           "occPer": "OFTEN"
         },
         {
@@ -93456,7 +94954,7 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act12mini_03",
+          "stageId": "act14side_02",
           "occPer": "OFTEN"
         },
         {
@@ -93500,23 +94998,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act7d5_01",
-          "occPer": "USUAL"
+          "stageId": "act12mini_01",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "a001_02",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act13mini_04",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act15mini_04",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act15mini_03",
+          "stageId": "act13mini_03",
           "occPer": "OFTEN"
         },
         {
@@ -93552,11 +95042,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act30side_03",
+          "stageId": "act15mini_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act30side_02",
+          "stageId": "act30side_03",
           "occPer": "OFTEN"
         },
         {
@@ -93580,23 +95070,31 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act27side_01",
+          "stageId": "act31side_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act12mini_01",
+          "stageId": "act31side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act31side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act30side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act7d5_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act15mini_04",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act27side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act26side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act13mini_03",
           "occPer": "OFTEN"
         },
         {
@@ -93624,19 +95122,19 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act27side_03",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act23side_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act14mini_03",
+          "stageId": "act14mini_04",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act14mini_02",
+          "stageId": "act27side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act14mini_03",
           "occPer": "OFTEN"
         },
         {
@@ -93664,7 +95162,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act14mini_04",
+          "stageId": "act26side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act27side_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act14mini_02",
           "occPer": "OFTEN"
         },
         {
@@ -93690,6 +95196,10 @@
         {
           "stageId": "act19side_05",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act20side_06",
+          "occPer": "ALMOST"
         },
         {
           "stageId": "act11mini_05",
@@ -93720,11 +95230,11 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act20side_06",
-          "occPer": "ALMOST"
+          "stageId": "act18d0_05",
+          "occPer": "USUAL"
         },
         {
-          "stageId": "act18d0_05",
+          "stageId": "act17d0_06",
           "occPer": "USUAL"
         },
         {
@@ -93756,11 +95266,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act17d0_06",
-          "occPer": "USUAL"
+          "stageId": "act20side_04",
+          "occPer": "OFTEN"
         },
         {
-          "stageId": "act20side_04",
+          "stageId": "act11d0_05",
           "occPer": "OFTEN"
         },
         {
@@ -93768,15 +95278,19 @@
           "occPer": "ALMOST"
         },
         {
+          "stageId": "act12mini_05",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act31side_06",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "act19side_03",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act16mini_06",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act11d0_05",
+          "stageId": "act30side_04",
           "occPer": "OFTEN"
         },
         {
@@ -93788,11 +95302,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act26side_05",
-          "occPer": "OFTEN"
+          "stageId": "act16mini_06",
+          "occPer": "ALMOST"
         },
         {
-          "stageId": "act30side_04",
+          "stageId": "act25side_04",
           "occPer": "OFTEN"
         },
         {
@@ -93808,11 +95322,7 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act12mini_05",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act25side_04",
+          "stageId": "act26side_05",
           "occPer": "OFTEN"
         },
         {
@@ -94076,6 +95586,10 @@
         },
         {
           "stageId": "act29side_09",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act31side_08",
           "occPer": "ALMOST"
         },
         {
@@ -94591,6 +96105,10 @@
         },
         {
           "stageId": "act26side_08",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act31side_09",
           "occPer": "USUAL"
         },
         {
