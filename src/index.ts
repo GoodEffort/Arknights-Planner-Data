@@ -29,7 +29,7 @@ function readJson(commitHashes: { yostar: string, cn: string }): JSONData | unde
 
 function createFolders() {
 
-    const folders = ["operators", "items", "skills", "other"];
+    const folders = ["operators", "items", "skills", "modules", "other"];
 
     const jsonDataPath = `${__dirname}/../jsondata/`;
     const prodDataPath = `${__dirname}/../production-files/`;
@@ -181,6 +181,16 @@ async function getItemPicture(itemIds: string[]) {
     await getImages(sources, filename, itemIds);
 }
 
+async function getModulePicture(moduleIds: string[]) {
+    const sources = [
+        "https://raw.githubusercontent.com/ArknightsAssets/ArknightsAssets/cn/assets/torappu/dynamicassets/arts/ui/uniequipimg/"
+    ];
+
+    const filename = `${__dirname}/../images/modules/`;
+
+    await getImages(sources, filename, moduleIds);
+}
+
 async function getOtherPictures() {
     const filename = `${__dirname}/../images/other/`;
 
@@ -253,6 +263,13 @@ async function convertImagesToWebp(quality = 80) {
         ]
     });
 
+    await imagemin([`${__dirname}/../images/modules/*.png`], {
+        destination: `${__dirname}/../production-files/images/modules/`,
+        plugins: [
+            imageminWebp({ quality })
+        ]
+    });
+
     await imagemin([`${__dirname}/../images/other/*.png`], {
         destination: `${__dirname}/../production-files/images/other/`,
         plugins: [
@@ -305,6 +322,8 @@ async function main() {
     const itemIcons = Object.values(data.items).map(i => i.iconId);
 
     await getItemPicture(itemIcons);
+    const moduleIcons = Object.values(data.operators).map(o => o.modules.map(x => x.icon)).flat();
+    await getModulePicture(moduleIcons);
     await getOtherPictures();
 
     console.log("Converting images to webp");

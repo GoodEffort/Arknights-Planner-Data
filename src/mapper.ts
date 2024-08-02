@@ -36,12 +36,13 @@ const mapSkills = ({ skillId, levelUpCostCond }: RawSkillData, skillDict: { [key
 };
 
 const mapModules = (modules: RawModuleData[]): Module[] => {
-    return modules.map(({ uniEquipId, typeName2, uniEquipIcon, uniEquipDesc, itemCost, uniEquipName }: RawModuleData): Module => {
+    return modules.map(({ uniEquipId, typeName1, typeName2, uniEquipIcon, uniEquipDesc, itemCost, uniEquipName }: RawModuleData): Module => {
         if (typeName2 === null) {
             throw new Error("typeName2 is null: " + uniEquipId);
         }
 
         return {
+            typeName1,
             type: typeName2,
             icon: uniEquipIcon,
             description: uniEquipDesc,
