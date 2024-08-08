@@ -81,9 +81,9 @@ jobs:
         - name: Install dependencies
           run: npm ci
         - name: Build Scripts
-          run: npm run build
+          run: npm run build-typescript
         - name: Rebuild data
-          run: npm run start
+          run: npm run build-data
   
         - name: Upload build files
           uses: actions/upload-artifact@v3
