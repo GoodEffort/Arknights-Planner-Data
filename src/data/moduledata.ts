@@ -9,14 +9,15 @@ const getModuledata = async () => {
 
     const combinedEquipDict = { ...cn_data.equipDict, ...data.equipDict };
 
-    const ModuleDict: { [key: string]: Module[] } = {};
+    const ModuleDict: { [key: string]: (Module & { cnOnly: boolean })[] } = {};
 
     for (const characterKey in cn_data.charEquip) {
         const moduleKeys = cn_data.charEquip[characterKey];
         ModuleDict[characterKey] = [];
         for (const moduleKey of moduleKeys) {
-            const module = combinedEquipDict[moduleKey];
+            const module: Module & { cnOnly: boolean; } = { cnOnly: false, ...combinedEquipDict[moduleKey] };
             if (module.type !== "INITIAL") {
+                module.cnOnly = !data.equipDict[moduleKey];
                 ModuleDict[characterKey].push(module);
             }
         }

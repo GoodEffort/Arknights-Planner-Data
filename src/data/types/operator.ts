@@ -170,6 +170,7 @@ type CharacterPatch = {
 
 type RawOperatorData = {
     id: keyof Character_Table & string;
+    cnOnly: boolean;
     name: string;
     description: string;
     canUseGeneralPotentialItem: boolean;

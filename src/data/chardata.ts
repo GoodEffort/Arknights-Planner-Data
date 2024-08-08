@@ -29,6 +29,53 @@ const getChardata = async () => {
         cn_patch_response.json()
     ]);
 
+    const validateData = (data: Character_Table) => {
+        if (!data) {
+            throw new Error("Invalid Character data");
+        }
+
+        for (const operatorId in data) {
+            const operator = data[operatorId];
+
+            if (!operator.appellation && operator.appellation !== "") {
+                throw new Error("Invalid Character data: appellation is missing");
+            }
+
+            if (!operator.name) {
+                throw new Error("Invalid Character data: name is missing");
+            }
+
+            if (!operator.profession) {
+                throw new Error("Invalid Character data: profession is missing");
+            }
+
+            if (!operator.rarity) {
+                throw new Error("Invalid Character data: rarity is missing");
+            }
+
+            if (!Array.isArray(operator.phases)) {
+                throw new Error("Invalid Character data: phases is not an array");
+            }
+
+            if (!Array.isArray(operator.skills)) {
+                throw new Error("Invalid Character data: skills is not an array");
+            }
+
+            if (!Array.isArray(operator.allSkillLvlup)) {
+                throw new Error("Invalid Character data: allSkillLvlup is not an array");
+            }
+
+            for (const phase of operator.phases) {
+                if (isNaN(phase.maxLevel)) {
+                    throw new Error("Invalid Character data: maxLevel is missing");
+                }
+            }
+        }
+    }
+
+    validateData(charData);
+    validateData(cn_charData);
+
     // get English name from the appellation field
     for (const key in cn_charData) {
         let character = cn_charData[key];
@@ -65,6 +112,7 @@ const getChardata = async () => {
             return {
                 id,
                 ...char,
+                cnOnly: !charData[id],
                 name: char.name[0] == "'" ? char.name.slice(1, char.name.length - 1) : char.name,
             }
         })

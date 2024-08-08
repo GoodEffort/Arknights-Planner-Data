@@ -29,6 +29,60 @@ const getBuildingdata = async () => {
 
     const [data, cn_data]: Building_Table[] = await Promise.all([response.json(), cn_response.json()]);
 
+    // in case the schema changes
+    const validateData = (data: Building_Table) => {
+        if (!data) {
+            throw new Error("Invalid Workshop data");
+        }
+
+        if (!data.workshopFormulas) {
+            throw new Error("Invalid Workshop data: workshopFormulas is missing");
+        }
+
+        if (!data.manufactFormulas) {
+            throw new Error("Invalid Workshop data: manufactFormulas is missing");
+        }
+
+        for (const key in data.workshopFormulas) {
+            const formula = data.workshopFormulas[key];
+
+            if (!formula.itemId) {
+                throw new Error("Invalid Workshop data: itemId is missing");
+            }
+
+            if (!Array.isArray(formula.costs)) {
+                throw new Error("Invalid Workshop data: costs is missing");
+            }
+
+            if (isNaN(formula.count)) {
+                throw new Error("Invalid Workshop data: count is missing");
+            }
+
+            if (isNaN(formula.goldCost)) {
+                throw new Error("Invalid Workshop data: goldCost is missing");
+            }
+        }
+
+        for (const key in data.manufactFormulas) {
+            const formula = data.manufactFormulas[key];
+
+            if (!formula.itemId) {
+                throw new Error("Invalid Workshop data: itemId is missing");
+            }
+
+            if (!Array.isArray(formula.costs)) {
+                throw new Error("Invalid Workshop data: costs is missing");
+            }
+
+            if (isNaN(formula.count)) {
+                throw new Error("Invalid Workshop data: count is missing");
+            }
+        }
+    }
+
+    validateData(data);
+    validateData(cn_data);
+
     const combinedData = Object.assign(cn_data, data);
 
     const { workshopFormulas, manufactFormulas } = combinedData;
