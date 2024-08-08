@@ -5,6 +5,7 @@
   },
   "operators": {
     "char_002_amiya": {
+      "cnOnly": false,
       "name": "Amiya",
       "profession": "Caster",
       "rarity": "TIER_5",
@@ -261,6 +262,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "CCR",
           "type": "Y",
           "icon": "uniequip_002_amiya",
@@ -322,6 +324,7 @@
       ]
     },
     "char_003_kalts": {
+      "cnOnly": false,
       "name": "Kal'tsit",
       "profession": "Medic",
       "rarity": "TIER_6",
@@ -586,6 +589,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PHY",
           "type": "X",
           "icon": "uniequip_002_kalts",
@@ -645,6 +649,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "PHY",
           "type": "Y",
           "icon": "uniequip_003_kalts",
@@ -704,6 +709,7 @@
           ]
         },
         {
+          "cnOnly": true,
           "typeName1": "ISW",
           "type": "A",
           "icon": "uniequip_004_kalts",
@@ -733,6 +739,7 @@
       ]
     },
     "char_009_12fce": {
+      "cnOnly": false,
       "name": "12F",
       "profession": "Caster",
       "rarity": "TIER_2",
@@ -747,6 +754,7 @@
       "modules": []
     },
     "char_010_chen": {
+      "cnOnly": false,
       "name": "Ch'en",
       "profession": "Guard",
       "rarity": "TIER_6",
@@ -1011,6 +1019,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SWO",
           "type": "X",
           "icon": "uniequip_002_chen",
@@ -1070,6 +1079,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "SWO",
           "type": "Y",
           "icon": "uniequip_003_chen",
@@ -1131,6 +1141,7 @@
       ]
     },
     "char_017_huang": {
+      "cnOnly": false,
       "name": "Blaze",
       "profession": "Guard",
       "rarity": "TIER_6",
@@ -1395,6 +1406,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "CEN",
           "type": "X",
           "icon": "uniequip_002_huang",
@@ -1456,6 +1468,7 @@
       ]
     },
     "char_1001_amiya2": {
+      "cnOnly": true,
       "name": "Amiya - Guard",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -1664,6 +1677,7 @@
       "modules": []
     },
     "char_101_sora": {
+      "cnOnly": false,
       "name": "Sora",
       "profession": "Supporter",
       "rarity": "TIER_5",
@@ -1872,6 +1886,7 @@
       "modules": []
     },
     "char_1011_lava2": {
+      "cnOnly": false,
       "name": "Lava the Purgatory",
       "profession": "Caster",
       "rarity": "TIER_5",
@@ -2079,6 +2094,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SPC",
           "type": "X",
           "icon": "uniequip_002_lava2",
@@ -2140,6 +2156,7 @@
       ]
     },
     "char_1012_skadi2": {
+      "cnOnly": false,
       "name": "Skadi the Corrupting Heart",
       "profession": "Supporter",
       "rarity": "TIER_6",
@@ -2405,6 +2422,7 @@
       "modules": []
     },
     "char_1013_chen2": {
+      "cnOnly": false,
       "name": "Ch'en the Holungday",
       "profession": "Sniper",
       "rarity": "TIER_6",
@@ -2669,6 +2687,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "RPR",
           "type": "X",
           "icon": "uniequip_002_chen2",
@@ -2730,6 +2749,7 @@
       ]
     },
     "char_1014_nearl2": {
+      "cnOnly": false,
       "name": "Nearl the Radiant Knight",
       "profession": "Guard",
       "rarity": "TIER_6",
@@ -2994,6 +3014,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "DRE",
           "type": "X",
           "icon": "uniequip_002_nearl2",
@@ -3053,6 +3074,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "DRE",
           "type": "Y",
           "icon": "uniequip_003_nearl2",
@@ -3114,6 +3136,7 @@
       ]
     },
     "char_1016_agoat2": {
+      "cnOnly": false,
       "name": "Eyjafjalla the Hvít Aska",
       "profession": "Medic",
       "rarity": "TIER_6",
@@ -3378,6 +3401,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "WDM",
           "type": "X",
           "icon": "uniequip_002_agoat2",
@@ -3439,6 +3463,7 @@
       ]
     },
     "char_102_texas": {
+      "cnOnly": false,
       "name": "Texas",
       "profession": "Vanguard",
       "rarity": "TIER_5",
@@ -3646,6 +3671,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SOL",
           "type": "Y",
           "icon": "uniequip_002_texas",
@@ -3707,6 +3733,7 @@
       ]
     },
     "char_1020_reed2": {
+      "cnOnly": false,
       "name": "Reed the Flame Shadow",
       "profession": "Medic",
       "rarity": "TIER_6",
@@ -3971,6 +3998,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "INC",
           "type": "X",
           "icon": "uniequip_002_reed2",
@@ -4032,6 +4060,7 @@
       ]
     },
     "char_1021_kroos2": {
+      "cnOnly": false,
       "name": "Kroos the Keen Glint",
       "profession": "Sniper",
       "rarity": "TIER_5",
@@ -4239,6 +4268,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "MAR",
           "type": "X",
           "icon": "uniequip_002_kroos2",
@@ -4300,6 +4330,7 @@
       ]
     },
     "char_1023_ghost2": {
+      "cnOnly": false,
       "name": "Specter the Unchained",
       "profession": "Specialist",
       "rarity": "TIER_6",
@@ -4564,6 +4595,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PUM",
           "type": "X",
           "icon": "uniequip_002_ghost2",
@@ -4623,6 +4655,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "PUM",
           "type": "Y",
           "icon": "uniequip_003_ghost2",
@@ -4684,6 +4717,7 @@
       ]
     },
     "char_1024_hbisc2": {
+      "cnOnly": false,
       "name": "Hibiscus the Purifier",
       "profession": "Medic",
       "rarity": "TIER_5",
@@ -4891,6 +4925,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "INC",
           "type": "X",
           "icon": "uniequip_002_hbisc2",
@@ -4952,6 +4987,7 @@
       ]
     },
     "char_1026_gvial2": {
+      "cnOnly": false,
       "name": "Gavial the Invincible",
       "profession": "Guard",
       "rarity": "TIER_6",
@@ -5216,6 +5252,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "CEN",
           "type": "X",
           "icon": "uniequip_002_gvial2",
@@ -5277,6 +5314,7 @@
       ]
     },
     "char_1027_greyy2": {
+      "cnOnly": false,
       "name": "Greyy the Lightningbearer",
       "profession": "Sniper",
       "rarity": "TIER_5",
@@ -5484,6 +5522,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "BOM",
           "type": "X",
           "icon": "uniequip_002_greyy2",
@@ -5545,6 +5584,7 @@
       ]
     },
     "char_1028_texas2": {
+      "cnOnly": false,
       "name": "Texas the Omertosa",
       "profession": "Specialist",
       "rarity": "TIER_6",
@@ -5809,6 +5849,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "EXE",
           "type": "Y",
           "icon": "uniequip_002_texas2",
@@ -5870,6 +5911,7 @@
       ]
     },
     "char_1029_yato2": {
+      "cnOnly": false,
       "name": "Kirin R Yato",
       "profession": "Specialist",
       "rarity": "TIER_6",
@@ -6134,6 +6176,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "EXE",
           "type": "X",
           "icon": "uniequip_002_yato2",
@@ -6195,6 +6238,7 @@
       ]
     },
     "char_103_angel": {
+      "cnOnly": false,
       "name": "Exusiai",
       "profession": "Sniper",
       "rarity": "TIER_6",
@@ -6459,6 +6503,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "MAR",
           "type": "X",
           "icon": "uniequip_002_angel",
@@ -6520,6 +6565,7 @@
       ]
     },
     "char_1030_noirc2": {
+      "cnOnly": false,
       "name": "Rathalos S Noir Corne",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -6727,6 +6773,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SBL",
           "type": "X",
           "icon": "uniequip_002_noirc2",
@@ -6788,6 +6835,7 @@
       ]
     },
     "char_1031_slent2": {
+      "cnOnly": false,
       "name": "Silence the Paradigmatic",
       "profession": "Supporter",
       "rarity": "TIER_6",
@@ -7052,6 +7100,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "BLS",
           "type": "X",
           "icon": "uniequip_002_slent2",
@@ -7113,6 +7162,7 @@
       ]
     },
     "char_1032_excu2": {
+      "cnOnly": false,
       "name": "Executor the Ex Foedere",
       "profession": "Guard",
       "rarity": "TIER_6",
@@ -7377,6 +7427,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "REA",
           "type": "X",
           "icon": "uniequip_002_excu2",
@@ -7438,6 +7489,7 @@
       ]
     },
     "char_1033_swire2": {
+      "cnOnly": false,
       "name": "Swire the Elegant Wit",
       "profession": "Specialist",
       "rarity": "TIER_6",
@@ -7702,6 +7754,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "MER",
           "type": "X",
           "icon": "uniequip_002_swire2",
@@ -7761,6 +7814,7 @@
           ]
         },
         {
+          "cnOnly": true,
           "typeName1": "MER",
           "type": "Y",
           "icon": "uniequip_003_swire2",
@@ -7822,6 +7876,7 @@
       ]
     },
     "char_1034_jesca2": {
+      "cnOnly": false,
       "name": "Jessica the Liberated",
       "profession": "Defender",
       "rarity": "TIER_6",
@@ -8086,6 +8141,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "SPT",
           "type": "X",
           "icon": "uniequip_002_jesca2",
@@ -8147,6 +8203,7 @@
       ]
     },
     "char_1035_wisdel": {
+      "cnOnly": true,
       "name": "Wiš'adel",
       "profession": "Sniper",
       "rarity": "TIER_6",
@@ -8411,6 +8468,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "BOM",
           "type": "X",
           "icon": "uniequip_002_wisdel",
@@ -8472,6 +8530,7 @@
       ]
     },
     "char_1036_fang2": {
+      "cnOnly": true,
       "name": "Fang the Fire-sharpened",
       "profession": "Vanguard",
       "rarity": "TIER_5",
@@ -8679,6 +8738,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "CHG",
           "type": "X",
           "icon": "uniequip_002_fang2",
@@ -8740,6 +8800,7 @@
       ]
     },
     "char_1037_amiya3": {
+      "cnOnly": true,
       "name": "Amiya - Medic",
       "profession": "Medic",
       "rarity": "TIER_5",
@@ -8947,6 +9008,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "INC",
           "type": "X",
           "icon": "uniequip_002_amiya3",
@@ -9008,6 +9070,7 @@
       ]
     },
     "char_106_franka": {
+      "cnOnly": false,
       "name": "Franka",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -9215,6 +9278,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "DRE",
           "type": "X",
           "icon": "uniequip_002_franka",
@@ -9276,6 +9340,7 @@
       ]
     },
     "char_107_liskam": {
+      "cnOnly": false,
       "name": "Liskarm",
       "profession": "Defender",
       "rarity": "TIER_5",
@@ -9483,6 +9548,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "SPT",
           "type": "X",
           "icon": "uniequip_002_liskam",
@@ -9544,6 +9610,7 @@
       ]
     },
     "char_108_silent": {
+      "cnOnly": false,
       "name": "Silence",
       "profession": "Medic",
       "rarity": "TIER_5",
@@ -9751,6 +9818,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PHY",
           "type": "Y",
           "icon": "uniequip_002_silent",
@@ -9812,6 +9880,7 @@
       ]
     },
     "char_109_fmout": {
+      "cnOnly": false,
       "name": "Gitano",
       "profession": "Caster",
       "rarity": "TIER_4",
@@ -10015,6 +10084,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SPC",
           "type": "X",
           "icon": "uniequip_002_fmout",
@@ -10076,6 +10146,7 @@
       ]
     },
     "char_110_deepcl": {
+      "cnOnly": false,
       "name": "Deepcolor",
       "profession": "Supporter",
       "rarity": "TIER_4",
@@ -10279,6 +10350,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SUM",
           "type": "Y",
           "icon": "uniequip_002_deepcl",
@@ -10340,6 +10412,7 @@
       ]
     },
     "char_112_siege": {
+      "cnOnly": false,
       "name": "Siege",
       "profession": "Vanguard",
       "rarity": "TIER_6",
@@ -10604,6 +10677,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SOL",
           "type": "X",
           "icon": "uniequip_002_siege",
@@ -10663,6 +10737,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "SOL",
           "type": "Y",
           "icon": "uniequip_003_siege",
@@ -10724,6 +10799,7 @@
       ]
     },
     "char_113_cqbw": {
+      "cnOnly": false,
       "name": "W",
       "profession": "Sniper",
       "rarity": "TIER_6",
@@ -10988,6 +11064,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "ART",
           "type": "X",
           "icon": "uniequip_002_cqbw",
@@ -11047,6 +11124,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "ART",
           "type": "Y",
           "icon": "uniequip_003_cqbw",
@@ -11108,6 +11186,7 @@
       ]
     },
     "char_115_headbr": {
+      "cnOnly": false,
       "name": "Zima",
       "profession": "Vanguard",
       "rarity": "TIER_5",
@@ -11315,6 +11394,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SOL",
           "type": "X",
           "icon": "uniequip_002_headbr",
@@ -11376,6 +11456,7 @@
       ]
     },
     "char_117_myrrh": {
+      "cnOnly": false,
       "name": "Myrrh",
       "profession": "Medic",
       "rarity": "TIER_4",
@@ -11579,6 +11660,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PHY",
           "type": "X",
           "icon": "uniequip_002_myrrh",
@@ -11640,6 +11722,7 @@
       ]
     },
     "char_118_yuki": {
+      "cnOnly": false,
       "name": "Shirayuki",
       "profession": "Sniper",
       "rarity": "TIER_4",
@@ -11843,6 +11926,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "ART",
           "type": "Y",
           "icon": "uniequip_002_yuki",
@@ -11904,6 +11988,7 @@
       ]
     },
     "char_120_hibisc": {
+      "cnOnly": false,
       "name": "Hibiscus",
       "profession": "Medic",
       "rarity": "TIER_3",
@@ -11986,6 +12071,7 @@
       "modules": []
     },
     "char_121_lava": {
+      "cnOnly": false,
       "name": "Lava",
       "profession": "Caster",
       "rarity": "TIER_3",
@@ -12068,6 +12154,7 @@
       "modules": []
     },
     "char_122_beagle": {
+      "cnOnly": false,
       "name": "Beagle",
       "profession": "Defender",
       "rarity": "TIER_3",
@@ -12150,6 +12237,7 @@
       "modules": []
     },
     "char_123_fang": {
+      "cnOnly": false,
       "name": "Fang",
       "profession": "Vanguard",
       "rarity": "TIER_3",
@@ -12232,6 +12320,7 @@
       "modules": []
     },
     "char_124_kroos": {
+      "cnOnly": false,
       "name": "Kroos",
       "profession": "Sniper",
       "rarity": "TIER_3",
@@ -12314,6 +12403,7 @@
       "modules": []
     },
     "char_126_shotst": {
+      "cnOnly": false,
       "name": "Meteor",
       "profession": "Sniper",
       "rarity": "TIER_4",
@@ -12517,6 +12607,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "MAR",
           "type": "X",
           "icon": "uniequip_002_shotst",
@@ -12578,6 +12669,7 @@
       ]
     },
     "char_127_estell": {
+      "cnOnly": false,
       "name": "Estelle",
       "profession": "Guard",
       "rarity": "TIER_4",
@@ -12781,6 +12873,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "CEN",
           "type": "Y",
           "icon": "uniequip_002_estell",
@@ -12842,6 +12935,7 @@
       ]
     },
     "char_128_plosis": {
+      "cnOnly": false,
       "name": "Ptilopsis",
       "profession": "Medic",
       "rarity": "TIER_5",
@@ -13049,6 +13143,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "RIN",
           "type": "X",
           "icon": "uniequip_002_plosis",
@@ -13110,6 +13205,7 @@
       ]
     },
     "char_129_bluep": {
+      "cnOnly": false,
       "name": "Blue Poison",
       "profession": "Sniper",
       "rarity": "TIER_5",
@@ -13317,6 +13413,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "MAR",
           "type": "Y",
           "icon": "uniequip_002_bluep",
@@ -13378,6 +13475,7 @@
       ]
     },
     "char_130_doberm": {
+      "cnOnly": false,
       "name": "Dobermann",
       "profession": "Guard",
       "rarity": "TIER_4",
@@ -13581,6 +13679,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "INS",
           "type": "Y",
           "icon": "uniequip_002_doberm",
@@ -13642,6 +13741,7 @@
       ]
     },
     "char_131_flameb": {
+      "cnOnly": false,
       "name": "Flamebringer",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -13849,6 +13949,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "DRE",
           "type": "Y",
           "icon": "uniequip_002_flameb",
@@ -13910,6 +14011,7 @@
       ]
     },
     "char_133_mm": {
+      "cnOnly": false,
       "name": "May",
       "profession": "Sniper",
       "rarity": "TIER_4",
@@ -14113,6 +14215,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "MAR",
           "type": "X",
           "icon": "uniequip_002_mm",
@@ -14174,6 +14277,7 @@
       ]
     },
     "char_134_ifrit": {
+      "cnOnly": false,
       "name": "Ifrit",
       "profession": "Caster",
       "rarity": "TIER_6",
@@ -14438,6 +14542,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "BLA",
           "type": "X",
           "icon": "uniequip_002_ifrit",
@@ -14497,6 +14602,7 @@
           ]
         },
         {
+          "cnOnly": true,
           "typeName1": "BLA",
           "type": "D",
           "icon": "uniequip_003_ifrit",
@@ -14558,6 +14664,7 @@
       ]
     },
     "char_135_halo": {
+      "cnOnly": false,
       "name": "Astgenne",
       "profession": "Caster",
       "rarity": "TIER_5",
@@ -14765,6 +14872,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "CHA",
           "type": "Y",
           "icon": "uniequip_002_halo",
@@ -14826,6 +14934,7 @@
       ]
     },
     "char_136_hsguma": {
+      "cnOnly": false,
       "name": "Hoshiguma",
       "profession": "Defender",
       "rarity": "TIER_6",
@@ -15090,6 +15199,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PRO",
           "type": "Y",
           "icon": "uniequip_002_hsguma",
@@ -15149,6 +15259,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "PRO",
           "type": "X",
           "icon": "uniequip_003_hsguma",
@@ -15210,6 +15321,7 @@
       ]
     },
     "char_137_brownb": {
+      "cnOnly": false,
       "name": "Beehunter",
       "profession": "Guard",
       "rarity": "TIER_4",
@@ -15413,6 +15525,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "FGT",
           "type": "Y",
           "icon": "uniequip_002_brownb",
@@ -15474,6 +15587,7 @@
       ]
     },
     "char_140_whitew": {
+      "cnOnly": false,
       "name": "Lappland",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -15681,6 +15795,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "LOR",
           "type": "X",
           "icon": "uniequip_002_whitew",
@@ -15742,6 +15857,7 @@
       ]
     },
     "char_141_nights": {
+      "cnOnly": false,
       "name": "Haze",
       "profession": "Caster",
       "rarity": "TIER_4",
@@ -15945,6 +16061,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "CCR",
           "type": "X",
           "icon": "uniequip_002_nights",
@@ -16006,6 +16123,7 @@
       ]
     },
     "char_143_ghost": {
+      "cnOnly": false,
       "name": "Specter",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -16213,6 +16331,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "CEN",
           "type": "X",
           "icon": "uniequip_002_ghost",
@@ -16274,6 +16393,7 @@
       ]
     },
     "char_144_red": {
+      "cnOnly": false,
       "name": "Projekt Red",
       "profession": "Specialist",
       "rarity": "TIER_5",
@@ -16481,6 +16601,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "EXE",
           "type": "Y",
           "icon": "uniequip_002_red",
@@ -16542,6 +16663,7 @@
       ]
     },
     "char_145_prove": {
+      "cnOnly": false,
       "name": "Provence",
       "profession": "Sniper",
       "rarity": "TIER_5",
@@ -16749,6 +16871,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "ARC",
           "type": "X",
           "icon": "uniequip_002_prove",
@@ -16810,6 +16933,7 @@
       ]
     },
     "char_147_shining": {
+      "cnOnly": false,
       "name": "Shining",
       "profession": "Medic",
       "rarity": "TIER_6",
@@ -17074,6 +17198,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PHY",
           "type": "Y",
           "icon": "uniequip_002_shining",
@@ -17133,6 +17258,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "PHY",
           "type": "X",
           "icon": "uniequip_003_shining",
@@ -17194,6 +17320,7 @@
       ]
     },
     "char_148_nearl": {
+      "cnOnly": false,
       "name": "Nearl",
       "profession": "Defender",
       "rarity": "TIER_5",
@@ -17401,6 +17528,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "GUA",
           "type": "X",
           "icon": "uniequip_002_nearl",
@@ -17462,6 +17590,7 @@
       ]
     },
     "char_149_scave": {
+      "cnOnly": false,
       "name": "Scavenger",
       "profession": "Vanguard",
       "rarity": "TIER_4",
@@ -17665,6 +17794,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SOL",
           "type": "X",
           "icon": "uniequip_002_scave",
@@ -17726,6 +17856,7 @@
       ]
     },
     "char_150_snakek": {
+      "cnOnly": false,
       "name": "Cuora",
       "profession": "Defender",
       "rarity": "TIER_4",
@@ -17929,6 +18060,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PRO",
           "type": "X",
           "icon": "uniequip_002_snakek",
@@ -17990,6 +18122,7 @@
       ]
     },
     "char_151_myrtle": {
+      "cnOnly": false,
       "name": "Myrtle",
       "profession": "Vanguard",
       "rarity": "TIER_4",
@@ -18193,6 +18326,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "BEA",
           "type": "X",
           "icon": "uniequip_002_myrtle",
@@ -18254,6 +18388,7 @@
       ]
     },
     "char_154_morgan": {
+      "cnOnly": false,
       "name": "Morgan",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -18461,6 +18596,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "DRE",
           "type": "X",
           "icon": "uniequip_002_morgan",
@@ -18522,6 +18658,7 @@
       ]
     },
     "char_155_tiger": {
+      "cnOnly": false,
       "name": "Indra",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -18729,6 +18866,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "FGT",
           "type": "Y",
           "icon": "uniequip_002_tiger",
@@ -18790,6 +18928,7 @@
       ]
     },
     "char_157_dagda": {
+      "cnOnly": false,
       "name": "Dagda",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -18997,6 +19136,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "FGT",
           "type": "Y",
           "icon": "uniequip_002_dagda",
@@ -19058,6 +19198,7 @@
       ]
     },
     "char_158_milu": {
+      "cnOnly": false,
       "name": "Firewatch",
       "profession": "Sniper",
       "rarity": "TIER_5",
@@ -19265,6 +19406,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "DEA",
           "type": "Y",
           "icon": "uniequip_002_milu",
@@ -19326,6 +19468,7 @@
       ]
     },
     "char_159_peacok": {
+      "cnOnly": false,
       "name": "Conviction",
       "profession": "Guard",
       "rarity": "TIER_4",
@@ -19529,6 +19672,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "DRE",
           "type": "X",
           "icon": "uniequip_002_peacok",
@@ -19590,6 +19734,7 @@
       ]
     },
     "char_163_hpsts": {
+      "cnOnly": false,
       "name": "Vulcan",
       "profession": "Defender",
       "rarity": "TIER_5",
@@ -19797,6 +19942,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "UNY",
           "type": "X",
           "icon": "uniequip_002_hpsts",
@@ -19858,6 +20004,7 @@
       ]
     },
     "char_164_nightm": {
+      "cnOnly": false,
       "name": "Nightmare",
       "profession": "Caster",
       "rarity": "TIER_5",
@@ -20065,6 +20212,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "CCR",
           "type": "Y",
           "icon": "uniequip_002_nightm",
@@ -20126,6 +20274,7 @@
       ]
     },
     "char_166_skfire": {
+      "cnOnly": false,
       "name": "Skyfire",
       "profession": "Caster",
       "rarity": "TIER_5",
@@ -20333,6 +20482,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SPC",
           "type": "Y",
           "icon": "uniequip_002_skfire",
@@ -20394,6 +20544,7 @@
       ]
     },
     "char_171_bldsk": {
+      "cnOnly": false,
       "name": "Warfarin",
       "profession": "Medic",
       "rarity": "TIER_5",
@@ -20601,6 +20752,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PHY",
           "type": "X",
           "icon": "uniequip_002_bldsk",
@@ -20662,6 +20814,7 @@
       ]
     },
     "char_172_svrash": {
+      "cnOnly": false,
       "name": "SilverAsh",
       "profession": "Guard",
       "rarity": "TIER_6",
@@ -20926,6 +21079,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "LOR",
           "type": "X",
           "icon": "uniequip_002_svrash",
@@ -20987,6 +21141,7 @@
       ]
     },
     "char_173_slchan": {
+      "cnOnly": false,
       "name": "Cliffheart",
       "profession": "Specialist",
       "rarity": "TIER_5",
@@ -21194,6 +21349,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "HOK",
           "type": "X",
           "icon": "uniequip_002_slchan",
@@ -21255,6 +21411,7 @@
       ]
     },
     "char_174_slbell": {
+      "cnOnly": false,
       "name": "Pramanix",
       "profession": "Supporter",
       "rarity": "TIER_5",
@@ -21462,6 +21619,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "UMD",
           "type": "X",
           "icon": "uniequip_002_slbell",
@@ -21523,6 +21681,7 @@
       ]
     },
     "char_179_cgbird": {
+      "cnOnly": false,
       "name": "Nightingale",
       "profession": "Medic",
       "rarity": "TIER_6",
@@ -21787,6 +21946,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "RIN",
           "type": "X",
           "icon": "uniequip_002_cgbird",
@@ -21846,6 +22006,7 @@
           ]
         },
         {
+          "cnOnly": true,
           "typeName1": "RIN",
           "type": "Y",
           "icon": "uniequip_003_cgbird",
@@ -21907,6 +22068,7 @@
       ]
     },
     "char_180_amgoat": {
+      "cnOnly": false,
       "name": "Eyjafjalla",
       "profession": "Caster",
       "rarity": "TIER_6",
@@ -22171,6 +22333,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "CCR",
           "type": "X",
           "icon": "uniequip_002_amgoat",
@@ -22232,6 +22395,7 @@
       ]
     },
     "char_181_flower": {
+      "cnOnly": false,
       "name": "Perfumer",
       "profession": "Medic",
       "rarity": "TIER_4",
@@ -22435,6 +22599,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "RIN",
           "type": "Y",
           "icon": "uniequip_002_flower",
@@ -22496,6 +22661,7 @@
       ]
     },
     "char_183_skgoat": {
+      "cnOnly": false,
       "name": "Earthspirit",
       "profession": "Supporter",
       "rarity": "TIER_4",
@@ -22699,6 +22865,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "DEC",
           "type": "Y",
           "icon": "uniequip_002_skgoat",
@@ -22760,6 +22927,7 @@
       ]
     },
     "char_185_frncat": {
+      "cnOnly": false,
       "name": "Mousse",
       "profession": "Guard",
       "rarity": "TIER_4",
@@ -22964,6 +23132,7 @@
       "modules": []
     },
     "char_187_ccheal": {
+      "cnOnly": false,
       "name": "Gavial",
       "profession": "Medic",
       "rarity": "TIER_4",
@@ -23167,6 +23336,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PHY",
           "type": "Y",
           "icon": "uniequip_002_ccheal",
@@ -23228,6 +23398,7 @@
       ]
     },
     "char_188_helage": {
+      "cnOnly": false,
       "name": "Hellagur",
       "profession": "Guard",
       "rarity": "TIER_6",
@@ -23492,6 +23663,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SBL",
           "type": "X",
           "icon": "uniequip_002_helage",
@@ -23551,6 +23723,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "SBL",
           "type": "Y",
           "icon": "uniequip_003_helage",
@@ -23612,6 +23785,7 @@
       ]
     },
     "char_190_clour": {
+      "cnOnly": false,
       "name": "Vermeil",
       "profession": "Sniper",
       "rarity": "TIER_4",
@@ -23815,6 +23989,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "MAR",
           "type": "X",
           "icon": "uniequip_002_clour",
@@ -23876,6 +24051,7 @@
       ]
     },
     "char_192_falco": {
+      "cnOnly": false,
       "name": "Plume",
       "profession": "Vanguard",
       "rarity": "TIER_3",
@@ -23958,6 +24134,7 @@
       "modules": []
     },
     "char_193_frostl": {
+      "cnOnly": false,
       "name": "Frostleaf",
       "profession": "Guard",
       "rarity": "TIER_4",
@@ -24161,6 +24338,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "LOR",
           "type": "X",
           "icon": "uniequip_002_frostl",
@@ -24222,6 +24400,7 @@
       ]
     },
     "char_194_leto": {
+      "cnOnly": false,
       "name": "Leto",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -24429,6 +24608,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "LOR",
           "type": "Y",
           "icon": "uniequip_002_leto",
@@ -24490,6 +24670,7 @@
       ]
     },
     "char_195_glassb": {
+      "cnOnly": false,
       "name": "Istina",
       "profession": "Supporter",
       "rarity": "TIER_5",
@@ -24697,6 +24878,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "DEC",
           "type": "Y",
           "icon": "uniequip_002_glassb",
@@ -24758,6 +24940,7 @@
       ]
     },
     "char_196_sunbr": {
+      "cnOnly": false,
       "name": "Gummy",
       "profession": "Defender",
       "rarity": "TIER_4",
@@ -24961,6 +25144,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "GUA",
           "type": "X",
           "icon": "uniequip_002_sunbr",
@@ -25022,6 +25206,7 @@
       ]
     },
     "char_197_poca": {
+      "cnOnly": false,
       "name": "Rosa",
       "profession": "Sniper",
       "rarity": "TIER_6",
@@ -25286,6 +25471,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SIE",
           "type": "X",
           "icon": "uniequip_002_poca",
@@ -25347,6 +25533,7 @@
       ]
     },
     "char_198_blackd": {
+      "cnOnly": false,
       "name": "Courier",
       "profession": "Vanguard",
       "rarity": "TIER_4",
@@ -25550,6 +25737,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SOL",
           "type": "X",
           "icon": "uniequip_002_blackd",
@@ -25611,6 +25799,7 @@
       ]
     },
     "char_199_yak": {
+      "cnOnly": false,
       "name": "Matterhorn",
       "profession": "Defender",
       "rarity": "TIER_4",
@@ -25814,6 +26003,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PRO",
           "type": "Y",
           "icon": "uniequip_002_yak",
@@ -25875,6 +26065,7 @@
       ]
     },
     "char_201_moeshd": {
+      "cnOnly": false,
       "name": "Croissant",
       "profession": "Defender",
       "rarity": "TIER_5",
@@ -26082,6 +26273,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PRO",
           "type": "Y",
           "icon": "uniequip_002_moeshd",
@@ -26143,6 +26335,7 @@
       ]
     },
     "char_2012_typhon": {
+      "cnOnly": false,
       "name": "Typhon",
       "profession": "Sniper",
       "rarity": "TIER_6",
@@ -26407,6 +26600,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SIE",
           "type": "X",
           "icon": "uniequip_002_typhon",
@@ -26468,6 +26662,7 @@
       ]
     },
     "char_2013_cerber": {
+      "cnOnly": false,
       "name": "Ceobe",
       "profession": "Caster",
       "rarity": "TIER_6",
@@ -26732,6 +26927,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "CCR",
           "type": "X",
           "icon": "uniequip_002_cerber",
@@ -26791,6 +26987,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "CCR",
           "type": "Y",
           "icon": "uniequip_003_cerber",
@@ -26852,6 +27049,7 @@
       ]
     },
     "char_2014_nian": {
+      "cnOnly": false,
       "name": "Nian",
       "profession": "Defender",
       "rarity": "TIER_6",
@@ -27116,6 +27314,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PRO",
           "type": "X",
           "icon": "uniequip_002_nian",
@@ -27175,6 +27374,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "PRO",
           "type": "Y",
           "icon": "uniequip_003_nian",
@@ -27236,6 +27436,7 @@
       ]
     },
     "char_2015_dusk": {
+      "cnOnly": false,
       "name": "Dusk",
       "profession": "Caster",
       "rarity": "TIER_6",
@@ -27500,6 +27701,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SPC",
           "type": "X",
           "icon": "uniequip_002_dusk",
@@ -27559,6 +27761,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "SPC",
           "type": "Y",
           "icon": "uniequip_003_dusk",
@@ -27620,6 +27823,7 @@
       ]
     },
     "char_202_demkni": {
+      "cnOnly": false,
       "name": "Saria",
       "profession": "Defender",
       "rarity": "TIER_6",
@@ -27884,6 +28088,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "GUA",
           "type": "X",
           "icon": "uniequip_002_demkni",
@@ -27943,6 +28148,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "GUA",
           "type": "Y",
           "icon": "uniequip_003_demkni",
@@ -28004,6 +28210,7 @@
       ]
     },
     "char_2023_ling": {
+      "cnOnly": false,
       "name": "Ling",
       "profession": "Supporter",
       "rarity": "TIER_6",
@@ -28268,6 +28475,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SUM",
           "type": "Y",
           "icon": "uniequip_002_ling",
@@ -28329,6 +28537,7 @@
       ]
     },
     "char_2024_chyue": {
+      "cnOnly": false,
       "name": "Chongyue",
       "profession": "Guard",
       "rarity": "TIER_6",
@@ -28593,6 +28802,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "FGT",
           "type": "X",
           "icon": "uniequip_002_chyue",
@@ -28654,6 +28864,7 @@
       ]
     },
     "char_2025_shu": {
+      "cnOnly": false,
       "name": "Shu",
       "profession": "Defender",
       "rarity": "TIER_6",
@@ -28918,6 +29129,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "GUA",
           "type": "X",
           "icon": "uniequip_002_shu",
@@ -28979,6 +29191,7 @@
       ]
     },
     "char_204_platnm": {
+      "cnOnly": false,
       "name": "Platinum",
       "profession": "Sniper",
       "rarity": "TIER_5",
@@ -29186,6 +29399,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "MAR",
           "type": "X",
           "icon": "uniequip_002_platnm",
@@ -29247,6 +29461,7 @@
       ]
     },
     "char_206_gnosis": {
+      "cnOnly": false,
       "name": "Gnosis",
       "profession": "Supporter",
       "rarity": "TIER_6",
@@ -29511,6 +29726,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "UMD",
           "type": "X",
           "icon": "uniequip_002_gnosis",
@@ -29572,6 +29788,7 @@
       ]
     },
     "char_208_melan": {
+      "cnOnly": false,
       "name": "Melantha",
       "profession": "Guard",
       "rarity": "TIER_3",
@@ -29654,6 +29871,7 @@
       "modules": []
     },
     "char_209_ardign": {
+      "cnOnly": false,
       "name": "Cardigan",
       "profession": "Defender",
       "rarity": "TIER_3",
@@ -29736,6 +29954,7 @@
       "modules": []
     },
     "char_210_stward": {
+      "cnOnly": false,
       "name": "Steward",
       "profession": "Caster",
       "rarity": "TIER_3",
@@ -29818,6 +30037,7 @@
       "modules": []
     },
     "char_211_adnach": {
+      "cnOnly": false,
       "name": "Adnachiel",
       "profession": "Sniper",
       "rarity": "TIER_3",
@@ -29900,6 +30120,7 @@
       "modules": []
     },
     "char_212_ansel": {
+      "cnOnly": false,
       "name": "Ansel",
       "profession": "Medic",
       "rarity": "TIER_3",
@@ -29982,6 +30203,7 @@
       "modules": []
     },
     "char_213_mostma": {
+      "cnOnly": false,
       "name": "Mostima",
       "profession": "Caster",
       "rarity": "TIER_6",
@@ -30246,6 +30468,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SPC",
           "type": "Y",
           "icon": "uniequip_002_mostma",
@@ -30305,6 +30528,7 @@
           ]
         },
         {
+          "cnOnly": true,
           "typeName1": "SPC",
           "type": "X",
           "icon": "uniequip_003_mostma",
@@ -30366,6 +30590,7 @@
       ]
     },
     "char_214_kafka": {
+      "cnOnly": false,
       "name": "Kafka",
       "profession": "Specialist",
       "rarity": "TIER_5",
@@ -30573,6 +30798,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "EXE",
           "type": "Y",
           "icon": "uniequip_002_kafka",
@@ -30634,6 +30860,7 @@
       ]
     },
     "char_215_mantic": {
+      "cnOnly": false,
       "name": "Manticore",
       "profession": "Specialist",
       "rarity": "TIER_5",
@@ -30841,6 +31068,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "AMB",
           "type": "X",
           "icon": "uniequip_002_mantic",
@@ -30902,6 +31130,7 @@
       ]
     },
     "char_218_cuttle": {
+      "cnOnly": false,
       "name": "Andreana",
       "profession": "Sniper",
       "rarity": "TIER_5",
@@ -31109,6 +31338,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "DEA",
           "type": "X",
           "icon": "uniequip_002_cuttle",
@@ -31170,6 +31400,7 @@
       ]
     },
     "char_219_meteo": {
+      "cnOnly": false,
       "name": "Meteorite",
       "profession": "Sniper",
       "rarity": "TIER_5",
@@ -31377,6 +31608,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "ART",
           "type": "Y",
           "icon": "uniequip_002_meteo",
@@ -31438,6 +31670,7 @@
       ]
     },
     "char_220_grani": {
+      "cnOnly": false,
       "name": "Grani",
       "profession": "Vanguard",
       "rarity": "TIER_5",
@@ -31645,6 +31878,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "CHG",
           "type": "X",
           "icon": "uniequip_002_grani",
@@ -31706,6 +31940,7 @@
       ]
     },
     "char_222_bpipe": {
+      "cnOnly": false,
       "name": "Bagpipe",
       "profession": "Vanguard",
       "rarity": "TIER_6",
@@ -31970,6 +32205,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "CHG",
           "type": "X",
           "icon": "uniequip_002_bpipe",
@@ -32029,6 +32265,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "CHG",
           "type": "Y",
           "icon": "uniequip_003_bpipe",
@@ -32090,6 +32327,7 @@
       ]
     },
     "char_225_haak": {
+      "cnOnly": false,
       "name": "Aak",
       "profession": "Specialist",
       "rarity": "TIER_6",
@@ -32354,6 +32592,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "GEE",
           "type": "X",
           "icon": "uniequip_002_haak",
@@ -32415,6 +32654,7 @@
       ]
     },
     "char_226_hmau": {
+      "cnOnly": false,
       "name": "Hung",
       "profession": "Defender",
       "rarity": "TIER_5",
@@ -32622,6 +32862,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "GUA",
           "type": "Y",
           "icon": "uniequip_002_hmau",
@@ -32683,6 +32924,7 @@
       ]
     },
     "char_230_savage": {
+      "cnOnly": false,
       "name": "Savage",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -32890,6 +33132,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "CEN",
           "type": "X",
           "icon": "uniequip_002_savage",
@@ -32951,6 +33194,7 @@
       ]
     },
     "char_235_jesica": {
+      "cnOnly": false,
       "name": "Jessica",
       "profession": "Sniper",
       "rarity": "TIER_4",
@@ -33154,6 +33398,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "MAR",
           "type": "Y",
           "icon": "uniequip_002_jesica",
@@ -33215,6 +33460,7 @@
       ]
     },
     "char_236_rope": {
+      "cnOnly": false,
       "name": "Rope",
       "profession": "Specialist",
       "rarity": "TIER_4",
@@ -33418,6 +33664,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "HOK",
           "type": "X",
           "icon": "uniequip_002_rope",
@@ -33479,6 +33726,7 @@
       ]
     },
     "char_237_gravel": {
+      "cnOnly": false,
       "name": "Gravel",
       "profession": "Specialist",
       "rarity": "TIER_4",
@@ -33682,6 +33930,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "EXE",
           "type": "X",
           "icon": "uniequip_002_gravel",
@@ -33743,6 +33992,7 @@
       ]
     },
     "char_240_wyvern": {
+      "cnOnly": false,
       "name": "Vanilla",
       "profession": "Vanguard",
       "rarity": "TIER_3",
@@ -33825,6 +34075,7 @@
       "modules": []
     },
     "char_241_panda": {
+      "cnOnly": false,
       "name": "FEater",
       "profession": "Specialist",
       "rarity": "TIER_5",
@@ -34032,6 +34283,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PUS",
           "type": "Y",
           "icon": "uniequip_002_panda",
@@ -34093,6 +34345,7 @@
       ]
     },
     "char_242_otter": {
+      "cnOnly": false,
       "name": "Mayer",
       "profession": "Supporter",
       "rarity": "TIER_5",
@@ -34300,6 +34553,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SUM",
           "type": "X",
           "icon": "uniequip_002_otter",
@@ -34361,6 +34615,7 @@
       ]
     },
     "char_243_waaifu": {
+      "cnOnly": false,
       "name": "Waai Fu",
       "profession": "Specialist",
       "rarity": "TIER_5",
@@ -34568,6 +34823,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "EXE",
           "type": "X",
           "icon": "uniequip_002_waaifu",
@@ -34629,6 +34885,7 @@
       ]
     },
     "char_245_cello": {
+      "cnOnly": false,
       "name": "Virtuosa",
       "profession": "Supporter",
       "rarity": "TIER_6",
@@ -34894,6 +35151,7 @@
       "modules": []
     },
     "char_248_mgllan": {
+      "cnOnly": false,
       "name": "Magallan",
       "profession": "Supporter",
       "rarity": "TIER_6",
@@ -35158,6 +35416,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SUM",
           "type": "X",
           "icon": "uniequip_002_mgllan",
@@ -35217,6 +35476,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "SUM",
           "type": "Y",
           "icon": "uniequip_003_mgllan",
@@ -35278,6 +35538,7 @@
       ]
     },
     "char_249_mlyss": {
+      "cnOnly": false,
       "name": "Muelsyse",
       "profession": "Vanguard",
       "rarity": "TIER_6",
@@ -35542,6 +35803,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "TAC",
           "type": "X",
           "icon": "uniequip_002_mlyss",
@@ -35603,6 +35865,7 @@
       ]
     },
     "char_250_phatom": {
+      "cnOnly": false,
       "name": "Phantom",
       "profession": "Specialist",
       "rarity": "TIER_6",
@@ -35867,6 +36130,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "EXE",
           "type": "X",
           "icon": "uniequip_002_phatom",
@@ -35926,6 +36190,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "EXE",
           "type": "Y",
           "icon": "uniequip_003_phatom",
@@ -35985,6 +36250,7 @@
           ]
         },
         {
+          "cnOnly": true,
           "typeName1": "ISW",
           "type": "A",
           "icon": "uniequip_004_phatom",
@@ -36014,6 +36280,7 @@
       ]
     },
     "char_252_bibeak": {
+      "cnOnly": false,
       "name": "Bibeak",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -36221,6 +36488,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SWO",
           "type": "X",
           "icon": "uniequip_002_bibeak",
@@ -36282,6 +36550,7 @@
       ]
     },
     "char_253_greyy": {
+      "cnOnly": false,
       "name": "Greyy",
       "profession": "Caster",
       "rarity": "TIER_4",
@@ -36485,6 +36754,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SPC",
           "type": "Y",
           "icon": "uniequip_002_greyy",
@@ -36546,6 +36816,7 @@
       ]
     },
     "char_254_vodfox": {
+      "cnOnly": false,
       "name": "Shamare",
       "profession": "Supporter",
       "rarity": "TIER_5",
@@ -36753,6 +37024,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "UMD",
           "type": "X",
           "icon": "uniequip_002_vodfox",
@@ -36814,6 +37086,7 @@
       ]
     },
     "char_258_podego": {
+      "cnOnly": false,
       "name": "Podenco",
       "profession": "Supporter",
       "rarity": "TIER_4",
@@ -37017,6 +37290,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "DEC",
           "type": "X",
           "icon": "uniequip_002_podego",
@@ -37078,6 +37352,7 @@
       ]
     },
     "char_260_durnar": {
+      "cnOnly": false,
       "name": "Dur-nar",
       "profession": "Defender",
       "rarity": "TIER_4",
@@ -37282,6 +37557,7 @@
       "modules": []
     },
     "char_261_sddrag": {
+      "cnOnly": false,
       "name": "Reed",
       "profession": "Vanguard",
       "rarity": "TIER_5",
@@ -37489,6 +37765,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "CHG",
           "type": "Y",
           "icon": "uniequip_002_sddrag",
@@ -37550,6 +37827,7 @@
       ]
     },
     "char_263_skadi": {
+      "cnOnly": false,
       "name": "Skadi",
       "profession": "Guard",
       "rarity": "TIER_6",
@@ -37814,6 +38092,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "DRE",
           "type": "Y",
           "icon": "uniequip_002_skadi",
@@ -37873,6 +38152,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "DRE",
           "type": "X",
           "icon": "uniequip_003_skadi",
@@ -37934,6 +38214,7 @@
       ]
     },
     "char_264_f12yin": {
+      "cnOnly": false,
       "name": "Mountain",
       "profession": "Guard",
       "rarity": "TIER_6",
@@ -38198,6 +38479,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "FGT",
           "type": "Y",
           "icon": "uniequip_002_f12yin",
@@ -38259,6 +38541,7 @@
       ]
     },
     "char_265_sophia": {
+      "cnOnly": false,
       "name": "Whislash",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -38466,6 +38749,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "INS",
           "type": "X",
           "icon": "uniequip_002_sophia",
@@ -38527,6 +38811,7 @@
       ]
     },
     "char_271_spikes": {
+      "cnOnly": false,
       "name": "Arene",
       "profession": "Guard",
       "rarity": "TIER_4",
@@ -38730,6 +39015,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "LOR",
           "type": "Y",
           "icon": "uniequip_002_spikes",
@@ -38791,6 +39077,7 @@
       ]
     },
     "char_272_strong": {
+      "cnOnly": false,
       "name": "Jaye",
       "profession": "Specialist",
       "rarity": "TIER_4",
@@ -38994,6 +39281,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "MER",
           "type": "X",
           "icon": "uniequip_002_strong",
@@ -39055,6 +39343,7 @@
       ]
     },
     "char_274_astesi": {
+      "cnOnly": false,
       "name": "Astesia",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -39263,6 +39552,7 @@
       "modules": []
     },
     "char_275_breeze": {
+      "cnOnly": false,
       "name": "Breeze",
       "profession": "Medic",
       "rarity": "TIER_5",
@@ -39470,6 +39760,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "RIN",
           "type": "X",
           "icon": "uniequip_002_breeze",
@@ -39531,6 +39822,7 @@
       ]
     },
     "char_277_sqrrel": {
+      "cnOnly": false,
       "name": "Shaw",
       "profession": "Specialist",
       "rarity": "TIER_4",
@@ -39734,6 +40026,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PUS",
           "type": "Y",
           "icon": "uniequip_002_sqrrel",
@@ -39795,6 +40088,7 @@
       ]
     },
     "char_278_orchid": {
+      "cnOnly": false,
       "name": "Orchid",
       "profession": "Supporter",
       "rarity": "TIER_3",
@@ -39877,6 +40171,7 @@
       "modules": []
     },
     "char_279_excu": {
+      "cnOnly": false,
       "name": "Executor",
       "profession": "Sniper",
       "rarity": "TIER_5",
@@ -40084,6 +40379,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "RPR",
           "type": "X",
           "icon": "uniequip_002_excu",
@@ -40145,6 +40441,7 @@
       ]
     },
     "char_281_popka": {
+      "cnOnly": false,
       "name": "Popukar",
       "profession": "Guard",
       "rarity": "TIER_3",
@@ -40227,6 +40524,7 @@
       "modules": []
     },
     "char_282_catap": {
+      "cnOnly": false,
       "name": "Catapult",
       "profession": "Sniper",
       "rarity": "TIER_3",
@@ -40309,6 +40607,7 @@
       "modules": []
     },
     "char_283_midn": {
+      "cnOnly": false,
       "name": "Midnight",
       "profession": "Guard",
       "rarity": "TIER_3",
@@ -40391,6 +40690,7 @@
       "modules": []
     },
     "char_284_spot": {
+      "cnOnly": false,
       "name": "Spot",
       "profession": "Defender",
       "rarity": "TIER_3",
@@ -40473,6 +40773,7 @@
       "modules": []
     },
     "char_285_medic2": {
+      "cnOnly": false,
       "name": "Lancet-2",
       "profession": "Medic",
       "rarity": "TIER_1",
@@ -40487,6 +40788,7 @@
       "modules": []
     },
     "char_286_cast3": {
+      "cnOnly": false,
       "name": "Castle-3",
       "profession": "Guard",
       "rarity": "TIER_1",
@@ -40501,6 +40803,7 @@
       "modules": []
     },
     "char_289_gyuki": {
+      "cnOnly": false,
       "name": "Matoimaru",
       "profession": "Guard",
       "rarity": "TIER_4",
@@ -40704,6 +41007,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "DRE",
           "type": "Y",
           "icon": "uniequip_002_gyuki",
@@ -40765,6 +41069,7 @@
       ]
     },
     "char_290_vigna": {
+      "cnOnly": false,
       "name": "Vigna",
       "profession": "Vanguard",
       "rarity": "TIER_4",
@@ -40968,6 +41273,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "CHG",
           "type": "Y",
           "icon": "uniequip_002_vigna",
@@ -41029,6 +41335,7 @@
       ]
     },
     "char_291_aglina": {
+      "cnOnly": false,
       "name": "Angelina",
       "profession": "Supporter",
       "rarity": "TIER_6",
@@ -41293,6 +41600,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "DEC",
           "type": "Y",
           "icon": "uniequip_002_aglina",
@@ -41352,6 +41660,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "DEC",
           "type": "X",
           "icon": "uniequip_003_aglina",
@@ -41413,6 +41722,7 @@
       ]
     },
     "char_293_thorns": {
+      "cnOnly": false,
       "name": "Thorns",
       "profession": "Guard",
       "rarity": "TIER_6",
@@ -41677,6 +41987,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "LOR",
           "type": "X",
           "icon": "uniequip_002_thorns",
@@ -41738,6 +42049,7 @@
       ]
     },
     "char_294_ayer": {
+      "cnOnly": false,
       "name": "Ayerscarpe",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -41945,6 +42257,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "LOR",
           "type": "X",
           "icon": "uniequip_002_ayer",
@@ -42006,6 +42319,7 @@
       ]
     },
     "char_297_hamoni": {
+      "cnOnly": false,
       "name": "Harmonie",
       "profession": "Caster",
       "rarity": "TIER_5",
@@ -42213,6 +42527,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "MSC",
           "type": "X",
           "icon": "uniequip_002_hamoni",
@@ -42274,6 +42589,7 @@
       ]
     },
     "char_298_susuro": {
+      "cnOnly": false,
       "name": "Sussurro",
       "profession": "Medic",
       "rarity": "TIER_4",
@@ -42477,6 +42793,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PHY",
           "type": "X",
           "icon": "uniequip_002_susuro",
@@ -42538,6 +42855,7 @@
       ]
     },
     "char_300_phenxi": {
+      "cnOnly": false,
       "name": "Fiammetta",
       "profession": "Sniper",
       "rarity": "TIER_6",
@@ -42802,6 +43120,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "ART",
           "type": "Y",
           "icon": "uniequip_002_phenxi",
@@ -42861,6 +43180,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "ART",
           "type": "X",
           "icon": "uniequip_003_phenxi",
@@ -42922,6 +43242,7 @@
       ]
     },
     "char_301_cutter": {
+      "cnOnly": false,
       "name": "Cutter",
       "profession": "Guard",
       "rarity": "TIER_4",
@@ -43125,6 +43446,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SWO",
           "type": "Y",
           "icon": "uniequip_002_cutter",
@@ -43186,6 +43508,7 @@
       ]
     },
     "char_302_glaze": {
+      "cnOnly": false,
       "name": "Ambriel",
       "profession": "Sniper",
       "rarity": "TIER_4",
@@ -43389,6 +43712,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "DEA",
           "type": "X",
           "icon": "uniequip_002_glaze",
@@ -43450,6 +43774,7 @@
       ]
     },
     "char_304_zebra": {
+      "cnOnly": false,
       "name": "Heavyrain",
       "profession": "Defender",
       "rarity": "TIER_5",
@@ -43657,6 +43982,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PRO",
           "type": "Y",
           "icon": "uniequip_002_zebra",
@@ -43718,6 +44044,7 @@
       ]
     },
     "char_306_leizi": {
+      "cnOnly": false,
       "name": "Leizi",
       "profession": "Caster",
       "rarity": "TIER_5",
@@ -43925,6 +44252,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "CHA",
           "type": "X",
           "icon": "uniequip_002_leizi",
@@ -43986,6 +44314,7 @@
       ]
     },
     "char_308_swire": {
+      "cnOnly": false,
       "name": "Swire",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -44193,6 +44522,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "INS",
           "type": "X",
           "icon": "uniequip_002_swire",
@@ -44254,6 +44584,7 @@
       ]
     },
     "char_311_mudrok": {
+      "cnOnly": false,
       "name": "Mudrock",
       "profession": "Defender",
       "rarity": "TIER_6",
@@ -44518,6 +44849,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "UNY",
           "type": "X",
           "icon": "uniequip_002_mudrok",
@@ -44579,6 +44911,7 @@
       ]
     },
     "char_322_lmlee": {
+      "cnOnly": false,
       "name": "Lee",
       "profession": "Specialist",
       "rarity": "TIER_6",
@@ -44843,6 +45176,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "MER",
           "type": "X",
           "icon": "uniequip_002_lmlee",
@@ -44902,6 +45236,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "MER",
           "type": "Y",
           "icon": "uniequip_003_lmlee",
@@ -44963,6 +45298,7 @@
       ]
     },
     "char_325_bison": {
+      "cnOnly": false,
       "name": "Bison",
       "profession": "Defender",
       "rarity": "TIER_5",
@@ -45170,6 +45506,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PRO",
           "type": "X",
           "icon": "uniequip_002_bison",
@@ -45231,6 +45568,7 @@
       ]
     },
     "char_326_glacus": {
+      "cnOnly": false,
       "name": "Glaucus",
       "profession": "Supporter",
       "rarity": "TIER_5",
@@ -45438,6 +45776,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "DEC",
           "type": "X",
           "icon": "uniequip_002_glacus",
@@ -45499,6 +45838,7 @@
       ]
     },
     "char_328_cammou": {
+      "cnOnly": false,
       "name": "Click",
       "profession": "Caster",
       "rarity": "TIER_4",
@@ -45702,6 +46042,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "FUN",
           "type": "Y",
           "icon": "uniequip_002_cammou",
@@ -45763,6 +46104,7 @@
       ]
     },
     "char_332_archet": {
+      "cnOnly": false,
       "name": "Archetto",
       "profession": "Sniper",
       "rarity": "TIER_6",
@@ -46027,6 +46369,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "MAR",
           "type": "Y",
           "icon": "uniequip_002_archet",
@@ -46086,6 +46429,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "MAR",
           "type": "X",
           "icon": "uniequip_003_archet",
@@ -46147,6 +46491,7 @@
       ]
     },
     "char_333_sidero": {
+      "cnOnly": false,
       "name": "Sideroca",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -46355,6 +46700,7 @@
       "modules": []
     },
     "char_336_folivo": {
+      "cnOnly": false,
       "name": "Scene",
       "profession": "Supporter",
       "rarity": "TIER_5",
@@ -46562,6 +46908,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SUM",
           "type": "X",
           "icon": "uniequip_002_folivo",
@@ -46623,6 +46970,7 @@
       ]
     },
     "char_337_utage": {
+      "cnOnly": false,
       "name": "Utage",
       "profession": "Guard",
       "rarity": "TIER_4",
@@ -46826,6 +47174,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SBL",
           "type": "X",
           "icon": "uniequip_002_utage",
@@ -46887,6 +47236,7 @@
       ]
     },
     "char_338_iris": {
+      "cnOnly": false,
       "name": "Iris",
       "profession": "Caster",
       "rarity": "TIER_5",
@@ -47094,6 +47444,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "MSC",
           "type": "X",
           "icon": "uniequip_002_iris",
@@ -47155,6 +47506,7 @@
       ]
     },
     "char_340_shwaz": {
+      "cnOnly": false,
       "name": "Schwarz",
       "profession": "Sniper",
       "rarity": "TIER_6",
@@ -47419,6 +47771,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "ARC",
           "type": "X",
           "icon": "uniequip_002_shwaz",
@@ -47478,6 +47831,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "ARC",
           "type": "Y",
           "icon": "uniequip_003_shwaz",
@@ -47539,6 +47893,7 @@
       ]
     },
     "char_341_sntlla": {
+      "cnOnly": false,
       "name": "Santalla",
       "profession": "Caster",
       "rarity": "TIER_5",
@@ -47746,6 +48101,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SPC",
           "type": "Y",
           "icon": "uniequip_002_sntlla",
@@ -47807,6 +48163,7 @@
       ]
     },
     "char_343_tknogi": {
+      "cnOnly": false,
       "name": "Tsukinogi",
       "profession": "Supporter",
       "rarity": "TIER_5",
@@ -48014,6 +48371,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "BLS",
           "type": "X",
           "icon": "uniequip_002_tknogi",
@@ -48075,6 +48433,7 @@
       ]
     },
     "char_344_beewax": {
+      "cnOnly": false,
       "name": "Beeswax",
       "profession": "Caster",
       "rarity": "TIER_5",
@@ -48282,6 +48641,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PLX",
           "type": "X",
           "icon": "uniequip_002_beewax",
@@ -48343,6 +48703,7 @@
       ]
     },
     "char_345_folnic": {
+      "cnOnly": false,
       "name": "Folinic",
       "profession": "Medic",
       "rarity": "TIER_5",
@@ -48550,6 +48911,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PHY",
           "type": "Y",
           "icon": "uniequip_002_folnic",
@@ -48611,6 +48973,7 @@
       ]
     },
     "char_346_aosta": {
+      "cnOnly": false,
       "name": "Aosta",
       "profession": "Sniper",
       "rarity": "TIER_5",
@@ -48818,6 +49181,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "RPR",
           "type": "X",
           "icon": "uniequip_002_aosta",
@@ -48879,6 +49243,7 @@
       ]
     },
     "char_347_jaksel": {
+      "cnOnly": false,
       "name": "Jackie",
       "profession": "Guard",
       "rarity": "TIER_4",
@@ -49082,6 +49447,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "FGT",
           "type": "X",
           "icon": "uniequip_002_jaksel",
@@ -49143,6 +49509,7 @@
       ]
     },
     "char_348_ceylon": {
+      "cnOnly": false,
       "name": "Ceylon",
       "profession": "Medic",
       "rarity": "TIER_5",
@@ -49350,6 +49717,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "WAH",
           "type": "X",
           "icon": "uniequip_002_ceylon",
@@ -49411,6 +49779,7 @@
       ]
     },
     "char_349_chiave": {
+      "cnOnly": false,
       "name": "Chiave",
       "profession": "Vanguard",
       "rarity": "TIER_5",
@@ -49618,6 +49987,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SOL",
           "type": "Y",
           "icon": "uniequip_002_chiave",
@@ -49679,6 +50049,7 @@
       ]
     },
     "char_350_surtr": {
+      "cnOnly": false,
       "name": "Surtr",
       "profession": "Guard",
       "rarity": "TIER_6",
@@ -49944,6 +50315,7 @@
       "modules": []
     },
     "char_355_ethan": {
+      "cnOnly": false,
       "name": "Ethan",
       "profession": "Specialist",
       "rarity": "TIER_4",
@@ -50147,6 +50519,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "AMB",
           "type": "X",
           "icon": "uniequip_002_ethan",
@@ -50208,6 +50581,7 @@
       ]
     },
     "char_356_broca": {
+      "cnOnly": false,
       "name": "Broca",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -50415,6 +50789,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "CEN",
           "type": "X",
           "icon": "uniequip_002_broca",
@@ -50476,6 +50851,7 @@
       ]
     },
     "char_358_lisa": {
+      "cnOnly": false,
       "name": "Suzuran",
       "profession": "Supporter",
       "rarity": "TIER_6",
@@ -50740,6 +51116,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "DEC",
           "type": "X",
           "icon": "uniequip_002_lisa",
@@ -50799,6 +51176,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "DEC",
           "type": "Y",
           "icon": "uniequip_003_lisa",
@@ -50860,6 +51238,7 @@
       ]
     },
     "char_362_saga": {
+      "cnOnly": false,
       "name": "Saga",
       "profession": "Vanguard",
       "rarity": "TIER_6",
@@ -51124,6 +51503,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SOL",
           "type": "Y",
           "icon": "uniequip_002_saga",
@@ -51183,6 +51563,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "SOL",
           "type": "X",
           "icon": "uniequip_003_saga",
@@ -51244,6 +51625,7 @@
       ]
     },
     "char_363_toddi": {
+      "cnOnly": false,
       "name": "Toddifons",
       "profession": "Sniper",
       "rarity": "TIER_5",
@@ -51451,6 +51833,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SIE",
           "type": "X",
           "icon": "uniequip_002_toddi",
@@ -51512,6 +51895,7 @@
       ]
     },
     "char_365_aprl": {
+      "cnOnly": false,
       "name": "April",
       "profession": "Sniper",
       "rarity": "TIER_5",
@@ -51719,6 +52103,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "MAR",
           "type": "Y",
           "icon": "uniequip_002_aprl",
@@ -51780,6 +52165,7 @@
       ]
     },
     "char_366_acdrop": {
+      "cnOnly": false,
       "name": "Aciddrop",
       "profession": "Sniper",
       "rarity": "TIER_4",
@@ -51983,6 +52369,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "ARC",
           "type": "X",
           "icon": "uniequip_002_acdrop",
@@ -52044,6 +52431,7 @@
       ]
     },
     "char_367_swllow": {
+      "cnOnly": false,
       "name": "GreyThroat",
       "profession": "Sniper",
       "rarity": "TIER_5",
@@ -52251,6 +52639,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "MAR",
           "type": "Y",
           "icon": "uniequip_002_swllow",
@@ -52312,6 +52701,7 @@
       ]
     },
     "char_369_bena": {
+      "cnOnly": false,
       "name": "Bena",
       "profession": "Specialist",
       "rarity": "TIER_5",
@@ -52519,6 +52909,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PUM",
           "type": "Y",
           "icon": "uniequip_002_bena",
@@ -52580,6 +52971,7 @@
       ]
     },
     "char_373_lionhd": {
+      "cnOnly": false,
       "name": "Leonhardt",
       "profession": "Caster",
       "rarity": "TIER_5",
@@ -52787,6 +53179,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SPC",
           "type": "X",
           "icon": "uniequip_002_lionhd",
@@ -52848,6 +53241,7 @@
       ]
     },
     "char_376_therex": {
+      "cnOnly": false,
       "name": "THRM-EX",
       "profession": "Specialist",
       "rarity": "TIER_1",
@@ -52862,6 +53256,7 @@
       "modules": []
     },
     "char_377_gdglow": {
+      "cnOnly": false,
       "name": "Goldenglow",
       "profession": "Caster",
       "rarity": "TIER_6",
@@ -53126,6 +53521,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "FUN",
           "type": "X",
           "icon": "uniequip_002_gdglow",
@@ -53187,6 +53583,7 @@
       ]
     },
     "char_378_asbest": {
+      "cnOnly": false,
       "name": "Asbestos",
       "profession": "Defender",
       "rarity": "TIER_5",
@@ -53395,6 +53792,7 @@
       "modules": []
     },
     "char_379_sesa": {
+      "cnOnly": false,
       "name": "Sesa",
       "profession": "Sniper",
       "rarity": "TIER_5",
@@ -53602,6 +54000,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "ART",
           "type": "X",
           "icon": "uniequip_002_sesa",
@@ -53663,6 +54062,7 @@
       ]
     },
     "char_381_bubble": {
+      "cnOnly": false,
       "name": "Bubble",
       "profession": "Defender",
       "rarity": "TIER_4",
@@ -53866,6 +54266,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PRO",
           "type": "X",
           "icon": "uniequip_002_bubble",
@@ -53927,6 +54328,7 @@
       ]
     },
     "char_383_snsant": {
+      "cnOnly": false,
       "name": "Snowsant",
       "profession": "Specialist",
       "rarity": "TIER_5",
@@ -54134,6 +54536,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "HOK",
           "type": "X",
           "icon": "uniequip_002_snsant",
@@ -54195,6 +54598,7 @@
       ]
     },
     "char_385_finlpp": {
+      "cnOnly": false,
       "name": "Purestream",
       "profession": "Medic",
       "rarity": "TIER_4",
@@ -54398,6 +54802,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "WAH",
           "type": "Y",
           "icon": "uniequip_002_finlpp",
@@ -54459,6 +54864,7 @@
       ]
     },
     "char_388_mint": {
+      "cnOnly": false,
       "name": "Mint",
       "profession": "Caster",
       "rarity": "TIER_5",
@@ -54666,6 +55072,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PLX",
           "type": "X",
           "icon": "uniequip_002_mint",
@@ -54727,6 +55134,7 @@
       ]
     },
     "char_391_rosmon": {
+      "cnOnly": false,
       "name": "Rosmontis",
       "profession": "Sniper",
       "rarity": "TIER_6",
@@ -54991,6 +55399,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "BOM",
           "type": "X",
           "icon": "uniequip_002_rosmon",
@@ -55052,6 +55461,7 @@
       ]
     },
     "char_400_weedy": {
+      "cnOnly": false,
       "name": "Weedy",
       "profession": "Specialist",
       "rarity": "TIER_6",
@@ -55316,6 +55726,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PUS",
           "type": "X",
           "icon": "uniequip_002_weedy",
@@ -55375,6 +55786,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "PUS",
           "type": "Y",
           "icon": "uniequip_003_weedy",
@@ -55436,6 +55848,7 @@
       ]
     },
     "char_4000_jnight": {
+      "cnOnly": false,
       "name": "Justice Knight",
       "profession": "Sniper",
       "rarity": "TIER_1",
@@ -55450,6 +55863,7 @@
       "modules": []
     },
     "char_4004_pudd": {
+      "cnOnly": false,
       "name": "Pudding",
       "profession": "Caster",
       "rarity": "TIER_4",
@@ -55653,6 +56067,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "CHA",
           "type": "Y",
           "icon": "uniequip_002_pudd",
@@ -55714,6 +56129,7 @@
       ]
     },
     "char_4006_melnte": {
+      "cnOnly": false,
       "name": "Melanite",
       "profession": "Sniper",
       "rarity": "TIER_5",
@@ -55921,6 +56337,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "ARC",
           "type": "Y",
           "icon": "uniequip_002_melnte",
@@ -55982,6 +56399,7 @@
       ]
     },
     "char_4009_irene": {
+      "cnOnly": false,
       "name": "Irene",
       "profession": "Guard",
       "rarity": "TIER_6",
@@ -56246,6 +56664,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SWO",
           "type": "Y",
           "icon": "uniequip_002_irene",
@@ -56307,6 +56726,7 @@
       ]
     },
     "char_401_elysm": {
+      "cnOnly": false,
       "name": "Elysium",
       "profession": "Vanguard",
       "rarity": "TIER_5",
@@ -56514,6 +56934,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "BEA",
           "type": "X",
           "icon": "uniequip_002_elysm",
@@ -56575,6 +56996,7 @@
       ]
     },
     "char_4011_lessng": {
+      "cnOnly": false,
       "name": "Lessing",
       "profession": "Guard",
       "rarity": "TIER_6",
@@ -56839,6 +57261,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "DRE",
           "type": "X",
           "icon": "uniequip_002_lessng",
@@ -56900,6 +57323,7 @@
       ]
     },
     "char_4013_kjera": {
+      "cnOnly": false,
       "name": "Kjera",
       "profession": "Caster",
       "rarity": "TIER_5",
@@ -57107,6 +57531,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "FUN",
           "type": "Y",
           "icon": "uniequip_002_kjera",
@@ -57168,6 +57593,7 @@
       ]
     },
     "char_4014_lunacu": {
+      "cnOnly": false,
       "name": "Lunacub",
       "profession": "Sniper",
       "rarity": "TIER_5",
@@ -57375,6 +57801,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "DEA",
           "type": "Y",
           "icon": "uniequip_002_lunacu",
@@ -57436,6 +57863,7 @@
       ]
     },
     "char_4015_spuria": {
+      "cnOnly": false,
       "name": "Spuria",
       "profession": "Specialist",
       "rarity": "TIER_5",
@@ -57643,6 +58071,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "GEE",
           "type": "X",
           "icon": "uniequip_002_spuria",
@@ -57704,6 +58133,7 @@
       ]
     },
     "char_4016_kazema": {
+      "cnOnly": false,
       "name": "Kazemaru",
       "profession": "Specialist",
       "rarity": "TIER_5",
@@ -57911,6 +58341,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PUM",
           "type": "X",
           "icon": "uniequip_002_kazema",
@@ -57972,6 +58403,7 @@
       ]
     },
     "char_4017_puzzle": {
+      "cnOnly": false,
       "name": "Puzzle",
       "profession": "Vanguard",
       "rarity": "TIER_5",
@@ -58180,6 +58612,7 @@
       "modules": []
     },
     "char_4019_ncdeer": {
+      "cnOnly": false,
       "name": "Nine-Colored Deer",
       "profession": "Supporter",
       "rarity": "TIER_5",
@@ -58387,6 +58820,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "BLS",
           "type": "X",
           "icon": "uniequip_002_ncdeer",
@@ -58448,6 +58882,7 @@
       ]
     },
     "char_402_tuye": {
+      "cnOnly": false,
       "name": "Tuye",
       "profession": "Medic",
       "rarity": "TIER_5",
@@ -58655,6 +59090,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PHY",
           "type": "X",
           "icon": "uniequip_002_tuye",
@@ -58716,6 +59152,7 @@
       ]
     },
     "char_4023_rfalcn": {
+      "cnOnly": false,
       "name": "Kestrel",
       "profession": "Vanguard",
       "rarity": "TIER_5",
@@ -58923,6 +59360,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SOL",
           "type": "Y",
           "icon": "uniequip_002_rfalcn",
@@ -58984,6 +59422,7 @@
       ]
     },
     "char_4025_aprot2": {
+      "cnOnly": false,
       "name": "Shalem",
       "profession": "Defender",
       "rarity": "TIER_5",
@@ -59192,6 +59631,7 @@
       "modules": []
     },
     "char_4027_heyak": {
+      "cnOnly": false,
       "name": "Ho'olheyak",
       "profession": "Caster",
       "rarity": "TIER_6",
@@ -59456,6 +59896,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "CCR",
           "type": "X",
           "icon": "uniequip_002_heyak",
@@ -59515,6 +59956,7 @@
           ]
         },
         {
+          "cnOnly": true,
           "typeName1": "CCR",
           "type": "Y",
           "icon": "uniequip_003_heyak",
@@ -59576,6 +60018,7 @@
       ]
     },
     "char_4032_provs": {
+      "cnOnly": false,
       "name": "Proviso",
       "profession": "Supporter",
       "rarity": "TIER_5",
@@ -59783,6 +60226,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "DEC",
           "type": "X",
           "icon": "uniequip_002_provs",
@@ -59844,6 +60288,7 @@
       ]
     },
     "char_4036_forcer": {
+      "cnOnly": false,
       "name": "Enforcer",
       "profession": "Specialist",
       "rarity": "TIER_5",
@@ -60051,6 +60496,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PUS",
           "type": "X",
           "icon": "uniequip_002_forcer",
@@ -60112,6 +60558,7 @@
       ]
     },
     "char_4039_horn": {
+      "cnOnly": false,
       "name": "Horn",
       "profession": "Defender",
       "rarity": "TIER_6",
@@ -60376,6 +60823,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "FOR",
           "type": "X",
           "icon": "uniequip_002_horn",
@@ -60437,6 +60885,7 @@
       ]
     },
     "char_4040_rockr": {
+      "cnOnly": false,
       "name": "Rockrock",
       "profession": "Caster",
       "rarity": "TIER_5",
@@ -60644,6 +61093,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "FUN",
           "type": "X",
           "icon": "uniequip_002_rockr",
@@ -60705,6 +61155,7 @@
       ]
     },
     "char_4041_chnut": {
+      "cnOnly": false,
       "name": "Chestnut",
       "profession": "Medic",
       "rarity": "TIER_4",
@@ -60908,6 +61359,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "WDM",
           "type": "X",
           "icon": "uniequip_002_chnut",
@@ -60969,6 +61421,7 @@
       ]
     },
     "char_4042_lumen": {
+      "cnOnly": false,
       "name": "Lumen",
       "profession": "Medic",
       "rarity": "TIER_6",
@@ -61233,6 +61686,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "WAH",
           "type": "X",
           "icon": "uniequip_002_lumen",
@@ -61292,6 +61746,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "WAH",
           "type": "Y",
           "icon": "uniequip_003_lumen",
@@ -61353,6 +61808,7 @@
       ]
     },
     "char_4043_erato": {
+      "cnOnly": false,
       "name": "Erato",
       "profession": "Sniper",
       "rarity": "TIER_5",
@@ -61560,6 +62016,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SIE",
           "type": "X",
           "icon": "uniequip_002_erato",
@@ -61621,6 +62078,7 @@
       ]
     },
     "char_4045_heidi": {
+      "cnOnly": false,
       "name": "Heidi",
       "profession": "Supporter",
       "rarity": "TIER_5",
@@ -61829,6 +62287,7 @@
       "modules": []
     },
     "char_4046_ebnhlz": {
+      "cnOnly": false,
       "name": "Ebenholz",
       "profession": "Caster",
       "rarity": "TIER_6",
@@ -62093,6 +62552,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "MSC",
           "type": "X",
           "icon": "uniequip_002_ebnhlz",
@@ -62152,6 +62612,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "MSC",
           "type": "Y",
           "icon": "uniequip_003_ebnhlz",
@@ -62211,6 +62672,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "MSC",
           "type": "D",
           "icon": "uniequip_004_ebnhlz",
@@ -62272,6 +62734,7 @@
       ]
     },
     "char_4047_pianst": {
+      "cnOnly": false,
       "name": "Czerny",
       "profession": "Defender",
       "rarity": "TIER_5",
@@ -62480,6 +62943,7 @@
       "modules": []
     },
     "char_4048_doroth": {
+      "cnOnly": false,
       "name": "Dorothy",
       "profession": "Specialist",
       "rarity": "TIER_6",
@@ -62744,6 +63208,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "TRP",
           "type": "Y",
           "icon": "uniequip_002_doroth",
@@ -62805,6 +63270,7 @@
       ]
     },
     "char_405_absin": {
+      "cnOnly": false,
       "name": "Absinthe",
       "profession": "Caster",
       "rarity": "TIER_5",
@@ -63012,6 +63478,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "CCR",
           "type": "X",
           "icon": "uniequip_002_absin",
@@ -63073,6 +63540,7 @@
       ]
     },
     "char_4054_malist": {
+      "cnOnly": false,
       "name": "Minimalist",
       "profession": "Caster",
       "rarity": "TIER_5",
@@ -63280,6 +63748,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "FUN",
           "type": "Y",
           "icon": "uniequip_002_malist",
@@ -63341,6 +63810,7 @@
       ]
     },
     "char_4055_bgsnow": {
+      "cnOnly": false,
       "name": "Pozëmka",
       "profession": "Sniper",
       "rarity": "TIER_6",
@@ -63605,6 +64075,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "ARC",
           "type": "Y",
           "icon": "uniequip_002_bgsnow",
@@ -63666,6 +64137,7 @@
       ]
     },
     "char_4058_pepe": {
+      "cnOnly": true,
       "name": "Pepe",
       "profession": "Guard",
       "rarity": "TIER_6",
@@ -63931,6 +64403,7 @@
       "modules": []
     },
     "char_4062_totter": {
+      "cnOnly": false,
       "name": "Totter",
       "profession": "Sniper",
       "rarity": "TIER_4",
@@ -64134,6 +64607,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SIE",
           "type": "X",
           "icon": "uniequip_002_totter",
@@ -64195,6 +64669,7 @@
       ]
     },
     "char_4063_quartz": {
+      "cnOnly": false,
       "name": "Quartz",
       "profession": "Guard",
       "rarity": "TIER_4",
@@ -64399,6 +64874,7 @@
       "modules": []
     },
     "char_4064_mlynar": {
+      "cnOnly": false,
       "name": "Młynar",
       "profession": "Guard",
       "rarity": "TIER_6",
@@ -64664,6 +65140,7 @@
       "modules": []
     },
     "char_4065_judge": {
+      "cnOnly": false,
       "name": "Penance",
       "profession": "Defender",
       "rarity": "TIER_6",
@@ -64928,6 +65405,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "UNY",
           "type": "X",
           "icon": "uniequip_002_judge",
@@ -64987,6 +65465,7 @@
           ]
         },
         {
+          "cnOnly": true,
           "typeName1": "UNY",
           "type": "Y",
           "icon": "uniequip_003_judge",
@@ -65048,6 +65527,7 @@
       ]
     },
     "char_4066_highmo": {
+      "cnOnly": false,
       "name": "Highmore",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -65255,6 +65735,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "REA",
           "type": "X",
           "icon": "uniequip_002_highmo",
@@ -65316,6 +65797,7 @@
       ]
     },
     "char_4067_lolxh": {
+      "cnOnly": false,
       "name": "Luo Xiaohei",
       "profession": "Guard",
       "rarity": "TIER_4",
@@ -65519,6 +66001,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "LOR",
           "type": "Y",
           "icon": "uniequip_002_lolxh",
@@ -65580,6 +66063,7 @@
       ]
     },
     "char_4071_peper": {
+      "cnOnly": false,
       "name": "Paprika",
       "profession": "Medic",
       "rarity": "TIER_5",
@@ -65788,6 +66272,7 @@
       "modules": []
     },
     "char_4072_ironmn": {
+      "cnOnly": false,
       "name": "Stainless",
       "profession": "Supporter",
       "rarity": "TIER_6",
@@ -66052,6 +66537,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "CRA",
           "type": "X",
           "icon": "uniequip_002_ironmn",
@@ -66113,6 +66599,7 @@
       ]
     },
     "char_4077_palico": {
+      "cnOnly": false,
       "name": "Terra Research Commission",
       "profession": "Sniper",
       "rarity": "TIER_1",
@@ -66127,6 +66614,7 @@
       "modules": []
     },
     "char_4078_bdhkgt": {
+      "cnOnly": false,
       "name": "Jieyun",
       "profession": "Sniper",
       "rarity": "TIER_5",
@@ -66334,6 +66822,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "ART",
           "type": "Y",
           "icon": "uniequip_002_bdhkgt",
@@ -66395,6 +66884,7 @@
       ]
     },
     "char_4079_haini": {
+      "cnOnly": true,
       "name": "Lucilla",
       "profession": "Supporter",
       "rarity": "TIER_5",
@@ -66602,6 +67092,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "UMD",
           "type": "X",
           "icon": "uniequip_002_haini",
@@ -66663,6 +67154,7 @@
       ]
     },
     "char_4080_lin": {
+      "cnOnly": false,
       "name": "Lin",
       "profession": "Caster",
       "rarity": "TIER_6",
@@ -66927,6 +67419,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PLX",
           "type": "X",
           "icon": "uniequip_002_lin",
@@ -66988,6 +67481,7 @@
       ]
     },
     "char_4081_warmy": {
+      "cnOnly": false,
       "name": "Warmy",
       "profession": "Caster",
       "rarity": "TIER_5",
@@ -67196,6 +67690,7 @@
       "modules": []
     },
     "char_4082_qiubai": {
+      "cnOnly": false,
       "name": "Qiubai",
       "profession": "Guard",
       "rarity": "TIER_6",
@@ -67460,6 +67955,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "LOR",
           "type": "X",
           "icon": "uniequip_002_qiubai",
@@ -67521,6 +68017,7 @@
       ]
     },
     "char_4083_chimes": {
+      "cnOnly": false,
       "name": "Wind Chimes",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -67729,6 +68226,7 @@
       "modules": []
     },
     "char_4087_ines": {
+      "cnOnly": false,
       "name": "Ines",
       "profession": "Vanguard",
       "rarity": "TIER_6",
@@ -67994,6 +68492,7 @@
       "modules": []
     },
     "char_4088_hodrer": {
+      "cnOnly": false,
       "name": "Hoederer",
       "profession": "Guard",
       "rarity": "TIER_6",
@@ -68259,6 +68758,7 @@
       "modules": []
     },
     "char_4091_ulika": {
+      "cnOnly": false,
       "name": "U-Official",
       "profession": "Supporter",
       "rarity": "TIER_1",
@@ -68273,6 +68773,7 @@
       "modules": []
     },
     "char_4093_frston": {
+      "cnOnly": false,
       "name": "Friston-3",
       "profession": "Defender",
       "rarity": "TIER_1",
@@ -68287,6 +68788,7 @@
       "modules": []
     },
     "char_4098_vvana": {
+      "cnOnly": false,
       "name": "Viviana",
       "profession": "Guard",
       "rarity": "TIER_6",
@@ -68552,6 +69054,7 @@
       "modules": []
     },
     "char_4100_caper": {
+      "cnOnly": false,
       "name": "Caper",
       "profession": "Sniper",
       "rarity": "TIER_4",
@@ -68756,6 +69259,7 @@
       "modules": []
     },
     "char_4102_threye": {
+      "cnOnly": false,
       "name": "Valarqvin",
       "profession": "Supporter",
       "rarity": "TIER_5",
@@ -68964,6 +69468,7 @@
       "modules": []
     },
     "char_4104_coldst": {
+      "cnOnly": false,
       "name": "Coldshot",
       "profession": "Sniper",
       "rarity": "TIER_5",
@@ -69171,6 +69676,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "HUN",
           "type": "X",
           "icon": "uniequip_002_coldst",
@@ -69232,6 +69738,7 @@
       ]
     },
     "char_4105_almond": {
+      "cnOnly": false,
       "name": "Almond",
       "profession": "Specialist",
       "rarity": "TIER_5",
@@ -69439,6 +69946,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "HOK",
           "type": "X",
           "icon": "uniequip_002_almond",
@@ -69500,6 +70008,7 @@
       ]
     },
     "char_4106_bryota": {
+      "cnOnly": false,
       "name": "Bryophyta",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -69707,6 +70216,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "INS",
           "type": "X",
           "icon": "uniequip_002_bryota",
@@ -69768,6 +70278,7 @@
       ]
     },
     "char_4107_vrdant": {
+      "cnOnly": false,
       "name": "Verdant",
       "profession": "Specialist",
       "rarity": "TIER_4",
@@ -69971,6 +70482,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PUM",
           "type": "Y",
           "icon": "uniequip_002_vrdant",
@@ -70032,6 +70544,7 @@
       ]
     },
     "char_4109_baslin": {
+      "cnOnly": false,
       "name": "Bassline",
       "profession": "Defender",
       "rarity": "TIER_5",
@@ -70239,6 +70752,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "GUA",
           "type": "Y",
           "icon": "uniequip_002_baslin",
@@ -70300,6 +70814,7 @@
       ]
     },
     "char_411_tomimi": {
+      "cnOnly": false,
       "name": "Tomimi",
       "profession": "Caster",
       "rarity": "TIER_5",
@@ -70507,6 +71022,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "CCR",
           "type": "Y",
           "icon": "uniequip_002_tomimi",
@@ -70568,6 +71084,7 @@
       ]
     },
     "char_4110_delphn": {
+      "cnOnly": false,
       "name": "Delphine",
       "profession": "Caster",
       "rarity": "TIER_5",
@@ -70775,6 +71292,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "MSC",
           "type": "Y",
           "icon": "uniequip_002_delphn",
@@ -70836,6 +71354,7 @@
       ]
     },
     "char_4114_harold": {
+      "cnOnly": false,
       "name": "Harold",
       "profession": "Medic",
       "rarity": "TIER_5",
@@ -71043,6 +71562,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "WDM",
           "type": "X",
           "icon": "uniequip_002_harold",
@@ -71104,6 +71624,7 @@
       ]
     },
     "char_4116_blkkgt": {
+      "cnOnly": false,
       "name": "Degenbrecher",
       "profession": "Guard",
       "rarity": "TIER_6",
@@ -71368,6 +71889,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SWO",
           "type": "X",
           "icon": "uniequip_002_blkkgt",
@@ -71429,6 +71951,7 @@
       ]
     },
     "char_4117_ray": {
+      "cnOnly": false,
       "name": "Ray",
       "profession": "Sniper",
       "rarity": "TIER_6",
@@ -71693,6 +72216,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "HUN",
           "type": "X",
           "icon": "uniequip_002_ray",
@@ -71754,6 +72278,7 @@
       ]
     },
     "char_4119_wanqin": {
+      "cnOnly": false,
       "name": "Wanqing",
       "profession": "Vanguard",
       "rarity": "TIER_5",
@@ -71961,6 +72486,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "BEA",
           "type": "X",
           "icon": "uniequip_002_wanqin",
@@ -72022,6 +72548,7 @@
       ]
     },
     "char_4121_zuole": {
+      "cnOnly": false,
       "name": "Zuo Le",
       "profession": "Guard",
       "rarity": "TIER_6",
@@ -72286,6 +72813,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SBL",
           "type": "X",
           "icon": "uniequip_002_zuole",
@@ -72347,6 +72875,7 @@
       ]
     },
     "char_4122_grabds": {
+      "cnOnly": false,
       "name": "Grain Buds",
       "profession": "Supporter",
       "rarity": "TIER_5",
@@ -72554,6 +73083,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "DEC",
           "type": "X",
           "icon": "uniequip_002_grabds",
@@ -72615,6 +73145,7 @@
       ]
     },
     "char_4123_ela": {
+      "cnOnly": true,
       "name": "Ela",
       "profession": "Specialist",
       "rarity": "TIER_6",
@@ -72879,6 +73410,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "TRP",
           "type": "D",
           "icon": "uniequip_002_ela",
@@ -72940,6 +73472,7 @@
       ]
     },
     "char_4124_iana": {
+      "cnOnly": true,
       "name": "Iana",
       "profession": "Specialist",
       "rarity": "TIER_5",
@@ -73147,6 +73680,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "PUM",
           "type": "X",
           "icon": "uniequip_002_iana",
@@ -73208,6 +73742,7 @@
       ]
     },
     "char_4125_rdoc": {
+      "cnOnly": true,
       "name": "Doc",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -73415,6 +73950,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "INS",
           "type": "Y",
           "icon": "uniequip_002_rdoc",
@@ -73476,6 +74012,7 @@
       ]
     },
     "char_4126_fuze": {
+      "cnOnly": true,
       "name": "Fuze",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -73683,6 +74220,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "CEN",
           "type": "Y",
           "icon": "uniequip_002_fuze",
@@ -73744,6 +74282,7 @@
       ]
     },
     "char_4130_luton": {
+      "cnOnly": true,
       "name": "Lutonada",
       "profession": "Defender",
       "rarity": "TIER_4",
@@ -73947,6 +74486,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "UNY",
           "type": "X",
           "icon": "uniequip_002_luton",
@@ -74008,6 +74548,7 @@
       ]
     },
     "char_4131_odda": {
+      "cnOnly": true,
       "name": "Odda",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -74216,6 +74757,7 @@
       "modules": []
     },
     "char_4132_ascln": {
+      "cnOnly": true,
       "name": "Ascalon",
       "profession": "Specialist",
       "rarity": "TIER_6",
@@ -74480,6 +75022,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "AMB",
           "type": "X",
           "icon": "uniequip_002_ascln",
@@ -74541,6 +75084,7 @@
       ]
     },
     "char_4133_logos": {
+      "cnOnly": true,
       "name": "Logos",
       "profession": "Caster",
       "rarity": "TIER_6",
@@ -74805,6 +75349,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "CCR",
           "type": "D",
           "icon": "uniequip_002_logos",
@@ -74866,6 +75411,7 @@
       ]
     },
     "char_4134_cetsyr": {
+      "cnOnly": true,
       "name": "Civilight Eterna",
       "profession": "Supporter",
       "rarity": "TIER_6",
@@ -75131,6 +75677,7 @@
       "modules": []
     },
     "char_4136_phonor": {
+      "cnOnly": true,
       "name": "PhonoR-0",
       "profession": "Supporter",
       "rarity": "TIER_1",
@@ -75145,6 +75692,7 @@
       "modules": []
     },
     "char_4137_udflow": {
+      "cnOnly": true,
       "name": "Underflow",
       "profession": "Defender",
       "rarity": "TIER_5",
@@ -75352,6 +75900,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "SPT",
           "type": "X",
           "icon": "uniequip_002_udflow",
@@ -75413,6 +75962,7 @@
       ]
     },
     "char_4138_narant": {
+      "cnOnly": true,
       "name": "Narantuya",
       "profession": "Sniper",
       "rarity": "TIER_6",
@@ -75678,6 +76228,7 @@
       "modules": []
     },
     "char_4139_papyrs": {
+      "cnOnly": true,
       "name": "Papyrus",
       "profession": "Medic",
       "rarity": "TIER_5",
@@ -75886,6 +76437,7 @@
       "modules": []
     },
     "char_4140_lasher": {
+      "cnOnly": true,
       "name": "Sand Reckoner",
       "profession": "Supporter",
       "rarity": "TIER_5",
@@ -76093,6 +76645,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "SUM",
           "type": "X",
           "icon": "uniequip_002_lasher",
@@ -76154,6 +76707,7 @@
       ]
     },
     "char_4145_ulpia": {
+      "cnOnly": true,
       "name": "Ulpianus",
       "profession": "Guard",
       "rarity": "TIER_6",
@@ -76419,6 +76973,7 @@
       "modules": []
     },
     "char_4146_nymph": {
+      "cnOnly": true,
       "name": "Nymph",
       "profession": "Caster",
       "rarity": "TIER_6",
@@ -76684,6 +77239,7 @@
       "modules": []
     },
     "char_4147_mitm": {
+      "cnOnly": true,
       "name": "Mitm",
       "profession": "Vanguard",
       "rarity": "TIER_5",
@@ -76891,6 +77447,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "TAC",
           "type": "Y",
           "icon": "uniequip_002_mitm",
@@ -76952,6 +77509,7 @@
       ]
     },
     "char_415_flint": {
+      "cnOnly": false,
       "name": "Flint",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -77159,6 +77717,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "FGT",
           "type": "Y",
           "icon": "uniequip_002_flint",
@@ -77220,6 +77779,7 @@
       ]
     },
     "char_4151_tinman": {
+      "cnOnly": true,
       "name": "Tin Man",
       "profession": "Specialist",
       "rarity": "TIER_5",
@@ -77428,6 +77988,7 @@
       "modules": []
     },
     "char_416_zumama": {
+      "cnOnly": false,
       "name": "Eunectes",
       "profession": "Defender",
       "rarity": "TIER_6",
@@ -77692,6 +78253,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "HES",
           "type": "X",
           "icon": "uniequip_002_zumama",
@@ -77751,6 +78313,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "HES",
           "type": "Y",
           "icon": "uniequip_003_zumama",
@@ -77812,6 +78375,7 @@
       ]
     },
     "char_420_flamtl": {
+      "cnOnly": false,
       "name": "Flametail",
       "profession": "Vanguard",
       "rarity": "TIER_6",
@@ -78076,6 +78640,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SOL",
           "type": "Y",
           "icon": "uniequip_002_flamtl",
@@ -78135,6 +78700,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "SOL",
           "type": "X",
           "icon": "uniequip_003_flamtl",
@@ -78196,6 +78762,7 @@
       ]
     },
     "char_421_crow": {
+      "cnOnly": false,
       "name": "La Pluma",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -78403,6 +78970,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "REA",
           "type": "X",
           "icon": "uniequip_002_crow",
@@ -78464,6 +79032,7 @@
       ]
     },
     "char_422_aurora": {
+      "cnOnly": false,
       "name": "Aurora",
       "profession": "Defender",
       "rarity": "TIER_5",
@@ -78671,6 +79240,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "HES",
           "type": "X",
           "icon": "uniequip_002_aurora",
@@ -78732,6 +79302,7 @@
       ]
     },
     "char_423_blemsh": {
+      "cnOnly": false,
       "name": "Blemishine",
       "profession": "Defender",
       "rarity": "TIER_6",
@@ -78996,6 +79567,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "GUA",
           "type": "Y",
           "icon": "uniequip_002_blemsh",
@@ -79055,6 +79627,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "GUA",
           "type": "X",
           "icon": "uniequip_003_blemsh",
@@ -79116,6 +79689,7 @@
       ]
     },
     "char_426_billro": {
+      "cnOnly": false,
       "name": "Carnelian",
       "profession": "Caster",
       "rarity": "TIER_6",
@@ -79380,6 +79954,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "PLX",
           "type": "X",
           "icon": "uniequip_002_billro",
@@ -79439,6 +80014,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "PLX",
           "type": "Y",
           "icon": "uniequip_003_billro",
@@ -79500,6 +80076,7 @@
       ]
     },
     "char_427_vigil": {
+      "cnOnly": false,
       "name": "Vigil",
       "profession": "Vanguard",
       "rarity": "TIER_6",
@@ -79764,6 +80341,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "TAC",
           "type": "X",
           "icon": "uniequip_002_vigil",
@@ -79825,6 +80403,7 @@
       ]
     },
     "char_430_fartth": {
+      "cnOnly": false,
       "name": "Fartooth",
       "profession": "Sniper",
       "rarity": "TIER_6",
@@ -80089,6 +80668,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "DEA",
           "type": "X",
           "icon": "uniequip_002_fartth",
@@ -80148,6 +80728,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "DEA",
           "type": "Y",
           "icon": "uniequip_003_fartth",
@@ -80209,6 +80790,7 @@
       ]
     },
     "char_431_ashlok": {
+      "cnOnly": false,
       "name": "Ashlock",
       "profession": "Defender",
       "rarity": "TIER_5",
@@ -80416,6 +80998,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "FOR",
           "type": "X",
           "icon": "uniequip_002_ashlok",
@@ -80477,6 +81060,7 @@
       ]
     },
     "char_433_windft": {
+      "cnOnly": false,
       "name": "Windflit",
       "profession": "Supporter",
       "rarity": "TIER_5",
@@ -80684,6 +81268,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "CRA",
           "type": "X",
           "icon": "uniequip_002_windft",
@@ -80745,6 +81330,7 @@
       ]
     },
     "char_436_whispr": {
+      "cnOnly": false,
       "name": "Whisperain",
       "profession": "Medic",
       "rarity": "TIER_5",
@@ -80952,6 +81538,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "WAH",
           "type": "X",
           "icon": "uniequip_002_whispr",
@@ -81013,6 +81600,7 @@
       ]
     },
     "char_437_mizuki": {
+      "cnOnly": false,
       "name": "Mizuki",
       "profession": "Specialist",
       "rarity": "TIER_6",
@@ -81277,6 +81865,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "AMB",
           "type": "X",
           "icon": "uniequip_002_mizuki",
@@ -81336,6 +81925,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "AMB",
           "type": "Y",
           "icon": "uniequip_003_mizuki",
@@ -81397,6 +81987,7 @@
       ]
     },
     "char_440_pinecn": {
+      "cnOnly": false,
       "name": "Pinecone",
       "profession": "Sniper",
       "rarity": "TIER_4",
@@ -81600,6 +82191,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "RPR",
           "type": "X",
           "icon": "uniequip_002_pinecn",
@@ -81661,6 +82253,7 @@
       ]
     },
     "char_446_aroma": {
+      "cnOnly": true,
       "name": "Aroma",
       "profession": "Caster",
       "rarity": "TIER_5",
@@ -81868,6 +82461,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "BLA",
           "type": "X",
           "icon": "uniequip_002_aroma",
@@ -81929,6 +82523,7 @@
       ]
     },
     "char_449_glider": {
+      "cnOnly": false,
       "name": "Honeyberry",
       "profession": "Medic",
       "rarity": "TIER_5",
@@ -82136,6 +82731,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "WDM",
           "type": "X",
           "icon": "uniequip_002_glider",
@@ -82197,6 +82793,7 @@
       ]
     },
     "char_451_robin": {
+      "cnOnly": false,
       "name": "Robin",
       "profession": "Specialist",
       "rarity": "TIER_5",
@@ -82404,6 +83001,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "TRP",
           "type": "Y",
           "icon": "uniequip_002_robin",
@@ -82465,6 +83063,7 @@
       ]
     },
     "char_452_bstalk": {
+      "cnOnly": false,
       "name": "Beanstalk",
       "profession": "Vanguard",
       "rarity": "TIER_4",
@@ -82668,6 +83267,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "TAC",
           "type": "Y",
           "icon": "uniequip_002_blkngt",
@@ -82729,6 +83329,7 @@
       ]
     },
     "char_455_nothin": {
+      "cnOnly": false,
       "name": "Mr. Nothing",
       "profession": "Specialist",
       "rarity": "TIER_5",
@@ -82936,6 +83537,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "MER",
           "type": "X",
           "icon": "uniequip_002_nothin",
@@ -82997,6 +83599,7 @@
       ]
     },
     "char_456_ash": {
+      "cnOnly": false,
       "name": "Ash",
       "profession": "Sniper",
       "rarity": "TIER_6",
@@ -83261,6 +83864,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "MAR",
           "type": "Y",
           "icon": "uniequip_002_ash",
@@ -83320,6 +83924,7 @@
           ]
         },
         {
+          "cnOnly": true,
           "typeName1": "MAR",
           "type": "X",
           "icon": "uniequip_003_ash",
@@ -83381,6 +83986,7 @@
       ]
     },
     "char_457_blitz": {
+      "cnOnly": false,
       "name": "Blitz",
       "profession": "Defender",
       "rarity": "TIER_5",
@@ -83588,6 +84194,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "SPT",
           "type": "X",
           "icon": "uniequip_002_blitz",
@@ -83649,6 +84256,7 @@
       ]
     },
     "char_458_rfrost": {
+      "cnOnly": false,
       "name": "Frost",
       "profession": "Specialist",
       "rarity": "TIER_5",
@@ -83856,6 +84464,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "TRP",
           "type": "Y",
           "icon": "uniequip_002_rfrost",
@@ -83917,6 +84526,7 @@
       ]
     },
     "char_459_tachak": {
+      "cnOnly": false,
       "name": "Tachanka",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -84124,6 +84734,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SWO",
           "type": "X",
           "icon": "uniequip_002_tachak",
@@ -84185,6 +84796,7 @@
       ]
     },
     "char_464_cement": {
+      "cnOnly": false,
       "name": "Cement",
       "profession": "Defender",
       "rarity": "TIER_5",
@@ -84392,6 +85004,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "HES",
           "type": "X",
           "icon": "uniequip_002_cement",
@@ -84453,6 +85066,7 @@
       ]
     },
     "char_466_qanik": {
+      "cnOnly": false,
       "name": "Qanipalaat",
       "profession": "Caster",
       "rarity": "TIER_5",
@@ -84660,6 +85274,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "CCR",
           "type": "Y",
           "icon": "uniequip_002_qanik",
@@ -84721,6 +85336,7 @@
       ]
     },
     "char_469_indigo": {
+      "cnOnly": false,
       "name": "Indigo",
       "profession": "Caster",
       "rarity": "TIER_4",
@@ -84924,6 +85540,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "MSC",
           "type": "X",
           "icon": "uniequip_002_indigo",
@@ -84985,6 +85602,7 @@
       ]
     },
     "char_472_pasngr": {
+      "cnOnly": false,
       "name": "Passenger",
       "profession": "Caster",
       "rarity": "TIER_6",
@@ -85249,6 +85867,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "CHA",
           "type": "X",
           "icon": "uniequip_002_pasngr",
@@ -85308,6 +85927,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "CHA",
           "type": "Y",
           "icon": "uniequip_003_pasngr",
@@ -85369,6 +85989,7 @@
       ]
     },
     "char_473_mberry": {
+      "cnOnly": false,
       "name": "Mulberry",
       "profession": "Medic",
       "rarity": "TIER_5",
@@ -85576,6 +86197,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "WDM",
           "type": "X",
           "icon": "uniequip_002_mberry",
@@ -85637,6 +86259,7 @@
       ]
     },
     "char_474_glady": {
+      "cnOnly": false,
       "name": "Gladiia",
       "profession": "Specialist",
       "rarity": "TIER_6",
@@ -85901,6 +86524,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "HOK",
           "type": "X",
           "icon": "uniequip_002_glady",
@@ -85960,6 +86584,7 @@
           ]
         },
         {
+          "cnOnly": true,
           "typeName1": "HOK",
           "type": "Y",
           "icon": "uniequip_003_glady",
@@ -86021,6 +86646,7 @@
       ]
     },
     "char_475_akafyu": {
+      "cnOnly": false,
       "name": "Akafuyu",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -86228,6 +86854,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SBL",
           "type": "X",
           "icon": "uniequip_002_akafyu",
@@ -86289,6 +86916,7 @@
       ]
     },
     "char_476_blkngt": {
+      "cnOnly": false,
       "name": "Blacknight",
       "profession": "Vanguard",
       "rarity": "TIER_5",
@@ -86496,6 +87124,7 @@
       ],
       "modules": [
         {
+          "cnOnly": true,
           "typeName1": "TAC",
           "type": "X",
           "icon": "uniequip_002_bstalk",
@@ -86557,6 +87186,7 @@
       ]
     },
     "char_478_kirara": {
+      "cnOnly": false,
       "name": "Kirara",
       "profession": "Specialist",
       "rarity": "TIER_5",
@@ -86764,6 +87394,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "AMB",
           "type": "X",
           "icon": "uniequip_002_kirara",
@@ -86825,6 +87456,7 @@
       ]
     },
     "char_479_sleach": {
+      "cnOnly": false,
       "name": "Saileach",
       "profession": "Vanguard",
       "rarity": "TIER_6",
@@ -87089,6 +87721,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "BEA",
           "type": "X",
           "icon": "uniequip_002_sleach",
@@ -87150,6 +87783,7 @@
       ]
     },
     "char_484_robrta": {
+      "cnOnly": false,
       "name": "Roberta",
       "profession": "Supporter",
       "rarity": "TIER_4",
@@ -87353,6 +87987,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "CRA",
           "type": "X",
           "icon": "uniequip_002_robrta",
@@ -87414,6 +88049,7 @@
       ]
     },
     "char_485_pallas": {
+      "cnOnly": false,
       "name": "Pallas",
       "profession": "Guard",
       "rarity": "TIER_6",
@@ -87678,6 +88314,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "INS",
           "type": "X",
           "icon": "uniequip_002_pallas",
@@ -87737,6 +88374,7 @@
           ]
         },
         {
+          "cnOnly": false,
           "typeName1": "INS",
           "type": "Y",
           "icon": "uniequip_003_pallas",
@@ -87798,6 +88436,7 @@
       ]
     },
     "char_486_takila": {
+      "cnOnly": false,
       "name": "Tequila",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -88006,6 +88645,7 @@
       "modules": []
     },
     "char_488_buildr": {
+      "cnOnly": false,
       "name": "Poncirus",
       "profession": "Vanguard",
       "rarity": "TIER_5",
@@ -88213,6 +88853,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "SOL",
           "type": "X",
           "icon": "uniequip_002_buildr",
@@ -88274,6 +88915,7 @@
       ]
     },
     "char_489_serum": {
+      "cnOnly": false,
       "name": "Corroserum",
       "profession": "Caster",
       "rarity": "TIER_5",
@@ -88481,6 +89123,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "BLA",
           "type": "X",
           "icon": "uniequip_002_serum",
@@ -88542,6 +89185,7 @@
       ]
     },
     "char_491_humus": {
+      "cnOnly": false,
       "name": "Humus",
       "profession": "Guard",
       "rarity": "TIER_4",
@@ -88745,6 +89389,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "REA",
           "type": "X",
           "icon": "uniequip_002_humus",
@@ -88806,6 +89451,7 @@
       ]
     },
     "char_492_quercu": {
+      "cnOnly": false,
       "name": "Quercus",
       "profession": "Supporter",
       "rarity": "TIER_5",
@@ -89013,6 +89659,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "BLS",
           "type": "X",
           "icon": "uniequip_002_quercu",
@@ -89074,6 +89721,7 @@
       ]
     },
     "char_493_firwhl": {
+      "cnOnly": false,
       "name": "Firewhistle",
       "profession": "Defender",
       "rarity": "TIER_5",
@@ -89281,6 +89929,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "FOR",
           "type": "X",
           "icon": "uniequip_002_firwhl",
@@ -89342,6 +89991,7 @@
       ]
     },
     "char_494_vendla": {
+      "cnOnly": false,
       "name": "Vendela",
       "profession": "Medic",
       "rarity": "TIER_5",
@@ -89549,6 +90199,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "INC",
           "type": "X",
           "icon": "uniequip_002_vendla",
@@ -89610,6 +90261,7 @@
       ]
     },
     "char_496_wildmn": {
+      "cnOnly": false,
       "name": "Wild Mane",
       "profession": "Vanguard",
       "rarity": "TIER_5",
@@ -89817,6 +90469,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "CHG",
           "type": "X",
           "icon": "uniequip_002_wildmn",
@@ -89878,6 +90531,7 @@
       ]
     },
     "char_497_ctable": {
+      "cnOnly": false,
       "name": "Cantabile",
       "profession": "Vanguard",
       "rarity": "TIER_5",
@@ -90086,6 +90740,7 @@
       "modules": []
     },
     "char_498_inside": {
+      "cnOnly": false,
       "name": "Insider",
       "profession": "Sniper",
       "rarity": "TIER_5",
@@ -90293,6 +90948,7 @@
       ],
       "modules": [
         {
+          "cnOnly": false,
           "typeName1": "MAR",
           "type": "X",
           "icon": "uniequip_002_inside",
@@ -90354,6 +91010,7 @@
       ]
     },
     "char_499_kaitou": {
+      "cnOnly": false,
       "name": "Diamante",
       "profession": "Caster",
       "rarity": "TIER_5",
@@ -90562,6 +91219,7 @@
       "modules": []
     },
     "char_500_noirc": {
+      "cnOnly": false,
       "name": "Noir Corne",
       "profession": "Defender",
       "rarity": "TIER_2",
@@ -90576,6 +91234,7 @@
       "modules": []
     },
     "char_501_durin": {
+      "cnOnly": false,
       "name": "Durin",
       "profession": "Caster",
       "rarity": "TIER_2",
@@ -90590,6 +91249,7 @@
       "modules": []
     },
     "char_502_nblade": {
+      "cnOnly": false,
       "name": "Yato",
       "profession": "Vanguard",
       "rarity": "TIER_2",
@@ -90604,6 +91264,7 @@
       "modules": []
     },
     "char_503_rang": {
+      "cnOnly": false,
       "name": "Rangers",
       "profession": "Sniper",
       "rarity": "TIER_2",
