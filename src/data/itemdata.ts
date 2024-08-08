@@ -11,9 +11,7 @@ const getItemdata = async () => {
 
     const [data, cn_data]: Item_Table[] = await Promise.all([response.json(), cn_response.json()]);
 
-    const combinedData = Object.assign(cn_data, data);
-
-    const itemsArray = Object.values(combinedData.items).filter(i =>
+    const itemFilter = (i: Item) =>
         i.itemId === "4001" || // LMD
         i.itemId === "4006" || // purchase certificate
         (
@@ -21,8 +19,67 @@ const getItemdata = async () => {
             i.itemType === "CARD_EXP"
         ) &&
         i.classifyType === "MATERIAL" &&
-        !i.name.match(/.+\sToken/)
-    );
+        !i.name.match(/.+\sToken/);
+    
+
+    const validateData = (data: Item_Table) => {
+        if (!data) {
+            throw new Error("Invalid Item data");
+        }
+
+        if (!data.items) {
+            throw new Error("Invalid Item data: items is missing");
+        }
+
+        if (!data.expItems) {
+            throw new Error("Invalid Item data: expItems is missing");
+        }
+
+        for (const item of Object.values(data.items).filter(itemFilter)) {
+            if (!item.itemId) {
+                throw new Error("Invalid Item data: itemId is missing " + item.itemId + " " + item.name);
+            }
+
+            if (!item.name) {
+                throw new Error("Invalid Item data: name is missing");
+            }
+
+            if (!item.description && item.description !== "") {
+                throw new Error("Invalid Item data: description is missing " + item.itemId + " " + item.name);
+            }
+
+            if (!item.itemType) {
+                throw new Error("Invalid Item data: itemType is missing");
+            }
+
+            if (!item.classifyType) {
+                throw new Error("Invalid Item data: classifyType is missing");
+            }
+
+            if (!item.rarity) {
+                throw new Error("Invalid Item data: rarity is missing");
+            }
+
+            if (!item.iconId) {
+                throw new Error("Invalid Item data: iconId is missing");
+            }
+
+            if (!item.sortId) {
+                throw new Error("Invalid Item data: sortId is missing");
+            }
+
+            if (!Array.isArray(item.stageDropList)) {
+                throw new Error("Invalid Item data: stageDropList is not an array");
+            }
+        }
+    };
+
+    validateData(data);
+    validateData(cn_data);
+
+    const combinedData = Object.assign(cn_data, data);
+
+    const itemsArray = Object.values(combinedData.items).filter(itemFilter);
 
     const items: { [key: string]: Item } = {};
     for (const item of itemsArray) {

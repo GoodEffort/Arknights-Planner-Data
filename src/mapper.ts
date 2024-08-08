@@ -35,13 +35,14 @@ const mapSkills = ({ skillId, levelUpCostCond }: RawSkillData, skillDict: { [key
     }
 };
 
-const mapModules = (modules: RawModuleData[]): Module[] => {
-    return modules.map(({ uniEquipId, typeName1, typeName2, uniEquipIcon, uniEquipDesc, itemCost, uniEquipName }: RawModuleData): Module => {
+const mapModules = (modules: (RawModuleData & { cnOnly: boolean })[]): Module[] => {
+    return modules.map(({ uniEquipId, typeName1, typeName2, uniEquipIcon, uniEquipDesc, itemCost, uniEquipName, cnOnly }): Module => {
         if (typeName2 === null) {
             throw new Error("typeName2 is null: " + uniEquipId);
         }
 
         return {
+            cnOnly,
             typeName1,
             type: typeName2,
             icon: uniEquipIcon,
@@ -75,9 +76,10 @@ const mapProfession = (profession: string): string => {
     }
 };
 
-const mapOperator = ({ id, name, rarity, profession, phases, skills, allSkillLvlup }: RawOperatorData, skillDict: { [key: string]: { id: string; iconId: string; name: string; } }, moduleDict: { [key: string]: RawModuleData[] }): Operator => {
+const mapOperator = ({ id, name, rarity, profession, phases, skills, allSkillLvlup, cnOnly }: RawOperatorData, skillDict: { [key: string]: { id: string; iconId: string; name: string; } }, moduleDict: { [key: string]: (RawModuleData & { cnOnly: boolean})[] }): Operator => {
     return {
         id,
+        cnOnly,
         name,
         profession: mapProfession(profession),
         rarity,
