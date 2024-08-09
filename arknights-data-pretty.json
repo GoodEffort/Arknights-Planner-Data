@@ -1468,7 +1468,7 @@
       ]
     },
     "char_1001_amiya2": {
-      "cnOnly": true,
+      "cnOnly": false,
       "name": "Amiya - Guard",
       "profession": "Guard",
       "rarity": "TIER_5",
