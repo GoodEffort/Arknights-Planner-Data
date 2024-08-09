@@ -1,6 +1,7 @@
 import { RawOperatorData, Character_Table, CharacterPatch } from "./types/operator"
 
 const characterJsonLink = "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData_YoStar/main/en_US/gamedata/excel/character_table.json";
+const characterPatchJsonLink = "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData_YoStar/main/en_US/gamedata/excel/char_patch_table.json";
 const cn_characterJsonLink = "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json";
 const cn_characterPatchJsonLink = "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/char_patch_table.json";
 
@@ -8,24 +9,29 @@ const getChardata = async () => {
     const [
         response,
         cn_response,
+        patch_response,
         cn_patch_response
     ] = await Promise.all([
         fetch(characterJsonLink),
         fetch(cn_characterJsonLink),
+        fetch(characterPatchJsonLink),
         fetch(cn_characterPatchJsonLink)
     ]);
 
     const [
         charData,
         cn_charData,
+        patchData,
         cn_patchData
     ]: [
         Character_Table,
         Character_Table,
         CharacterPatch,
+        CharacterPatch,
     ] = await Promise.all([
         response.json(),
         cn_response.json(),
+        patch_response.json(),
         cn_patch_response.json()
     ]);
 
@@ -76,6 +82,21 @@ const getChardata = async () => {
     validateData(charData);
     validateData(cn_charData);
 
+    const validatePatchData = (data: CharacterPatch) => {
+        if (!data) {
+            throw new Error("Invalid CharacterPatch data");
+        }
+
+        if (!data.patchChars) {
+            throw new Error("Invalid CharacterPatch data: patchChars is missing");
+        }
+
+        // character patch data schema shouldn't change if the character data schema doesn't change
+    }
+
+    validatePatchData(patchData);
+    validatePatchData(cn_patchData);
+
     // get English name from the appellation field
     for (const key in cn_charData) {
         let character = cn_charData[key];
@@ -112,7 +133,7 @@ const getChardata = async () => {
             return {
                 id,
                 ...char,
-                cnOnly: !charData[id],
+                cnOnly: !charData[id] && !patchData.patchChars[id],
                 name: char.name[0] == "'" ? char.name.slice(1, char.name.length - 1) : char.name,
             }
         })

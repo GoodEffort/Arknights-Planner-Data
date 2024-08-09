@@ -1,7 +1,7 @@
 {
   "commitHashes": {
-    "yostar": "66e8626d10448029c6761bc7242570cd490b8ebf",
-    "cn": "bb2232d4891f13e766410c768a8e59568d8f8c96"
+    "yostar": "798b574b2f7a3462acd044d7489f1eca0fcd66e9",
+    "cn": "bd4f4ce44ca2de8162a17def77035e1553b72989"
   },
   "operators": {
     "char_002_amiya": {
@@ -1468,7 +1468,7 @@
       ]
     },
     "char_1001_amiya2": {
-      "cnOnly": true,
+      "cnOnly": false,
       "name": "Amiya - Guard",
       "profession": "Guard",
       "rarity": "TIER_5",
