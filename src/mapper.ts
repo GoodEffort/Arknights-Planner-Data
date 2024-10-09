@@ -42,6 +42,7 @@ const mapModules = (modules: (RawModuleData & { cnOnly: boolean })[]): Module[] 
         }
 
         return {
+            id: uniEquipId,
             cnOnly,
             typeName1,
             type: typeName2,

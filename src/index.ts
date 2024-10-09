@@ -133,7 +133,7 @@ async function getSkillImages(skillData: {
         // console.log(icon);
         // console.log(filename);
         if (fs.existsSync(filename)) {
-            //console.log(`Skipping ${filename}`);
+            console.log(`Skipping ${filename}`);
         }
         else {
 
