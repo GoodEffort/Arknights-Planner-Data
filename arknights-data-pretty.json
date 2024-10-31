@@ -1,6 +1,6 @@
 {
   "commitHashes": {
-    "yostar": "f9a523d35cc63a31a7241c38db58ffc7f741fc89",
+    "yostar": "3356013dce86352f76d49cd6018f4ba7e83ae748",
     "cn": "53241a4dea9a1517720ec11c57ea6166a3ed09b8"
   },
   "operators": {
@@ -8622,7 +8622,7 @@
       ]
     },
     "char_1035_wisdel": {
-      "cnOnly": true,
+      "cnOnly": false,
       "name": "Wiš'adel",
       "profession": "Sniper",
       "rarity": "TIER_6",
@@ -8740,7 +8740,7 @@
         {
           "id": "skchr_wisdel_1",
           "icon": "skchr_wisdel_1",
-          "name": "定点清算",
+          "name": "Localized Liquidation",
           "masteryCosts": [
             [
               {
@@ -8789,7 +8789,7 @@
         {
           "id": "skchr_wisdel_2",
           "icon": "skchr_wisdel_2",
-          "name": "饱和复仇",
+          "name": "Saturated Vengeance",
           "masteryCosts": [
             [
               {
@@ -8838,7 +8838,7 @@
         {
           "id": "skchr_wisdel_3",
           "icon": "skchr_wisdel_3",
-          "name": "爆裂黎明",
+          "name": "Explosive Dawn",
           "masteryCosts": [
             [
               {
@@ -8888,12 +8888,12 @@
       "modules": [
         {
           "id": "uniequip_002_wisdel",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "BOM",
           "type": "X",
           "icon": "uniequip_002_wisdel",
-          "description": "一副盔甲站在沙丘上。\n他差不多忘了自己是从哪里来的。他的身体磨损得厉害，两条腿一长一短，肩甲还缺了一块，能看到黑黢黢空荡荡的内里。\n剑也断了，似乎是在砍向一个同族时折断的。那家伙躲在一座风车里，央求他等日落了再动手，那时候在自己身体里玩耍的孩子们就都回家去了。他答应了。两三个小时对他们这样的生命而言过于微不足道。他在山坡上坐到太阳沉下去，然后折返，杀死了那架呜呜作响的风车。\n寄居在古老高塔深处的幽灵，被掩埋于大图书馆废墟下的书册，无人驾驶的沙盗船，以性命为砝码的天平......他记得对魔王的承诺，一路跋涉，就是为了把这些散落各地的同族带回卡兹戴尔。而他自己会是最后一个。\n眼前这片无垠的金色是什么？是沙漠，是大海，还是无数卡兹戴尔中的一座？\n盔甲在下沉。他快要无法区分身体和沙粒，就像分不清记忆与历史。当沙子掩埋到头顶的时候，他就会彻底消失。\n“笃，笃笃”。\n头顶传来敲击声。\n可能是羽兽把他头上的草当成了食物。\n“咣——咣——”\n埋着他的沙丘开始摇晃。\n不，不是沙丘在摇晃，是他的身体。有人在踢他。看架势，是准备把他——最为年长的死魂灵，卡兹戴尔最初的守护者，所有魔王的座前参谋——当球踢。\n“你——”\n“能听见啊？能听见就别给我装死。我把你背来背去这么久，你也该派上点用场了。不然我回去就把你当废品卖了！”\n“......你要我做什么？”\n“哇哦，这么冷静？你以前身体那么大的时候，不是翻来覆去只会嚷嚷‘滚出去’‘我好恨’‘异族人’吗？我还当你识字比我还少，只会讲这些呢。”\n“殿下选择的人，竟这样粗......”\n“这语气倒是耳熟了些。得了，别急着找回你的唠叨劲了，给我干活。”\n“干什——”\n他的身体腾空了。\n“力道够不够？需不需要我再加点炸药？”\n他在飞。\n飞得很高，足以掠过沙丘，越过废墟，直至——\n卡兹戴尔。\n他以为自己不会再见的地方。\n照这个飞行路径，他很快就会撞到曾经的王庭议事厅，他以全族残存的灵魂之火，对魔王以勒什许下承诺之地——\n“维什戴尔，*萨卡兹语*——！”\n“哎呀，你这么乐意诅咒自己吗，我亲爱的老祖宗？”年轻的萨卡兹大笑着，“去吧，炸得更猛烈些，把那些破烂炸干净之后，我们一起——回家！”",
-          "name": "“祖宗发射器”",
+          "description": "A suit of armor stands atop a sand dune.\nHe has almost forgotten where he came from. His body is badly worn down, one leg longer than the other, and a piece of his pauldrons missing to reveal a dark, empty interior.\nHis sword has also shattered, seemingly broken when wielded towards one of his own kind. He had been hiding in a windmill, begging for him to wait for sundown before striking. That way, all the children playing inside his body would have already gone home. He agreed. Two or three hours meant nothing to beings such as them. He sat on a hillside until the sun went down, then returned and slew the whooshing windmill.\nGhosts dwelling in the depths of an ancient tower, books buried beneath the ruins of the Great Library, an unmanned pirate ship, a scale that measures the weight of lives... He remembers his promise to the King of Sarkaz, the reason for his travels: to bring his scattered kind back to Kazdel, and he would be the very last.\nBut what is this endless golden expanse before his eyes? A desert, an ocean, or one of infinite Kazdels?\nThe suit of armor is sinking. The delineation between body and sand blurs, just as he can no longer distinguish between what he thinks and what is true. When the sand completely covers his head, he will disappear for good.\n'Tap, tap tap.' \nA tapping sound comes from the top of his head.\nPerhaps it is just a fowlbeast hoping to find food in the bits of grass growing there.\n'Clang—clang—'\nThe sand entombing him begins to shift.\nNo, it is not the sand that is moving. Someone is kicking him. From the sound of things, someone is treating him—the eldest revenant, the first guardian of Kazdel, chief advisor to all Kings of Sarkaz—as a ball to be punted around.\n'You—'\n'Can you hear me? If you can, then stop playing dead. I've been lugging you around for so long, you'd better start pulling your weight. Otherwise, I'll pawn you off as scrap metal when I get back!' \n'...What do you want?'\n'Whoa, you've sure mellowed out. Back when you had that big ol' body, didn't your vocabulary consisted mostly of words like 'hatred', 'flee', and 'wretched outbloods'? I was worried for a sec that you were even more illiterate than me and those were the only words you knew.\n'To think Her Highness chose someone so crass...'\n'Now that's what I'm talking about. But no rush to get back to your old self. Time to get to work.'\n'Doing what exac—?'\nBefore he could finish, he was already up in the air.\n'Is that enough? Or do I need to throw in more explosives?'\nHe is flying.\nFlying high, high above the dunes, over the ruins, until—\nKazdel.\nA place he thought he would never see again.\nWith the way he's going, he'll soon crash into the meeting hall of the former Royal Court, the place where he once made a promise to King Yliš using all the remaining soulflame of his people—\n'Wiš'adel, *Sarkaz cursing*—!\n'Haha, that eager to curse yourself, o venerated ancestor?' The young Sarkaz laughs mirthfully. 'Go on then. Use that rage, blow everything up, and once you've gotten rid of all that junk, I'll take you home.'",
+          "name": "'Ancestor Launcher'",
           "cost": [
             [
               {
@@ -8950,8 +8950,8 @@
       ]
     },
     "char_1036_fang2": {
-      "cnOnly": true,
-      "name": "Fang the Fire-sharpened",
+      "cnOnly": false,
+      "name": "Fang the Fire-Sharpened",
       "profession": "Vanguard",
       "rarity": "TIER_5",
       "skillLevelUpCosts": [
@@ -9060,7 +9060,7 @@
         {
           "id": "skchr_fang2_1",
           "icon": "skchr_fang2_1",
-          "name": "贯敌刺枪",
+          "name": "Impaler Lance",
           "masteryCosts": [
             [
               {
@@ -9109,7 +9109,7 @@
         {
           "id": "skchr_fang2_2",
           "icon": "skchr_fang2_2",
-          "name": "执守阵线",
+          "name": "Stand Your Ground",
           "masteryCosts": [
             [
               {
@@ -9159,12 +9159,12 @@
       "modules": [
         {
           "id": "uniequip_002_fang2",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "CHG",
           "type": "X",
           "icon": "uniequip_002_fang2",
-          "description": "在芬刚刚被任命为A1行动预备组组长的时候，她心里满是喜悦和焦虑。“我很高兴能承担起帮助大家的责任，但也担心自己不够资格领导队员。”她向伙伴们这样倾诉自己的想法。\n意外发生在一个晚上，在那次模拟作战中，A1行动预备组“全军覆没”。当时，芬发现了对手的战术漏洞，她认为只要自己跑得够快，就能深入敌后分散火力，让吸引火力的米格鲁减少压力，也能让其余的队友有更多的时间和空间应对敌人的攻势。于是她临时改变作战策略，使用了一套队友们从来没有演习过的战术。结果——芬也被送进了医务室接受治疗。\n“为什么要这样勉强自己？”抽空指导新人的精英干员Ace这样问她。\n“因为我是队长，我应该承担起整支队伍的责任。”\n“责任......嗯，责任。”\n“Ace先生，如果是您指挥，您会怎么做呢？”\n“我会使用更稳妥的战术。”\n“为什么？”\n“放缓脚步，观察对手。然后积累经验。”\n“可您已经是能指挥小队的精英干员了......”\n“所以我深知，在战场上，队长能够承担所有责任的机会，只有一次。”男人沉默了一下，“我们应该使用好它。”\n“我会试着理解的。”芬接着说，“请您指导我如何成为更好的队长！再艰苦的特训我也会坚持下来的！”\n“那就等你伤好了再说吧，年轻的队长。”Ace和她道别，离开了那里。\n后来，芬确实接受了严格的特训。在最后，Ace将一个盒子交给芬。他说：“沉着、冷静，是队长必备的特质，你的长期训练任务就是学会耐住性子，奖励就在这个盒子里。”\n再后来......\n芬回过神来，再次审视自己的状态。成为正式干员的那天，她觉得自己还没准备好；第二次晋升的那天，她认为自己仍然不够资格。今天，她即将前往伦蒂尼姆，支援那里的干员。她经历过几十次任务，危险或轻松，长期或短期。她战胜过困难，也经受过失败。现在，她终于觉得自己已经完成这项磨练心性的训练任务了。\n她打开盒子，只见里面放着一副防风眼镜，还有一张便签。\n“愿你时刻看清职责所在，一往无前。”",
-          "name": "一往无前",
+          "description": "When Fang was first appointed leader of Reserve Op Team A1, she was filled with both joy and anxiety. 'I'm more than glad to take on the responsibility, but I'm worried I'm not qualified to lead.' She confided these thoughts to her teammates.\nOne night, during a combat simulation, Reserve Op Team A1 was completely 'annihilated.' At the time, Fang had discovered a flaw in the opponent's tactics and thought that if she ran fast enough, she could penetrate deep behind enemy lines to split their attention and reduce the suppression fire on Beagle, thus creating more space and time for her team to retaliate. So she changed the strategy on-the-fly and used something her teammates had never practiced. The result: Team wipe. Even Fang was sent to the sickbay for treatment.\n'Why did you push yourself like that?' asked Ace, an elite operator who had taken the time to guide the rookies.\n'Because I'm the captain, so I have to take responsibility for the entire team.'\n'Responsibility, huh...? Responsibility.'\n'Sir, if you were leading the team, what would you have done?'\n'I'd have gone with a safer strategy.'\n'Why?'\n'Don't be hasty. Observe, act, and accumulate experience. That's what I always do.'\n'But you're already an elite capable of leading entire squads.'\n'Which is why I know full well that, on the battlefield, a commander only has one chance to bear full responsibility.' The man falls silent for a moment. ' So we ought to use it wisely.'\n'I don't quite understand, but I'll try to keep that in mind.' Fang continued, 'So please teach me to be a better captain! I'll commit to it, no matter how much work it takes!'\n'Let's continue this conversation once you've recovered from your injuries, young captain.' Ace waved goodbye before leaving.\nFollowing this incident, Fang indeed underwent rigorous training. When all was said and done, Ace handed her a box and told her this: 'For a captain, the most important thing is to remain calm and collected. Your long-term training task is learning to be patient. And your reward for that is here in this box.'\nAs for what happened next...\nFang snaps back to reality and re-evaluates her current status. On the day she became an official operator, she felt she wasn't ready. On the day she received her second promotion, she still felt she wasn't ready. Now, she is about to head to Londinium to support the operators there. She has been through dozens of operations, some easy, some dangerous. Some short, some long. She has overcome difficulties and experienced failure. Now, she feels she has finally finished her training task and tempered herself.\nShe opens the box and finds a pair of wind protection glasses with a note inside:\n'May you always keep your eyes on your duty and forever be dauntless.'",
+          "name": "The Dauntless",
           "cost": [
             [
               {
@@ -16243,12 +16243,12 @@
       "modules": [
         {
           "id": "uniequip_002_whitew",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "LOR",
           "type": "X",
           "icon": "uniequip_002_whitew",
-          "description": "为了打造这件武器，刀匠苦思冥想了很久。\n萨卢佐家的家主亲自上门，请刀匠为他的女儿打造一件独一无二的武器。\n他接下这份委托，不仅是因为敬畏家族的权势——\n来自东国的刀匠相信，刀身的反光能折射一个人的灵魂，挥舞武器即是挥舞命运。\n他曾打造过需五人之力才能抬起的野太刀，于是那名持刀的武士在战场上所向披靡，却在年老时伤病缠身，饮恨自尽。\n他曾打造过一柄华贵板正但暗藏锋芒的佩剑，于是那位难得的王者终生未出一剑，却威震八方，气定四野。\n他也曾想要向那位西西里夫人献上忠诚，却被她有些厌烦地拒绝，于是他理解了，她究竟怎样统治着这个充斥着暴力的国度，又掩藏着何等的疲倦与无奈。\n但现在，他不知道，那头古怪的幼狼，应该配上怎样的牙齿。\n精致的细剑？因为她将学会来自她父亲的所有诡谲和不可捉摸？\n致命的巨斧？因为她难以摒弃血脉中荒野的呼唤？\n不，都不够。刀匠将半成品丢进熔炉。\n她像她的父亲一样残忍、优雅又难以捉摸，却截然不同。\n“还没有好吗？我最亲爱的父亲说要等到我的成年礼，但我们的敌人，今晚就想见到它。”\n刀匠解释道，他在打造一件能配得上她的武器。可越是绞尽脑汁，他越是难以想象这件武器该有的样子。\n“这对呢？”\n她漫不经心地选择了那对剑。\n曾经，他想要打造出一件足以印证自己技艺的武器。这对剑寄托了他过多的巧思，因而越来越复杂，能配合法术效果却难以承载精巧的操纵，甚至无法被剑鞘收纳。\n“注定无法完成的失败品？”白狼挥舞着这对剑，露出笑容，“我很喜欢。”\n刀匠请求，她独一无二的灵魂配得上更特别的武器。\n“......先生，你是不是搞错了什么？我来这里拿的是一件称手的工具。它很适合用来杀人，也很结实。我喜欢它的造型，所以，以后也打算留着。这样足够了。”\n刀匠失魂落魄地看着她离开。\n也许，他最好的作品是被自己摒弃掉的失败品。\n也许，能被武器定义的灵魂从来苍白。\n那天晚上，声名远扬的刀匠宣布隐退，而萨卢佐家的拉普兰德，第一次挥舞起她标志性的武器——\n日后，人们称之为“幼狼的牙齿”。",
-          "name": "“幼狼的牙齿”",
+          "description": "The smith thought long and hard before crafting the weapon.\nThe head of Famiglia Saluzzo had approached in person, requesting a unique weapon for his daughter.\nHe accepted the commission not only out of respect for the famiglia's influence—\nThe swordsmith from Higashi believed that a blade reflects one's soul, and to wield one is to grasp one's destiny.\nHe once forged a nodachi requiring the strength of five men; of course, the samurai who wielded it was invincible on the battlefield, yet was plagued by injuries in his old age, eventually taking his own life due to that festering anger towards himself.\nHe once forged a splendorous and dignified blade concealing a razor edge for a rare king. The weapon granted the king an aura of gravitas that permeated the land, and the king never had to wield it against any enemy throughout his entire life.\nHe once wished to demonstrate his loyalty to Signora Sicilia like the others, yet was rejected nonchalantly. It was then he came to understand how she ruled this country replete with violence, as well as the weariness and helplessness she hid.\nBut now, he had no idea what sort of fangs this strange young wolf should bear.\nAn exquisite rapier, because she would inherit her father's eccentricity and elusiveness?\nA deadly great-axe, because she could not ignore the call of the wild in her blood?\nNo, neither would suffice. The smith tossed the half-finished weapon into the furnace's flames.\nShe was cruel, elegant and elusive as her father, yet something altogether different.\n'It's still not ready? My dear father did say to wait until my coming-of-age ceremony, but our enemies wish to see it tonight.'\nThe swordsmith explained that he was trying to forge a blade worthy of her. But the more he racked his brain, the harder it became to imagine what such a weapon would actually look like.\n'How about these?'\nShe haphazardly picked up a pair of swords.\nOnce upon a time, he had hoped to create a weapon that would serve as a testament to his skill. This pair of swords had demanded too much of his ingenuity, becoming more and more complex in the process. They sufficed as a conduit for Arts, but had become terribly unwieldy in the process, unable to even be sheathed.\n'A failure, destined to never be completed?' The white wolf waved the blades around and bared a smile—'I think I like the sound of that.'\nThe smith pleaded that her unique soul deserved a weapon far more special.\n'I'm afraid you have the wrong idea, sir. What I came here for was a tool. These are sturdy, and more than suitable to kill with. I like the craftsmanship, and plan to keep using them. That's good enough for me.'\nThe despairing smith could do nothing but watch her leave.\nPerhaps, his finest work was something he had rejected as a failure.\nPerhaps, any soul that could be defined by a weapon was too empty to begin with.\nThat night, the renowned swordsmith announced his retirement, and Lappland of Famiglia Saluzzo wielded her iconic blades for the first time—\nFrom that day on, the people would call them 'The Young Fang.'",
+          "name": "'The Young Fang'",
           "cost": [
             [
               {
@@ -21547,12 +21547,12 @@
       "modules": [
         {
           "id": "uniequip_002_svrash",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "LOR",
           "type": "X",
           "icon": "uniequip_002_svrash",
-          "description": "醒来的时候，它正躺在一个温暖的房间里。\n陌生的环境令它恐惧，它想要离开，却发现自己疼得动不了。\n房门被打开，有着一头银发和一条粗壮尾巴的菲林男孩走了进来。男孩抱着药物和纱布走到它面前，他将药瓶中的药液涂在它的伤口上，随后为它包扎。\n它一开始有些挣扎，但它太虚弱了，只能接受男孩的治疗，而后沉沉睡去。\n第二天，男孩带它回到它被发现的地方。他们在树林里转了很久，从早上到晚上，直到男孩累得直喘气，最后却只找到两具成年羽兽的残骸。男孩为它们立了一座小坟，而后看着它，说：\n“这下我们算是同病相怜了。”\n男孩把它带回房间，那里的小窝成了它的新家。\n后来，男孩每天都会来看它，他喜欢帮它擦拭羽毛，一边擦，一边对它说话，也不管它听不听得懂。\n......\n比如那天傍晚，男孩愁眉苦脸地来到它的面前，对它说道：\n“我有信心当一个好家主，也有信心当一个好哥哥，但我无法保证，我能同时当一个好家主和一个好哥哥。”\n男孩一边说着，一边叹气，他左思右想，最后跑出去拿了个冒着香气的盒子回来，里面是他妹妹最爱吃的食物。\n......\n又比如那天下午，男孩带着一丝忧郁对它说：\n“我想大方地祝福诺希斯能在新的天地大展拳脚，但是，私心又希望他留下来。”\n或许是憋了太久，男孩在接下来的半小时里为它详细解释了一遍埃德怀斯家此时的处境、他朋友诺希斯面临的困难，还有他不希望和挚友分别的心情。临到末了，男孩叹了一口气：“唉，也只有你能听我说这些了。我还是想想给他准备什么临别礼物吧。”\n......\n再比如那一天，它的伤好了，男孩带着它来到雪原之上训练飞行。在它即将再次尝试起飞时，男孩掏出一条黑色的丝巾，围在它的脖子上，然后问它：\n“你想和我一起走吗？”\n——彼时，男孩已经决定卸下家主的重担，前往雪境之外学习。\n它看着他，歪了歪头。\n它当然不知道男孩一直在苦恼什么，在为什么忧虑、为什么难过。\n但是，或许它感觉到了，男孩和它一样，不想待在温暖的房间里，想要在碧空之下翱翔——\n它张开翅膀，向前跃去。\n然后，在男孩惊喜的呼喊声中，它乘风而起。\n那天，它再次学会了飞翔。",
-          "name": "雪境羽兽护理套组",
+          "description": "When it awoke, it found itself lying in a warm room.\nThe unfamiliar environment frightened it and it wanted to leave, but it was in so much pain it could not move.\nThe door opened, and through it strode a Feline boy with silver hair and a thick tail. He approached it with liniment and gauze in hand, applying the medicine in the bottle to the wound before bandaging it up.\nIt struggled a little at first, but was too weak to do anything but accept the boy's treatment before falling into a deep slumber.\nOn the second day, the boy took it back to where it had been found. They wandered through the woods for an entire day until the boy was exhausted and gasping for breath, but in the end found only the remains of two adult fowlbeasts. He built a small grave for them, then turned to it and said:\n'Now, both of us are in the same boat.'\nThe boy took it back to his room, and the tiny nest inside became its new home.\nThe boy would come check on it every day. He liked to gently wipe its plumage while chatting with it, unconcerned with whether it could understand him.\n......\nLike that one night, when the boy approached it with a sullen face and said:\n'I'm confident I have what it takes to be a strong clan leader or a good brother, but I cannot guarantee I can do both at once.'\nThe boy sighed as he spoke. He contemplated for a long time, before finally running off to return with a box that smelled nice. Inside was his sister's favorite dish.\n......\nLike that one afternoon, when the boy approached it with a tinge of melancholy in his voice:\n'I want to graciously wish Gnosis success on his new journey, yet I selfishly hope for him to stay.'\nPerhaps because he had been bottling it in for so long, the boy spent the next half hour explaining to it the situation of the Edelweiss clan, the difficulties facing Gnosis, and his reluctance to part ways with his best friend. In the end, he sighed again and said, 'Alas, you're the only who can hear me out. I'd better think of a farewell gift for him now.'\n......\nAnd like that day when its wounds healed, and the boy took it out to the snowy plains to practice flying. When it was about to take off, he took out a black silk scarf, tied the fabric around its neck, and asked:\n'Will you come with me?'\n—At that moment, the boy had already decided to set aside the burdens of being a clan leader and depart from the Snow Realm to study abroad.\nIt simply cocked its head and looked at him.\nOf course, it did not know what the boy was worried about, why he was anxious, or why he was sad.\nBut perhaps, it sensed that the boy, just like it, did not wish to stay confined in a warm room. He wished to soar beneath the blue sky—\nIt spread its wings and leapt forward.\nThen, to the boy's happy, surprised shouts, it took off with the wind.\nOn that day, it learned to fly once again.",
+          "name": "Snow Realm Fowlcare Kit",
           "cost": [
             [
               {
@@ -24818,12 +24818,12 @@
       "modules": [
         {
           "id": "uniequip_002_frostl",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "LOR",
           "type": "X",
           "icon": "uniequip_002_frostl",
-          "description": "放在背包夹层，第二排隔袋里。洗背包之前要记得掏出来。\n——霜叶的个人物品，不让乱拿。\n我的备用磁带2号曲目单\n总时长：36:00\nA面\n1.闭上眼-轻松雨滴乐队 3:27\n2.汐斯塔请踮脚尖-岬角琴手 3:20\n3.绿柚子-轻松雨滴乐队 3:11\n（旁边画着一个圆滚滚的水果）\n4.夜色呼啸而过-麦克斯特区童声合唱团 3:30\n（用另一种颜色的笔写着“小时候听过的歌，找了好久”）\n5.地底隧道，以及玉米落下的故事-贝丝格兰德 4:32\n（在逗号下画着一双闭上的眼睛）\nB面\n1.我所置身的灾难-不信者乐队 5:31\n（旁边画着一个涂成红色的爱心图案）\n2.无罪宣告-消防斧乐队 4:37\n3.■■■■-■■ ■:■■\n（被重重涂掉的一行，旁边用另一种颜色的笔写着“节拍不对，会受伤”）\n（下面有一个箭头指向另一行文字“风暴骑手-消防斧乐队 4:00”）\n4.夺回我的泪水-空想领域乐队 3:30\n\n这是我做的第二盘备用磁带，上一盘泡水过后就无法正常播放了。\n这次重录的时候，换掉了B面的一首不合适的歌。它的节拍很奇怪，如果按这个节拍挥动斧子，呼吸会乱掉。\n但换过歌曲后，总时长少了二十二秒，留下一小段空白，这样就不算无缝混音带了。\n我正烦恼的时候，听到某个宿舍房间里传来练习乐器的声响，节拍器嗒嗒的声音很好听。\n于是我就在走廊里按下录音键，用节拍器的声音补足了二十二秒空白。\n虽然不知道那天是谁在演奏，但确实很感谢。\n我现在会写不少字了，所以能把这些事情都记录下来。\n医疗部的姐姐也鼓励我多记录自己的心情，不过我不知道该用什么字来描述时刻变化的心情。\n就像磁带有A面B面，心情也有不一样的颜色，而且总是一跳一跳的，变来变去。\n我喜欢心情跳动的节奏，像鼓点，像节拍器从这头摆到那头。\n我喜欢一个人待着时平静的节奏，我喜欢执行任务时激烈的节奏。这些都是属于我的，不会停歇的节奏。\n这张纸已经写到最底下了，那么就这样吧。",
-          "name": "不歇律动",
+          "description": "In second pocket of backpack's compartment. Remember to take out before washing.\n—Frostleaf's personal belongings, do not touch.\nMy Backup Mixtape No. 2 Track List\nTotal Length: 36:00\nSide A\n1. Close Your Eyes - The Easy Raindrops (3:27)\n2. Tiptoe Through Siesta – Cape Pianist (3:20)\n3. Green Grapefruit - The Easy Raindrops (3:11)\n(A round-looking fruit is drawn next to it)\n4. The Night Whistles By – Max D.C. Children's Choir (3:30)\n(A note is written in a differently-colored pen: 'A song I listened to as a kid, took a while to find')\n5. A Story of Underground Tunnels and Falling Corn – Beth Grande (4:32)\n(Beneath the comma is a pair of closed eyes)\nSide B\n1. The Disaster I'm In – The Nonbelievers (5:31)\n(A red heart is drawn next to this)\n2. Declared Innocent – The Fire Axes (4:37)\n3. ■■■■■■–■■■■■■ (■:■■)\n(Heavily scribbled out, along with a note written in another color: 'The beat's all wrong. Will get hurt if listened in battle.')\n(There's an arrow pointing to another line of text below that reads 'Storm Riders – The Fire Axes (4:00)')\n4. Taking Back My Tears – Fantasy Realm (3:30)\n\nThis is the second backup tape I've made. The first wouldn't play after being soaked.\nWhile re-recording, I swapped out one song on Side B that didn't fit. It had a weird beat, which messes up my breathing whenever I swung my axe to it.\nBut switching it out left a little gap in the mixtape, and the total playtime went down by 22 seconds. It wasn't seamless anymore.\nWhile worrying about it, I heard the sound of someone practicing an instrument in the dorms. The sound of the metronome was really nice.\nSo I pressed record in the hallway and filled those 22 seconds with the ticking of the metronome.\nI still don't know who was practicing that day, but I'm really grateful to them.\nI know how to write a lot of words now, so I can write all these things down.\nThe nice lady in Medical also encouraged me to write my feelings down more often, but I don't know what words to use to capture my ever-changing mood.\nJust like how every tape has a side A and a side B, our feelings also have sides, and they're always pulsing and changing.\nI like the rhythm when my feelings pulse. Like a drumbeat. Like a metronome swinging from side to side.\nI like a calm rhythm when I'm alone, and an intense one when I'm on a mission. These rhythms are my own, and they won't ever end.\nThere's no room left to write on this paper, so I'll leave it at that.",
+          "name": "The Seamless Mixtape",
           "cost": [
             [
               {
@@ -25089,12 +25089,12 @@
       "modules": [
         {
           "id": "uniequip_002_leto",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "LOR",
           "type": "Y",
           "icon": "uniequip_002_leto",
-          "description": "大家一开始相处得并不好。\n这也是理所当然的事情。\n拉达起初经常躲在索尼娅的背后一句话也不说。安娜的状况也好不到哪里去，她虽然在极力克制自己的情绪，但我看得出来，她也很慌张。索尼娅觉得她有责任保护其他人，整天都把她那把斧子握得很紧，我猜，总有一天她会不小心松手的。\n这样的氛围下，大家都很敏感，更糟糕的是，大家都不知道自己在做的事情对不对，好不好。\n拉达想要让自己变得有用——她觉得自己总是受到索尼娅的庇护，害怕哪天就被抛下——她想要去找一些食物回来，但总是碰壁。安娜想要让这个团体变得更“安定”，经常找各种人对话，可对话的结果往往不如她所愿。索尼娅虽然还挺精神，但她的身上隔一段时间就会多一道伤口。\n大家都在拼命让自己做些事情，仿佛不这么做就会疯掉——好吧，也许可以去掉“仿佛”两个字。\n至于我，虽然我一开始就不怎么害怕，但要是真的死在这里，那我是不乐意的。我也不希望失去索尼娅她们，我们已经是朋友了。所以，我也去做了许多我能做的事——带回一些物资，帮索尼娅收拾几个人，还悄悄教训了那些想要对安娜动手的家伙。\n我原本以为这样会变得好一点，结果反而变得糟糕了，拉达和安娜看我的眼神变得有些躲闪，索尼娅有时也会盯着我看。这时，我明白了，我抢了她们想做的事。\n但是，这些事原本就是我更加擅长，为什么不能由我来做呢？\n当然，我也没有这么小心眼，就好像拉达和安娜也没有因此对我做什么——我知道她们都很好，只是我们那时候还不知道如何相处。直到有一天，索尼娅因为和人发生冲突，校服上被狠狠地划了一道口子，安娜用我找来的针线包帮她把衣服缝好，我才忽然明白了我该做什么。\n我偷偷溜进仓库，找来一些大衣，交给安娜，希望她能帮我们改造成更加耐寒的衣服，天气变得更冷了，接下来用得着。果然，安娜一听，就高兴了起来。\n接着，我又冒险去偷了些整合运动的厨具给拉达，让她能更好地做菜，当然，最好是偷偷地做。拉达也一下子高兴了起来。\n我还给大家找来了一些防身的玩意，和索尼娅一边讨论，一边改造。我拍着胸脯和索尼娅说，想要什么就告诉我，我去帮大家弄。索尼娅盯了我一会儿，这回，她点了点头。\n现在想起来，大概是从那时候起，我们的团队才真正有了一个雏形吧。",
-          "name": "旧衣服",
+          "description": "At first, not everyone got along particularly well.\nThat pretty much goes without saying.\nLada would silently hide behind Sonya. Anna wasn't any better; though she was clearly trying to keep her emotions in check, I could tell that she was panicking. Sonya felt like she had a duty to protect the others, so she kept her hand tightly gripped around her axe. I always thought her hand was going to slip one of these days.\nUnder that atmosphere, everyone was constantly on edge. And to make matters worse, nobody knew if what we were doing was right or wrong.\nLada wanted to be of help—she felt like she was always sheltered by Sonya, and was afraid of being left behind—so she'd go out and try to find us something to eat, though she came back with empty hands most of the times. Anna wanted the group to be more 'stable,' so she'd try to strike up conversations, but they seldom went the way she wanted. Sonya was generally in high spirits, but every so often she'd come back with an extra wound or two.\nEveryone did their best to get something done, as if they'd go mad if they didn't. Though sometimes, you could get rid of the 'as if' part.\nAs for me, I was never that scared in the first place, but it's not like I'd have been happy dying there. I didn't want to lose Sonya and the others either—we'd been friends already. So, I also did whatever I could: bringing back supplies, helping Sonya 'take out the trash,' and even teaching some harsh lessons to anyone who tried to lay their hands on Anna.\nAt first I thought things would get better, but it was actually the opposite. Lada and Anna started avoiding eye contact with me, and even Sonya would strangely glare at me. That's when I understood: I'd been robbing them of their agency.\nBut I was better at those things, so why shouldn't I do it?\nOf course, I was never the petty type, and it's not like Lada or Sonya really blamed me for that. I knew they were both real nice, we just didn't know how to get along back then. It wasn't until the day Sonya came back from a scuffle with a serious tear in her uniform and Anna used a sewing kit I'd scavenged to fix it up that I realized what I needed to do.\nI snuck into the warehouse, found some coats, and brought them to Anna to ask her if she could fix them up into something more cold-resistant. We'd need them later when the weather turned cold, and sure enough, she cheered up at that.\nAfter that, I risked my hide to steal some Reunion kitchenware for Lada so it'd be easier for her to cook, though obviously it was better to keep that part low-key. Her eyes lit up the instant she saw what I brought back.\nI even found some self-defense equipment for everyone, and modified them with Sonya. While we were working together, I thumped my chest and said to her: If there's anything you want, just say the word and I'll get it for you. Sonya stared at me for a while, but this time, she nodded.\nLooking back now, it was probably around then that our team actually started taking shape.",
+          "name": "The Old Clothes",
           "cost": [
             [
               {
@@ -39550,12 +39550,12 @@
       "modules": [
         {
           "id": "uniequip_002_spikes",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "LOR",
           "type": "Y",
           "icon": "uniequip_002_spikes",
-          "description": "少年并不介意他人对自己感到好奇，尤其是对他随身携带的笔记本感到好奇。\n“是老师的要求。”\n只不过在这种谈话中，他会继续带着惯常的疏远笑容，毫不掩饰自己内心深处的漠不关心。\n“老师希望我，多记录一下。”\n他也知道，其他人会在背后如何揣测他笔记本里的内容——\n“你知道吗，芳汀的笔记本里写着被他杀掉的敌人的名字。博士要求他记住每一个死者，理解人的价值。”\n“我听说他用的墨水都是自己调制的，毒性很强，任何人偷看了笔记本，都会......”\n“我更相信笔记本里写的是些见不得人的东西，人体实验的数据之类的。我上次见到他对一个俘虏——”\n“我倒是觉得，他只是个人生不太顺的年轻人，应该只是写写日记，记录点迷茫时的心情。”\n他们猜测，他们怀疑，而少年对一切议论付之一笑。\n他端坐在书桌前，摊开笔记本。\n他像拔出一把过于锋利的刀一般拔出那支透明钢笔，为其吸入自己亲手调制的墨水——颜色鲜艳，有如剧毒。\n“你需要的不仅仅是来自他人的指引，还有自己的答案。\n“写下你最想告诉我的，最想告诉自己的。”\n夺取性命的铳，带着芳香气息的毒，模糊的声音，永远潜藏心底的残忍和恶意......\n他回过神来，看到笔记本再次被笔尖戳破，鲜艳的色彩和雪白的纸张搅在一起，如同敌人的鲜血卷动着残肢，变成了深不见底的漩涡。\n芳汀轻笑一声，毫不在意地撕掉被污染的残渣。\n然后，他合上笔记本，放回了身上。",
-          "name": "芳汀之书",
+          "description": "The youth is unbothered by the curiosity of others, especially when it is directed toward the notebook he carries.\n'It was my teacher's request.'\nBut during such conversations, he would always wear his usual distant smile, making no attempt to mask his indifference.\n'My teacher wants me to write more.'\nOf course, he's always known that people were secretly gossiping about the contents:\n'Did you know? Arene takes the name of every enemy he's killed in his notebook. The Doctor had him keep a record so that he'd understand the value of life.'\n'I heard the ink he uses is a deadly toxin he concocted himself. Anyone who tries to take a look at his notebook will—'\n'I'm more inclined to believe he's hiding something shady in there, like data from human experimentation. The last time I saw him with a prisoner—'\n'If you ask me, he's just going through a rough patch in life. He's probably just keeping a diary to sort through his feelings.'\nThey speculate, they doubt, but the young man simply smiles at the various comments.\nHe sets the notebook down on his desk and flips it open.\nHe pulls out a transparent fountain, as if drawing an overly sharpened dagger, and fills it with the brightly colored ink he made himself, purported to be laced with deadly toxin\n'The voices of others are important, but it's your own answers that matter most.\n'Write down whatever you want to tell me, and yourself, the most.'\nGuns that have killed, poison with a deceiving aroma, blurry voices, the cruelty and malice inexorably hidden deep within... Many things cross his mind.\nWhen his senses return to him, he realizes that the tip of the pen has punctured the page again, the brightly-colored ink seeping into the snow-white paper like the bloodied, grasping limbs of enemies, until everything contorts into a bottomless vortex.\nArene lets out a chuckle and casually tears out the besmirched sheet of paper.\nHe then closes the notebook and stashes it back in his pocket.",
+          "name": "The Book of Arene",
           "cost": [
             [
               {
@@ -42531,12 +42531,12 @@
       "modules": [
         {
           "id": "uniequip_002_thorns",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "LOR",
           "type": "X",
           "icon": "uniequip_002_thorns",
-          "description": "从前，盐还不属于大地，沙还不属于海洋。\n那时狂热的律法还未将这片土地禁锢，伊比利亚的王城之中仍有国王。\n那时国王是这片疆土的主人，他的麾下兵强士壮，他的谕令征服无数城邦。\n他的勇武和威名穿过重重天灾，他将堡垒和哨所修到越发遥远的边疆。\n他建起宫殿厅堂，他的王城内遍布他的塑像。\n但国王永远不会满足，他还希望自己名字处处传唱。\n于是伊比利亚的国王向一百座城池发出号令——\n“把所有博学多识的人都召集到我的王城来，我要知道这大地与海洋究竟有多宽广。”\n第一位求见的是位商人，他年老体衰，说带有宝物，要献给国王。\n国王相信岁月的智慧，便把商人召至他的厅堂。\n商人向国王献上一个烫手的沙漏，声称最炙热的沙漠，就是大地的尽头。\n“我已抵达大地的尽头，那里焚风似火，烈阳如炬，这其中的沙砾，就来自那个地方！”\n第二位求见的是位渔民，他稚气未脱，说带有宝物，要献给国王。\n国王相信青春的智慧，便把渔民召至他的厅堂。\n渔民向国王献上一瓶黑色的海水，声称最漆黑的水域，就是海洋的终点。\n“我已抵达海洋的终点，那里水深无底，狂风不息，这瓶中的咸水，就来自那个地方！”\n最后求见的是一位炼金术师，他面目不清，长幼不辨，说带有宝物，要献给国王。\n国王还未决定是否取信，炼金术师便已经出现在他的厅堂。\n炼金术师请求国王赐他沙漏和咸水，而国王欣然应允，想看看他到底能玩出什么名堂。\n那大地尽头的沙砾，竟在国王的面前熔成一摊红水。\n那海洋终点的咸水，竟在国王的面前结作粒粒白砂。\n炼金术师随意抛洒，它们消散在空中。似是应了他的旨意，王国的疆土上刮起大风，三天三夜仍不见停歇。\n“我不知道大地与海洋究竟有多宽广，但我知道无论如何，都不及伊比利亚的无边力量。\n“从今往后这大地与海洋上的风都将忠实于您，伊比利亚的国王。\n“请您从今天开始打造舰队，顺着风的方向。\n“不论大地还是海洋，请让伊比利亚的舰队去丈量。”",
-          "name": "“盐与沙”",
+          "description": "Once upon a time, salt was not of this land, just as sand was not of the sea.\nBack then, fanatical laws had not yet gripped the land, and a king still sat atop Iberia's royal throne.\nBack then, the king was the master of his domain, the mighty forces at his disposal conquering city-state after city-state.\nHis bravery and renown outlived Catastrophe after Catastrophe, and his forts and outposts sprouted across increasingly remote frontiers.\nHe erected palaces and great courts, and his cities were filled with statues bearing his image.\nBut the king could never be sated, for he wished his name to be sung everywhere.\nAnd so, the King of Iberia decreed thusly to his hundred cities:\n'Gather all learned men to my royal city, so that I may know of the vastness of the land and sea.'\nThe first to seek an audience was a merchant, old and frail, yet bearing a treasure he wished to present.\nThe king trusted in the wisdom afforded by time, and summoned the merchant to his hall.\nThe merchant presented a burning-hot hourglass, proclaiming that the hottest desert marked the ends of the earth.\n'I have once reached the ends of the earth, where the wind scalds like flame and the sun blazes like a torch, and I bring to you the sand of that place!'\nThe second to seek an audience was a fisherman, youthful and naive, yet bearing a treasure he wished to present.\nThe king trusted in the wisdom innate to youth, and summoned the fisherman to his hall.\nThe fisherman presented a flask of black seawater, claiming that the darkest water filled the ends of the sea.\n'I have once reached the ends of the sea, where the water is bottomless and the currents run relentless. I bring to you the brine of that place!'\nThe next to seek an audience was an alchemist, shrouded from sight and of age unknown, yet bearing a treasure he wished to present.\nBut before the king could decide whether or not to trust this figure, the alchemist appeared within his hall.\nHe asked the king to give him the hourglass and the flask, and the king readily agreed, curious as to what he would do.\nThe sand from the ends of the land melted into red liquid before his eyes.\nThe brine from the ends of the sea crystallized into white sand before his eyes.\nThe alchemist scattered them both nonchalantly, and they seemed to dissipate into thin air. As if responding to his will, a strong wind blew through the kingdom for three days and nights.\n'I know not how vast the land or the sea are, but regardless, neither are as vast as Iberia's boundless power.'\n'From now on, the winds of the land and sea obey your will, O King of Iberia.\n'Starting today, see to it that a fleet is built, and follow the direction of the wind.'\n'Be it by land or sea, Iberia's fleet shall show the way.'",
+          "name": "The Salt and the Sand",
           "cost": [
             [
               {
@@ -42802,12 +42802,12 @@
       "modules": [
         {
           "id": "uniequip_002_ayer",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "LOR",
           "type": "X",
           "icon": "uniequip_002_ayer",
-          "description": "《荒野便携提神剂制作及使用方法外加功效说明》\n【制作及使用方法】\n1.准备煮熟的毛豆。不同于盐水毛豆，这里用到的毛豆不能加盐。毛豆不要剥开。\n2.准备能冷冻毛豆的设备，此处用我的毛豆盒演示，它制冷的效果刚好合适。\n3.准备可以放电的设备，此处用我的好家伙演示，它漏电的程度刚好合适。\n4.调低放电设备的电压，多次电击毛豆，使毛豆内部的汁水微微带电。\n5.吃。\n【功效说明】\n在荒野中，保持意识清醒相当困难。无边无际的旷野、漫天卷地的尘暴、活性源石云在空中映出的辉光、风刮过源石晶簇发出的凄鸣，都很容易让人逐渐丧失自我感知，陷入迷离的状态，从而忽视迫近的危险。\n带壳咀嚼毛豆，毛豆的茸毛持续刺激食用者的口腔，可以使食用者的神经活跃。\n冷冻后的毛豆，可以刺激食用者的牙龈，使食用者的神志清醒。\n毛豆的汁水微微带电，可以令食用者轻微触电，使食用者的知觉敏锐。\n适当的刺激使人不至于陷入麻木，唯有如此才能在荒野上存活。\n\n“艾尔斯，好严谨的一张说明书。”\n“莱特，是不是你又跟人说了什么？这几天总有干员来找我讨要‘在荒野上保持清醒的秘诀’。我一遍遍解释，太麻烦。”\n“你这说明书倒确实能起到杜绝访客的作用......说真的，连我都不知道，你这些奇妙的喜好原来都是有实用价值的吗？”\n“只是顺带。毛豆确实好吃，过电确实爽。”\n“好吧，你开心就行。我刚看到的时候还有些担心，生怕你一直以来都是为了在护卫我的时候保持清醒，才勉强自己维持这些‘喜好’的......”\n“我像是这种人？”\n“那倒不像。还记得你第一次吃带壳的毛豆吗？那时候你还只是不知道要剥壳。我们都担心你会吃出什么问题，你反而开心得不行。”\n“记得，那次矿船在荒野上出了故障，等它挣扎着开到最近的矿场，大家都已经饿昏了头。这种吃完之后能让人那么清醒的食物，我头一次见，很喜欢。”\n“到头来还是为了保持清醒吗？我开始有点心疼你了，艾尔斯。”\n“不，是因为毛豆确实好吃，过电确实爽。”\n“......好吧，你开心就行。”",
-          "name": "荒野便携提神剂",
+          "description": "<Portable Wildland Stimulant: Preparation, Instruction and Efficacy>\n[Preparation and Instruction]\n1. Prepare some cooked edamame. Do not salt or peel them.\n2. Prepare a device to freeze the edamame. I will use my own edamame box here as a demonstration: this much freezing is just right.\n3. Prepare a device to discharge electricity. I'll demonstrate with my trusty sidekick here: this much power leakage is just right.\n4. Lower the voltage of the discharge device and shock the edamame until the juice inside carries a slight charge.\n5. Eat.\n[Efficacy]\nIn the barrens, maintaining a clear mind can be a real challenge. The boundless wilderness, the sweeping dust storms, the glow reflecting from the active Originium clouds in the sky, the howl of the wind blowing through Originium crystal clusters... It's easy to gradually lose your sense of self and fall into a trance-like state where you won't notice incoming dangers.\nChew the edamame along with its shell. The hairs of the shell can stimulate the mouth, thus keeping the user's nerves active.\nFrozen edamame can stimulate the gums and make it easier to stay awake.\nThe slightly-charged juices can give a tingling jolt, thus sharpening the user's perception.\nProper stimulation can prevent people from falling into a stupor. This is the only way to survive in the wilderness.\n\n'You've put a weird amount of thought into this manual, Ayers.'\n'Quit flapping your gums, Leon. A lot of operators have been coming by the last few days, asking me for the secret to staying awake in the wilds. I'm sick of giving the same explanation again and again.'\n'I guess it's true that your manual could stop people from coming, but... to be honest, I'm surprised those hobbies of yours can actually come in handy.'\n'That's a nice bonus. Edamame is delicious, and I find the electric jolt refreshing.'\n'Well, whatever floats your boat. At first, I was worried you were forcing yourself to do all that just to stay awake protecting me...'\n'Do I seem like that kind of person?'\n'Not really. Remember the first time you ate edamame? With shell and everything? You didn't know to peel it back then and we were worried it'd cause some sort of problem, but instead you seemed happy as could be.'\n'I remember. That was when the mining ship broke down in the barrens. By the time we got it huffing and puffing to the next mine, everyone was already delirious with hunger. It was the first time I had food that could just snap you back to your senses, and it really stuck with me.'\n'Wait, so it all comes back to waking you up after all? You know, I'm starting to feel a little sorry for you, Ayers.'\n'No, it's because edamame is delicious, and I find the electric jolt refreshing.'\n'...Alright then. Whatever floats your boat.'",
+          "name": "Portable Wildland Stimulants",
           "cost": [
             [
               {
@@ -66877,12 +66877,12 @@
       "modules": [
         {
           "id": "uniequip_002_lolxh",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "LOR",
           "type": "Y",
           "icon": "uniequip_002_lolxh",
-          "description": "摘自【医疗部日志】\n今天是未成年小干员的体检日，虽然小朋友难免会调皮捣蛋，但和昨天来体检的那几个刺头相比，这群叽叽喳喳的小鬼头也算得上乖巧可爱。其中大部分感染者的病情尚在可控范围，很多因为病症丧失行动能力的小干员也在逐渐地恢复。\n至于非感染者小干员，在经过细致系统地检查后，我们注意到了一些小朋友存在体重增加过多的现象，有些孩子曾因生长环境恶劣导致营养不良，来到岛上之后获得充足的营养补充从而体重迅速增长，这尚属合理。\n但干员小黑的体重变化让我们觉得有些古怪。首先干员小黑的饮食均在合理范围内，与他同行的阿根和小白均表示近来从未见过小黑有饮食过量的行为。其次，干员小黑的运动量非常大，除去任务期间的消耗，他还有锻炼的习惯。\n综合上述两点，我们认为小黑的增重现象需要进一步观察，以免有潜在的致病因素导致更多问题的产生，建议在下一周为他安排专项检测，找出相关因素。\n \n摘自【医疗干员私人日记】\n上班一天真的好疲惫，脖子好痛腰好酸，回到宿舍只想就地躺倒。\n上天啊，我要什么时候才可以摆脱那些打死不配合治疗的家伙？还有那些一进来就四处乱窜的小毛头......\n想想当年毕业时，满满的使命感在胸怀，现在可好，寿命都快没了。\n早上去医疗部的路上我又遇到了那只黑猫，它常会出现在那里，很多同事都会遇到它。它喜欢趴在那附近晒太阳，路过的大家想去逗它玩但它基本都不理我们，投喂罐头和零食倒是能让它理一下你。\n即便它如此冷淡，但大家还是对它非常热情，最近更是大家聊天时常提及的话题。\n我当然也不例外。\n哪怕只是看着它埋头专心吃罐头也足以治愈我被工作折磨的身心。\n我一直随身带着给它的零食，本想明天再多带一些冻干。结果一来到医疗部，就发现同事都带了罐头和零食，交流过后，才发现这几个月来，我们在互不知情的状况下，重复多次地投喂了那只黑猫。\n难怪感觉它好像胖了......唉，看来明天还是给它带两只毛线球吧。",
-          "name": "毛线球",
+          "description": "[Medical Department Log Excerpts]\nToday is examination day for our underage operators. Though the children are bound to misbehave, these chatty brats seem cute and well-behaved compared to the troublemakers who came by for their physicals yesterday. Most Infected children have already started to stabilize, with many of them who had lost their mobility gradually recovering.\nAs for the non-Infected children, excessive weight gain has been observed in some of them, which we've assessed to be reasonable, given the fact that many of them suffered from malnutrition while growing up in harsh environments, and proper nutritious intake at Rhodes Island is likely to result in rapid weight gain.\nHowever, Operator Luo Xiaohei's weight gain is somewhat peculiar. First, his diet falls within a reasonable range. His companions, Ah Gen and Xiaobai, have told us that they have never seen him overeat. Second, he gets plenty of exercise: in addition to his regular operations, he also makes a habit of exercising.\nBased on the above two points, we believe that his weight gain requires further observation to rule out any potential pathological factors that may lead to further problems. We recommend scheduling tests starting next week to identify what these factors might be.\n\n[Excerpts from a Medical Department Operator's Private Logs]\nI'm so tired after a long day of work. My neck and back are aching. I just want to go back to the dorm and crash.\nMy goodness, when will I be free from dealing with all these uncooperative patients? And then there's the brats who won't stop running around...\nWhen I first graduated, I was filled with a sense of duty. Now, I just feel dead inside.\nI ran into that black cat again on my way to Medical this morning. It often shows up there, and a lot of my colleagues have seen it. I suppose it enjoys lying there, basking in the sun. Some of the folks who pass by try to play with it, but it basically ignores everyone unless they offer food. Then, it might show some interest.\nDespite its cold demeanor, everyone seems quite enthusiastic about it, and it's even become the topic of conversation.\nOf course, I'm no exception.\nJust watching it engrossed in eating canned food is enough to briefly make me forget the torment of work.\nI always bring some spare snacks and was planning on bringing some more freeze-dried food tomorrow until I saw this morning that everyone in Medical had brought snacks and cat food. After touching bases, we realized that we'd all been separately feeding it over the last few months.\nNo wonder it has put on so much weight... Maybe I should bring some balls of yarn instead tomorrow.",
+          "name": "Ball of Yarn",
           "cost": [
             [
               {
@@ -68897,12 +68897,12 @@
       "modules": [
         {
           "id": "uniequip_002_qiubai",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "LOR",
           "type": "X",
           "icon": "uniequip_002_qiubai",
-          "description": "劫匪认出了眼前的仇白。\n那是个夏天，好像是五六年前，他在荒地上看到一个倒在地上快死了的女孩，穿的衣服不像是当地的，更像是姜齐那边的样式。他想，相距千里，真不知道她是怎么到这里来的。他翻了下，发现她身上没钱，没粮，也没有水，路过的人那么多，没一个愿意帮她。\n要是放在平时，他估计也就和那些人一样走开了，但他最近生意做得不错，心情自然也就不错。看着眼前这个凄惨的女孩，他想到自己之前落魄的日子，那时多希望有个人能来帮自己一把......救人是大善事，他现在很乐意做一个好人，帮帮这个女孩。\n他解开腰上的水囊，给她喂了几口水，又将她拖到一旁巨石的背阴处躺着。半晌后她终于睁开眼，他满足地笑了起来，伸手拍了拍她的肩膀，留下几吊钱：“女娃子，莫哭啊，活下去。”\n\n仇白认出了眼前的劫匪。\n现在是冬天，沙地中，几具尸体倒在一起，上面已经盖了一层白雪。\n最近村子外劫匪猖狂，村里人凑了点钱，请她去剿匪。听他们说，大大小小几场天灾过去，附近的收成都不好。收成不好，生意也跟着不好，人肚子里没油水，劫匪就多起来了。\n村里人长吁短叹完，又赞了两句仇白身手利落。刚才那几个劫匪自知穷途末路，竟然挟持村里的幼童，还是仇白抓住一个破绽出了剑，将他们一击毙命。\n仇白没有说话。\n她认得那个水囊，或者应该说已经是酒囊了，里面淌出的酒液浑浊呛人，它正挂在一具尸体的腰上。\n她想起来几年前那个笑着的老大哥，那让她撑到了下一个镇子的几口水和几吊钱。尸体的手里还攥着一把刀，能看出来是用镰刀改的，上面新旧血迹层层叠叠，洇成了黑色，而自己剑上的血也还没擦，赤红的，正滴下来。\n她在那水囊前放下了自己的斗笠，折了一枝梅花。",
-          "name": "雪浸过的斗笠",
+          "description": "The bandit recognizes Qiubai.\nIt was during a summer five or six years ago, when he saw a dying girl lying on the ground in the barrens. The clothes she wore did not appear local, resembling the style of Jiangqi more. 'That's thousands of li away; how did she end up here?' He looked around and found she had nothing with her—no money, no food, no water—yet despite so many people passing by, nobody was willing to help her.\nAny other time, and he would've walked away like all the others. But business had been flourishing, and he was in a good mood. Watching the poor girl before him, he couldn't help but think of his own miserable days, when he wished someone would help him... To save someone is an act of great kindness, and today he was more than glad to be a good person and help this girl.\nHe untied the waterskin from his waist, gave her a few sips, and dragged her into the shade of a boulder. After a while, she opened her eyes. He cracked a satisfied grin, patted her on the shoulder, and left her a few coins. 'Don't cry, girl. Live on.'\n\nQiubai recognizes the bandit.\nIt is winter now. Several corpses lie in the sand, covered by a thin layer of powdery snow.\nRecently, bandits have been quite active outside the village, and the villagers pooled together their money to hire her to take care of them. They said that after a string of Catastrophes, the harvests in the area were disappointing. With poor harvests came poor business. With no money in their purses, bandits began to sprout up like weeds.\nAfter all the whining and complaining, they began to praise Qiubai's skills. The bandits knew they were at the end of their rope, so they took the village's children hostage. Yet she seized the opportunity and struck, slaying them all in a single strike.\nShe does not say a thing.\nShe recognizes the waterskin—or rather, the wine pouch, from which a murky and choking liquor flows—dangling from the waist of a corpse.\nShe thinks back to the man's smile just a few years ago, and to the few sips of water and coins that had kept her going until she could reach the next town. The corpse still holds in his hand a knife—modified from a farming sickle—blackened by layers of blood both new and old. As for her own blade, it had yet to be wiped clean, and still drips red with fresh blood.\nShe sets down her bamboo snow hat in front of the waterskin, and folds into it a plum blossom.",
+          "name": "A Weathered Snow Hat",
           "cost": [
             [
               {
@@ -76169,7 +76169,7 @@
       ]
     },
     "char_4133_logos": {
-      "cnOnly": true,
+      "cnOnly": false,
       "name": "Logos",
       "profession": "Caster",
       "rarity": "TIER_6",
@@ -76287,7 +76287,7 @@
         {
           "id": "skchr_logos_1",
           "icon": "skchr_logos_1",
-          "name": "殁亡",
+          "name": "Perish",
           "masteryCosts": [
             [
               {
@@ -76336,7 +76336,7 @@
         {
           "id": "skchr_logos_2",
           "icon": "skchr_logos_2",
-          "name": "提喻",
+          "name": "Synecdoche",
           "masteryCosts": [
             [
               {
@@ -76385,7 +76385,7 @@
         {
           "id": "skchr_logos_3",
           "icon": "skchr_logos_3",
-          "name": "延异视阈",
+          "name": "Extended Acuity",
           "masteryCosts": [
             [
               {
@@ -76435,12 +76435,12 @@
       "modules": [
         {
           "id": "uniequip_002_logos",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "CCR",
           "type": "D",
           "icon": "uniequip_002_logos",
-          "description": "夜晚，哀珐尼尔等到了夜晚。他轻轻拨开床边的黑色锦绸，那是母亲和长辈们为他编织的，笼罩在他小小床铺上的精致床幔。他花了好些时间穿上衣服，然后静悄悄地离开卧室，又静悄悄地穿过长长的石制走廊，穿过露天的庭院和道路，路过那些跳动着的，驱散黑暗的灯和烛火。走向河边的路上，斜照的月光和背后的火光在他的脚下投出几个模糊的影子。这周围的一切都伴随着他上演一出只属于孩子的单人夜间冒险。\n在白天，阳光好些的时候，女妖们会带着无忧无虑的小哀珐尼尔在故事和河谷中漫游。在光线斑驳的树林里，在远方崇山峻岭的注视下，她们歌唱古老的史诗，歌唱明媚的生命。哀珐尼尔穿着华丽的衣裙随着长辈们的歌谣起舞，在那些传承千百年的韵律中，他听见了古老英雄远行的脚步声，听见了树木新枝抽芽的呼吸声，他的思绪伴随着太阳升起又降落：这片大地是河谷的延伸，是欢笑的家园和不息的乐歌。\n一声啼叫吸引了他的注意，他回过神来。河对岸，几头牙兽正拖着只瘤兽进入树林深处，只一瞬间就从他的视野里消失了。他听见了喘气声，水流声中还夹杂着些奇怪的声音，好像是什么被撕扯开来，然后又被折断了。这是新奇的语言，哀珐尼尔从未听过这样的声音，其中好像蕴含着某些他不曾触及的感情和含义，他开始感到困惑。\n哀珐尼尔从怀中掏出一根骨笔——那是他的生日礼物，在空中画着简单的符号，似乎是文字，但更像是简单的涂鸦。他在用自己的方法记录这种语言。\n“我们小小英雄的伟大冒险结束啦。”小女妖回过头，女妖长辈们的裙袍在夜里闪着点点光芒，那是女妖纺织出的纱在闪烁。\n“还记得我们的约定吗，哀梵？”\n“不可以，在一个人的时候，使用巫术。”\n“真棒。”一位年长的女妖轻轻托住哀珐尼尔的下巴，用掌根揉了揉他的脸，“那你刚才为什么要那样做呢？”\n“我想要明白，瘤兽刚才在说什么......”哀珐尼尔低下头，把拿着笔的右手背在身后，然后握住笔杆，接着用大拇指轻轻按住笔尖，想要隐藏手中的笔。\n“如果我能搞清楚它在说什么，它是不是就不会被牙兽带走了？如果我能听懂它的话，就能了解它的感受，是不是就能帮助它，它就不会发出那种让我难过的声音了？我想让它知道，有人在乎它。”哀珐尼尔想起刚才的画面，困惑开始转变为痛苦，转变成一种渴望。\n一瞬间，周围安静了下来，起风了。\n“从今天起，”大女妖菈玛莲打破了沉寂，她从人群中走了出来，“我们的哀珐尼尔可以自由行动和练习了。”母亲这样说道，“不过，现在是睡觉的时间了哦。”\n“母亲......”哀珐尼尔走向母亲，大女妖伸手握住了孩子稚嫩的手。\n女妖们一起顺着来时的道路返回。在路上，月光把哀珐尼尔瘦小的身影拖得很长很长。他们一路安静地走着，耳边是榉树、杉树和松树被风翻动的叶涛声。在夜空的黛蓝与蒙蒙薄云的亮灰下，溪流载着浮动的光寂静前行，像是黑色山谷中一道深深的闪烁银光的裂痕，正涌出些许跃动的勇气。",
-          "name": "来自河谷的笔盒",
+          "description": "Nightfall, the time Aefanyl has been patiently waiting for has come. He gently pulls aside the curtains of black silk—woven by his mother and the elders—around his small bed. He takes a while to get dressed, then quietly leaves the bedroom. He silently walks through the long stone corridor, across the open courtyard and road, and past the flickering candles and lights that stave off the darkness. On his way to the river, the oblique moonlight and faint firelight behind him cast a spattering of vague shadows around his feet. Everything around him becomes a part of the child's night adventure.\nDuring the day, when the sun's not hidden behind clouds, the Banshees will take the young and carefree Aefanyl to wander through valleys and fables. In the light-dappled woods, beneath the gaze of the towering mountains in the distance, they sing ancient epics and extol life's brilliance. Aefanyl, clad in splendorous robes, dances to the songs of the elders. Through these cadences passed down from thousands of years, he hears the footsteps of ancient heroes on their faraway journeys and the breathing of new shoots as they sprout from the trees. His thoughts rise and fall with the sun: this land is an extension of the Convallis, home to laughter and melodies without end.\nA cry draws his attention and jerks him back to reality. On the other side of the river, several tuskbeasts are dragging a cystybeast into the forest's depths, vanishing before he can take a good look. He hears his own panting, along with several strange sounds mixed with the gurgling of the river, as if something is being torn apart, then broken. It is a new language that Aefanyl has never heard before. It seems to contain certain emotions and connotations he has never experienced, and it begins to fill him with confusion.\nHe takes out the bone pen from his breast pocket—his birthday gift—and draws simple symbols in the air. They look like words but are little more than scribbles. He has his own way of recording this new language.\n'Our little hero's great adventure thus reaches its end.' The young Banshee turns his head and sees the dresses of the Banshee elders fluttering in the night, shimmering with the silken strands they had woven themselves.\n'Do you remember what we agreed upon, Aefanyl?'\n'I am not to use Arts while I am alone.'\n'Wonderful.' An older Banshee gently cups Aefanyl's chin and rubs his face with the base of her palm. 'Why, then, did you do what you just did?'\n'I wanted to understand, what the cystybeast was saying just now...' Aefanyl lowers his head, his right hand sliding behind his back as he grips the pen, gently pressing his thumb against its tip, as if trying to conceal it within his palm.\n'If I could figure out what it was saying, would that have prevented it from being taken away by the tuskbeasts? If I understood what it was saying, how it felt, would I have been able to help it and stop it from making that sad sound? I want it to know that someone cares.' Aefanyl recalls what he had just seen. Confusion becomes pain, and from pain comes a wish.\nIn an instant, everyone becomes quiet, and a breeze stirs.\n'From now on,' the Great Banshee Laqeramaline breaks the silence and steps forth from the crowd, 'our Aefanyl is free to go where he pleases, and practice as he pleases.' 'However,' his mother continues, 'it is now time to go to bed.'\n'Mother...' Aefanyl approaches his mother, and her hand lovingly clasp his.\nThe Banshees return the way they had come. Along the way, moonlight elongates Aefanyl's thin figure. They walk in silence, while the leaves of beech, fir, and pine trees rustle softly in the wind. Beneath the deep blue night sky and the misty gray clouds, the river quietly carries the floating light forward, like a crack of luminous light from a black valley, from which a gentle pulse of courage emerges.",
+          "name": "A Pen Collection from the Convallis",
           "cost": [
             [
               {
@@ -76497,7 +76497,7 @@
       ]
     },
     "char_4134_cetsyr": {
-      "cnOnly": true,
+      "cnOnly": false,
       "name": "Civilight Eterna",
       "profession": "Supporter",
       "rarity": "TIER_6",
@@ -76615,7 +76615,7 @@
         {
           "id": "skchr_cetsyr_1",
           "icon": "skchr_cetsyr_1",
-          "name": "往昔萦绕身旁",
+          "name": "The Past Lingering",
           "masteryCosts": [
             [
               {
@@ -76664,7 +76664,7 @@
         {
           "id": "skchr_cetsyr_2",
           "icon": "skchr_cetsyr_2",
-          "name": "明日渺远不及",
+          "name": "The Future Elusive",
           "masteryCosts": [
             [
               {
@@ -76713,7 +76713,7 @@
         {
           "id": "skchr_cetsyr_3",
           "icon": "skchr_cetsyr_3",
-          "name": "编织重构现世",
+          "name": "The Present Reconstructed",
           "masteryCosts": [
             [
               {
@@ -76825,7 +76825,7 @@
       ]
     },
     "char_4136_phonor": {
-      "cnOnly": true,
+      "cnOnly": false,
       "name": "PhonoR-0",
       "profession": "Supporter",
       "rarity": "TIER_1",
@@ -94284,6 +94284,14 @@
           "occPer": "ALWAYS"
         },
         {
+          "stageId": "main_14-06",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "tough_14-06",
+          "occPer": "ALWAYS"
+        },
+        {
           "stageId": "sub_04-3-3",
           "occPer": "ALWAYS"
         },
@@ -95510,8 +95518,12 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act11mini_06",
+          "stageId": "act20side_05",
           "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act18side_03",
+          "occPer": "ALMOST"
         },
         {
           "stageId": "act16side_04",
@@ -95542,11 +95554,11 @@
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act18side_03",
+          "stageId": "act18d0_04",
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act18d0_04",
+          "stageId": "act17d0_04",
           "occPer": "ALMOST"
         },
         {
@@ -95578,8 +95590,8 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act17d0_04",
-          "occPer": "ALMOST"
+          "stageId": "act11mini_06",
+          "occPer": "ALWAYS"
         },
         {
           "stageId": "act11d0_04",
@@ -95590,16 +95602,16 @@
           "occPer": "ALWAYS"
         },
         {
+          "stageId": "act14mini_06",
+          "occPer": "ALWAYS"
+        },
+        {
           "stageId": "act20side_03",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act33side_04",
+          "stageId": "act32side_03",
           "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act20side_05",
-          "occPer": "ALWAYS"
         },
         {
           "stageId": "act31side_05",
@@ -95610,12 +95622,12 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act30side_05",
-          "occPer": "ALWAYS"
+          "stageId": "act33side_04",
+          "occPer": "ALMOST"
         },
         {
-          "stageId": "act32side_03",
-          "occPer": "ALMOST"
+          "stageId": "act29side_04",
+          "occPer": "ALWAYS"
         },
         {
           "stageId": "act28side_04",
@@ -95630,11 +95642,7 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act14mini_06",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act29side_04",
+          "stageId": "act30side_05",
           "occPer": "ALWAYS"
         },
         {
@@ -95656,6 +95664,14 @@
         {
           "stageId": "main_07-14",
           "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_14-18",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "tough_14-18",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "sub_05-1-1",
@@ -96548,6 +96564,14 @@
         {
           "stageId": "tough_13-15",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_14-15",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "tough_14-15",
+          "occPer": "USUAL"
         }
       ],
       "recipe": {
@@ -96610,6 +96634,14 @@
         },
         {
           "stageId": "tough_13-15",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_14-15",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "tough_14-15",
           "occPer": "SOMETIMES"
         }
       ],
@@ -97185,8 +97217,8 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act30side_06",
-          "occPer": "ALMOST"
+          "stageId": "act4d0_05",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act13d5_07",
@@ -97225,16 +97257,16 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act10d5_05",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act4d0_05",
-          "occPer": "USUAL"
+          "stageId": "act30side_06",
+          "occPer": "ALMOST"
         },
         {
           "stageId": "act32side_06",
           "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act10d5_05",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "main_02-06",
@@ -97275,6 +97307,22 @@
         {
           "stageId": "tough_13-10",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_14-08",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "tough_14-08",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_14-18",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "tough_14-18",
+          "occPer": "USUAL"
         }
       ],
       "recipe": {
@@ -97329,6 +97377,14 @@
         },
         {
           "stageId": "tough_13-10",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_14-08",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "tough_14-08",
           "occPer": "SOMETIMES"
         }
       ],
@@ -97733,8 +97789,12 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act22side_04",
-          "occPer": "OFTEN"
+          "stageId": "act23side_04",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act12mini_06",
+          "occPer": "ALWAYS"
         },
         {
           "stageId": "act19side_04",
@@ -97761,12 +97821,12 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act13side_07",
-          "occPer": "USUAL"
+          "stageId": "act22side_04",
+          "occPer": "OFTEN"
         },
         {
-          "stageId": "act18d3_06",
-          "occPer": "ALMOST"
+          "stageId": "act13side_07",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act18d0_04",
@@ -97797,8 +97857,8 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act12mini_06",
-          "occPer": "ALWAYS"
+          "stageId": "act18d3_06",
+          "occPer": "ALMOST"
         },
         {
           "stageId": "act4d0_04",
@@ -97807,10 +97867,6 @@
         {
           "stageId": "a001_03",
           "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act25side_07",
-          "occPer": "ALWAYS"
         },
         {
           "stageId": "act25side_05",
@@ -97841,8 +97897,8 @@
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act23side_04",
-          "occPer": "ALMOST"
+          "stageId": "act25side_07",
+          "occPer": "ALWAYS"
         },
         {
           "stageId": "main_02-01",
@@ -97875,6 +97931,14 @@
         {
           "stageId": "tough_11-05",
           "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_14-03",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "tough_14-03",
+          "occPer": "ALWAYS"
         },
         {
           "stageId": "sub_03-2-1",
@@ -97986,6 +98050,14 @@
         {
           "stageId": "tough_13-14",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_14-11",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "tough_14-11",
+          "occPer": "USUAL"
         },
         {
           "stageId": "sub_04-1-1",
@@ -98729,6 +98801,14 @@
         {
           "stageId": "tough_13-03",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_14-14",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "tough_14-14",
+          "occPer": "OFTEN"
         }
       ],
       "recipe": {
@@ -98791,6 +98871,14 @@
         },
         {
           "stageId": "tough_13-03",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_14-14",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "tough_14-14",
           "occPer": "SOMETIMES"
         }
       ],
@@ -99211,8 +99299,12 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act19side_03",
-          "occPer": "USUAL"
+          "stageId": "act12mini_05",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act19side_05",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act20side_04",
@@ -99247,11 +99339,11 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act19side_05",
-          "occPer": "OFTEN"
+          "stageId": "act7mini_03",
+          "occPer": "USUAL"
         },
         {
-          "stageId": "act7mini_03",
+          "stageId": "act18d0_05",
           "occPer": "USUAL"
         },
         {
@@ -99287,7 +99379,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act18d0_05",
+          "stageId": "act19side_03",
           "occPer": "USUAL"
         },
         {
@@ -99299,16 +99391,16 @@
           "occPer": "ALMOST"
         },
         {
+          "stageId": "act23side_05",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "act23side_06",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act33side_05",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act12mini_05",
-          "occPer": "ALMOST"
+          "stageId": "act32side_05",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act31side_06",
@@ -99323,8 +99415,8 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act32side_05",
-          "occPer": "USUAL"
+          "stageId": "act33side_05",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act28side_05",
@@ -99340,10 +99432,6 @@
         },
         {
           "stageId": "act25side_07",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act23side_05",
           "occPer": "OFTEN"
         },
         {
@@ -99373,6 +99461,14 @@
         {
           "stageId": "tough_10-03",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_14-10",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "tough_14-10",
+          "occPer": "ALWAYS"
         },
         {
           "stageId": "sub_05-3-1",
@@ -99684,6 +99780,22 @@
         {
           "stageId": "tough_13-17",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_14-05",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "tough_14-05",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_14-16",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "tough_14-16",
+          "occPer": "USUAL"
         }
       ]
     },
@@ -99743,6 +99855,14 @@
         },
         {
           "stageId": "tough_13-17",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_14-05",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "tough_14-05",
           "occPer": "SOMETIMES"
         }
       ],
@@ -99861,6 +99981,14 @@
         {
           "stageId": "tough_13-18",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_14-12",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "tough_14-12",
+          "occPer": "OFTEN"
         }
       ]
     },
@@ -99912,6 +100040,14 @@
         },
         {
           "stageId": "tough_13-18",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_14-12",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "tough_14-12",
           "occPer": "SOMETIMES"
         }
       ],
@@ -100034,6 +100170,14 @@
         {
           "stageId": "tough_13-19",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_14-04",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "tough_14-04",
+          "occPer": "OFTEN"
         }
       ]
     },
@@ -100069,6 +100213,14 @@
         },
         {
           "stageId": "tough_13-19",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_14-04",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "tough_14-04",
           "occPer": "SOMETIMES"
         }
       ],
@@ -100517,6 +100669,14 @@
           "occPer": "OFTEN"
         },
         {
+          "stageId": "main_14-07",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "tough_14-07",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "sub_05-4-1",
           "occPer": "OFTEN"
         },
@@ -100815,15 +100975,7 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act9mini_05",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act8mini_06",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act30side_08",
+          "stageId": "act23side_09",
           "occPer": "ALMOST"
         },
         {
@@ -100831,8 +100983,16 @@
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act23side_09",
+          "stageId": "act30side_08",
           "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act13side_09",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act8mini_06",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act12mini_07",
@@ -100843,8 +101003,8 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act13side_09",
-          "occPer": "USUAL"
+          "stageId": "act9mini_05",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "main_08-13",
@@ -100876,6 +101036,14 @@
         },
         {
           "stageId": "tough_13-06",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_14-02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "tough_14-02",
           "occPer": "OFTEN"
         },
         {
@@ -100924,6 +101092,14 @@
         },
         {
           "stageId": "tough_13-06",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_14-02",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "tough_14-02",
           "occPer": "SOMETIMES"
         },
         {
@@ -101119,6 +101295,22 @@
         {
           "stageId": "tough_12-15",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_14-13",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "tough_14-13",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_14-19",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "tough_14-19",
+          "occPer": "OFTEN"
         }
       ]
     },
@@ -101150,6 +101342,14 @@
         },
         {
           "stageId": "tough_12-15",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_14-19",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "tough_14-19",
           "occPer": "SOMETIMES"
         }
       ],
@@ -101223,6 +101423,14 @@
         },
         {
           "stageId": "tough_13-11",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_14-01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "tough_14-01",
           "occPer": "OFTEN"
         },
         {
@@ -101382,6 +101590,14 @@
         {
           "stageId": "tough_13-13",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_14-17",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "tough_14-17",
+          "occPer": "OFTEN"
         }
       ]
     },
@@ -101401,6 +101617,14 @@
         },
         {
           "stageId": "tough_13-13",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_14-17",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "tough_14-17",
           "occPer": "SOMETIMES"
         }
       ],
