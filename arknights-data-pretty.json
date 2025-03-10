@@ -1,6 +1,6 @@
 {
   "commitHashes": {
-    "yostar": "a2bf7d74d42233cf3f6ce1816b7fa3e3817a125e",
+    "yostar": "bdf8620910a2b29075953098ce1b9de3601f5217",
     "cn": "0fad586ea1e532c1195263ef51c57629329c505f"
   },
   "operators": {
@@ -59544,12 +59544,12 @@
         },
         {
           "id": "uniequip_003_irene",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "SWO",
           "type": "X",
           "icon": "uniequip_003_irene",
-          "description": "那个南方来的陌生人把手放在了腰带上。\n赏金猎人们趴在山崖边缘，看她抽出两支金属管，填入手炮的“弹膛”。\n受了惊的兽群仍在奔腾，在砂石地上扬起躁动不止的尘埃，向谷地的下方靠近。半分钟，赏金猎人们想，最多半分钟，那带着海潮气息的南方佬就会被踏作肉泥！哈，管她手里的是铳械还是法杖！事到如今，除非她有本事搬出一座山，否则——\n火光。轰鸣。\n山崖间天然的石拱被削出空洞，在他们的眼前坍落下去，落石筑起一道石墙。狂暴的兽群向更加威严的自然之力屈服，调转方向，离开了峡谷。\n陌生人没有放下手炮，将目光投向谷地的上方。\n“慢着......我们不是匪帮，有话好商量！你到底是什么人？”\n“伊比利亚审判庭信使。”荒地的羽兽飞掠，投下影子。\n小个子黎博利信使把手放在了腰带上。\n她从皮扣上抽出一支细细的玻璃管，银色的药剂如她的瞳孔一般反射着雷光。彻夜的暴雨让她想起拍打海岸线的风暴潮，许多受了伤的驮兽被逃难的人们抛下，在雷霆的间隙中嘶鸣。\n一位倒向教会的天灾信使，几个在暴雨中失踪的家庭。她知道，伊比利亚给予她的责任并不会随她卸去审判官一职而消失。\n她停下脚步，抬起头，让药液缓缓覆盖眼球。在那个并不遥远的夜晚，当她亲眼见证闪光的海洋袭向堡垒时，老师将这样的药液交给了她。\n如此一来，直至伊比利亚的敌人被焚尽，审判之火都不会再灼伤她的双眼。\n早晨，她走出了林地，带着沾满灰烬的伤口。孩子们在她身后手拉着手，眨着发红的眼睛。\n“你是谁？其他失踪的人又在哪里？”人们问她，半是感激半是恐惧。\n“艾丽妮，伊比利亚审判庭信使。”她说，“接下来，我要问几个问题。”\n艾丽妮把手放在了腰带上。\n她从挂钩上摘下一只带审判庭火漆印的金属罐，不一会儿，来自伊比利亚的信件和报告便铺满了你在罗德岛的办公桌。\n“艾丽妮。”你忍不住好奇，“为什么你的腰带上总是挂满了东西？”\n“这些吗？老师曾经告诉我，越是危急的时候，我们就越需要带好‘审判官的口粮’。看，这是手炮的补充单元，这是应急药剂，还有这个，密封信件的小罐......”\n她张开手臂，侧过身。\n“人们只会记住审判官的提灯与剑，但这些东西，才是支持我们的‘口粮’。伊比利亚如今拥有的一切都弥足珍贵——它们是我绝不会舍弃的责任。”",
-          "name": "审判官口粮",
+          "description": "The stranger from the south places her hand on her belt.\nThe bounty hunters lying at the edge of the cliff watch as she draws two metal tubes, loading them into the 'chamber' of her handcannon.\nThe startled herd continues to stampede, kicking up clouds of dust as they surge toward the valley below. It would take no more than thirty seconds, the bounty hunters thought, before this southern foreigner with her ocean-borne scent would be trampled into a pulp! Ha! Whether she was holding a firearm or a staff hardly mattered now. Unless she could summon a mountain—\nFlames. A thunderous roar.\nA natural stone arch between the cliffs is blast open, collapsing before their eyes as rocks tumble down to form a barricade. The frenzied herd yields to this greater force of nature, turns away, and leaves the canyon.\nThe stranger keeps her handcannon raised, her gaze shifted towards the hunters above.\n'Wait... we're not bandits. We can talk this out! Who are you?'\n'A Messenger of the Iberian Inquisition.' A flying wasteland fowlbeast casts a shadow briefly over her.\nThe petite Liberi Messenger places her hand on her belt.\nShe draws a slender glass vial from her leather buckle, the silver liquid inside reflecting the same stormy light as her pupils. The relentless rain reminds her of storm surges crashing against the coastline, of wounded burdenbeasts abandoned by fleeing people, their screams only heard in the gaps between the thunderclaps.\nA Catastrophe Messenger who had turned to the Church. A few families missing in the storm. She knew that the responsibilities Iberia had entrusted to her would not vanish, even as she stepped down from her role as Inquisitor.\nShe stops, lifting her head, letting the liquid slowly cover her eyes. On that not-so-distant night, when she witnessed the glistening sea crashing against the fortress, her mentor had handed her this potion.\nThis way, the Flames of Castigation would not sear her eyes, not until Iberia's enemies were burned to the ground.\nBy morning, she emerges from the woods, her wounds covered in ash. The children behind her hold their hands, blinking their reddened eyes.\n'Who are you? Where are the others who went missing?' the people ask, a mixture of gratitude and fear in their voices.\n'Irene, Messenger of the Iberian Inquisition,' she replies. 'Now, I have some questions of my own.'\nIrene places her hand on her belt.\nShe pulls a metal canister marked with the Inquisition's seal from a little hook, and soon, reports and letters from Iberia covered your desk at Rhodes Island.\n'Irene,' you can't help but ask, 'why is your belt always filled with so many items?'\n'These?' She smiles. 'My mentor once told me that in the most critical times, we must carry the 'rations of an Inquisitor.' Look, here's a reload for my handcannon, this is an emergency potion, and here's a canister for sealing letters...'\nShe spreads her arms, turning slightly.\n'People only remember the Inquisitor's lantern and sword, but these, these are what sustain us—the 'rations' we rely on. Everything Iberia has is precious beyond measure. They are part of my responsibilities, and I shall never abandon them.",
+          "name": "Inquisitor's Ration",
           "cost": [
             [
               {
@@ -68953,12 +68953,12 @@
       "modules": [
         {
           "id": "uniequip_002_quartz",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "CRU",
           "type": "X",
           "icon": "uniequip_002_quartz",
-          "description": "“所以，计划是什么？”\n“计划就是我们进入酒吧，找到我们的目标，然后让他把那批源石制粉的下落交代出来。”\n“具体时间呢？”发问的少女刚刚做完饭，靠在地窖的柱子上轻轻擦拭着那把并不称手的巨剑。\n“他就是个包拎久了手都会抖的源石制粉贩子而已，别那么上心。”\n“我说了，给我一个明确的时间，任何任务都应当是这样。还是说你们回来以后想饿着肚子没饭吃？”\n“好吧。晚上七点整，他会在那里与人接头。”\n擦拭完巨剑的石英打开了她从镇上钟表铺买来的维修工具，保养起她放在餐桌上的那枚怀表。\n“唉，慢了十三秒。”她发出了一声叹息。\n晚上。\n背负着巨剑的石英推开了酒吧的大门。\n人们在这小镇上唯一称得上娱乐场所的地方纵情狂欢。透过挥发的酒精与人们吐出的烟雾，她看到了目标——他正蜷缩在角落里，用力捏着酒杯。\n她跨过倒在地上烂醉如泥的客人们，坐到了目标的对面。\n“这位女士，喝点什么？”\n“谢谢，不需要，我是来等人的——七点，对吧？”\n目标死死地盯着突然向他搭话的石英，咽了咽口水，猛然从包中掏出了一个遥控器，高声大喊起来：\n“你这种在移动城市里活不下去的苍蝇！现在来荒地逼得我活不下去了！只要一到七点，装在这个桌子下面的源石制粉炸弹就会把你炸上天！这就是你当佣兵应得的！”\n七......\n音乐戛然而止，迷醉的人们猛地停下了自己的动作，他们看向桌子下方，一个模糊的红色数字正在闪动。\n六......\n酒吧的大门被冲开，然后是窗户，还没醉的人们忙着把已经不省人事的同伴拖出屋子。\n“一！”目标高喊着，跳上吧台高举双手，似乎要迎接一场盛大的葬礼。\n“先生你知道吗，你的表快了十秒。”\n石英长叹一口气，举起巨剑对着目标砸了下去。\n\n人们看到一个背负着巨剑的少女架着一个人走出了早已空无一人的酒吧。\n五秒后，酒吧发生了爆炸，木头、玻璃渣从她的身后飞向天空，在夜空中炸出了一朵绚烂的烟花。\n“你要去哪里？”\n“去找点凉水把他弄醒，然后去感谢我的钟表维修工具。”",
-          "name": "钟表修理套组",
+          "description": "'So, what's the plan?'\n'Simple: we go into the bar, find our target, and make him tell us where the Originium powder stash is.'\n'And the precise timing?' The young girl, having just finished cooking, leans against a pillar in the cellar, carefully wiping down her oversized greatsword.\n'Just a powder dealer. Untrained. Don't worry. It'll be a cakewalk.'\n'I told you, give me an exact time. That's how every mission should be handled. Or do you plan to come back hungry with no dinner ready?'\n'Alright, fine. He'll be there at 7:00 p.m., to meet someone else.'\nQuartz finishes cleaning her greatsword and opens a toolkit she'd bought from the town's clockmaker, then starts repairing the pocket watch she'd left on the dining table.\n'Thirteen seconds slow,' she says with a sigh.\nThat evening.\nCarrying her greatsword, Quartz pushes open the bar's doors.\nIn the only place in town worthy of being called entertainment, people were lost in wild revelry. Through the haze of alcohol vapors and clouds of smoke, she spots the target—crouched in the corner, clutching his glass tightly.\nShe steps over the drunk patrons sprawled on the floor and sits across from him.\n'Miss, can I get you a drink?'\n'No, thank you. I'm here waiting for someone—7:00, right?'\nThe target stares intently at her, this strange woman who had unexpectedly started talking to him. Swallowing hard, he suddenly pulls a remote from his bag and shouts:\n'You vermin couldn't make it in a nomadic city! And now you're out here in the wasteland, to make my life as miserable as yours! The moment the clock hits 7:00, the Originium powder bomb under this table will blow you sky-high! This is what mercs like you deserve!'\nSeven...\nThe music cuts off abruptly. The revelers freeze in their tracks, turning to look beneath the table where a blurred red countdown clock was flashing.\nSix...\nThe bar's doors fly open, followed by the windows, as those who are still sober drag their unconscious companions out of the building.\n'One!' The target shouts, jumping onto the bar and raising his arms as if welcoming a grand finale.\n'Sir, your watch is ten seconds fast.'\nQuartz lets out a long sigh, raises her greatsword, and brings it down on him.\nPeople watch as a young woman carrying a greatsword hauls a man out of the now-empty bar.\nFive seconds later, the bar explodes, sending wood and glass shards soaring, and bursting into a dazzling firework against the night sky.\n'Where are you going?'\n'To find some cold water to wake him up. Then, to thank my watch repair toolkit.'",
+          "name": "Watchmaker's Kit",
           "cost": [
             [
               {
@@ -72498,12 +72498,12 @@
       "modules": [
         {
           "id": "uniequip_002_chimes",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "CRU",
           "type": "X",
           "icon": "uniequip_002_chimes",
-          "description": "“山区的居民点现在只剩下图上标出来的这些村镇。一般来说，送信的时候按上面标好的顺序走就行。不同的路段我用了不同颜色区分，每种颜色都对应着特定的路况和适合的交通方式，算是过来人的一点经验。\n“首先是路况最好的部分，可以骑自行车。下坡虽然爽快，还是得注意速度。山上的路再好也不能和驰道比，颠得厉害，小心包裹被颠散架，万一丢了信，哭都没处哭。\n“接下来是靠腿走的部分。走山路不容易，不过最重要的其实是和老天爷抢时间，得会认天气。云聚起来就得快走，天阴下来就得跑，等到打雷再想着躲雨就晚了。雨天赶路容易出事，我的角（划去）我就在这种事上吃过大亏。至于野兽、流寇什么的，心态放平，没什么大不了的。我能对付他们，你既然能来接我的班，那你肯定也行。\n“然后是一些比较特殊的路，一般不怎么走——纸不太够了，别的我另外附一张纸给你写，这里只挑一种讲，就是用滑索的。不要怕，我乘过好多次了，很安全，甚至有点惬意，时间长了你说不定会喜欢的。”\n......\n“对了，还有件事我得写在这里，算是不情之请。有几个村子已经没多少年轻人了，我特地标了出来。老人嘛，大多比较固执，还有的行动不太方便，你千万多担待，能搭把手就更好了，我替他们谢谢你。真的。\n“差点忘了，最重要的一点，千万做好矿石病防护！别因为”\n地图背面到这里就彻底写不下了，不大的纸张上记得满满当当，铎铃某次去医院检查回来后它就在这儿了。可在那之后又过去了好久，铎铃还是数年如一日地在山路上走着，旧地图也就在她桌上放着。直到偶然被人翻了个面，观者不禁苦笑。\n“这姑娘也是老实，还真盼着有人愿意上山旮旯里送信啊。”\n“怕是人走光了，也就不用再来一个信使了。”\n“唉，多少年了，路上这么多的事，哪写得完哟。”\n“这么长的路，又哪走得完哟。”",
-          "name": "致继任者",
+          "description": "'These are the only remaining towns and villages in the mountains. I've marked them on the map. Generally, you can just follow the indicated order when delivering mail. I've used different colors to mark each section; each corresponds to different road conditions and recommended modes of transportation—just a bit of advice from someone who's been doing this a while.\n'First, there's the part with the smoothest roads, where you can ride a bike. Going downhill is exhilarating, but mind your speed. No matter how good the mountain roads are, they're still bumpy; if your package gets jostled too much, it could fall apart. It'd be almost impossible to find a letter and retrieve it if you lose it in the mountains, so be careful.\n'Next is the section you'll have to cover on foot. Walking mountain paths isn't easy, but the most important thing is to race against the weather. You'll need to read the skies. When clouds gather, you should walk faster; when it darkens, you should start running. When it thunders, it'll be already too late to think about finding shelter. Traveling in the rain can be dangerous. My horn, err... I learned this the hard way. As for wild beasts or bandits, stay calm. It's no big deal. I can handle them, and if you're taking over my route, you can too.\n'Finally, there are some special paths that are rarely used—I'm running out of space, so I'll write the rest on a separate sheet. But I'll mention one here: the zip lines. Don't be afraid; I've ridden them many times. They're safe, even pleasant. You might come to enjoy them after a while.'\n...\n'Oh, and one last thing I should write here—it's a small favor. There are a few villages with hardly any young folks left, and I marked them on the map. The elders there tend to be a bit stubborn, and some aren't very mobile, so please be patient and lend a hand if you can. I thank you on their behalf. Truly.\n'I almost forgot the most important part: make sure to protect yourself against Oripathy! Don't let the...'\nThe writing stops abruptly on the back of the map, filling every inch of the small piece of paper. Wind Chimes had left it there after returning from a checkup at the doctor's. Much time has passed since then, and Wind Chimes continued to walk those mountain paths year after year, but the old map remained lying on her desk. One day, someone happened to flip it over and couldn't help but give a wry smile.\n'This girl's so naive—she really hoped someone else would be willing to deliver mail all the way up to those remote mountain villages, just like she does.'\n'I'd say when the people are all gone, there won't be any need for another Messenger anyway.'\n'(Sigh) It's been so many years, and there are so many stories on these roads; no letters could capture them all.'\n'And the road is so long... no messenger could ever walk it all.'",
+          "name": "To My Successor",
           "cost": [
             [
               {
@@ -73092,12 +73092,12 @@
       "modules": [
         {
           "id": "uniequip_002_hodrer",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "CRU",
           "type": "X",
           "icon": "uniequip_002_hodrer",
-          "description": "下课的时候，已是落日时分。赫德雷望向窗外，暗橙的太阳低悬在城市边缘，温柔地将光线洒过云隙，照亮了城市中飘扬的巴别塔旗帜，它正与对面属于军事委员会的旗帜遥相呼应。他察觉到一阵久违的感动，卡兹戴尔，他破败而又生机勃勃的家乡正要安然入睡。这是赫德雷在小时候才会幻想的场景，他甚至记不清自己曾有多少次遐想它能成真——上百次，或者更多？\n空荡的房间里，一阵敲门声打断了赫德雷的思绪，他打开门，看见一位陌生人。\n“赫德雷先生，曼弗雷德将军请您去叙叙旧。”来者这样说。\n“我已经很久没有联系过军事委员会了。”\n“将军说过，您需要一点时间。”来人继续说，“正如我刚才所言，我今天只是将军的使者。”\n曼弗雷德，赫德雷想起这位军事委员会的现任领袖，卡兹戴尔如今的发展有他一份功劳......\n“将军还说，如果您拒绝的话，下次他会亲自登门拜访。”使者赶在赫德雷说话之前自顾自地说着。\n曼弗雷德，赫德雷低下头继续想着。街灯陆续点亮，他看见使者，还有自己的影子开始变得模糊。\n“请回吧。”他对使者说，“我们会找时间去拜访将军，但不是今天。”然后关上了门。\n赫德雷转过身来，对着空教室中的阴影说道：“欢迎回来。”\n“哼。”一道身影从阴影中显现，背对着赫德雷，开始打扫教室。\n“你刚才犹豫了。”伊内丝说道。\n“我......有些事情很复杂。”\n“你的情感也很复杂。”\n“嗯。”\n“你不否认。”\n“嗯。”\n“......”\n“我说过，现在最重要的事情是攒够那笔钱，给你开店的钱。”赫德雷说，“其他事情以后再说。”\n“我知道，”她的身形顿了一下，“我一直都知道。”\n然后他们一起沉默地离开那里，走过街头。他们看见灰蓝色的双月照亮天幕，残破的建筑顽强地矗立在卡兹戴尔老城区，一排排覆着斑驳锈迹铁皮顶的房子连绵不绝，红褐色的铁锈原野在熔炉的炽烈火光下映出火苗摇曳的影子。破落的道路迂回蜿蜒，爬向这座移动城市里每一座由钢铁堆砌的山岗和峡谷，把供养城市的血液——一条条鲜活的生命——送向他们该去的地方，永不止歇。",
-          "name": "新的生活",
+          "description": "By the time class let out, the sun is already setting. Hoederer looks out the window at the deep orange sun, hanging low on the city's edge. Its gentle light filters through gaps in the clouds, illuminating the Babel flag fluttering, mirroring the flag of the Military Commission opposite it. He feels a rare stir of emotion—Kazdel, his broken yet vibrant hometown, was about to settle peacefully into slumber. This was a scene he had only imagined as a child; he couldn't even remember how many times he'd dreamed of it coming true—hundreds? Maybe more?\nIn the empty room, a knock at the door interrupts his thoughts. He opens it to see a stranger.\n'Mr. Hoederer, General Manfred has invited you to pay him a visit,' the stranger says.\n'I haven't touched base with the Military Commission in a long time.'\n'The General understands. He said you might need some time,' the visitor continues. 'I'm only here as his messenger.'\nManfred... the current head of the Military Commission, who had played a role in Kazdel's development...\n'The General also said that if you refused, he'd come see you himself next time,' the messenger adds, before Hoederer can respond.\nManfred, he thinks, lowering his head. The streetlights are starting to come on, and he sees both the messenger and his own shadow begin to blur.\n'Please, go back,' he says to the visitor. 'We'll find time to visit the General, but not today.' Then he closes the door.\nHoederer turns around and speaks to the shadows in the empty classroom. 'Welcome back.'\n'Hmph.' A figure emerges from the shadows, her back turned to Hoederer. She starts to clean the classroom.\n'You hesitated.' Ines remarks.\n'I... some things are complicated.'\n'Including your feelings on them.'\n'Right.'\n'You're not denying it.'\n'Right.'\n'...'\n'I told you, our top priority right now is saving enough money to open up that shop you always wanted,' Hoederer says. 'The rest can wait.'\n'I know,' she says, pausing slightly. 'I've always known.'\nThen they leave together in silence, walking down the street. They look up at the twin gray-blue moons lighting the sky, casting a glow over Kazdel's old district, where ruined buildings stand resilient in the night. Rows of rusted, iron-roofed houses stretch endlessly, and red-brown fields reflect the flickering light from blazing furnaces. Crumbling roads twist through the hills and valleys, carrying the city's lifeblood—an unceasing flow of people—to their destinations.",
+          "name": "A New Life",
           "cost": [
             [
               {
@@ -81434,7 +81434,7 @@
       ]
     },
     "char_4141_marcil": {
-      "cnOnly": true,
+      "cnOnly": false,
       "name": "Marcille",
       "profession": "Caster",
       "rarity": "TIER_6",
@@ -81552,7 +81552,7 @@
         {
           "id": "skchr_marcil_1",
           "icon": "skchr_marcil_1",
-          "name": "才女的实力",
+          "name": "A Top Student's Abilities",
           "masteryCosts": [
             [
               {
@@ -81601,7 +81601,7 @@
         {
           "id": "skchr_marcil_2",
           "icon": "skchr_marcil_2",
-          "name": "召唤使魔",
+          "name": "Summon Familiar",
           "masteryCosts": [
             [
               {
@@ -81650,7 +81650,7 @@
         {
           "id": "skchr_marcil_3",
           "icon": "skchr_marcil_3",
-          "name": "爆破魔法",
+          "name": "Explosion Magic",
           "masteryCosts": [
             [
               {
@@ -81700,12 +81700,12 @@
       "modules": [
         {
           "id": "uniequip_002_marcil",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "SPC",
           "type": "Y",
           "icon": "uniequip_002_marcil",
-          "description": "玛露西尔的读书笔记\n我旁听了几节源石技艺课，他们这里被称为“源石技艺”的魔法会分成很多种流派，我的爆炸魔法属于“塑能转换系”。天火在课堂上做展示时，学生们提议看看我们二人魔法的区别，演示后我闻到了烤肉的香气，休息的时候他们分给了我一串，还让我不要告诉天火——但我觉得她是知道的，因为她周围的温度又上升了。而且那天有点冷，薄绿问我要不要一起抱着天火。确实很暖和，但后来就有些烫了！\n使魔召唤术算是“塑形重构系”，解释为可以依靠源石能量改变物质原本的结构。学生们很兴奋地想让我的使魔和泥岩的岩石巨像进行一场拔河赛——我们都拒绝了，但一位学生提出了一种叫做“斗兽场”的游戏，不是比拼蛮力，而是魔法师智慧和技巧的对决——这我们没法拒绝。最终我们在课堂上找来了一个盒子，制作了小巧的使魔和“岩石兽”。\n......\n不过我课后听他们聊天，炎国的龙门总督是一个非常英俊的人，他的妻子还是邻国的公主，不仅会骑机车，还有一个贴身的忍者侍女！他们能走到一起一定经历了种种挫折，两人的爱情介于政治的夹缝之间。家主派出忍者看押公主，忍者原本冷面冷心奉命行事，没想到被总督与公主的爱情所打动，不惜牺牲自己也要成全他们。最终，在一个漆黑的夜晚，总督一人一剑杀出一条血路，找到了关着公主的房间，公主带着总督飞身坐上了自己的机车，二人甩开了身后的追兵，消失在夜色之中。忍者因奋力掩护身负重伤，看着他们离开的背影，露出了满足的微笑，闭上了双眼......啊啊，一定是这样！当然啦，总督和公主一定会回去救忍者的！\n小摊还有卖讲他们爱情故事的书，下次去看看！\n......\n一开始只是想读读看，没想到......我一定要把他们的人物形象都记下来！\n魏彦吾：他是炎国真龙的哥哥，手持一柄赤红长剑，却没想到第一眼就爱上了来自异国的她。\n文月：她是东国的公主，恣意不拘，决意掌握住自己的人生。\n白雪：忠诚的忍者，为了公主愿意做任何事。\n除了那些理论书，一定要把这本小说也带给法琳！她一定会喜欢的！",
-          "name": "才女的藏书",
+          "description": "From Marcille's reading notes...\nI sat in on some 'Originium Arts' lectures. It's what they call magic here, and there are several different schools of it—my explosion magic falls under the School of Evocation. When it was Skyfire's turn to demonstrate, the class suggested we compare the differences between our magic. Afterwards, I caught the whiff of barbecue—they shared a skewer with me and made me swear not to tell Skyfire. I think she knew anyway, because the temperature around her shot up noticeably. Not to mention, it was cold that day, to the point Mint invited me to tag-team hug Skyfire. She was wonderfully warm at first, but quickly got a little too toasty!\nFamiliar summoning falls under the School of Transmutation, which is where Originium energy is used to alter something's physical composition. The class was dying to see my familiars against Mudrock's Colossi in a tug-of-war, which we refused. However, someone mentioned a game called 'beast arenas', which aren't contests of brute strength, but a magician's wisdom and skill—now this we couldn't refuse. After eventually bringing a box into the room, we made our miniature familiar and 'rockbeast' respectively. Still, Mudrock didn't even need to lift a finger to control hers! I worked my butt off trying to win!\n......\nWhile listening to them chat after class, I discovered that Yan's Chief of Lungmen is reputedly extremely handsome, and his wife is the princess of a neighboring country. Not only does she ride motorbikes, but she also has a personal ninja maid! With love blossoming amidst the intricacies of politics, they must have faced countless challenges to be together. The family head even dispatched a ninja to capture the princess. The sight of the chief and the princess together in love moved the stoic and loyal ninja, prompting her to aid them, even if it meant sacrificing herself. On a dark and stormy night, the chief carved a bloody path with his sword to reach the captive princess's chambers. They dashed to her motorbike and screeched away from their pursuers into the night. The ninja, gravely injured while covering for them, faintly smiled as she watched them ride away and then closed her eyes... There's no doubt about it—that's exactly how it happened! And obviously, the chief and the princess went back later to save the ninja!\nI know the bookstall here has a tale of their love in stock. I'm going to get my hands on it!\n......\nI was only expecting a casual read. I had no idea of the truth... I'm noting down their profiles while I can!\nWei Yenwu: The elder brother of Yan's Lung. Carries a red longsword on him. No one expected he'd fall in love at first sight with a foreign lady.\nFumizuki: The Princess of Higashi. A free soul determined to rule her own life.\nShirayuki: Loyal ninja. Would do anything for her princess.\nI'm bringing Falin this novel along with all the books on Arts theory! I just know she'll love it!",
+          "name": "Book Collection of the Best Magician",
           "cost": [
             [
               {
@@ -81762,7 +81762,7 @@
       ]
     },
     "char_4142_laios": {
-      "cnOnly": true,
+      "cnOnly": false,
       "name": "Laios",
       "profession": "Guard",
       "rarity": "TIER_5",
@@ -81872,7 +81872,7 @@
         {
           "id": "skchr_laios_1",
           "icon": "skchr_laios_1",
-          "name": "胆小剑助",
+          "name": "Cowardly Kensuke",
           "masteryCosts": [
             [
               {
@@ -81921,7 +81921,7 @@
         {
           "id": "skchr_laios_2",
           "icon": "skchr_laios_2",
-          "name": "威吓战法",
+          "name": "Intimidation Tactics",
           "masteryCosts": [
             [
               {
@@ -81971,12 +81971,12 @@
       "modules": [
         {
           "id": "uniequip_002_laios",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "DRE",
           "type": "Y",
           "icon": "uniequip_002_laios",
-          "description": "莱欧斯在寻找罗德岛的路途中一直都在偷偷搜集各种材料，准备带回迷宫，尝试继续研究其中的奥妙。\n \n威吓身法图。莱欧斯手绘的一套战斗时可以使用的身法图，分别是模仿钳兽（用双手模拟钳子进行威慑）和模仿源石虫（拱起身体、用手模拟刺），钳兽身法图旁边还有一行小字：似乎会被公钳兽认为是求偶。\nMon3tr素描。莱欧斯手绘的Mon3tr多视图，画功很好，但不知为何极其细致地描绘了腹部和爪子，仿佛他曾被Mon3tr抓起来，近距离观察过它一样。旁边还有一行小字：真的好酷！\n一根羽毛。经由祖玛玛确认，这是大祭司的羽毛。大祭司已经向罗德岛申请了人身安全保护令，但很多干员都反映经常看到大祭司在莱欧斯常经过的路上等着，还会停在他的头上。人事干员怀疑大祭司其实乐在其中。\n各色种子。内有萨米闭口栗种子（P.S. 玛露西尔变安静了）、雷姆必拓瓶树果实（P.S. 能不能在树干里游泳？）、伊比利亚海草根（P.S. 舌头麻麻的）等。一旁的便签上还画着一只会走路的蘑菇，长着......源石虫的脑袋？\n养在瓶中的恐鱼。一小尾养在瓶子中的恐鱼。莱欧斯会时不时放入一些食物测试它是否会吃，并试图观察它究竟是如何在极短的时间内变成全新的样子。很可惜这尾恐鱼一直没发生什么变化，莱欧斯对此十分伤心。\n \n莱欧斯已经在盔甲内找到一个合适的地方可以贴身保存这些珍贵的物品，但很可惜，恐鱼在一次喂食中被玛露西尔发现了，她还连带着发现了其他的东西，最后这个包裹被玛露西尔勒令处理掉。\n据目击干员描述，莱欧斯当时“像一只发现一整年的存粮被雨打湿了的鼷兽”，低着头，独自消失在走廊尽头。他担心发生了什么事情，联系人事部反映了当天的情况，我们最终在罗德岛普通走廊的普通垃圾桶里发现了恐鱼。\n对此，人事部的结论是玛露西尔的安全意识值得表扬，但需要立刻、马上对莱欧斯进行安全培训。",
-          "name": "想要带回迷宫的包裹",
+          "description": "All along his search for Rhodes Island, Laios has been quietly gathering odds and ends in anticipation of his return to the dungeon, where he might continue studying their wonders.\n \nINTIMIDATION POSES. A set of hand-drawn how-tos by Laios for use in combat, one for the mock-gloompincer (imitate mandibles with the arms as a deterrent) and one for the mock-Originium slug (arch the body and imitate pricking with the hands). The gloompincer chart also has a small annotation to the side: 'could be interpreted by male gloompincers as a mating ritual.'\nSKETCH OF MON3TR. Multiple hand-drawn sketches of Mon3tr from different angles by Laios. Finely rendered, but the abdomen and claws are given a jarring level of detail, possibly suggesting he had the chance to observe up close while being grabbed by Mon3tr. Small annotation to the side: 'so cool!'\nA FEATHER. Confirmed by Zumama to be from the High Priest, who has filed with Rhodes Island for a restraining order. Nevertheless, countless operators report seeing the High Priest waiting in areas Laios frequents, and even perching on his head. HR operators suspect the High Priest may actually be enjoying the attention.\nSEEDS. Sami silencing chestnut seeds (P.S. works on Marcille), Rim Billitonian bottletree fruit (P.S. is swimming in the tree trunk possible?), Iberian seagrass roots (P.S. tongue numb after taste), etc. Doodle on a note to the side of a walking mushroom, with... the head of an Originium slug?\nSEA TERROR IN A BOTTLE. A small Sea Terror kept in a bottle. Laios occasionally feeds it different things to test what it eats, and observes how it is able to change form in such a short time. Unfortunately, this one hasn't demonstrated even the slightest metamorphosis, which has more than saddened Laios.\n \nLaios had a spot in his armor where he could nestle these items safe and sound, but in a tragic turn of events, Marcille spotted his Sea Terror during feeding time, and then everything else too, ending in the forcible disposal of the entire bundle by her hands.\nOperators at the scene report that Laios was 'like a hoarding musbeast who had a year's worth of food soaked by rain,' and simply walked away down the corridor with his head hung low. He contacted HR and relayed the day's events out of concern for the repercussions, following which we discovered the Sea Terror in a standard wastebin in an ordinary Rhodes Island hallway.\nPursuant to this, HR has elected to commend Marcille for her safety awareness, and to act on an immediate and pressing need to put Laios through safety training.",
+          "name": "Trophies to Bring Back to the Dungeon",
           "cost": [
             [
               {
@@ -82033,7 +82033,7 @@
       ]
     },
     "char_4143_sensi": {
-      "cnOnly": true,
+      "cnOnly": false,
       "name": "Senshi",
       "profession": "Defender",
       "rarity": "TIER_5",
@@ -82143,7 +82143,7 @@
         {
           "id": "skchr_sensi_1",
           "icon": "skchr_sensi_1",
-          "name": "单人份料理",
+          "name": "A Meal For One",
           "masteryCosts": [
             [
               {
@@ -82192,7 +82192,7 @@
         {
           "id": "skchr_sensi_2",
           "icon": "skchr_sensi_2",
-          "name": "团体魔物大餐",
+          "name": "Monster Meals For Many",
           "masteryCosts": [
             [
               {
@@ -82242,12 +82242,12 @@
       "modules": [
         {
           "id": "uniequip_002_sensi",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "GUA",
           "type": "Y",
           "icon": "uniequip_002_sensi",
-          "description": "“森西，我把想给你看的东西都带来了，在这里！”\n“这......袋子好像一碰就会破掉，你没有别的袋子了吗？”\n“奇奇怪怪的东西太多了，我只有这个袋子能装得下。”\n“这些你一定要带给我的道具有这么神奇吗？”\n“别小瞧了这些道具啊，这可都是我精挑细选出来的。你看这个锅，这可是只需要在加入食材后按下按钮就可以自动烹饪的厨具。”\n“你是说，按下这个按钮之后什么都不用做，料理就会自己做好？”\n“没错，正是。”\n“连生火都不需要？”\n“不需要生火。我记得，它是靠源石科技来烹饪的。”\n“源石科技？”\n“比如说选择炖煮模式之后，料理锅中的源石回路收到信号开始工作，关闭空气阀，然后加热元件开始发热，水蒸气增多使锅里的气压升高......我也不懂是什么意思，都是听说的。”\n“源石回路......”\n“在气压比较高的环境里，水的沸点也会更高，食物因此更容易煮好，原本需要炖煮比较久的料理，也可以在较短的时间内做好。料理锅的说明书上是这样说的。”\n“气压......沸点......”\n“调味的话，这边还有许多不同口味的压缩调料包，咖喱味、辣味、肉酱味的，一应俱全。在锅内放入食材的同时，将相应分量的调料包一起放进去。按下按钮后，等到提示音响起，料理就做好了。”\n“压缩调料包......”\n“这些调味料要么是从食物中萃取的，要么是根据物质结构直接合成的。有这些调味料助力，就算是没怎么下过厨的人，也可以做出相当美味的菜肴。”\n“物质......合成......”\n“森西，有什么问题吗？”\n“莱欧斯，你从什么时候开始研究烹饪魔法了？”\n“什......什么？”\n“我之前说过，习惯了使用特殊的、偷懒的料理方法后，在不能使用魔法的地方就会遇到麻烦。这在迷宫内是非常危险的！”\n“那你为什么一边说这样的话，还一边把它们收起来？”\n“老夫只是想先研究一下这些厨具。虽然老夫不认同利用魔法手段烹饪，但是这些厨具无疑都是泰拉人的生活必需品。通过它们老夫可以好好了解了解泰拉。\n“寒冷地方的人们会使用密封性更好更保温的容器，炎热地方的人们会使用散热性能更好更透气更耐清洗的容器。\n“只有了解了当地人的生活，才能因地制宜地准备适合当地人的饮食。\n“就像在迷宫里面一样，不是吗？”",
-          "name": "非魔法厨艺",
+          "description": "'Senshi, I've got the thing I wanted to show you!'\n'Laddie... your knapsack looks fit to burst. Don't you have any others?'\n'None big enough to hold any of this stuff. It's all so strange, haha.'\n'That fascinating, is it? This cookware you wanted me to see.'\n'Just wait until you see it! I picked out the perfect one, if I say so myself. Here, it's a cooking pot. All you do is put the ingredients in, press the button, and it automatically cooks it for you.'\n'Come again? You press this button, nothing else, and the food makes itself?'\n'Yep, exactly.'\n'Don't even need a fire?'\n'Nope. If I remember right, it uses Originium technology for the cooking.'\n'Originium technology?'\n'Like, you pick a cooking method, and that signals the Originium circuits inside the pot to start working, so the air valve closes, and the element heats up, so steam builds inside the pot and raises pressure... I'm not sure what it all implies, though. I just heard that was how it worked.'\n'Originium circuits...'\n'With higher atmospheric pressures, the boiling point of water increases. This elevation in boiling point facilitates quicker cooking times. As a result, recipes that previously required extended stewing periods can now be completed in relatively shorter durations. That's what the manual says.'\n'Atmospheric... boiling points...'\n'For seasoning, there are all sorts of different packets with concentrated seasoning. Curry, chili, bolognese, the works. All you have to do is put the right amount in along with your ingredients. Press the button, wait until the alert sounds, and it's done.'\n'Concentrated seasoning...'\n'It's either extracted from the foods, or directly synthesized based on their compositions. With these helpers, even people who've hardly used a kitchen before can make some pretty delicious dishes.'\n'Synthesized... composition...'\n'Senshi, what's the matter?'\n'Laios, when did you start learning culinary magic?'\n'Wh... what?'\n'This sounds like nothing but magic to me! I've been telling you how those wizarding elves and gnomes end up too complacent and lazy from cooking with their magic! You know how dangerous that is in the dungeon!'\n'You say that, but why are you taking the pot anyway?'\n'I only wish to study it. Although I don't approve of cooking with magic, I can be sure of one thing: this type of cookware is essential to the Terran way of life. It's something I can learn more about Terra through.\n'In colder places, folks tend to store food in containers with better insulation. In hot places, people prefer those that cool off faster, are more breathable, and easier to wash.\n'You have to learn the lives of the locals to prepare the food that they enjoy.\n'Just like in the dungeon, aye?'",
+          "name": "Non-Magical Culinary Arts",
           "cost": [
             [
               {
@@ -82304,7 +82304,7 @@
       ]
     },
     "char_4144_chilc": {
-      "cnOnly": true,
+      "cnOnly": false,
       "name": "Chilchuck",
       "profession": "Vanguard",
       "rarity": "TIER_5",
@@ -82414,7 +82414,7 @@
         {
           "id": "skchr_chilc_1",
           "icon": "skchr_chilc_1",
-          "name": "开锁工具",
+          "name": "Lockpicks",
           "masteryCosts": [
             [
               {
@@ -82463,7 +82463,7 @@
         {
           "id": "skchr_chilc_2",
           "icon": "skchr_chilc_2",
-          "name": "随机应变",
+          "name": "Improvisation",
           "masteryCosts": [
             [
               {
@@ -82513,12 +82513,12 @@
       "modules": [
         {
           "id": "uniequip_002_chilc",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "AGE",
           "type": "X",
           "icon": "uniequip_002_chilc",
-          "description": "某日，在阿卡胡拉丛林边缘一家只出售二十年以上陈酿的杜林酒吧内......\n“听说了吗，昨天烈酒协会的机库那边出事了。”\n“那肯定，我还在现场呢。这一次比上一次闹得还要大，杜林保护协会又是好一阵忙活。”\n“我记得上一次是那台自走机械的控制芯片被香槟给泡了，这一次又是怎么回事？”\n“这一次是麦酒。”\n“啊？怎么又是酒？”\n“你去过他们的机库吗？他们的酒也全堆在那里，东一桶西一瓶的到处乱扔，不出问题才怪呢。”\n“唉，他们真是不长记性！上次制服‘烈酒金刚’花了不少功夫，这次怎么办？”\n“这次烈酒协会本想自己去制服‘烈酒金刚’，结果呢，他们的工程师，有一个算一个，现在全部在医院躺着呢。”\n“这么惨烈啊......那烈酒协会只能请外援了吧？”\n“还得算他们运气好，刚发公告，就有高手出面解决了。”\n“高手？说来听听？”\n“是个没见过的外地人，比你还矮一头，自称是个解除机关陷阱的专家。刚开始大家以为他是其他地方来的工程师，但他偏要强调自己不是什么工程师而是冒险者，正在我们这边筹集补给，要回什么迷宫去。烈酒协会的人觉得他是喝多了在说胡话，但还是决定让他试试。双方一谈妥，他一溜烟就进机库里去了，身手灵活得很。”\n“但是‘烈酒金刚’不是什么机关陷阱啊？”\n“讨生活的手艺都是相通的嘛。等我到的时候，机库已经重新开放了，‘烈酒金刚’被那个外地人拆了个七零八落。”\n“他们总能遇到这样的高手——那问题不是解决了吗，怎么今天一整天都没看到烈酒协会的人？”\n“事情解决后，按他们之前说好的，烈酒协会用机库里堆着的麦酒作为给那个外地人的报酬。但是遇到个懂酒的，烈酒协会那些人哪忍得住，马上拉着对方开始大搞庆功宴。”\n“......结果呢？”\n“没想到那外地人一边说着自己的酒量不怎么样，一边还喝了不少呢。”",
-          "name": "原版开锁工具",
+          "description": "One day, in a Durin bar near the Acahuallan jungle, where every vintage boasts at least a quarter-century...\n'Hear the news? Apparently the Liquor Association had an accident at the hangar yesterday.'\n'Don't need to hear it, I was there! They made a worse ruckus than last time. Three cheers once more to the poor old Terran Society For The Protection of Durin People!'\n'Last time some idiot gave an automaton a champagne bubble bath and hit a control chip, right? What happened this time?'\n'Ale.'\n'Really? It's the booze again?'\n'Have you been to their hangar? They keep their entire stockpile of booze there, emphasis on the pile. Barrels and bottles all over. I'd be suspicious if nothing went wrong!'\n'Too true. And they never learn! It was a nightmare to subdue the Spirit of Liquor last time! Well, what about this time?'\n'The Association wanted to rein it in themselves, so they threw every engineer they had at it... and they're all proudly hospitalized now.'\n'Brutal... So they had to call for help again?'\n'Funny luck, actually. The moment they made the call, an expert came to them and solved it.'\n'Expert? Go on?'\n'Foreigner, complete stranger, 'bout a head shorter than you. Says he's some kinda specialist at disarming mechanical traps. At first, everyone thought he was an engineer from somewhere else, but no, he made it clear he's not. Claims he's an adventurer, just gathering supplies nearby before heading back to some dungeon. The Association thought he was drunk off his rocker, but hey, let him have a go if he wants, right? So they shake hands, and the moment they let go he's vanished into the hangar. Next thing you know, he's working his magic like a pro.'\n'Hold on, Spirit of Liquor's a deathtrap, sure, but it's not like a trap-trap, is it?'\n'Suppose it's all the same if you're good enough. By the time I got there, the hangar was back out of lockdown. He'd disassembled the machine so thoroughly, the place was a sea of parts.'\n'Trust them to get a dab hand like him—Wait, that means the problem's been solved, right? So why haven't I seen anyone from the Association all day?'\n'Problem solved meant the Association compensated him from their stash of ale like they agreed on. But you know how they are when they find someone who truly appreciates the brew. They threw a grand feast and made the foreigner their honored guest.'\n'...And?'\n'You wouldn't believe the liver on that foreigner. The little quarter-pint drank the entire Association under the table!'",
+          "name": "Authentic Locksmith's Instruments",
           "cost": [
             [
               {
@@ -82841,12 +82841,12 @@
       "modules": [
         {
           "id": "uniequip_002_ulpia",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "CRU",
           "type": "X",
           "icon": "uniequip_002_ulpia",
-          "description": "“劳伦缇娜，今天的衣服也很美。”布兰都斯的声音透过隔间的玻璃传来。劳伦缇娜转头一笑，翩跹着离开实验室时还留下了一句感谢。另一边，西昆妲猛地从文件架后面站起身来，唐突地盯住乌尔比安的背影。\n“老师，我有私人问题想问。”片晌之后，西昆妲还是坚决地说出了口。\n“问。”乌尔比安没有回头。\n“您为什么一直在穿一模一样的衣服？从我认识您的那天起就一直是这样了。”\n“其实从学生时代起就差不多是这样了，这些年他换过的衣服我一只手就能数得过来，而且还都是一个风格，一件比一件裹得严实。不过我建议你最好别太好奇。”布兰都斯插嘴道。\n“问错了。”乌尔比安依然没有回头，他的声音冰冷而坚硬。\n“知道了！”西昆妲清脆地答道，快步走出了实验室。\n二十分钟后，西昆妲重新出现在实验室门口。\n“老师，我重新提问，您为什么在交替着穿几十件外观上一模一样，但是用材、工艺、重量、质感都有微小区别的衣服？”\n“还是问得不够严谨。”乌尔比安迅速地瞥了一眼伫立门边的西昆妲，又重新埋头整理起堆积如山的海嗣组织标本。\n又二十分钟过去，西昆妲再一次出现在实验室门口，手中的笔在速记装置上划出刺耳的锐响。\n“老师，我比对了您每件衣服的区别和您各项身体数据的变化，发现了基本的对应关系。考虑到作战服对猎人的肢体动作有协调作用，我初步假设，您是在通过改变衣着的细节，来配合身体状态的变化，确保自己不论在何种情况下都能对身体保持最佳的操控。”\n片刻的沉默，乌尔比安不易察觉地动了动耳朵，似乎在示意西昆妲继续说下去。\n“但是，老师，按照这种假设推演的结果存在一定程度的缺漏。是否还存在另一种影响您衣着选择的变量？”\n“确实如此，西昆妲。”乌尔比安终于转过身来，“你没有发现我每次出战前所作的曲子与所选的衣服存在对应关系。但这些曲子从没有以书面形式被记录下来过，你没想到也情有可原。”\n“您的意思是，另一种变量是......”\n“我当时的思绪。”\n“等等！”不知何时，布兰都斯已经从隔间里钻了出来，“乌尔比安，你当时给我解释的时候可完全不是这么说的！你说是因为你不想引起——”\n“理由总是可以有很多，布兰都斯。”乌尔比安斩钉截铁地打断了他，“我告诉你的，是你需要知道的，告诉她的，是她需要知道的，仅此而已。”",
-          "name": "乌尔比安的衣橱",
+          "description": "'Laurentina, your outfit looks lovely today,' Blandus's voice comes through the glass of the partition. Laurentina turns with a smile and offers a quick 'thank you' as she gracefully leaves the lab. On the other side, Secunda suddenly stands up from behind the file shelf, staring intently at Ulpianus's back.\nAfter a moment's hesitation, she speaks resolutely. 'Professor, I have a personal question.'\n'Ask.' Ulpianus doesn't turn around.\n'Why do you always wear the same clothes? You've been dressed like that since the day I met you.'\n'Frankly, he's been dressing like that since he was a student. He's hardly changed his outfits at all over the years as I remember, and they always follow the same style, each more buttoned-up than the last. But I'd rather discourage such idle curiosity,' Blandus chimes in.\n'Wrong question.' Ulpianus still doesn't turn around, his voice cold and firm.\n'Understood!' Secunda answers brightly as she quickly leaves the lab.\nTwenty minutes later, she reappears at the door.\n'Professor, let me rephrase my question. Why do you rotate between dozens of outfits that look identical but differ slightly in material, craftsmanship, weight, and texture?'\n'Still imprecise,' Ulpianus says, casting a quick glance at her before returning to his work sorting the mountain of Seaborn specimens.\nAnother twenty minutes pass, and Secunda appears again at the lab entrance, pen in hand.\n'Professor, I've compared the differences in your outfits and analyzed the changes in your physical metrics, and I've found a preliminary correlation. Considering that combat gear aids Hunters in coordinating bodily movements, I hypothesize that you adjust details in your attire to match changes in your physical state, ensuring optimal control over your body in all conditions.'\nAfter a brief silence, Ulpianus's ear moves slightly, as if signaling her to continue.\n'However, this hypothesis leaves some gaps. Is there another variable influencing your choice of attire?'\n'Indeed, Secunda.' Ulpianus finally turns around. 'You haven't noticed the correlation between the songs I compose pre-battle and my chosen outfit, but as those compositions have never been recorded, it's understandable you didn't realize this.'\n'You mean, the other variable is...'\n'My thoughts at the time.'\n'Hold on!' At some point, Blandus had emerged from the partition. 'Ulpianus, that's not what you said when you explained it to me! You said it was because you didn't want to attract—'\n'There are always more than one reason, Blandus.' Ulpianus cuts him off. 'What I told you was what you needed to know, and what I told her was what she needed to know. Nothing more.'",
+          "name": "Vestiarium Ulpiani",
           "cost": [
             [
               {
@@ -101439,7 +101439,7 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act23side_03",
+          "stageId": "act23side_02",
           "occPer": "USUAL"
         },
         {
@@ -101483,11 +101483,11 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act20side_01",
-          "occPer": "USUAL"
+          "stageId": "act10mini_04",
+          "occPer": "ALMOST"
         },
         {
-          "stageId": "act19side_02",
+          "stageId": "act20side_01",
           "occPer": "USUAL"
         },
         {
@@ -101527,15 +101527,19 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act10mini_04",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act15side_01",
+          "stageId": "act22side_02",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act15side_02",
+          "stageId": "act19side_02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act22side_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act15side_01",
           "occPer": "USUAL"
         },
         {
@@ -101583,7 +101587,7 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act22side_02",
+          "stageId": "act15side_02",
           "occPer": "USUAL"
         },
         {
@@ -101635,7 +101639,7 @@
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act22side_01",
+          "stageId": "act23side_03",
           "occPer": "USUAL"
         },
         {
@@ -101643,11 +101647,7 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act23side_02",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act30side_01",
+          "stageId": "act23side_01",
           "occPer": "USUAL"
         },
         {
@@ -101691,11 +101691,11 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act33side_01",
+          "stageId": "act30side_01",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act34side_02",
+          "stageId": "act33side_01",
           "occPer": "USUAL"
         },
         {
@@ -101731,7 +101731,15 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act30side_02",
+          "stageId": "act36side_02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act36side_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act34side_02",
           "occPer": "USUAL"
         },
         {
@@ -101739,15 +101747,11 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act30side_03",
+          "stageId": "act30side_02",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act29side_02",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act23side_01",
+          "stageId": "act29side_01",
           "occPer": "USUAL"
         },
         {
@@ -101787,15 +101791,15 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act29side_01",
-          "occPer": "USUAL"
-        },
-        {
           "stageId": "act26side_01",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act27side_02",
+          "stageId": "act30side_03",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act27side_03",
           "occPer": "USUAL"
         },
         {
@@ -101835,7 +101839,11 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act27side_03",
+          "stageId": "act29side_02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act27side_02",
           "occPer": "USUAL"
         },
         {
@@ -101860,6 +101868,10 @@
       "stageDropList": [
         {
           "stageId": "act14mini_06",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act20side_05",
           "occPer": "ALWAYS"
         },
         {
@@ -101895,11 +101907,11 @@
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act20side_05",
-          "occPer": "ALWAYS"
+          "stageId": "act18d3_06",
+          "occPer": "ALMOST"
         },
         {
-          "stageId": "act18d3_06",
+          "stageId": "act18d0_04",
           "occPer": "ALMOST"
         },
         {
@@ -101935,27 +101947,31 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act18d0_04",
-          "occPer": "ALMOST"
-        },
-        {
           "stageId": "act20side_03",
           "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act11d0_04",
+          "occPer": "ALMOST"
         },
         {
           "stageId": "act6d5_03",
           "occPer": "ALWAYS"
         },
         {
+          "stageId": "act15mini_05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act36side_03",
+          "occPer": "ALMOST"
+        },
+        {
           "stageId": "act25side_06",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act17mini_05",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act11d0_04",
+          "stageId": "act35side_06",
           "occPer": "ALMOST"
         },
         {
@@ -101967,11 +101983,11 @@
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act32side_03",
-          "occPer": "ALMOST"
+          "stageId": "act17mini_05",
+          "occPer": "ALWAYS"
         },
         {
-          "stageId": "act35side_06",
+          "stageId": "act31side_05",
           "occPer": "ALMOST"
         },
         {
@@ -101991,11 +102007,7 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act15mini_05",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "act31side_05",
+          "stageId": "act32side_03",
           "occPer": "ALMOST"
         },
         {
@@ -102256,7 +102268,7 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act23side_03",
+          "stageId": "act23side_02",
           "occPer": "OFTEN"
         },
         {
@@ -102300,11 +102312,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act19side_02",
-          "occPer": "OFTEN"
+          "stageId": "act10mini_03",
+          "occPer": "USUAL"
         },
         {
-          "stageId": "act19side_01",
+          "stageId": "act19side_02",
           "occPer": "OFTEN"
         },
         {
@@ -102344,16 +102356,20 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act10mini_03",
-          "occPer": "USUAL"
+          "stageId": "act22side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act19side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act23side_03",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act10mini_04",
           "occPer": "USUAL"
-        },
-        {
-          "stageId": "act15side_01",
-          "occPer": "OFTEN"
         },
         {
           "stageId": "act15side_02",
@@ -102400,7 +102416,7 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act22side_01",
+          "stageId": "act15side_01",
           "occPer": "OFTEN"
         },
         {
@@ -102460,15 +102476,7 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act23side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act30side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act16mini_04",
+          "stageId": "act14mini_04",
           "occPer": "USUAL"
         },
         {
@@ -102548,24 +102556,28 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act30side_02",
+          "stageId": "act36side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act23side_02",
+          "stageId": "act36side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act16mini_04",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act23side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act30side_01",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act30side_03",
           "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act29side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act14mini_04",
-          "occPer": "USUAL"
         },
         {
           "stageId": "act14mini_03",
@@ -102600,19 +102612,19 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act29side_01",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act26side_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act27side_02",
+          "stageId": "act27side_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act27side_01",
+          "stageId": "act30side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act27side_02",
           "occPer": "OFTEN"
         },
         {
@@ -102648,7 +102660,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act27side_03",
+          "stageId": "act29side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act29side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act27side_01",
           "occPer": "OFTEN"
         },
         {
@@ -102673,6 +102693,10 @@
       "stageDropList": [
         {
           "stageId": "act13mini_06",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act20side_04",
           "occPer": "ALWAYS"
         },
         {
@@ -102704,12 +102728,12 @@
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act7mini_02",
-          "occPer": "ALMOST"
+          "stageId": "act19side_04",
+          "occPer": "ALWAYS"
         },
         {
-          "stageId": "act18d3_03",
-          "occPer": "ALWAYS"
+          "stageId": "act7mini_02",
+          "occPer": "ALMOST"
         },
         {
           "stageId": "act18d3_05",
@@ -102744,11 +102768,11 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act20side_04",
+          "stageId": "act18d3_03",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act19side_04",
+          "stageId": "act6d5_04",
           "occPer": "ALWAYS"
         },
         {
@@ -102756,11 +102780,15 @@
           "occPer": "USUAL"
         },
         {
+          "stageId": "act23side_06",
+          "occPer": "USUAL"
+        },
+        {
           "stageId": "act22side_03",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act6d5_04",
+          "stageId": "act35side_06",
           "occPer": "ALWAYS"
         },
         {
@@ -102776,12 +102804,12 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act29side_06",
+          "stageId": "act36side_04",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act35side_06",
-          "occPer": "ALWAYS"
+          "stageId": "act27side_04",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act26side_05",
@@ -102796,11 +102824,7 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act23side_06",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act27side_04",
+          "stageId": "act29side_06",
           "occPer": "USUAL"
         },
         {
@@ -103079,8 +103103,8 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act23side_01",
-          "occPer": "OFTEN"
+          "stageId": "act14mini_04",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act16side_02",
@@ -103119,12 +103143,12 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act16side_03",
+          "stageId": "act19side_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act19side_01",
-          "occPer": "OFTEN"
+          "stageId": "act12mini_04",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act12mini_03",
@@ -103163,15 +103187,19 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act12mini_04",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act10mini_01",
+          "stageId": "act23side_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act10mini_02",
+          "stageId": "act16side_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act23side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act10mini_01",
           "occPer": "OFTEN"
         },
         {
@@ -103263,11 +103291,11 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act23side_03",
+          "stageId": "act10mini_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act23side_02",
+          "stageId": "act23side_01",
           "occPer": "OFTEN"
         },
         {
@@ -103275,11 +103303,7 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act14mini_04",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act16mini_04",
+          "stageId": "act14mini_03",
           "occPer": "USUAL"
         },
         {
@@ -103315,11 +103339,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act30side_01",
+          "stageId": "act33side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act33side_02",
+          "stageId": "act33side_01",
           "occPer": "OFTEN"
         },
         {
@@ -103359,24 +103383,28 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act33side_01",
+          "stageId": "act36side_02",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act36side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act16mini_04",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act6d5_01",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act30side_02",
+          "stageId": "act30side_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act29side_01",
+          "stageId": "act30side_03",
           "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act14mini_03",
-          "occPer": "USUAL"
         },
         {
           "stageId": "act14mini_02",
@@ -103411,15 +103439,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act30side_03",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act27side_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act27side_01",
+          "stageId": "act30side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act27side_02",
           "occPer": "OFTEN"
         },
         {
@@ -103459,7 +103487,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act27side_02",
+          "stageId": "act29side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act27side_01",
           "occPer": "OFTEN"
         },
         {
@@ -103483,7 +103515,7 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act26side_04",
+          "stageId": "act27side_04",
           "occPer": "ALWAYS"
         },
         {
@@ -103551,7 +103583,7 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act7d5_03",
+          "stageId": "act26side_04",
           "occPer": "ALWAYS"
         },
         {
@@ -103563,7 +103595,11 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act27side_04",
+          "stageId": "act7d5_03",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act35side_04",
           "occPer": "ALWAYS"
         },
         {
@@ -103575,11 +103611,11 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act32side_04",
+          "stageId": "act36side_03",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act35side_04",
+          "stageId": "act31side_06",
           "occPer": "ALWAYS"
         },
         {
@@ -103595,7 +103631,7 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act31side_06",
+          "stageId": "act32side_04",
           "occPer": "ALWAYS"
         },
         {
@@ -103658,8 +103694,8 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act4d0_05",
-          "occPer": "USUAL"
+          "stageId": "act36side_06",
+          "occPer": "ALMOST"
         },
         {
           "stageId": "act13d5_07",
@@ -103712,6 +103748,10 @@
         {
           "stageId": "act10d5_05",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act4d0_05",
+          "occPer": "USUAL"
         },
         {
           "stageId": "main_02-06",
@@ -103870,7 +103910,7 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act23side_01",
+          "stageId": "act14mini_04",
           "occPer": "OFTEN"
         },
         {
@@ -103910,11 +103950,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act16side_02",
+          "stageId": "act12mini_04",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act12mini_04",
+          "stageId": "act12mini_03",
           "occPer": "OFTEN"
         },
         {
@@ -103954,15 +103994,19 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act12mini_03",
+          "stageId": "act23side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act16side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act23side_01",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act16side_03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act10mini_01",
           "occPer": "OFTEN"
         },
         {
@@ -104054,7 +104098,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act23side_02",
+          "stageId": "act10mini_01",
           "occPer": "OFTEN"
         },
         {
@@ -104066,15 +104110,7 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act14mini_03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act16mini_04",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act16mini_03",
+          "stageId": "act14mini_02",
           "occPer": "OFTEN"
         },
         {
@@ -104106,19 +104142,19 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act30side_01",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act33side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act34side_02",
+          "stageId": "act33side_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act34side_01",
+          "stageId": "act16mini_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act34side_02",
           "occPer": "OFTEN"
         },
         {
@@ -104150,23 +104186,27 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act33side_01",
+          "stageId": "act36side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act14mini_04",
+          "stageId": "act36side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act34side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act14mini_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act16mini_04",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act30side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act29side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act14mini_02",
           "occPer": "OFTEN"
         },
         {
@@ -104202,15 +104242,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act30side_03",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act27side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act15mini_04",
+          "stageId": "act30side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act27side_01",
           "occPer": "OFTEN"
         },
         {
@@ -104246,7 +104286,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act27side_01",
+          "stageId": "act29side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act30side_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act15mini_04",
           "occPer": "OFTEN"
         },
         {
@@ -104271,6 +104319,10 @@
       "stageDropList": [
         {
           "stageId": "act25side_05",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act23side_04",
           "occPer": "ALMOST"
         },
         {
@@ -104302,12 +104354,12 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act13side_06",
+          "stageId": "act25side_07",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act13side_07",
-          "occPer": "USUAL"
+          "stageId": "act13side_06",
+          "occPer": "ALWAYS"
         },
         {
           "stageId": "act18d3_06",
@@ -104342,20 +104394,16 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act23side_04",
-          "occPer": "ALMOST"
+          "stageId": "act13side_07",
+          "occPer": "USUAL"
         },
         {
-          "stageId": "act25side_07",
+          "stageId": "act4d0_04",
           "occPer": "ALWAYS"
         },
         {
           "stageId": "a001_03",
           "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act27side_05",
-          "occPer": "OFTEN"
         },
         {
           "stageId": "act28side_05",
@@ -104390,8 +104438,12 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act4d0_04",
-          "occPer": "ALWAYS"
+          "stageId": "act36side_04",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act27side_05",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "main_02-01",
@@ -104661,11 +104713,7 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act14mini_04",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act16side_02",
+          "stageId": "act14mini_03",
           "occPer": "OFTEN"
         },
         {
@@ -104701,15 +104749,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act16side_03",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act12mini_04",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act12mini_02",
+          "stageId": "act16side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act12mini_03",
           "occPer": "OFTEN"
         },
         {
@@ -104745,11 +104793,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act12mini_03",
+          "stageId": "act23side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act23side_02",
+          "stageId": "act12mini_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act16side_03",
           "occPer": "OFTEN"
         },
         {
@@ -104757,7 +104809,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act10mini_03",
+          "stageId": "act10mini_02",
           "occPer": "OFTEN"
         },
         {
@@ -104797,11 +104849,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act10mini_02",
+          "stageId": "act18d3_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act18d3_01",
+          "stageId": "act13side_03",
           "occPer": "OFTEN"
         },
         {
@@ -104841,7 +104893,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act13side_03",
+          "stageId": "act10mini_03",
           "occPer": "OFTEN"
         },
         {
@@ -104849,19 +104901,15 @@
           "occPer": "OFTEN"
         },
         {
+          "stageId": "act14mini_04",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "act7d5_02",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "act14mini_03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act16mini_04",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act16mini_03",
+          "stageId": "act14mini_02",
           "occPer": "OFTEN"
         },
         {
@@ -104893,19 +104941,19 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act30side_01",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act33side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act34side_02",
+          "stageId": "act33side_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act34side_01",
+          "stageId": "act16mini_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act34side_02",
           "occPer": "OFTEN"
         },
         {
@@ -104937,7 +104985,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act33side_01",
+          "stageId": "act36side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act36side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act34side_01",
           "occPer": "OFTEN"
         },
         {
@@ -104945,15 +105001,11 @@
           "occPer": "USUAL"
         },
         {
+          "stageId": "act16mini_04",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "act30side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act29side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act14mini_02",
           "occPer": "OFTEN"
         },
         {
@@ -104989,15 +105041,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act30side_03",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act27side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act15mini_04",
+          "stageId": "act30side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act27side_01",
           "occPer": "OFTEN"
         },
         {
@@ -105033,7 +105085,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act27side_01",
+          "stageId": "act29side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act30side_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act15mini_04",
           "occPer": "OFTEN"
         },
         {
@@ -105057,7 +105117,7 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act25side_05",
+          "stageId": "act26side_04",
           "occPer": "OFTEN"
         },
         {
@@ -105129,8 +105189,8 @@
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act4d0_03",
-          "occPer": "ALMOST"
+          "stageId": "act25side_05",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "a001_04",
@@ -105169,8 +105229,12 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act26side_04",
-          "occPer": "OFTEN"
+          "stageId": "act36side_05",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act4d0_03",
+          "occPer": "ALMOST"
         },
         {
           "stageId": "sub_02-01",
@@ -105460,7 +105524,7 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act23side_03",
+          "stageId": "act23side_02",
           "occPer": "OFTEN"
         },
         {
@@ -105504,11 +105568,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act19side_02",
+          "stageId": "act10mini_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act19side_01",
+          "stageId": "act19side_02",
           "occPer": "OFTEN"
         },
         {
@@ -105548,15 +105612,19 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act10mini_03",
+          "stageId": "act22side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act19side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act23side_03",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act10mini_04",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act15side_01",
           "occPer": "OFTEN"
         },
         {
@@ -105604,7 +105672,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act22side_01",
+          "stageId": "act15side_01",
           "occPer": "OFTEN"
         },
         {
@@ -105664,15 +105732,7 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act23side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act30side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act16mini_04",
+          "stageId": "act14mini_04",
           "occPer": "OFTEN"
         },
         {
@@ -105752,23 +105812,27 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act30side_02",
+          "stageId": "act36side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act23side_02",
+          "stageId": "act36side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act16mini_04",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act23side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act30side_01",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act30side_03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act29side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act14mini_04",
           "occPer": "OFTEN"
         },
         {
@@ -105804,19 +105868,19 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act29side_01",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act26side_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act27side_02",
+          "stageId": "act27side_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act27side_01",
+          "stageId": "act30side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act27side_02",
           "occPer": "OFTEN"
         },
         {
@@ -105852,7 +105916,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act27side_03",
+          "stageId": "act29side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act29side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act27side_01",
           "occPer": "OFTEN"
         },
         {
@@ -105877,6 +105949,10 @@
       "stageDropList": [
         {
           "stageId": "act23side_06",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act19side_03",
           "occPer": "USUAL"
         },
         {
@@ -105912,11 +105988,11 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act8mini_03",
-          "occPer": "USUAL"
+          "stageId": "act12mini_05",
+          "occPer": "ALMOST"
         },
         {
-          "stageId": "act7mini_03",
+          "stageId": "act8mini_03",
           "occPer": "USUAL"
         },
         {
@@ -105956,23 +106032,27 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act19side_03",
+          "stageId": "act7mini_03",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act12mini_05",
-          "occPer": "ALMOST"
+          "stageId": "act11d0_05",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act6d5_05",
           "occPer": "ALMOST"
         },
         {
+          "stageId": "act25side_07",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "act23side_05",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act11d0_05",
+          "stageId": "act35side_04",
           "occPer": "OFTEN"
         },
         {
@@ -105988,11 +106068,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act16mini_06",
-          "occPer": "ALMOST"
+          "stageId": "act36side_05",
+          "occPer": "OFTEN"
         },
         {
-          "stageId": "act35side_04",
+          "stageId": "act30side_04",
           "occPer": "OFTEN"
         },
         {
@@ -106012,12 +106092,8 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act25side_07",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act30side_04",
-          "occPer": "OFTEN"
+          "stageId": "act16mini_06",
+          "occPer": "ALMOST"
         },
         {
           "stageId": "main_01-12",
@@ -107367,7 +107443,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act16d5_08",
+          "stageId": "act25side_10",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act19side_08",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act14side_06",
           "occPer": "USUAL"
         },
         {
@@ -107375,20 +107459,16 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act14side_06",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act19side_08",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act25side_10",
-          "occPer": "ALMOST"
-        },
-        {
           "stageId": "act32side_07",
           "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act36side_07",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act16d5_08",
+          "occPer": "USUAL"
         },
         {
           "stageId": "main_06-11",
@@ -108116,6 +108196,10 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
+          "stageId": "act36side_08",
+          "occPer": "USUAL"
+        },
+        {
           "stageId": "main_13-04",
           "occPer": "OFTEN"
         },
@@ -108312,6 +108396,126 @@
           "occPer": "ALWAYS"
         },
         {
+          "stageId": "lt_14_04",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_14_05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_14_06",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_14_01_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_14_02_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_14_03_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_14_04_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_14_05_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_14_03",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_14_06_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_15_02",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_15_03",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_15_04",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_15_05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_15_06",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_15_01_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_15_02_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_15_03_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_15_01",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_14_02",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_14_01",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_13_06_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_12_05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_12_06",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_12_01_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_12_02_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_12_03_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_12_04_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_12_05_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_12_06_ex",
+          "occPer": "ALWAYS"
+        },
+        {
           "stageId": "lt_13_01",
           "occPer": "ALWAYS"
         },
@@ -108356,79 +108560,7 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_13_06_ex",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_14_01",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_14_02",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_14_03",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_12_06_ex",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_12_05_ex",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_12_04_ex",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_12_03_ex",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_11_05",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_11_06",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_11_01_ex",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_11_02_ex",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_11_03_ex",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_11_04_ex",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_11_05_ex",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_14_04",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_11_06_ex",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_12_02",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_12_03",
+          "stageId": "lt_15_04_ex",
           "occPer": "ALWAYS"
         },
         {
@@ -108436,35 +108568,23 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_12_05",
+          "stageId": "lt_15_05_ex",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_12_06",
+          "stageId": "lt_16_01",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_12_01_ex",
+          "stageId": "lt_02_05",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_12_02_ex",
+          "stageId": "lt_02_06",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_12_01",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_11_04",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_14_05",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_14_01_ex",
+          "stageId": "lt_02_07",
           "occPer": "ALWAYS"
         },
         {
@@ -108488,11 +108608,11 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_03_05",
+          "stageId": "lt_02_04",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_03_06",
+          "stageId": "lt_03_05",
           "occPer": "ALWAYS"
         },
         {
@@ -108528,39 +108648,63 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_02_07",
+          "stageId": "lt_03_06",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_02_06",
+          "stageId": "lt_02_03",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_02_05",
+          "stageId": "lt_02_02",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_02_04",
+          "stageId": "lt_02_01",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_14_02_ex",
+          "stageId": "lt_16_02",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_14_03_ex",
+          "stageId": "lt_16_03",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_14_04_ex",
+          "stageId": "lt_16_04",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_14_05_ex",
+          "stageId": "lt_16_05",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_14_06_ex",
+          "stageId": "lt_16_06",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_16_01_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_16_02_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_16_03_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_16_04_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_16_05_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_16_06_ex",
           "occPer": "ALWAYS"
         },
         {
@@ -108572,11 +108716,11 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_14_06",
+          "stageId": "lt_01_03",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_01_03",
+          "stageId": "lt_01_04",
           "occPer": "ALWAYS"
         },
         {
@@ -108596,19 +108740,7 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_02_01",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_02_02",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_02_03",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_01_04",
+          "stageId": "lt_15_06_ex",
           "occPer": "ALWAYS"
         },
         {
@@ -108616,23 +108748,11 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_11_03",
+          "stageId": "lt_12_03",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_11_01",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_06_01_ex",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_06_02_ex",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_06_03_ex",
+          "stageId": "lt_12_01",
           "occPer": "ALWAYS"
         },
         {
@@ -108668,11 +108788,11 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_07_06",
+          "stageId": "lt_06_03_ex",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_07_01_ex",
+          "stageId": "lt_07_06",
           "occPer": "ALWAYS"
         },
         {
@@ -108684,19 +108804,43 @@
           "occPer": "ALWAYS"
         },
         {
+          "stageId": "lt_07_04_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_07_05_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_07_06_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_08_01",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_08_02",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_08_03",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_07_01_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_06_02_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_06_01_ex",
+          "occPer": "ALWAYS"
+        },
+        {
           "stageId": "lt_06_06",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_06_05",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_06_04",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_06_03",
           "occPer": "ALWAYS"
         },
         {
@@ -108728,11 +108872,11 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_07_04_ex",
+          "stageId": "lt_05_06",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_05_06",
+          "stageId": "lt_05_01_ex",
           "occPer": "ALWAYS"
         },
         {
@@ -108764,55 +108908,31 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_05_01_ex",
+          "stageId": "lt_06_03",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_11_02",
+          "stageId": "lt_06_04",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_07_05_ex",
+          "stageId": "lt_06_05",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_08_01",
+          "stageId": "lt_08_04",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_09_04_ex",
+          "stageId": "lt_12_02",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_09_05_ex",
+          "stageId": "lt_08_05",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_09_06_ex",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_10_01",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_10_02",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_10_03",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_10_04",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_10_05",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_10_06",
+          "stageId": "lt_08_01_ex",
           "occPer": "ALWAYS"
         },
         {
@@ -108840,43 +108960,67 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_09_03_ex",
+          "stageId": "lt_11_01",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_09_02_ex",
+          "stageId": "lt_11_02",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_09_01_ex",
+          "stageId": "lt_10_06",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_09_06",
+          "stageId": "lt_11_03",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_08_02",
+          "stageId": "lt_11_05",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_08_03",
+          "stageId": "lt_11_06",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_08_04",
+          "stageId": "lt_11_01_ex",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_08_05",
+          "stageId": "lt_11_02_ex",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_08_06",
+          "stageId": "lt_11_03_ex",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_08_01_ex",
+          "stageId": "lt_11_04_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_11_05_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_11_06_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_11_04",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_10_05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_10_04",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_10_03",
           "occPer": "ALWAYS"
         },
         {
@@ -108884,11 +109028,11 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_07_06_ex",
+          "stageId": "lt_08_03_ex",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_08_03_ex",
+          "stageId": "lt_08_04_ex",
           "occPer": "ALWAYS"
         },
         {
@@ -108920,7 +109064,43 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_08_04_ex",
+          "stageId": "lt_09_06",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_09_01_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_09_02_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_09_03_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_09_04_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_09_05_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_09_06_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_10_01",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_10_02",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_08_06",
           "occPer": "ALWAYS"
         },
         {
@@ -108944,6 +109124,126 @@
           "occPer": "ALWAYS"
         },
         {
+          "stageId": "lt_14_04",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_14_05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_14_06",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_14_01_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_14_02_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_14_03_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_14_04_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_14_05_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_14_03",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_14_06_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_15_02",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_15_03",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_15_04",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_15_05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_15_06",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_15_01_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_15_02_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_15_03_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_15_01",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_14_02",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_14_01",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_13_06_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_12_05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_12_06",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_12_01_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_12_02_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_12_03_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_12_04_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_12_05_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_12_06_ex",
+          "occPer": "ALWAYS"
+        },
+        {
           "stageId": "lt_13_01",
           "occPer": "ALWAYS"
         },
@@ -108988,79 +109288,7 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_13_06_ex",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_14_01",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_14_02",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_14_03",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_12_06_ex",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_12_05_ex",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_12_04_ex",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_12_03_ex",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_11_05",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_11_06",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_11_01_ex",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_11_02_ex",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_11_03_ex",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_11_04_ex",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_11_05_ex",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_14_04",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_11_06_ex",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_12_02",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_12_03",
+          "stageId": "lt_15_04_ex",
           "occPer": "ALWAYS"
         },
         {
@@ -109068,35 +109296,23 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_12_05",
+          "stageId": "lt_15_05_ex",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_12_06",
+          "stageId": "lt_16_01",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_12_01_ex",
+          "stageId": "lt_02_05",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_12_02_ex",
+          "stageId": "lt_02_06",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_12_01",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_11_04",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_14_05",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_14_01_ex",
+          "stageId": "lt_02_07",
           "occPer": "ALWAYS"
         },
         {
@@ -109120,11 +109336,11 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_03_05",
+          "stageId": "lt_02_04",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_03_06",
+          "stageId": "lt_03_05",
           "occPer": "ALWAYS"
         },
         {
@@ -109160,39 +109376,63 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_02_07",
+          "stageId": "lt_03_06",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_02_06",
+          "stageId": "lt_02_03",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_02_05",
+          "stageId": "lt_02_02",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_02_04",
+          "stageId": "lt_02_01",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_14_02_ex",
+          "stageId": "lt_16_02",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_14_03_ex",
+          "stageId": "lt_16_03",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_14_04_ex",
+          "stageId": "lt_16_04",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_14_05_ex",
+          "stageId": "lt_16_05",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_14_06_ex",
+          "stageId": "lt_16_06",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_16_01_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_16_02_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_16_03_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_16_04_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_16_05_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_16_06_ex",
           "occPer": "ALWAYS"
         },
         {
@@ -109204,11 +109444,11 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_14_06",
+          "stageId": "lt_01_03",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_01_03",
+          "stageId": "lt_01_04",
           "occPer": "ALWAYS"
         },
         {
@@ -109228,19 +109468,7 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_02_01",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_02_02",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_02_03",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_01_04",
+          "stageId": "lt_15_06_ex",
           "occPer": "ALWAYS"
         },
         {
@@ -109248,23 +109476,11 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_11_03",
+          "stageId": "lt_12_03",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_11_01",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_06_01_ex",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_06_02_ex",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_06_03_ex",
+          "stageId": "lt_12_01",
           "occPer": "ALWAYS"
         },
         {
@@ -109300,11 +109516,11 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_07_06",
+          "stageId": "lt_06_03_ex",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_07_01_ex",
+          "stageId": "lt_07_06",
           "occPer": "ALWAYS"
         },
         {
@@ -109316,19 +109532,43 @@
           "occPer": "ALWAYS"
         },
         {
+          "stageId": "lt_07_04_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_07_05_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_07_06_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_08_01",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_08_02",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_08_03",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_07_01_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_06_02_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_06_01_ex",
+          "occPer": "ALWAYS"
+        },
+        {
           "stageId": "lt_06_06",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_06_05",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_06_04",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_06_03",
           "occPer": "ALWAYS"
         },
         {
@@ -109360,11 +109600,11 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_07_04_ex",
+          "stageId": "lt_05_06",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_05_06",
+          "stageId": "lt_05_01_ex",
           "occPer": "ALWAYS"
         },
         {
@@ -109396,55 +109636,31 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_05_01_ex",
+          "stageId": "lt_06_03",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_11_02",
+          "stageId": "lt_06_04",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_07_05_ex",
+          "stageId": "lt_06_05",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_08_01",
+          "stageId": "lt_08_04",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_09_04_ex",
+          "stageId": "lt_12_02",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_09_05_ex",
+          "stageId": "lt_08_05",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_09_06_ex",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_10_01",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_10_02",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_10_03",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_10_04",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_10_05",
-          "occPer": "ALWAYS"
-        },
-        {
-          "stageId": "lt_10_06",
+          "stageId": "lt_08_01_ex",
           "occPer": "ALWAYS"
         },
         {
@@ -109472,43 +109688,67 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_09_03_ex",
+          "stageId": "lt_11_01",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_09_02_ex",
+          "stageId": "lt_11_02",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_09_01_ex",
+          "stageId": "lt_10_06",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_09_06",
+          "stageId": "lt_11_03",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_08_02",
+          "stageId": "lt_11_05",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_08_03",
+          "stageId": "lt_11_06",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_08_04",
+          "stageId": "lt_11_01_ex",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_08_05",
+          "stageId": "lt_11_02_ex",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_08_06",
+          "stageId": "lt_11_03_ex",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_08_01_ex",
+          "stageId": "lt_11_04_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_11_05_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_11_06_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_11_04",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_10_05",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_10_04",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_10_03",
           "occPer": "ALWAYS"
         },
         {
@@ -109516,11 +109756,11 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_07_06_ex",
+          "stageId": "lt_08_03_ex",
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_08_03_ex",
+          "stageId": "lt_08_04_ex",
           "occPer": "ALWAYS"
         },
         {
@@ -109552,7 +109792,43 @@
           "occPer": "ALWAYS"
         },
         {
-          "stageId": "lt_08_04_ex",
+          "stageId": "lt_09_06",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_09_01_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_09_02_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_09_03_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_09_04_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_09_05_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_09_06_ex",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_10_01",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_10_02",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "lt_08_06",
           "occPer": "ALWAYS"
         },
         {
