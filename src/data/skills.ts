@@ -4,6 +4,7 @@ const jsonLink = "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData_
 const cn_jsonLink = "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/skill_table.json";
 
 const iconLink = "https://raw.githubusercontent.com/ArknightsAssets/ArknightsAssets/cn/assets/torappu/dynamicassets/arts/skills/skill_icon_";
+const backupIconLink = "https://raw.githubusercontent.com/yuanyan3060/ArknightsGameResource/refs/heads/main/skill/skill_icon_";
 
 const getSkilldata = async () => {
     const [response, cn_response] = await Promise.all([fetch(jsonLink), fetch(cn_jsonLink)]);
@@ -22,6 +23,7 @@ const getSkilldata = async () => {
                             iconLink + encodeURI(iconId == null ? id : iconId) + '.png',
                             iconLink + encodeURI(iconId == null ? id : iconId) + '/skill_icon_' + encodeURI(iconId == null ? id : iconId) +
                                 '.png/skill_icon_' + encodeURI(iconId == null ? id : iconId) + '.png',
+                            backupIconLink + encodeURI(iconId == null ? id : iconId) + '.png',
                         ],
                         name: levels[0].name
                     }
