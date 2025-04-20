@@ -161,6 +161,7 @@ async function getOperatorPicture(operatorIds: string[]) {
     const sources = [
         "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/",
         "https://raw.githubusercontent.com/ArknightsAssets/ArknightsAssets/cn/assets/torappu/dynamicassets/arts/charavatars/",
+        "https://raw.githubusercontent.com/yuanyan3060/ArknightsGameResource/refs/heads/main/avatar/",
         "https://raw.githubusercontent.com/ArknightsAssets/ArknightsAssets/cn/assets/torappu/dynamicassets/arts/charportraits/"
     ];
 
