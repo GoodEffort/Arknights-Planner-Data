@@ -10,4 +10,4 @@ I was worried about it pulling data that isn't controlled by me, so instead this
  - https://github.com/Kengxxiao/ArknightsGameData_YoStar
  - https://github.com/Aceship/Arknight-Images
  - https://github.com/ArknightsAssets/ArknightsAssets
- - https://github.com/yuanyan3060/ArknightsGameResource/tree/main/gamedata
+ - https://github.com/yuanyan3060/ArknightsGameResource/
