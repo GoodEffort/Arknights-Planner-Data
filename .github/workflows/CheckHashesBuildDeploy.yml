@@ -19,7 +19,7 @@ jobs:
     get-hashes:
         runs-on: ubuntu-latest
         name: Get Hashes
-        if: github.ref == 'refs/heads/main'
+        if: false
         outputs:
             yostar-repo-hash: ${{ steps.get-yostar-repo-hash.outputs.yostar-repo-hash }}
             cn-repo-hash: ${{ steps.get-cn-repo-hash.outputs.cn-repo-hash }}
@@ -43,6 +43,7 @@ jobs:
 
     compare-hashes:
         runs-on: ubuntu-latest
+        if: false
         needs: get-hashes
         name: Compare Hashes
         env:
@@ -65,8 +66,6 @@ jobs:
               fi
 
     build:
-      needs: compare-hashes
-      if: ${{ needs.compare-hashes.outputs.continue == 'true' || github.event_name == 'workflow_dispatch' || github.event_name == 'push' }}
       runs-on: ubuntu-latest
       strategy:
         matrix:
