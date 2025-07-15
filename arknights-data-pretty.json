@@ -1,7 +1,7 @@
 {
   "commitHashes": {
     "yostar": "c597c97963199e6972b0a39bb872a4fe59ac9ed5",
-    "cn": "521d803b9647e42feb774630790adc703d75724c"
+    "cn": "d286e6ec5b8c3b985717633842a897e997008701"
   },
   "operators": {
     "char_002_amiya": {
@@ -90534,6 +90534,82 @@
                 "count": 120000
               }
             ]
+          ]
+        }
+      ]
+    },
+    "char_4195_radian": {
+      "cnOnly": true,
+      "name": "Raidian",
+      "profession": "Supporter",
+      "rarity": "TIER_6",
+      "skillLevelUpCosts": [
+        [],
+        [],
+        [],
+        [],
+        [],
+        []
+      ],
+      "promotions": [
+        {
+          "maxLevel": 50,
+          "evolveCost": []
+        },
+        {
+          "maxLevel": 80,
+          "evolveCost": []
+        },
+        {
+          "maxLevel": 90,
+          "evolveCost": []
+        }
+      ],
+      "skills": [
+        {
+          "id": "skchr_radian_1",
+          "icon": "skchr_radian_1",
+          "name": "律动线",
+          "masteryCosts": [
+            [],
+            [],
+            []
+          ]
+        },
+        {
+          "id": "skchr_radian_2",
+          "icon": "skchr_radian_2",
+          "name": "环形鳞地",
+          "masteryCosts": [
+            [],
+            [],
+            []
+          ]
+        },
+        {
+          "id": "skchr_radian_3",
+          "icon": "skchr_radian_3",
+          "name": "手牵手",
+          "masteryCosts": [
+            [],
+            [],
+            []
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "id": "uniequip_002_radian",
+          "cnOnly": true,
+          "typeName1": "SO",
+          "type": "A",
+          "icon": "uniequip_002_radian",
+          "description": "精英干员电弧，特别外勤干员权限现已开放\n已为其配置集成战略系列任务定向战术选择\n特别颁发此证章\n以兹证明\n“3——2......1！”",
+          "name": "电弧特勤证章",
+          "cost": [
+            [],
+            [],
+            []
           ]
         }
       ]
