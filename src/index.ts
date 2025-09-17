@@ -207,13 +207,28 @@ async function WriteImage(sources: string[], id: string, filename: string) {
     let counter = 0;
     for (const source of sources) {
         try {
-            const url = `${source}${id}${counter === 2 ? "_2" : ""}.png`;
+            const url = `${source}${id}.png`;
 
             const response = await fetch(url);
             if (response.ok && response.body) {
                 const readable = await toReadable(response.body);
                 readable.pipe(fs.createWriteStream(filename));
                 break;
+            }
+            else {
+                try {
+                    const url = `${source}${id.toLowerCase()}.png`;
+
+                    const response = await fetch(url);
+                    if (response.ok && response.body) {
+                        const readable = await toReadable(response.body);
+                        readable.pipe(fs.createWriteStream(filename));
+                        break;
+                    }
+                }
+                catch (e) {
+                    console.error(e);
+                }
             }
         }
         catch (e) {
