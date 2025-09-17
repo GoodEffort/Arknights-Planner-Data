@@ -67,10 +67,6 @@ const getItemdata = async () => {
             if (!item.sortId) {
                 throw new Error("Invalid Item data: sortId is missing");
             }
-
-            if (!Array.isArray(item.stageDropList)) {
-                throw new Error("Invalid Item data: stageDropList is not an array");
-            }
         }
     };
 
