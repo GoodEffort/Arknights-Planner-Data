@@ -161,6 +161,7 @@ async function getOperatorPicture(operatorIds: string[]) {
     const sources = [
         "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/",
         "https://raw.githubusercontent.com/ArknightsAssets/ArknightsAssets/cn/assets/torappu/dynamicassets/arts/charavatars/",
+        "https://raw.githubusercontent.com/ArknightsAssets/ArknightsAssets2/refs/heads/cn/assets/dyn/arts/charavatars/",
         "https://raw.githubusercontent.com/yuanyan3060/ArknightsGameResource/refs/heads/main/avatar/",
         "https://raw.githubusercontent.com/ArknightsAssets/ArknightsAssets/cn/assets/torappu/dynamicassets/arts/charportraits/"
     ];
@@ -174,7 +175,8 @@ async function getItemPicture(itemIds: string[]) {
     // one of these should work... hopefully
     const sources = [
         "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/items/",
-        "https://raw.githubusercontent.com/ArknightsAssets/ArknightsAssets/cn/assets/torappu/dynamicassets/arts/items/icons/"
+        "https://raw.githubusercontent.com/ArknightsAssets/ArknightsAssets/cn/assets/torappu/dynamicassets/arts/items/icons/",
+        "https://raw.githubusercontent.com/ArknightsAssets/ArknightsAssets2/refs/heads/cn/assets/dyn/arts/items/icons/"
     ];
 
     const filename = `${__dirname}/../images/items/`;
@@ -184,7 +186,8 @@ async function getItemPicture(itemIds: string[]) {
 
 async function getModulePicture(moduleIds: string[]) {
     const sources = [
-        "https://raw.githubusercontent.com/ArknightsAssets/ArknightsAssets/cn/assets/torappu/dynamicassets/arts/ui/uniequipimg/"
+        "https://raw.githubusercontent.com/ArknightsAssets/ArknightsAssets/cn/assets/torappu/dynamicassets/arts/ui/uniequipimg/",
+        "https://raw.githubusercontent.com/ArknightsAssets/ArknightsAssets2/refs/heads/cn/assets/dyn/arts/ui/uniequipimg/"
     ];
 
     const filename = `${__dirname}/../images/modules/`;
