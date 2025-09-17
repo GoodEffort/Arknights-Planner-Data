@@ -108359,6 +108359,14 @@
         {
           "stageId": "tough_14-06",
           "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "main_15-07",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "main_15-07#s",
+          "occPer": "ALWAYS"
         }
       ],
       "gainExp": 1000
@@ -108441,7 +108449,7 @@
       "sortId": 400002,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
-      "stageDropList": [],
+      "stageDropList": {},
       "recipe": {
         "count": 1,
         "costs": [
@@ -108519,7 +108527,7 @@
       "sortId": 400003,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
-      "stageDropList": [],
+      "stageDropList": {},
       "recipe": {
         "count": 1,
         "costs": [
@@ -108597,7 +108605,7 @@
       "sortId": 400004,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
-      "stageDropList": [],
+      "stageDropList": {},
       "recipe": {
         "count": 1,
         "costs": [
@@ -108675,7 +108683,7 @@
       "sortId": 400005,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
-      "stageDropList": [],
+      "stageDropList": {},
       "recipe": {
         "count": 1,
         "costs": [
@@ -108753,7 +108761,7 @@
       "sortId": 400006,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
-      "stageDropList": [],
+      "stageDropList": {},
       "recipe": {
         "count": 1,
         "costs": [
@@ -108831,7 +108839,7 @@
       "sortId": 400007,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
-      "stageDropList": [],
+      "stageDropList": {},
       "recipe": {
         "count": 1,
         "costs": [
@@ -108909,7 +108917,7 @@
       "sortId": 400008,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
-      "stageDropList": [],
+      "stageDropList": {},
       "recipe": {
         "count": 1,
         "costs": [
@@ -108987,7 +108995,7 @@
       "sortId": 400009,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
-      "stageDropList": [],
+      "stageDropList": {},
       "recipe": {
         "count": 1,
         "costs": [
@@ -109164,6 +109172,14 @@
         },
         {
           "stageId": "tough_13-07",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "main_15-02",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "main_15-02#s",
           "occPer": "ALWAYS"
         }
       ]
@@ -110024,6 +110040,14 @@
         {
           "stageId": "tough_13-02",
           "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_15-15",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_15-15#s",
+          "occPer": "USUAL"
         }
       ],
       "recipe": {
@@ -110090,6 +110114,14 @@
         },
         {
           "stageId": "tough_13-02",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_15-15",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_15-15#s",
           "occPer": "SOMETIMES"
         }
       ],
@@ -110949,6 +110981,14 @@
         {
           "stageId": "tough_14-15",
           "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_15-13",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_15-13#s",
+          "occPer": "USUAL"
         }
       ],
       "recipe": {
@@ -111019,6 +111059,14 @@
         },
         {
           "stageId": "tough_14-15",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_15-13",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_15-13#s",
           "occPer": "SOMETIMES"
         }
       ],
@@ -111734,8 +111782,8 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
-          "stageId": "act36side_06",
-          "occPer": "ALMOST"
+          "stageId": "act4d0_05",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act13d5_07",
@@ -111786,12 +111834,12 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act10d5_05",
-          "occPer": "OFTEN"
+          "stageId": "act36side_06",
+          "occPer": "ALMOST"
         },
         {
-          "stageId": "act4d0_05",
-          "occPer": "USUAL"
+          "stageId": "act10d5_05",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "main_02-06",
@@ -111848,6 +111896,14 @@
         {
           "stageId": "tough_14-18",
           "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_15-05",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_15-05#s",
+          "occPer": "OFTEN"
         }
       ],
       "recipe": {
@@ -111910,6 +111966,14 @@
         },
         {
           "stageId": "tough_14-08",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_15-05",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_15-05#s",
           "occPer": "SOMETIMES"
         }
       ],
@@ -112751,6 +112815,14 @@
         {
           "stageId": "tough_14-11",
           "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_15-11",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_15-11#s",
+          "occPer": "OFTEN"
         }
       ],
       "recipe": {
@@ -112813,6 +112885,14 @@
         },
         {
           "stageId": "tough_13-14",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_15-11",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_15-11#s",
           "occPer": "SOMETIMES"
         }
       ],
@@ -113646,6 +113726,14 @@
         {
           "stageId": "tough_14-14",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_15-03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_15-03#s",
+          "occPer": "OFTEN"
         }
       ],
       "recipe": {
@@ -113716,6 +113804,14 @@
         },
         {
           "stageId": "tough_14-14",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_15-03",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_15-03#s",
           "occPer": "SOMETIMES"
         }
       ],
@@ -114978,6 +115074,14 @@
         {
           "stageId": "tough_14-12",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_15-10",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_15-10#s",
+          "occPer": "USUAL"
         }
       ]
     },
@@ -115179,6 +115283,14 @@
         {
           "stageId": "tough_14-04",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_15-14",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_15-14#s",
+          "occPer": "OFTEN"
         }
       ]
     },
@@ -115352,6 +115464,14 @@
         {
           "stageId": "tough_12-06",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_15-12",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_15-12#s",
+          "occPer": "OFTEN"
         }
       ]
     },
@@ -115396,6 +115516,14 @@
         {
           "stageId": "tough_12-06",
           "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_15-12",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_15-12#s",
+          "occPer": "SOMETIMES"
         }
       ],
       "recipe": {
@@ -115433,7 +115561,7 @@
       "sortId": 100006,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
-      "stageDropList": [],
+      "stageDropList": {},
       "recipe": {
         "count": 1,
         "costs": [
@@ -115469,7 +115597,7 @@
       "sortId": 100005,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
-      "stageDropList": [],
+      "stageDropList": {},
       "recipe": {
         "count": 1,
         "costs": [
@@ -115500,7 +115628,7 @@
       "sortId": 100004,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
-      "stageDropList": [],
+      "stageDropList": {},
       "recipe": {
         "count": 1,
         "costs": [
@@ -115536,7 +115664,7 @@
       "sortId": 100003,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
-      "stageDropList": [],
+      "stageDropList": {},
       "recipe": {
         "count": 1,
         "costs": [
@@ -115572,7 +115700,7 @@
       "sortId": 100002,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
-      "stageDropList": [],
+      "stageDropList": {},
       "recipe": {
         "count": 1,
         "costs": [
@@ -115598,6 +115726,17 @@
           }
         ]
       }
+    },
+    "30165": {
+      "itemId": "30165",
+      "name": "Rephasic Enantiomer",
+      "description": "A new material still in the experimental stage. Not only can it output large amounts of energy, but it can also adapt to Originium Arts. This may indicate the future development of this optically protective material.",
+      "rarity": "TIER_5",
+      "iconId": "MTL_SL_DYT",
+      "sortId": 100001,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": {}
     },
     "31013": {
       "itemId": "31013",
@@ -116078,6 +116217,14 @@
         {
           "stageId": "tough_14-02",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_15-09",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_15-09#s",
+          "occPer": "OFTEN"
         }
       ]
     },
@@ -116129,6 +116276,14 @@
         },
         {
           "stageId": "tough_14-02",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_15-09",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_15-09#s",
           "occPer": "SOMETIMES"
         }
       ],
@@ -116219,6 +116374,14 @@
         {
           "stageId": "tough_13-12",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_15-04",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_15-04#s",
+          "occPer": "OFTEN"
         }
       ]
     },
@@ -116262,6 +116425,14 @@
         },
         {
           "stageId": "tough_13-12",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_15-04",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_15-04#s",
           "occPer": "SOMETIMES"
         }
       ],
@@ -116348,6 +116519,14 @@
         {
           "stageId": "tough_14-19",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_15-06",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_15-06#s",
+          "occPer": "OFTEN"
         }
       ]
     },
@@ -116387,6 +116566,14 @@
         },
         {
           "stageId": "tough_14-19",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_15-06",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_15-06#s",
           "occPer": "SOMETIMES"
         }
       ],
@@ -116578,6 +116765,14 @@
         {
           "stageId": "tough_13-04",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_15-16",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_15-16#s",
+          "occPer": "OFTEN"
         }
       ]
     },
@@ -116597,6 +116792,14 @@
         },
         {
           "stageId": "tough_13-04",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_15-16",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_15-16#s",
           "occPer": "SOMETIMES"
         }
       ],
@@ -116659,6 +116862,14 @@
         {
           "stageId": "tough_14-17",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_15-18",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_15-18#s",
+          "occPer": "OFTEN"
         }
       ]
     },
@@ -116686,6 +116897,14 @@
         },
         {
           "stageId": "tough_14-17",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_15-18",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_15-18#s",
           "occPer": "SOMETIMES"
         }
       ],
@@ -116715,6 +116934,46 @@
         ]
       }
     },
+    "31093": {
+      "itemId": "31093",
+      "name": "Coagulative Nodule",
+      "description": "A particle that can adsorb many different materials. At first, it was only used in cheap adsorbents, but has since become a cutting-edge material thanks to its strong universal coagulative properties.",
+      "rarity": "TIER_3",
+      "iconId": "MTL_SL_JH",
+      "sortId": 100008,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [
+        {
+          "stageId": "main_15-08",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_15-08#s",
+          "occPer": "OFTEN"
+        }
+      ]
+    },
+    "31094": {
+      "itemId": "31094",
+      "name": "Chiral Refractor",
+      "description": "An optical material that boasts both physical durability and astonishing Originium Arts resistance, currently used in studies regarding optical protection. Other uses are still being tested.",
+      "rarity": "TIER_4",
+      "iconId": "MTL_SL_QGT",
+      "sortId": 100007,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [
+        {
+          "stageId": "main_15-08",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_15-08#s",
+          "occPer": "SOMETIMES"
+        }
+      ]
+    },
     "32001": {
       "itemId": "32001",
       "name": "Chip Catalyst",
@@ -116724,7 +116983,7 @@
       "sortId": 400001,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
-      "stageDropList": [],
+      "stageDropList": {},
       "recipe": {
         "count": 1,
         "costs": [
@@ -116745,7 +117004,7 @@
       "sortId": 90001,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
-      "stageDropList": [],
+      "stageDropList": {},
       "recipe": {
         "count": 1,
         "costs": [
