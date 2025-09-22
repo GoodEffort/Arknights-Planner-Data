@@ -89716,7 +89716,7 @@
         {
           "id": "skchr_alanna_1",
           "icon": "skchr_alanna_1",
-          "name": "气动增压",
+          "name": "Pneumatic Power-Up",
           "masteryCosts": [
             [
               {
@@ -89765,7 +89765,7 @@
         {
           "id": "skchr_alanna_2",
           "icon": "skchr_alanna_2",
-          "name": "“万斤顶”",
+          "name": "'Million-Pound Jack'",
           "masteryCosts": [
             [
               {
@@ -89995,7 +89995,7 @@
         {
           "id": "skchr_monstr_1",
           "icon": "skchr_monstr_1",
-          "name": "策略：超压链接",
+          "name": "Stratagem: Hyperpressurized Link",
           "masteryCosts": [
             [
               {
@@ -90044,7 +90044,7 @@
         {
           "id": "skchr_monstr_2",
           "icon": "skchr_monstr_2",
-          "name": "策略：超负荷",
+          "name": "Stratagem: Overload",
           "masteryCosts": [
             [
               {
@@ -90093,7 +90093,7 @@
         {
           "id": "skchr_monstr_3",
           "icon": "skchr_monstr_3",
-          "name": "策略：熔毁",
+          "name": "Stratagem: Meltdown",
           "masteryCosts": [
             [
               {
@@ -98161,7 +98161,7 @@
         {
           "id": "skchr_wscoot_1",
           "icon": "skchr_wscoot_1",
-          "name": "以攻为守",
+          "name": "The Best Defense",
           "masteryCosts": [
             [
               {
@@ -98210,7 +98210,7 @@
         {
           "id": "skchr_wscoot_2",
           "icon": "skchr_wscoot_2",
-          "name": "招无虚发",
+          "name": "Unerring Proficiency",
           "masteryCosts": [
             [
               {
