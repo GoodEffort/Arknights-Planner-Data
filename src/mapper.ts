@@ -44,7 +44,7 @@ const mapSkills = ({ skillId, levelUpCostCond }: RawSkillData, skillDict: { [key
     }
 
     const levelUpCosts = levelUpCostCond.map(({ levelUpCost }) => levelUpCost || []);
-    
+
     return {
         id: skillDict[skillId].id,
         icon: skillDict[skillId].iconId,
@@ -58,6 +58,12 @@ const mapModules = (modules: (RawModuleData & { cnOnly: boolean })[]): Module[] 
         if (typeName2 === null) {
             throw new Error("typeName2 is null: " + uniEquipId);
         }
+        const itemCost1 = convertObjectToArray<typeof itemCost["1"][0]>(itemCost["1"] as any);
+        const itemCost2 = convertObjectToArray<typeof itemCost["2"][0]>(itemCost["2"] as any);
+        const itemCost3 = convertObjectToArray<typeof itemCost["3"][0]>(itemCost["3"] as any);
+        if (!Array.isArray(itemCost1) || !Array.isArray(itemCost2) || !Array.isArray(itemCost3)) {
+            throw new Error("Invalid Module data: itemCost is missing for " + uniEquipId);
+        }
 
         return {
             id: uniEquipId,
@@ -67,7 +73,11 @@ const mapModules = (modules: (RawModuleData & { cnOnly: boolean })[]): Module[] 
             icon: uniEquipIcon,
             description: uniEquipDesc,
             name: uniEquipName,
-            cost: [itemCost["1"].map(mapLevelUpCost), itemCost["2"].map(mapLevelUpCost), itemCost["3"].map(mapLevelUpCost)]
+            cost: [
+                itemCost1.map(mapLevelUpCost),
+                itemCost2.map(mapLevelUpCost),
+                itemCost3.map(mapLevelUpCost)
+            ]
         }
     });
 };
