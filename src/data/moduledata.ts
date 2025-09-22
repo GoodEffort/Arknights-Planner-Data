@@ -1,7 +1,7 @@
 import type { UniEquip_Table, Module } from "./types/operator";
 
-const jsonLink = "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData_YoStar/main/en_US/gamedata/excel/uniequip_table.json";
-const cn_jsonLink = "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/uniequip_table.json";
+const jsonLink = "https://raw.githubusercontent.com/ArknightsAssets/ArknightsGamedata/refs/heads/master/en/gamedata/excel/uniequip_table.json";
+const cn_jsonLink = "https://raw.githubusercontent.com/ArknightsAssets/ArknightsGamedata/refs/heads/master/cn/gamedata/excel/uniequip_table.json";
 
 const getModuledata = async () => {
     const [response, cn_response] = await Promise.all([fetch(jsonLink), fetch(cn_jsonLink)]);

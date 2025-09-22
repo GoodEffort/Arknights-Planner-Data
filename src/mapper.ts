@@ -1,6 +1,7 @@
 import type { Module as RawModuleData, RawLevelUpCostData, RawOperatorData, RawPhaseData, RawSkillData } from "./data/types/operator";
 import type { LevelUpCost, Promotion, Operator, Skill, Module, Item, Recipe } from "./data/types/outputdata";
 import type { Item as RawItemData} from "./data/types/item";
+import convertObjectToArray from "./convert-object-to-array";
 
 type ArrayElement<ArrayType extends readonly unknown[]> = 
   ArrayType extends readonly (infer ElementType)[] ? ElementType : never;
@@ -19,6 +20,14 @@ const mapSkillLevelUp = ({ lvlUpCost }: RawSkillLevelUp): LevelUpCost[] => {
 };
 
 const mapPromotion = ({ maxLevel, evolveCost }: RawPhaseData): Promotion => {
+    if (!!evolveCost && !Array.isArray(evolveCost)) {
+        const newEvolveCost = convertObjectToArray<typeof evolveCost[0]>(evolveCost as any);
+        if (!Array.isArray(newEvolveCost)) {
+            throw new Error("Invalid Character data: evolveCost is missing");
+        }
+        evolveCost = newEvolveCost;
+    }
+
     return {
         maxLevel,
         evolveCost: evolveCost?.map(mapLevelUpCost) ?? []
@@ -26,7 +35,16 @@ const mapPromotion = ({ maxLevel, evolveCost }: RawPhaseData): Promotion => {
 };
 
 const mapSkills = ({ skillId, levelUpCostCond }: RawSkillData, skillDict: { [key: string]: { id: string; iconId: string; name: string; } }): Skill => {
+    if (!Array.isArray(levelUpCostCond)) {
+        const newLevelUpCostCond = convertObjectToArray<typeof levelUpCostCond[0]>(levelUpCostCond as any);
+        if (!Array.isArray(newLevelUpCostCond)) {
+            throw new Error("Invalid Character data: levelUpCostCond is missing");
+        }
+        levelUpCostCond = newLevelUpCostCond;
+    }
+
     const levelUpCosts = levelUpCostCond.map(({ levelUpCost }) => levelUpCost || []);
+    
     return {
         id: skillDict[skillId].id,
         icon: skillDict[skillId].iconId,

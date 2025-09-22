@@ -1,9 +1,10 @@
 import { RawOperatorData, Character_Table, CharacterPatch } from "./types/operator"
+import convertObjectToArray from "../convert-object-to-array";
 
-const characterJsonLink = "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData_YoStar/main/en_US/gamedata/excel/character_table.json";
-const characterPatchJsonLink = "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData_YoStar/main/en_US/gamedata/excel/char_patch_table.json";
-const cn_characterJsonLink = "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/character_table.json";
-const cn_characterPatchJsonLink = "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/char_patch_table.json";
+const characterJsonLink = "https://raw.githubusercontent.com/ArknightsAssets/ArknightsGamedata/refs/heads/master/en/gamedata/excel/character_table.json";
+const characterPatchJsonLink = "https://raw.githubusercontent.com/ArknightsAssets/ArknightsGamedata/refs/heads/master/en/gamedata/excel/char_patch_table.json";
+const cn_characterJsonLink = "https://raw.githubusercontent.com/ArknightsAssets/ArknightsGamedata/refs/heads/master/cn/gamedata/excel/character_table.json";
+const cn_characterPatchJsonLink = "https://raw.githubusercontent.com/ArknightsAssets/ArknightsGamedata/refs/heads/master/cn/gamedata/excel/char_patch_table.json";
 
 const getChardata = async () => {
     const [
@@ -60,15 +61,27 @@ const getChardata = async () => {
             }
 
             if (!Array.isArray(operator.phases)) {
-                throw new Error("Invalid Character data: phases is not an array");
+                const newPhases = convertObjectToArray<typeof operator.phases[0]>(operator.phases as any);
+                if (!Array.isArray(newPhases)) {
+                    throw new Error("Invalid Character data: phases is missing");
+                }
+                operator.phases = newPhases;
             }
 
             if (!Array.isArray(operator.skills)) {
-                throw new Error("Invalid Character data: skills is not an array");
+                const newSkills = convertObjectToArray<typeof operator.skills[0]>(operator.skills as any);
+                if (!Array.isArray(newSkills)) {
+                    throw new Error("Invalid Character data: skills is missing");
+                }
+                operator.skills = newSkills;
             }
 
             if (!Array.isArray(operator.allSkillLvlup)) {
-                throw new Error("Invalid Character data: allSkillLvlup is not an array");
+                const newAllSkillLvlup = convertObjectToArray<typeof operator.allSkillLvlup[0]>(operator.allSkillLvlup as any);
+                if (!Array.isArray(newAllSkillLvlup)) {
+                    throw new Error("Invalid Character data: allSkillLvlup is missing");
+                }
+                operator.allSkillLvlup = newAllSkillLvlup;
             }
 
             for (const phase of operator.phases) {

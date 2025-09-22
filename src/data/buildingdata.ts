@@ -1,3 +1,5 @@
+import convertObjectToArray from "../convert-object-to-array";
+
 type RawRecipeData = {
     itemId: string;
     count: number;
@@ -18,8 +20,8 @@ type Building_Table = {
     };
 };
 
-const jsonLink = "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData_YoStar/main/en_US/gamedata/excel/building_data.json";
-const cn_jsonLink = "https://raw.githubusercontent.com/Kengxxiao/ArknightsGameData/master/zh_CN/gamedata/excel/building_data.json";
+const jsonLink = "https://raw.githubusercontent.com/ArknightsAssets/ArknightsGamedata/refs/heads/master/en/gamedata/excel/building_data.json";
+const cn_jsonLink = "https://raw.githubusercontent.com/ArknightsAssets/ArknightsGamedata/refs/heads/master/cn/gamedata/excel/building_data.json";
 
 const getBuildingdata = async () => {
     const [response, cn_response] = await Promise.all([
@@ -51,7 +53,11 @@ const getBuildingdata = async () => {
             }
 
             if (!Array.isArray(formula.costs)) {
-                throw new Error("Invalid Workshop data: costs is missing");
+                const newCosts = convertObjectToArray<typeof formula.costs[0]>(formula.costs as any);
+                if (!Array.isArray(newCosts)) {
+                    throw new Error("Invalid Workshop data: costs is missing");
+                }
+                formula.costs = newCosts;
             }
 
             if (isNaN(formula.count)) {
@@ -71,7 +77,11 @@ const getBuildingdata = async () => {
             }
 
             if (!Array.isArray(formula.costs)) {
-                throw new Error("Invalid Workshop data: costs is missing");
+                const newCosts = convertObjectToArray<typeof formula.costs[0]>(formula.costs as any);
+                if (!Array.isArray(newCosts)) {
+                    throw new Error("Invalid Workshop data: costs is missing");
+                }
+                formula.costs = newCosts;
             }
 
             if (isNaN(formula.count)) {
