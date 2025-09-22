@@ -6,8 +6,6 @@ I was worried about it pulling data that isn't controlled by me, so instead this
 
 
  Data Sources
- - https://github.com/Kengxxiao/ArknightsGameData
- - https://github.com/Kengxxiao/ArknightsGameData_YoStar
- - https://github.com/Aceship/Arknight-Images
  - https://github.com/ArknightsAssets/ArknightsAssets
+ - https://github.com/ArknightsAssets/ArknightsAssets2
  - https://github.com/yuanyan3060/ArknightsGameResource/

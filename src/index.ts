@@ -159,7 +159,6 @@ async function getSkillImages(skillData: {
 async function getOperatorPicture(operatorIds: string[]) {
     // one of these should work... hopefully
     const sources = [
-        "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avatars/",
         "https://raw.githubusercontent.com/ArknightsAssets/ArknightsAssets/cn/assets/torappu/dynamicassets/arts/charavatars/",
         "https://raw.githubusercontent.com/ArknightsAssets/ArknightsAssets2/refs/heads/cn/assets/dyn/arts/charavatars/",
         "https://raw.githubusercontent.com/yuanyan3060/ArknightsGameResource/refs/heads/main/avatar/",
@@ -174,7 +173,6 @@ async function getOperatorPicture(operatorIds: string[]) {
 async function getItemPicture(itemIds: string[]) {
     // one of these should work... hopefully
     const sources = [
-        "https://raw.githubusercontent.com/Aceship/Arknight-Images/main/items/",
         "https://raw.githubusercontent.com/ArknightsAssets/ArknightsAssets/cn/assets/torappu/dynamicassets/arts/items/icons/",
         "https://raw.githubusercontent.com/ArknightsAssets/ArknightsAssets2/refs/heads/cn/assets/dyn/arts/items/icons/"
     ];
