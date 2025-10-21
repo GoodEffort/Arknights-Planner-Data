@@ -93313,7 +93313,7 @@
       ]
     },
     "char_4198_christ": {
-      "cnOnly": false,
+      "cnOnly": true,
       "name": "Miss.Christine",
       "profession": "Caster",
       "rarity": "TIER_5",
@@ -93423,7 +93423,7 @@
         {
           "id": "skchr_christ_1",
           "icon": "skchr_christ_1",
-          "name": "Mealtime Manners",
+          "name": "自由用餐礼仪",
           "masteryCosts": [
             [
               {
@@ -93472,7 +93472,7 @@
         {
           "id": "skchr_christ_2",
           "icon": "skchr_christ_2",
-          "name": "Bacchanalia",
+          "name": "狂饮之宴",
           "masteryCosts": [
             [
               {
