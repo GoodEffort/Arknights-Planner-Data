@@ -8726,12 +8726,12 @@
         },
         {
           "id": "uniequip_003_excu2",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "REA",
           "type": "Y",
           "icon": "uniequip_003_excu2",
-          "description": "关于LNH****0142任务投诉的情况说明\n\n五日前，我接到任务LNH****0142，该任务属于圣髑安所百日庆典秩序维护工作：一位庆典摊位所有者因意外灼伤向庆典委员会提出摊位代管申请，流转到我处。\n该摊位业务为自制手工艺品售卖。完成任务，交还摊位物品时，摊位所有者情绪低落，向我询问难道游客中无人懂得他的艺术。我告知该公民，我并未与游客产生任何交流，无法回答。该公民情绪激动，询问工艺品售出件数为零是不是因为我。我不理解这个问题，判断该公民需要安抚，于是提出向他购买一件工艺品。对方情绪缓和，称赞我具有艺术品味，并询问我喜爱哪一件，以及对该摊位工艺品的看法。我回答如下：\n该摊位所售工艺品为各尺寸圣髑模型，这一题材在如今的拉特兰十分常见，如教皇厅新推出的杏仁饼干亦为此造型。查看这些模型，可以发现造型不准、细节不符合实际、工艺较为粗糙。我对这些工艺品并无喜爱之情，提出购买另有原因。\n我未能陈述完毕即被该公民打断，对方以较大音量表达了绝对会投诉我的意愿后离去。\n以上就是事件经过，在场执行者均有见证。根据其中一位同僚的建议，我将当日未尽的陈述在此补充完毕：\n我对这些工艺品并无喜爱之情，提出购买是因为其中一件模型上的涂鸦吸引了我的注意。摊位所售圣髑模型的涂鸦图案各异，这一件上绘制着蓝色的云。这使我想起，云并不是蓝色的。但在年幼时的绘画课上，许多与我同龄的人都使用蓝笔在白纸上画云。我向老师提出这个问题，老师说我是对的，却不纠正其他人。我很疑惑。不过我疑惑的事有很多，且数量随年龄增长而增加，我几乎忘记了这个疑问。我花了一些时间观看这个模型，又看向圣髑，意识到现在我已经明白为什么云可以是蓝色。\n庆典之前我没有去过圣髑安所。上一次见到祂时，祂闪烁着刺眼的红光，正在运算一个答案，直到我与安多恩·雅迦坦哲罗思结束了祂的闪烁。现在祂被画满涂鸦和许愿，是粗糙的手工艺品、杏仁饼干、镭射气球，隔热手套和漱口水上的图案。祂没有给我们答案，此后我们仍将有无尽的问题，更多的问题，就像我在成长中所经历的那样。因此我想买下这件模型。它可以作为一个提醒，提醒我不要深陷于疑惑，解答终将在未来浮现。\n最后，我已向教皇厅申请借调一盒圣髑杏仁饼干，以安抚该公民情绪。我将在情况说明审批通过后以任务执行标准送至该公民居所。",
-          "name": "已知悉",
+          "description": "Statement on complaints regarding mission LNH****0142\n\nI was assigned to mission LNH****0142 five days ago, as part of maintaining public order for the 100-day celebration of Adytum Reliquiarum. A stall owner requested a substitute after suffering accidental burns, and the case was referred to me by the organizing committee.\nThe items sold by the stall were handicrafts. The owner was in a depressed mood when I completed the mission and returned the stall to him. He asked if none of the visitors understood his art. I responded that I was unable to answer the question as I did not have any interaction with the visitors. The citizen became angry and asked whether I was the reason that none of the handicrafts were sold. I did not understand the question but deemed it necessary to placate the citizen, and therefore offered to purchase one of the handicrafts. He calmed down and complimented my taste in art, then asked which one I liked, as well as my thoughts on the handicrafts sold by the stall. My answer was as follows:\nThe stall sold models of the Reliquiae in various sizes, a common subject in today's Laterano. For instance, the Curia's new almond cookies are in the same shape. Upon closer inspection, it can be seen that the models are not precisely to scale, the details inexact, and the craftsmanship flawed. I was not particularly fond of the handicrafts, and my offer to purchase was due to other reasons.\nThe citizen interrupted me before I finished. He loudly declared his intention to file a complaint before leaving.\nOther executors at the scene witnessed what occurred that day. I am filing this supplement to the unfinished statement at the recommendation of one of them:\nI was not particularly fond of the handicrafts, but I offered to purchase one because the doodles on one of the models caught my attention. The Reliquiae models sold by the stall had different doodles; this particular one had blue clouds drawn on it. It reminded me of drawing lessons from my childhood, when many children my age used blue crayons to draw clouds on white paper, even though clouds are not blue. I asked the teacher about this, who said I was right, but did not correct the others. This confused me, but many things in life are confusing, the quantity of which has only increased with age. I had almost forgotten about the question until I was reminded of it by the model. I spent some time looking at it, then at the Reliquiae itself, before realizing that I now understood how clouds could be blue.\nI had not visited the Adytum Reliquiarum until the celebrations. The last time I saw It, It was glowing bright red as it computed an answer, until Andoain Agathangelos and I put an end to it. Now, people scribble their wishes and other things upon it, and depictions of it can be found in the form of crude handicrafts, almond cookies, balloons, mittens, and mouthwash bottles. It did not provide an answer, and we will continue to have more questions, endless questions, just as I experienced in the course of growing up. As such, I wished to purchase the model as a reminder not to be shackled by questions, for the answer will eventually come someday.\nFinally, I have requested a box of Reliquiae almond cookies to placate the citizen in question. I will deliver it to the citizen's residence once the request is approved.",
+          "name": "Acknowledged",
           "cost": [
             [
               {
@@ -27775,12 +27775,12 @@
         },
         {
           "id": "uniequip_003_amgoat",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "CCR",
           "type": "Y",
           "icon": "uniequip_003_amgoat",
-          "description": "阿黛尔稍微有些紧张。\n今天是个特别的日子——她报名了学校举办的亲子活动“宠物大赛”。昨晚，小黑羊又听她讲了三遍自己和爸爸妈妈一起认真拟定的通关流程，爸爸妈妈也早早为此请好了假。他们平时那么忙，她希望这次能和他们一起取得一个好名次，最好是第一名！\n向裁判介绍完自己和小黑羊，阿黛尔向爸爸妈妈点头示意开始。两人还是平时的打扮，衣服上一丝褶皱都没有，眼镜稳稳地架在鼻梁上，但其实阿黛尔知道，在出门前妈妈把左右脚的鞋子穿反了，爸爸衬衫的扣子全都扣错了，嗯......他们该不会也有些紧张吧？\n嘀——！哨声响起，阿黛尔站在第一赛段的指定位置进行引导。小黑羊顺利地钻过跳圈，绕过一个弯后又跑上了平衡板，唔，它脚下打了个滑！没关系，只是一个小失误，只需要最后、最后......欸？等等，突然想不起来了，第一赛段最后的动作是什么来着？阿黛尔有些惊慌地停了下来。小黑羊一看指挥的人没做动作，立刻开始在场上乱跑，扑倒了站在第二赛段起点的妈妈之后，又把跑来扶妈妈的爸爸也撞翻在地上——完蛋了！期待了这么久的比赛搞砸了，阿黛尔待在原地，一下子不知道该怎么办。\n噗！观众台上不知道是谁不小心偷笑出声。爸爸好不容易从地上爬起来，看着满场乱跑的小黑羊和沮丧的阿黛尔，决定再拼一次——被小黑羊撞散的领带成了指挥棒，被他一把抓在手里，他手舞足蹈地引导着小黑羊跑回赛道，再也不是平时泡在图书馆和研究所里的样子了。妈妈四处摸了摸，没能找到自己掉落在地上的眼镜。当她模模糊糊看到爸爸如此努力的样子，还有终于走上正轨的小黑羊时，她笑得和发现了珍贵的矿石标本一样开心。她站起身来，拎着裙摆，眯着眼睛努力看清前路，歪歪扭扭地跑向赛道的终点。\n“阿黛尔！”她张开双手，笑着呼唤自己看上去快要急出眼泪的女儿，“快过来吧！”\n阿黛尔迟疑了一下，她看向拼尽全力的爸爸，又看向不远处的妈妈，虽然很是狼狈，但他们看起来是那样地开心。她终于不再紧张，也拎着自己的裙摆，跑向冲自己张开双手的妈妈。风声在耳畔响起，她觉得自己从来没有跑得这么快、这么轻盈过。\n挑剔的小黑羊终于感到满意，老老实实地按照爸爸的指引完成了最后的动作，甚至一时兴起附赠了一个漂亮的前空翻。欢呼声从观众台上传来，阿黛尔继续向着终点跑去。\n今天是个特别的日子，但是不是第一名阿黛尔现在已经不是很在意了，她只是笑着扑进冲她张开双臂的爸爸妈妈的怀里，好好享受这难得的一天假期。\n咩！小黑羊因为发现自己竟然不在大家的怀抱中，开始大声抗议。",
-          "name": "宠物大赛第一名",
+          "description": "Adele is a little nervous.\nToday is a special day—she had signed up for the school's parent-and-child activity, 'Pet Relay'. Last night, the Little Black Sheep listened to the plan she had drafted together with her parents, three times. Her parents had taken the day off—they're always so busy, so she has to do well this time! A first place would be even better!\nAfter introducing herself and the Little Black Sheep to the judge, Adele nods to her parents to begin. They are dressed as they always are, not a crease to be found on their clothes, their glasses seated firmly on their noses, but Adele knows that Mutti had worn her shoes on the wrong foot and Vati's buttons were all done wrong as they were about to leave home. Were they nervous too?\nAs the whistle is blown, Adele stands at the designated location of the first section, guiding the Little Black Sheep through the jumping hoop, round the corner, and onto the balance board. Oh, it slipped! No worries, just a little mistake. What's really important is the end... the end... what was the trick to be performed at the end of the section? She couldn't remember! Adele stops in a panic, and the Little Black Sheep starts running amok, seeing that its conductor had stopped moving, knocking over her mother who was standing at the beginning of the second section, then her father who came to help her. Oh no, the race is ruined! What to do? Adele is at a loss.\n'Haha!' Somebody in the stands cannot hold back a laugh. Vati finally picks himself up. Seeing a helpless Adele and Little Black Sheep running amok on the course, he decides to try again. He turns his necktie, knocked loose by the Little Black Sheep, into an impromptu conducting baton, guiding it back to the course while looking nothing like the academic who spends most of his time in the library and lab. Mutti tries and fails to find her fallen glasses, but laughs as though she found an extremely rare mineral sample when she sees Vati hard at work and the Little Black Sheep back on track through her blurry vision. She stands up, lifts up the edges of her dress, and squints as she tries to make it to the finish line without stumbling over anything.\n'Adele!' She opens her arms and calls to her daughter, who was on the verge of tears. 'Come here!'\nAdele hesitates for a moment. She looks at Mutti and Vati, who look disheveled yet happy, and is no longer nervous. She runs towards her mother, the wind rushing by her ears, and it is as though she has never ran faster, nor her feet ever lighter, in her entire life.\nThe picky Little Black Sheep is finally happy and obediently performs the last trick at her father's instructions, even contributing an impromptu forward somersault. The onlookers cheer and applaud, as Adele continues to run towards the finish line.\nThis is a special day. Whether she wins first prize or not doesn't seem to matter so much anymore. She runs into the arms of her parents with a big smile on her face, enjoying a rare family holiday.\n'Baa!' Finding itself excluded from the embrace, the Little Black Sheep begins to bleat loudly in protest.",
+          "name": "Pet Contest First Prize",
           "cost": [
             [
               {
@@ -80602,12 +80602,12 @@
       "modules": [
         {
           "id": "uniequip_002_caper",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "LPS",
           "type": "X",
           "icon": "uniequip_002_caper",
-          "description": "一年一度的这个日子又到了。\n每到一月二十日，兰德女士都会细心地清理整个屋子，特别是女儿的房间，总是要全部整理一遍。从桌子到床铺，兰德女士都擦拭得干干净净。即便女儿已经很少回家，她还是请人给桌子重新上了漆，还在床上铺了全新的床单。\n清洁完毕之后，她打开桌子中间的小抽屉，拿出里面的一叠信件，就着提灯的光从头开始阅读。这些全都是小卡莉写给她的，包括离开家时留下的纸条，兰德女士都小心地珍藏着。一开始的信件笔迹还非常稚嫩，里面除了说找到了治病的地方之外，几乎没有别的信息。最早的几封信上，还能看出小卡莉写信的时候会忍不住掉泪，每次看到那些曾被沾湿的地方，兰德女士就感到眼中也涌出了同样的泪水。\n慢慢地，女儿的笔迹脱掉了稚气，信的内容也变多了。她开始提到自己结交了什么样的朋友，如何教训了不知悔改的恶人，甚至还有她在玻利瓦尔之外的见闻。读着小卡莉的信件，兰德女士总是能想象到女儿和其他人打交道时候的样子。来信之中那些令人莞尔的字句，一再证明着小卡莉还是那个活泼又爱玩的孩子。\n但最近的几次来信，让她觉得女儿不再是自己记忆中的那个孩童了。在信中，小卡莉写下了自己接受治疗以来的一些感想，还有她因此而生的计划。她告诉母亲，她要走遍玻利瓦尔，甚至去更远的地方，给那些一样承受着病痛的人带去快乐，和他们一起勇敢面对生活。兰德女士看到这里，静静地将信放在胸口，知晓自己的孩子已经长大，此刻的她无比安心。\n不知不觉间，兰德女士又看完了所有来信。她望向一边，提灯的火光有些暗淡，里面的燃料已经不多了。她小心地收好信件，走到了储物间。拿出那个几乎和女儿一样年龄的方形燃料罐的时候，她看到了放在一旁的女儿玩过的空罐子和“转转圈”，她不禁微笑起来。她回头看向女儿的房间，她知道很快自己期待的东西又要到了。\n“兰德女士，有你的信！”\n邮递员的声音从门外传来，冬日的小屋里，暖意在母亲的心中流淌......",
-          "name": "暖意的归宿",
+          "description": "It is that time of year again.\nJanuary 20th is the day that Señora Lander cleans up the house, especially her daughter's room, wiping everything clean from the desk to the bed. Ever though her daughter rarely comes back now, she still has had the desk repainted, and the bed sheets changed.\nAfter cleaning, she opens the middle drawer of the desk and takes out a bunch of letters, reading them by the light of her lantern. All of them are letters from Carlie, including the note she left behind when she left home. Señora Lander has kept all of them carefully. The writing of the early letters was childlike and only said that she had found a place where her condition would be treated. There are tear marks from the girl on the first few ones, and Señora Lander finds tears coming to her own eyes every time she sees them.\nSlowly but surely, the writing became smoother and more confident, and the letters started to tell more about Carlie's life: the friends she made, the bad guys she taught a lesson to, and the things she saw outside Bolívar. Through the letters, Señora Lander could almost see her daughter laughing and talking with others—the same lively, fun-loving girl that she had always been.\nIn more recent letters, though, Señora Lander begins to see that her daughter is no longer the child she remembers. Carlie wrote about her thoughts as she received treatment, and the plans that came to mind. She told her mother that she intends to travel throughout Bolívar and beyond, bringing joy to others who suffer from pain and illness, and bravely facing life together. Señora Lander quietly holds the letter in front of her chest, happy at her daughter's growth.\nShe has finished reading all the letters. The lantern is growing dim. She carefully puts the letters away and takes out a fuel canister from the storage room, which is almost the same age as her daughter. She cannot help but smile when she sees the empty cans and 'loops' next to them, that Carlie used to play with. She turns around to look at her daughter's room, knowing that what she is waiting for will soon arrive.\n'You've got mail, Señora Lander!'\nThe mother's heart is warm on this winter's day, as she hears the mailman's voice from outside the door.",
+          "name": "Where the Warmth Remains",
           "cost": [
             [
               {
@@ -88084,12 +88084,12 @@
       "modules": [
         {
           "id": "uniequip_002_narant",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "LPS",
           "type": "X",
           "icon": "uniequip_002_narant",
-          "description": "娜仁图亚从夜梦中惊醒，喉咙里仿佛含着一块热炭，耳朵里仍是梦中响起的金铁相击之声，令她难以忍受。\n她走出帐篷，荒漠顶上无月，风似远征的骑兵，狂奔向沙漠深处。\n“叮！铛！”那打铁一般的声音愈发响亮。娜仁图亚四处寻找声音的源头，却意外发现自己腰间的黑色弯刀正颤抖不止。\n她握住刀柄，本以为这样便能止住它的躁动，没想到反而令其势更盛，将她震得手臂发麻、头晕目眩。\n“停下！”她怒吼着，将那把刀抓得更紧。\n黑色的弯刀拽着她，使她踉踉跄跄地跑进了夜色里。\n她看到一柄如同山岭的巨锤，重重砸落在火红的铁砧之上，一声声战鼓，一阵阵金铁的嘶鸣，火星飞溅，巨锤不屑于铸造凡铁，它竟然将那坚不可摧的铁砧砸成了一把刀！\n战鼓声越来越清晰，她看到有人接过了那把刀，行走在远征队伍的最前面，用它劈开坚硬的骨头，用它斩落歪斜的旗帜，直到那人死去，刀落进黄沙里。娜仁图亚若有所悟，自己此刻正站在那片黄沙之上！\n“......不，”她说，“那不是我！”\n她不再试图遏止弯刀的躁动，狠狠地扔出弯刀，似乎要用它击碎那片风沙中的幻景。\n“无论你是什么来历，我都不在乎！我有我自己的路，如果你不愿意跟我走，那随便你！”\n娜仁图亚不确定自己有没有喊出这句话，因为下一刻，她狠狠摔进了荒漠里。\n......\n娜仁图亚醒来时，一旁的酒友正关切又畏惧地给她摇着扇子。\n“我喝多了？”\n正在往酒里掺水的摊主赧然一笑。\n“我的刀呢？！”娜仁图亚手往腰间一拍，冷汗立刻冒了出来。\n酒友们将她引到一块巨岩前。\n“娜仁图亚，你究竟是怎么做到的？”\n娜仁图亚揉了揉眼睛，那把深深插进巨岩的黑色弯刀的确是自己的。她试着往外拔，但刀与石头都纹丝未动。\n“昨晚天上打了几个雷，你醉醺醺地从帐篷里出来，对着阴云破口大骂，然后就拔出刀往这大石头上一砸！”一名酒友龇着牙说，“太吓人了，等会儿我就把欠你的酒钱都还你......”\n“的确吓人，我还记得你最后大声喊了一句——”\n“我喊了什么？”娜仁图亚此时已经回忆起了一些片段，她甚至有些佩服自己能想出那样霸气的宣言，她并不介意再听别人讲一遍。\n“你喊的是——‘如果你再不老实，我就把你卖了，换一把纯金的！’”\n“什么？等等，难道不是......”\n“唔，就是这句，我也听到了。的确是娜仁图亚会说的话。”\n“......”",
-          "name": "“吹尽狂沙”",
+          "description": "Narantuya wakes from the dream with a start. She feels as though she has a piece of smouldering charcoal in her throat, and all she can hear is the unbearable clanging of metal that filled her dream.\nShe walks out of the tent. There is no moon in the sky, and the wind blows towards the depths of the desert like galloping cavalrymen.\n'Clank! Clank!' The sound of metal banging on metal keeps getting louder. Narantuya looks around her, trying to find the source of the sound, only to discover that the black scimitar on her belt is vibrating violently.\nShe grabs the hilt, hoping to stop the movement, only for it to vibrate even harder, causing her arm to go numb and her eyes to see stars.\n'Stop!' She roars, clutching the blade even harder.\nThe black scimitar drags her stumbling into the night.\nShe sees a hammer the size of a mountain slamming upon a red-hot anvil. The metal screams along the distant drums of war, sending golden sparks flying like drops of sweat. The hammer scorns ordinary iron and turns the indestructible anvil into a scimitar!\nThe war drums grow closer. She sees someone take the scimitar and walk at the front of an expedition, cutting through bones and tattered banners. Then at some point, the wielder dies, and the scimitar falls to the sand. Narantuya realizes that they are the same sands she now stands upon.\n'...No,' she says, 'That's not me!'\nNo longer trying to stop the blade's restlessness, she throws it with all her might, as though trying to smash the mirage in the sandstorm.\n'I don't care who you are! I walk my own path! If you do not wish to accompany me, then so be it!'\nNarantuya is unsure if she actually said those words, because the very next instant she stumbles and falls to the sand.\n...\nNarantuya awakens to find her drinking buddies fanning her, half-concerned, half-fearful.\n'Was I drunk?'\nThe stall owner doesn't answer. He smiles and continues his work, mixing the booze with water.\n'Where's my sword?!' Narantuya reaches towards her belt and breaks out in a cold sweat.\nHer drinking buddies lead her to a great rock.\n'How the heck did you even do this, Narantuya?'\nShe rubs her eyes. Yes, it is her black scimitar alright, buried inside the rock all the way to the hilt. She tries to pull it out, but neither sword nor rock budge in the slightest.\n'There was a bit of thunder last night. You came out of your tent, looking a little tipsy, and cussed out the clouds before drawing your sword and swinging it at the rock, just like that!' One of her drinking buddies says, 'You scared the living daylights out of me. I'll pay back the drinking money I owe you today...'\n'You were scary alright. I remember that you yelled—'\n'Yelled what?' The memory is coming back. She is pleasantly surprised that she managed to come up with a declaration so powerful, and would not mind hearing it again from someone else.\n'You yelled—'I'll trade you in for one made of gold if you don't stay put!''\n'What? Wait, shouldn't it be—'\n'Yeah, that was it. I heard it too. Definitely sounds like something you'd say, Narantuya.'\n'...'",
+          "name": "'Those Buried in Sand'",
           "cost": [
             [
               {
@@ -94569,12 +94569,12 @@
       "modules": [
         {
           "id": "uniequip_002_brigid",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "LPS",
           "type": "X",
           "icon": "uniequip_002_brigid",
-          "description": "布莉吉试着把被吹得东歪西倒的帐篷从地上扶起来，发现只要用手拽起一边，另一边就会倒下去。雨水渐密，已经把她的头发打湿，顺着前额流进眼睛。她不舒服地动了动身体，感觉衣服也越来越重，黏在皮肤上，冻得人直摇头。不行了，没用。她嘟囔着，依依不舍地放下手里的帐篷布，还有用来代替伸缩杆的木棍。\n布莉吉把刻着地图的兽皮摊开，手指在上面摩挲，找到了离这里最近的那个凹点。有个天灾信使小屋，距离这里......两公里！顺风方向，跑快一点，也许可以？还好驮兽们都已经提前安置了，现在只需要给自己找个地方过夜。\n跑吧，跑吧。如果找不到，那就再跑几公里，去镇上看看，有个能遮雨的棚子也好。这样想着，房屋模糊的形状逐渐在视野里出现。游牧人甩掉脸上的雨珠，冲到屋檐下。敲门，没人响应，她看到门窗上都挂着喻示“安全”的绳结，伸出手去摸了摸，才推门进去。\n看起来这里已经很久没有人维护，就连门口的绳结也硬得扎手，但至少屋顶还好好的，雨水下不来，大风刮不进。布莉吉放下行李，在屋子里找到干柴生火，又牵起一条绳子用来烤干换下来的衣服。最后，把能找到的干燥布料都堆在壁炉前，布莉吉躺进去蜷缩起来，也不管头发还湿着，就在噼啪的雨声中沉沉睡去。\n醒来时，壁炉里的火早已熄灭，但布莉吉没有感觉到寒冷。她从绞作一团的布料中挣脱出来，走到窗户前，注意到昨天来时在门窗上看到的绳结都已经被吹落了。它们有的掉在泥地里，有的飘出去很远，挂在了树梢上。\n临走之前，布莉吉从行李里取出材料，照着捡回来的绳结的样式，编起了新的绳结。她编了两个，一个挂在门上，一个挂在窗上。\n“谢谢收留！”\n屋外，天光大亮，晴日已经悬在头顶。昨天来时没有细看，眼前的房屋其实已经有些年头，几乎可以说是摇摇欲坠，布莉吉对房子道了谢，又转头望向天空。\n“也谢谢风，谢谢雨，谢谢你们‘手下留情’——”\n身后，风再度吹起挂在窗前的绳结，上面绑着的铃铛叮铃作响，像是回应，也像是告别。",
-          "name": "风的颜色",
+          "description": "Brigid tries to pick up the tent toppled by wind, but finds that as soon as she tries to pick up one side, the other side falls over. Her hair is wet from the rain, which flows along her forehead and into her eyes. She fidgets at the uncomfortable sensation of her clothes being stuck to her skin. They are getting heavier, and colder. 'It's no good', she mutters, as she reluctantly lays down the canvas and sticks.\nBrigid spreads open a map made from beast hide, running her finger over it to find the nearest shelter—a Catastrophe Messenger hut about two kilometers from her location, in the same direction as the wind. Perhaps she can make it if she runs? Fortunately, the burdenbeasts have been housed, and she only needs find a place for herself tonight.\n'Run, Brigid, run. You can keep running if you do not find the hut, until you reach the town, or perhaps a little shed along the way that would provide shelter against the rain.' Then, she sees the faint silhouette of a house in the distance. She wipes the raindrops off her face and takes cover under the eaves. She knocks on the door, but there is no answer. There're knots signifying 'safety' hanging from the doors and windows. She touches them before going in.\nNo one has been here for a while. Even the knots at the door have grown hardened and pricked her hands. At least the roof is in good shape, keeping the wind and rain out. Brigid lays down her luggage, finds some wood to light a fire, and hangs a rope to dry her clothes. Finally, she puts all the dried fabric she can find in a bundle before the fireplace and huddles up with her hair still wet, slumbering away while the rain continues battering the windows.\nThe fire has gone out by the time she wakes up, but she feels no cold. She frees herself from the bundle of cloth and walks towards the windows. She notices that the knots she saw yesterday have been all blown away, some falling into the mud, and others flying quite a distance, hanging on the trees.\nBefore she leaves, she takes out some ropes from her luggage and ties two knots in the same fashion as the ones she found, hanging one at the door and the other at the windows.\n'Thanks for the hospitality!'\nIt is bright and sunny outside. Looking back, she realizes that the hut is quite old and battered. She thanks the hut and looks up at the sky.\n'Thank you wind, thank you rain, for taking it easy—'\nA breeze sways the knots hanging in front of the windows, causing the chimes upon them to ring, perhaps in response, or perhaps in farewell.",
+          "name": "Color of the Wind",
           "cost": [
             [
               {
@@ -97806,12 +97806,12 @@
         },
         {
           "id": "uniequip_003_radian",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "SO",
           "type": "B",
           "icon": "uniequip_003_radian",
-          "description": "罗德岛活动室内，电弧正忙着操控机械给孩子们表演节目。\n“戴乌”们正排着队，慢慢穿过由“赛柯”围成的圆环，“桑特拉”在半空中盘旋，时不时躲开想要拍落它的调皮孩子，并将塑料子弹弹射到他们脑袋上。\n使用源石技艺同时操纵十几个机械做精密的动作是一件很耗费精神的事，所以她暂时没有理会队员为她带来的那份简报。毕竟，如果那份简报真的那么重要，她们两个早就该约好时间在会议室里碰头，而不是在这样一个充满童趣的房间相遇，然后谈论一些大煞风景的事。\n几分钟之后，表演谢幕，用于演出的机械成了孩子们手中的玩具，电弧则和自己的队员找了两个矮凳排排坐，并自然地接过了她手中的任务简报。\n“辛苦了，玛瑙。”一只机械臂轻轻拍了下这位特种干员的脑袋。她条件反射般地想要躲避，但，或许是有什么超越本能的想法又遏制住了身体，她最终没有躲开，沉默地接受了这份褒奖。\n电弧快速扫过简报上的内容，随后将之收到了随身口袋里。\n“又是外勤任务呢，准备好了吗，玛瑙？”\n玛瑙并没有回答，她拍了拍自己的匕首。\n“那我该去做准备了，等我一会儿哦。”\n......\n玛瑙汇报完坐标后，电弧的机械们开始全力运作。\n“戴乌”群悬浮着出现在敌人的视野中，当“赛柯”编组将铳弹射入敌人的后背，当“桑特拉”集群呼啸着打击逃亡者时，随着惨叫一起向玛瑙袭来的，却是这些机械与孩子们互动时的场景。\n能让孩子快乐的道具起初带给敌人的只有疑惑，而所有的隐蔽与干扰措施都掩盖不住人心中最纯粹的错愕，感知到这样的信号后，电弧便会将“孩子们的信使”送到敌人身边，宣告这场“游戏”的结束。\n清扫战场并不需要花费太多时间，玛瑙回来的时候，电弧还在审讯俘虏，没人能在她的手段下硬撑，这点玛瑙深有体会。毕竟她曾经也算是罗德岛的敌人，受过电弧的“亲切”接待，在得了矿石病登上罗德岛之后，又阴差阳错地成了电弧小队的队员。对于她的队长，玛瑙自认还是有些了解的。\n就像那些可爱又致命的机械，电弧行事也是温柔与冷酷并存的。只是，从前的她会毫不犹豫地展现乌萨斯寒冬般的严酷，而现在，寒冬化成了早春，融化的雪水将刺骨冰锥包裹其中，只在必要时将之取出。\n就在玛瑙愣神的时候，一架“戴乌”轻轻拱了拱她的身体，一抬头，电弧已经完成了审问，将晕过去的敌人藏在了隐蔽处，她已往前走了些，正在向玛瑙挥手。太阳西沉，将一道长长的影子拉到了玛瑙跟前——\n她走进了温暖的影子之中。",
-          "name": "新起点",
+          "description": "Raidian is busy putting on a show for the children in the Rhodes Island Activity Room.\n'Dives' line up neatly and pass through a ring of 'Cycles'. 'Centers' circle above the children trying to swat them down, fighting back with rubber bullet headshots.\nPerforming intricate actions with a dozen machines controlled with Arts is a highly demanding task, which is why she has not yet looked at the report her team member brought her. After all, if it were really so important, she would have made an appointment in the meeting room, not a room full of children where what they are about to discuss would be decidedly out-of-place.\nA few minutes later, the performance comes to a close, and the machines become toys in the children's hands. Raidian takes a seat in a corner with her team member and takes the mission report.\n'Thanks, Agate.' A mechanical arm pats the specialist operator's head. The operator almost instinctively flinches, but some other part of her brain quickly takes over, and she quietly accepts the gesture of approval.\nRaidian scans the report and puts it in her pocket.\n'Another field mission. Are you ready?'\nAgate answers by tapping her knife lightly.\n'Then I'll go prepare. Give me a minute.'\n...\nAs soon as Agate reports the coordinates, Raidian's machines begin operating with ruthless efficiency.\nAs Dives appear in the enemy's view, Cycles empty their munitions into the enemy's backs, and Centers dive towards fleeing enemies, however, Agate sees in her mind the scene of these machines playing with the children, even as the enemies' screams reach her ears.\nThe gadgets, once a source of joy for the children, now sow confusion among the enemies, then shock, and a fear that no stealth or interference can hide, and that's when Raidian would sense the signals and send the 'children's messengers' straight to the enemy's location, announcing the ending of the 'game'.\nCleaning up the battlefield does not take long, and Raidian was still interrogating the prisoners when Agate gets back. Agate knows it will not take long for the prisoners to break, for she herself was once an enemy of Rhodes Island, with first-hand experience of Raidian's 'hospitality'. As fate would have it, she would eventually become part of Raidian's team, after she contracted Oripathy and ended up on Rhodes Island. As such, she could claim more familiarity with her captain than most.\nJust like those adorable yet deadly machines, Raidian can be gentle and cold-hearted in equal measure. However, while she used to never hesitate to show a mercilessness as brutal as Ursus's winters, that piercing coldness is now wrapped in snowmelt of early spring, only to reveal itself when necessary.\nAgate is roused by a Dive that nudges her gently. She looks up to find that Raidian has finished her interrogation and tucked the unconscious enemies away in an inconspicuous location. She is waving at her from a short distance away. The sun sets in the west, dragging a long shadow in Agate's direction.\nShe walks forward, into the warm shadow.",
+          "name": "Start+",
           "cost": [
             [],
             [],
@@ -99560,7 +99560,7 @@
       ]
     },
     "char_4204_mantra": {
-      "cnOnly": true,
+      "cnOnly": false,
       "name": "Mantra",
       "profession": "Caster",
       "rarity": "TIER_6",
@@ -99678,7 +99678,7 @@
         {
           "id": "skchr_mantra_1",
           "icon": "skchr_mantra_1",
-          "name": "共鸣溃缩",
+          "name": "Resonance Collapse",
           "masteryCosts": [
             [
               {
@@ -99727,7 +99727,7 @@
         {
           "id": "skchr_mantra_2",
           "icon": "skchr_mantra_2",
-          "name": "意识联协",
+          "name": "Gestalt Consciousness",
           "masteryCosts": [
             [
               {
@@ -99776,7 +99776,7 @@
         {
           "id": "skchr_mantra_3",
           "icon": "skchr_mantra_3",
-          "name": "无言为真",
+          "name": "Truth Unchanted",
           "masteryCosts": [
             [
               {
@@ -99826,12 +99826,12 @@
       "modules": [
         {
           "id": "uniequip_002_mantra",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "PRI",
           "type": "X",
           "icon": "uniequip_002_mantra",
-          "description": "......综上所述，多种材质的尝试都以失败告终。\n最新进展：尝试依旧采用唱片刻录原理，以我的源石技艺进行辅助，在发信器内部线圈的表面稳定镀镍，并制造核心。新的施术单元原型会由Mantra在下一次模拟任务中配备，以验证它能否在一定程度上减轻她“说话”的负担。\n——Whitesmith，《关于尾部发信器式施术单元可行性研究的进展报告》\n【“响尾”的维护日志】\n需求描述：它不好用了，需要排查一下原因。\n送检记录：发信器式施术单元“响尾”的内部金属镀层严重磨损，已经影响施术效果。\n工程干员留言：翻了下之前的维护日志，都没人注意到她一直都带着这么重的施术单元上战场吗？虽然身体上的问题是医疗部要担心的，但把整整六个这样的玩意儿挂在尾巴上，跟用尾巴一直提着五十斤重的铅球也没什么区别了......\n解决方案：倾向在不影响功能的前提下调整材质，减轻施术单元重量。预计需要时间为一个月。\n需求描述：重新镀镍就行，急用。\n解决方案：重新镀镍。\n......\n【“响尾”的维护日志】\n需求描述：在战斗中损坏，需要修复。\n送检记录：“响尾”的三组发信器均受损、变形严重，无法继续使用。\n工程干员留言：这是直接把施术单元当成锤子用了吧？没想到它的超标重量还有这种应用场合。修复是不行了，原本制作这件施术单元的人已经不在工程部。\n解决方案：倾向参考现存研究报告和已损坏原型，制作新的发信器式施术单元。可继续使用金属镀层，更换核心结构。预计需要时间为三个月到半年不等。\n需求描述：是否可以完全复刻原本的核心结构？\n工程干员留言：抱歉，制作原核心结构的材料中包含一种独特的源石技艺产物，目前工程部无法完全复刻，只能尽量做到外表和功能相同。\n解决方案：这里是Mechanist。Whitesmith留下的文件都在我这里，我来想想办法吧。\n......\n【“中枢神经探测模块”的维护日志】\n需求描述：常规护理。\n送检记录：“中枢神经探测模块”的内部金属镀层有一定磨损。\n工程干员留言：看上去拆开进行常规护理就行。完全看不出来它已经使用这么久了，Mantra女士自己对它的日常护理也很到位啊。\n解决方案：常规的全套护理，预计需要时间两天，可按需缩短至半天。\n需求描述：在外勤任务中，不用急。\n工程干员留言：咦？不带施术单元出任务吗？\n需求描述：有通讯员。",
-          "name": "中枢神经探测模块",
+          "description": "...Experiments with various materials were unsuccessful.\nLatest update: Nickel-plating the internal coil of the transmitter, again using the same method as vinyl recording, supported by my Originium Arts, in order to create the core. Mantra will equip the prototype Arts units in her next simulated mission, in order to verify its ability to reduce her burden when she 'talks'.\n—Whitesmith, <i>Progress Report on the Viability Study of a Tail-Mounted Transmitter-Type Arts Unit</i>\n['Rattletail' Maintenance Log]\nRequest: Please troubleshoot—not working properly.\nMaintenance Report: The internal metal plating of the transmitter-type Arts unit 'Rattletail' is badly worn, negatively affecting Arts performance.\nEngineering Note: I looked through the previous maintenance logs. Has no one questioned the wisdom of lugging such a heavy Arts unit around in battle? Maybe this is more in the domain of Medical, but six of these things has got to be like fifty pounds, and she's carrying all that weight on her tail.\nAction: Propose replacing with alternative materials to reduce weight without affecting functionality. Estimated timeframe is one month.\nRequest: The need is urgent. Just reapply the nickel plating.\nAction: Nickel plating reapplied.\n......\n['Rattletail' Maintenance Log]\nRequest: Damaged in battle. Need repair urgently.\nMaintenance Report: All three transmitters damaged. Severe case warping. No longer operable.\nEngineering Note: Did she use it as a bludgeoning weapon? Guess there's one good thing that came out of all that weight. Repair is not possible: the original maker of the Arts unit is no longer in Engineering.\nAction: Propose building a new transmitter-type Arts unit with reference to existing research documents and the damaged prototype. Continue using metal plating, though the core structure will have to be replaced. Estimated timeframe is 3-6 months.\nRequest: Is it possible to fully recreate the original core structure?\nEngineering Note: Sorry, but the unique Originium Arts used to create the original core structure cannot be fully replicated. We can only recreate the appearance and functionality to the best of our abilities.\nAction: Mechanist here. I have Whitesmith's documents. I'll figure something out.\n...\n['Central Nerve Detection Module' Maintenance Log]\nRequest: Regular maintenance.\nMaintenance Report: Moderate wear to the internal metallic plating of the Central Nerve Detection Module.\nEngineering Note: Looks like a simple disassembly and routine maintenance job. Wouldn't have guessed how long it's been in the field if I didn't know. Operator Mantra really takes good care of it.\nAction: Regular full maintenance. Estimated timeframe is 2 days. Half-day rush processing possible if urgent.\nRequest: No rush, currently on field mission.\nEngineering Department Note: Without your Arts unit?\nRequest: Working with a communicator.",
+          "name": "Central Nerve Detection Module",
           "cost": [
             [
               {
@@ -99888,8 +99888,8 @@
       ]
     },
     "char_4207_branch": {
-      "cnOnly": true,
-      "name": "Веточки",
+      "cnOnly": false,
+      "name": "Vetochki",
       "profession": "Defender",
       "rarity": "TIER_5",
       "skillLevelUpCosts": [
@@ -99998,7 +99998,7 @@
         {
           "id": "skchr_branch_1",
           "icon": "skchr_branch_1",
-          "name": "绝境抵抗",
+          "name": "Desperate Resistance",
           "masteryCosts": [
             [
               {
@@ -100047,7 +100047,7 @@
         {
           "id": "skchr_branch_2",
           "icon": "skchr_branch_2",
-          "name": "生存决心",
+          "name": "Set on Survival",
           "masteryCosts": [
             [
               {
@@ -100097,12 +100097,12 @@
       "modules": [
         {
           "id": "uniequip_002_branch",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "UNY",
           "type": "X",
           "icon": "uniequip_002_branch",
-          "description": "“小树枝，希望信能送到。我们一切都好，麦田里也不像矿坑里那么吵。当初你该和我们一起走的，哈哈。祝愿你在罗德岛过得顺利。随信送上近照一张，整合运动的这些家伙居然还有照相机，来之前真没想到。”\n“折桠，听说你现在改叫这个名字了？你上次信里问的问题，我去找这里的工匠看过了，他们也不知道。天气不太好，我们要赶在下雨前多收割一些庄稼，这封信就写到这吧。”\n折桠拿起那张照片，照片上矿工们咧嘴大笑，可其中并没有雷尔金的身影。雷尔金呢？那块秒表是他送给自己的，为什么他不愿意写一封信来回答自己的疑问？\n折桠提起笔。\n“雷尔金老师，这封信我写给您。您送我的秒表突然不走了，我想知道是因为什么。您有空的话，可以写一封回信给我吗？”\n折桠看向那块秒表，猜测着它最初是属于谁的。雷尔金将这块秒表送给自己时，也没说过他是怎么得到它的，也许是来自一名死去的研究员。\n无论是雷尔金还是自己，都像这块表原本的主人一样爱护它，没在上面留下一丁点痕迹。想到这里，折桠愣了一下，又将秒表翻来覆去看了一遍。的确，上面并没有雷尔金留下的痕迹。\n回信不久便到了，折桠拆开信封，里面的内容却并非是她所期望的那样。\n“折桠，天啊，抱歉。我真的，不知道该如何说起......”\n......\n折桠摊开信纸，试图写下几个字。她写字一向很流畅，仿佛是作为口吃的一种补偿。但此刻，她的手却几乎要抓不住那支沉重的笔，她写下的笔画断断续续，像一句憋在心里讲不出来的话。她掐住自己的手腕，试图强迫它别再颤抖，但那没用。\n不！折桠扔下笔，推翻了工具箱，找出一把螺丝刀，她决定自己修好那块秒表。\n她并不熟悉这种精密的器械，她的手也不像往常那么稳。螺丝刀刮在光亮的金属外壳上，留下了一道刺眼的划痕。她和雷尔金长久以来试图维持的完美，在这一刻被打破了。\n折桠闭上了眼，但那封从边境寄来的信仍在她眼前浮现——\n“我们很少提起雷尔金了，但我们都没有忘记他。\n“他在前往乌卡边境的路上死去了。我们之前一直没有意识到，你还不知道这个消息。再次抱歉，小树枝。”\n......\n折桠用指尖一遍遍感受着表壳上的那道伤痕，直到它的触感不再那么令自己恐慌。\n她睁开眼，发现那道划痕像极了一道笔画。\n她用还在颤抖的手拿起螺丝刀，这一次，不是为了修好它，而是为了刻下几个名字。",
-          "name": "“时间的痕迹”",
+          "description": "'Hope this letter finds you well, Vetochki. We're doing good, and the wheat fields aren't as noisy as the mines. You should have come with us, haha. But I guess Rhodes Island is treating you well? There's a recent photo of us in the envelope. Who would have thought that these Reunion folks would have cameras?'\n'About the watch you mentioned in the last letter, I asked the craftsmen here, but they didn't know the reason either. Oh, the weather hasn't been great and we need to harvest the crops before it rains. Will write again later.'\nVetochki picks up the photo. There are miners laughing in it, but Rankin's figure is nowhere to be seen. The pocket watch was from Rankin. Why doesn't he write back himself?\nVetochki picks up a pen.\n'<i>Uchitel<i> Rankin: The pocket watch that you gave me has stopped working, and I'm not sure why. Could you write back when you have time?'\nVetochki looks at the watch, wondering whom it used to belong to. Rankin never said anything about how he came into possession of it. Perhaps it belonged to one of the researchers who died.\nBoth Rankin and herself have cared for the watch like its original owner, leaving not a single mark on it. Vetochki pauses and picks it up again. No, Rankin has left no mark upon it.\nThe reply letter arrived soon, but it was not what she had hoped to read.\n'Vetochki, I'm so sorry. I don't even know where to start...'\n...\nVetochki takes out a piece of paper and tries to write back. She has always been a smooth writer, without even a hint of the stuttering that plagues her speech, but right now the pen feels so heavy she can hardly even hold it. The lines she writes are broken, disconnected, like words stuffed into a corner of her heart. She grabs her own wrist and tries to stop the trembling, to no avail.\nNo! She tosses the pen aside and knocks over her toolbox. She finds a screwdriver and decides to fix the watch herself.\nShe is unfamiliar with precision instruments, and her hands are not as steady as they normally are. The screwdriver leaves a conspicuous mark on the shiny metal shell, breaking the perfection that she and Rankin had maintained.\nShe closes her eyes, but still sees the words in that letter.\n'We don't talk about Rankin much anymore, but we haven't forgotten about him.'\n'He died on the way to the Ursus-Kazimierz border. We didn't realize you didn't know. I'm so sorry, Vetochki.'\n...\nShe touches the mark on the shell with her fingertip, until the feeling no longer brings her fear.\nShe opens her eyes, and finds that it looks like part of a letter.\nHer hands still trembling, she picks up the screwdriver again, not to repair the watch, but to etch a couple of names upon it.",
+          "name": "'Marks of Time'",
           "cost": [
             [
               {
@@ -100159,8 +100159,8 @@
       ]
     },
     "char_4208_wintim": {
-      "cnOnly": true,
-      "name": "Снегурочка",
+      "cnOnly": false,
+      "name": "Snegurochka",
       "profession": "Vanguard",
       "rarity": "TIER_4",
       "skillLevelUpCosts": [
@@ -100265,7 +100265,7 @@
         {
           "id": "skchr_wintim_1",
           "icon": "skchr_wintim_1",
-          "name": "数据分析",
+          "name": "Data Analysis",
           "masteryCosts": [
             [
               {
@@ -100314,7 +100314,7 @@
         {
           "id": "skchr_wintim_2",
           "icon": "skchr_wintim_2",
-          "name": "循理归因",
+          "name": "Rational Attribution",
           "masteryCosts": [
             [
               {
@@ -100364,12 +100364,12 @@
       "modules": [
         {
           "id": "uniequip_002_wintim",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "AGE",
           "type": "X",
           "icon": "uniequip_002_wintim",
-          "description": "科谢尼娅：\n你关于石棺物质特性的研究报告我已经看过。\n实验操作没有问题，几个对照组选得都很准确，只是因为实验方向存在偏差，所以得不到你期望的结果。\n但我调取了你最近的科研日程，并没有发现石棺相关的任何安排。从你借用仪器的时间和系统权限的读取记录分析，我有理由怀疑你并没有和你的导师伊利亚同步这次实验。\n科谢尼娅，这是危险的，也是愚蠢的。\n你从帝国理工毕业，应该深知这片大地从不缺乏天赋异禀的人才，但越聪明的人，往往越容易被心中的执念所困。许多走在科研前沿的人，同样也是疯子和狂徒。\n当下石棺研究仍处于起步阶段，研究的前景和隐患尚不明晰。此时此刻，我们还无法确定石棺究竟会给我们带来什么。为了实验的安全，也是为了你的安全，我必须先取消你的高级权限，确保石棺相关的资料不会再向你开放。\n这不是对你能力的否认，恰恰相反，我担心的正是你有所突破，然后深陷其中。\n伊利亚曾多次和我讨论过你的培养方向，你大学的研究方向偏向能源应用，这是你接受帝国理工调剂专业的结果，却也是伊利亚选择你的原因。这所研究所的许多科研者都只盯着科学史上那屈指可数的桂冠，却从不在乎最终的成果会对这片大地上的多数人产生怎样的影响。\n科谢尼娅，你依然是一位有良知、有胆识的科研者，只是有时有些着急。后附的这些资料，是我多年来未曾完成的研究，你感兴趣的话，可以继续研究。如果你能有所突破，除了我，还有千千万万的人会感谢你。\n你很年轻，你的科研之路才刚刚开始。长路漫漫，共勉。\n——凯尔希\n......\n【申请结果通知】\n亲爱的冬时干员：\n你的申请表单已获批。\n凯尔希医生生前的部分研究数据已经向你开放权限，请在使用的过程中严格依照《罗德岛信息安全手册》操作，确保信息安全，防止机密数据泄露。\n本邮件由罗德岛医疗部系统自动发送，无需回复。",
-          "name": "缺角的权限",
+          "description": "Ksenia,\nI have reviewed your report on the physical nature of the Sarcophagus.\nThere were no issues with the way the experiment was conducted, and the selection of control groups was appropriate. The reason you failed to get the results you expected was because of certain biases in the direction of the experiment.\nHowever, I do not see anything associated with the Sarcophagus in your recent schedule. Based on your equipment and system access logs, I have reason to believe that this experiment was not conducted with the approval of Ilia, your supervisor.\nThis is dangerous and ill-advised, Ksenia.\nAs a graduate of the Imperial College of Science and Engineering, you must be aware that those with high intelligence have a tendency towards becoming trapped by their own obsessions. The cutting edge of science has no shortage of madmen.\nSarcophagus research is still in its infancy, its potential and risks unclear. We do not yet know what it can bring us. For the safety of the experiment, as well as your own, I am revoking your high-level privileges and denying you access to the associated data.\nDo not take this as a denial of your abilities. On the contrary, I fear you will make a breakthrough and find yourself trapped.\nIlia and I have spent much time discussing your development. Your university research focused on energy applications because the ICSE reassigned you to that major, and you accepted their plan. It is exactly the reason Ilia chose you. Too many researchers here have eyes only for that ultimate laurel, a place in the history of theoretical science, without consideration for the kind of impact their results will have on the people who live upon this land.\nAs a scientist, you are conscientious and bold, but sometimes prone to impatience. Enclosed you will find a research project that I have worked on for many years, but never managed to finish. Feel free to pick it up where I left off. You will earn the gratitude of far more than just myself, if you are able to make a breakthrough.\nYou are still young, and your career just begun. Have patience, and take heart.\n—Kal'tsit\n...\n[Request Approved]\nOperator Snegurochka:\nYour request has been approved.\nYou are hereby granted partial access to Dr. Kal'tsit's research data. Please follow the guidelines set out by the Rhodes Island Handbook on Information Security and take all necessary measures to protect confidential data.\nThis message was automatically generated by Rhodes Island Medical. Do not reply to this address.",
+          "name": "An Invalid Access Card",
           "cost": [
             [
               {
@@ -115848,6 +115848,14 @@
           "occPer": "ALWAYS"
         },
         {
+          "stageId": "main_16-01",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "main_16-01#s",
+          "occPer": "ALWAYS"
+        },
+        {
           "stageId": "main_15-07",
           "occPer": "ALWAYS"
         },
@@ -116651,6 +116659,14 @@
       "stageDropList": [
         {
           "stageId": "wk_melee_1",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "main_16-07",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "main_16-07#s",
           "occPer": "ALWAYS"
         },
         {
@@ -117645,6 +117661,14 @@
           "occPer": "USUAL"
         },
         {
+          "stageId": "main_16-15",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_16-15#s",
+          "occPer": "USUAL"
+        },
+        {
           "stageId": "main_15-15",
           "occPer": "USUAL"
         },
@@ -117707,6 +117731,14 @@
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
+        {
+          "stageId": "main_16-15",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_16-15#s",
+          "occPer": "SOMETIMES"
+        },
         {
           "stageId": "main_15-15",
           "occPer": "SOMETIMES"
@@ -119514,6 +119546,14 @@
           "occPer": "ALWAYS"
         },
         {
+          "stageId": "main_16-16",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_16-16#s",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "main_06-05",
           "occPer": "OFTEN"
         },
@@ -119641,6 +119681,14 @@
           "occPer": "USUAL"
         },
         {
+          "stageId": "main_16-03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_16-03#s",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "main_13-10",
           "occPer": "OFTEN"
         },
@@ -119711,6 +119759,14 @@
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
+        {
+          "stageId": "main_16-03",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_16-03#s",
+          "occPer": "SOMETIMES"
+        },
         {
           "stageId": "main_15-05",
           "occPer": "SOMETIMES"
@@ -120636,6 +120692,14 @@
           "occPer": "OFTEN"
         },
         {
+          "stageId": "main_16-04",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_16-04#s",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "main_13-14",
           "occPer": "OFTEN"
         },
@@ -120694,6 +120758,14 @@
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
+        {
+          "stageId": "main_16-04",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_16-04#s",
+          "occPer": "SOMETIMES"
+        },
         {
           "stageId": "main_15-11",
           "occPer": "SOMETIMES"
@@ -121615,6 +121687,14 @@
           "occPer": "OFTEN"
         },
         {
+          "stageId": "main_16-11",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_16-11#s",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "main_15-03",
           "occPer": "OFTEN"
         },
@@ -121685,6 +121765,14 @@
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
+        {
+          "stageId": "main_16-11",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_16-11#s",
+          "occPer": "SOMETIMES"
+        },
         {
           "stageId": "main_15-03",
           "occPer": "SOMETIMES"
@@ -122654,6 +122742,14 @@
           "occPer": "OFTEN"
         },
         {
+          "stageId": "main_16-02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_16-02#s",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "main_11-18",
           "occPer": "OFTEN"
         },
@@ -122692,6 +122788,14 @@
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
+        {
+          "stageId": "main_16-02",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_16-02#s",
+          "occPer": "SOMETIMES"
+        },
         {
           "stageId": "main_13-08",
           "occPer": "SOMETIMES"
@@ -123276,6 +123380,14 @@
           "occPer": "OFTEN"
         },
         {
+          "stageId": "main_16-10",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_16-10#s",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "main_14-04",
           "occPer": "OFTEN"
         },
@@ -123311,6 +123423,14 @@
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
+        {
+          "stageId": "main_16-10",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_16-10#s",
+          "occPer": "SOMETIMES"
+        },
         {
           "stageId": "main_14-04",
           "occPer": "SOMETIMES"
@@ -123434,6 +123554,14 @@
         },
         {
           "stageId": "main_07-08",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_16-05",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_16-05#s",
           "occPer": "OFTEN"
         },
         {
@@ -123841,6 +123969,14 @@
           "occPer": "OFTEN"
         },
         {
+          "stageId": "main_16-12",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_16-12#s",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "main_11-10",
           "occPer": "OFTEN"
         },
@@ -123884,6 +124020,14 @@
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
+        {
+          "stageId": "main_16-12",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_16-12#s",
+          "occPer": "SOMETIMES"
+        },
         {
           "stageId": "main_12-04",
           "occPer": "SOMETIMES"
@@ -123996,6 +124140,14 @@
         {
           "stageId": "act7d5_06",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_16-13",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_16-13#s",
+          "occPer": "USUAL"
         },
         {
           "stageId": "sub_03-3-1",
@@ -124216,6 +124368,14 @@
         },
         {
           "stageId": "main_08-13",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_16-16",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_16-16#s",
           "occPer": "USUAL"
         },
         {
@@ -124553,6 +124713,14 @@
           "occPer": "OFTEN"
         },
         {
+          "stageId": "main_16-06",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_16-06#s",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "main_15-06",
           "occPer": "OFTEN"
         },
@@ -124584,6 +124752,14 @@
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
+        {
+          "stageId": "main_16-06",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_16-06#s",
+          "occPer": "SOMETIMES"
+        },
         {
           "stageId": "main_15-06",
           "occPer": "SOMETIMES"
@@ -124690,6 +124866,14 @@
           "occPer": "OFTEN"
         },
         {
+          "stageId": "main_16-09",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_16-09#s",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "main_13-11",
           "occPer": "OFTEN"
         },
@@ -124729,6 +124913,14 @@
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
+        {
+          "stageId": "main_16-09",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_16-09#s",
+          "occPer": "SOMETIMES"
+        },
         {
           "stageId": "main_13-11",
           "occPer": "SOMETIMES"
@@ -124908,6 +125100,14 @@
           "occPer": "OFTEN"
         },
         {
+          "stageId": "main_16-14",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_16-14#s",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "main_14-17",
           "occPer": "OFTEN"
         },
@@ -124939,6 +125139,14 @@
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
+        {
+          "stageId": "main_16-14",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_16-14#s",
+          "occPer": "SOMETIMES"
+        },
         {
           "stageId": "main_15-18",
           "occPer": "SOMETIMES"
