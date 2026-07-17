@@ -1,7 +1,7 @@
 {
   "commitHashes": {
     "yostar": "57010cb5b2afea112cae57daa756b58676ba6850",
-    "cn": "634e7e7d12c9d099c55896d51b4cf8ef633fa2a5"
+    "cn": "6b6ac60fc30a16ff2c2aefc0889e94112dda8ed4"
   },
   "operators": {
     "char_002_amiya": {
@@ -106660,6 +106660,287 @@
                 "count": 120000
               }
             ]
+          ]
+        }
+      ]
+    },
+    "char_4230_mcnist": {
+      "cnOnly": true,
+      "name": "Mechanist",
+      "profession": "Defender",
+      "rarity": "TIER_6",
+      "skillLevelUpCosts": [
+        [
+          {
+            "id": "3301",
+            "count": 5
+          }
+        ],
+        [
+          {
+            "id": "3301",
+            "count": 5
+          },
+          {
+            "id": "30021",
+            "count": 5
+          },
+          {
+            "id": "30051",
+            "count": 4
+          }
+        ],
+        [
+          {
+            "id": "3302",
+            "count": 8
+          },
+          {
+            "id": "30032",
+            "count": 5
+          }
+        ],
+        [
+          {
+            "id": "3302",
+            "count": 8
+          },
+          {
+            "id": "30042",
+            "count": 4
+          },
+          {
+            "id": "30022",
+            "count": 3
+          }
+        ],
+        [
+          {
+            "id": "3302",
+            "count": 8
+          },
+          {
+            "id": "30103",
+            "count": 4
+          }
+        ],
+        [
+          {
+            "id": "3303",
+            "count": 8
+          },
+          {
+            "id": "31043",
+            "count": 5
+          },
+          {
+            "id": "30083",
+            "count": 3
+          }
+        ]
+      ],
+      "promotions": [
+        {
+          "maxLevel": 50,
+          "evolveCost": []
+        },
+        {
+          "maxLevel": 80,
+          "evolveCost": [
+            {
+              "id": "3231",
+              "count": 5
+            },
+            {
+              "id": "30062",
+              "count": 6
+            },
+            {
+              "id": "30022",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "maxLevel": 90,
+          "evolveCost": [
+            {
+              "id": "3233",
+              "count": 4
+            },
+            {
+              "id": "30115",
+              "count": 4
+            },
+            {
+              "id": "31054",
+              "count": 8
+            }
+          ]
+        }
+      ],
+      "skills": [
+        {
+          "id": "skchr_mcnist_1",
+          "icon": "skchr_mcnist_1",
+          "name": "聚类分析",
+          "masteryCosts": [
+            [
+              {
+                "id": "3303",
+                "count": 8
+              },
+              {
+                "id": "31074",
+                "count": 4
+              },
+              {
+                "id": "30013",
+                "count": 8
+              }
+            ],
+            [
+              {
+                "id": "3303",
+                "count": 12
+              },
+              {
+                "id": "31014",
+                "count": 4
+              },
+              {
+                "id": "31034",
+                "count": 7
+              }
+            ],
+            [
+              {
+                "id": "3303",
+                "count": 15
+              },
+              {
+                "id": "30155",
+                "count": 6
+              },
+              {
+                "id": "31104",
+                "count": 2
+              }
+            ]
+          ]
+        },
+        {
+          "id": "skchr_mcnist_2",
+          "icon": "skchr_mcnist_2",
+          "name": "协防术式",
+          "masteryCosts": [
+            [
+              {
+                "id": "3303",
+                "count": 8
+              },
+              {
+                "id": "31094",
+                "count": 4
+              },
+              {
+                "id": "30093",
+                "count": 6
+              }
+            ],
+            [
+              {
+                "id": "3303",
+                "count": 12
+              },
+              {
+                "id": "31114",
+                "count": 4
+              },
+              {
+                "id": "31064",
+                "count": 9
+              }
+            ],
+            [
+              {
+                "id": "3303",
+                "count": 15
+              },
+              {
+                "id": "30145",
+                "count": 6
+              },
+              {
+                "id": "31074",
+                "count": 1
+              }
+            ]
+          ]
+        },
+        {
+          "id": "skchr_mcnist_3",
+          "icon": "skchr_mcnist_3",
+          "name": "工程学十字星",
+          "masteryCosts": [
+            [
+              {
+                "id": "3303",
+                "count": 8
+              },
+              {
+                "id": "30014",
+                "count": 4
+              },
+              {
+                "id": "31023",
+                "count": 9
+              }
+            ],
+            [
+              {
+                "id": "3303",
+                "count": 12
+              },
+              {
+                "id": "31024",
+                "count": 4
+              },
+              {
+                "id": "30044",
+                "count": 7
+              }
+            ],
+            [
+              {
+                "id": "3303",
+                "count": 15
+              },
+              {
+                "id": "30165",
+                "count": 6
+              },
+              {
+                "id": "31114",
+                "count": 1
+              }
+            ]
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "id": "uniequip_002_mcnist",
+          "cnOnly": true,
+          "typeName1": "SO",
+          "type": "A",
+          "icon": "uniequip_002_mcnist",
+          "description": "精英干员机械师，特别外勤干员权限现已开放\n已为其配置集成战略系列任务定向战术选择\n特别颁发此证章\n以兹证明\n“协议成立。”",
+          "name": "机械师特勤证章",
+          "cost": [
+            [],
+            [],
+            []
           ]
         }
       ]
