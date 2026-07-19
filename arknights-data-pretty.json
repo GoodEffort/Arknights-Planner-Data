@@ -1,7 +1,7 @@
 {
   "commitHashes": {
-    "yostar": "57010cb5b2afea112cae57daa756b58676ba6850",
-    "cn": "6b6ac60fc30a16ff2c2aefc0889e94112dda8ed4"
+    "yostar": "{\"message\":\"API rate limit exceeded for 52.159.227.194. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n",
+    "cn": "{\"message\":\"API rate limit exceeded for 52.159.227.194. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)\",\"documentation_url\":\"https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting\"}\n"
   },
   "operators": {
     "char_002_amiya": {
