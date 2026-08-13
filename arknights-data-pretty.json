@@ -4109,12 +4109,12 @@
         },
         {
           "id": "uniequip_003_agoat2",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "WDM",
           "type": "Y",
           "icon": "uniequip_003_agoat2",
-          "description": "【名称】“棉花糖”3号\n【说明】辐射诱变处理后获得的火山预警花突变体，经过四代选育后性状基本稳定。在保留原品种优良性状的基础上获得了早花表型，且能够在开花期进行移栽。若土壤环境中的源石活性超过一定标准，茎秆切面处可快速观测到变色反应，相较原本的花瓣呈色辨识，能更快判定为火山喷发前兆。\n【栽培管理】为维持样本数量、保持其品种纯度并避免脱离实际环境，研究小组对“棉花糖”3号采用种植保存法进行种质资源保存。在莱塔尼亚威廉大学地质学院及罗德岛驻新汐斯塔办事处的支持下，其日常栽培管理工作已交由专人负责，但仍需定期检查以确保繁殖与保种栽培顺利进行，注意事项详见附录。\n【补充】上月起，当值人员报告称植株经常遭到不明生物啃食，查看监控却一无所获。阿黛尔小姐赶到现场勘察之后给出了如下建议和提醒，供相关人员参考：\n1.每日在新设置的餐桌上供应鲜草、水果和冰淇淋。水果和冰淇淋的种类需每日更换，一周内最好不要重复；\n2.休息室的电视机最好始终保持开启状态，另外，准时播放早八点的《汐嘻交通》、十二点的《火山厨房青少年版》和晚八点的《汐斯塔之恋》第十三季能够有效降低植株受损率（该节目清单将定期更新）；\n3.每日请注意清点个人物品，若发现物品遗失，可于次日在餐桌上额外放置棉花糖，并在隔日查看自己的口袋，若发现其中出现来路不明的物品，请报告并上交。\n面对仍然心存疑虑的工作人员，阿黛尔小姐留下了这样的话语——\n“别担心，它们没有恶意，只是有些好奇而已。有时候我会觉得......火山喷发时，熔岩沿着山脉奔腾而下，就像大地露出它的血管。那时我仿佛能听到一颗巨大的心脏在地底跳动，想要诉说什么，只是我们还听不懂。也许它们和我们一样，都在期待这些花朵经过一代又一代的培育后，蜕变成新的模样，为我们解读大地的话语呢。”",
-          "name": "想要留下的生命",
+          "description": "[Name] Marshmallow 3\n[Description] Radiation-induced mutations in Volcano Watchers stable after four generations of selective breeding, resulting in an early floral transition phenotype that retains positive traits of the original lineage, allowing for transplant during the flowering period. Rapid color change in stem cross-section observed when soil Originium levels above threshold, allowing for quicker detection of impending volcanic eruption compared to previous petal observation method.\n[Cultivation and Management] To ensure sample quality and quantity, and to maintain consistency with field environment, the research team employed genetic resource preservation, with regular cultivation managed by specialists with the support of Wilhelm University's College of Geology and the Rhodes Island office in New Siesta. Regular reviews are still required to ensure smooth cultivation and breeding. See the appendix for details.\n[Addendum] Staff reported that some kind of creature had been chewing the plants, but nothing appeared on the camera feeds. After a review, Adele provided the following recommendations:\n1. Put fresh grass, fruit, and ice cream on a dining table. There should be different fruits and ice cream each day, with no repetition in any given week;\n2. Keep the break room TV on at all times. Tune it to Siestan Traffic at 8 A.M., Volcano's Kitchen (Junior Edition) at noon, and Love in Siesta at 8 P.M. daily (program updated on a regular basis);\n3. Check your personal belongings daily; if anything is missing, place extra marshmallows on the dining table the following day and check your own pocket the day after. Report and hand in any unknown items you find.\nFor staff members who were still skeptical, Adele left these words—\n'There's no malice in it; they're just curious. Sometimes I can't help but think... The lava running down the mountainside when a volcano erupts is like the land's exposed blood vessel. You can almost hear a massive heart beating underground, trying to tell us something, only we don't understand yet. Perhaps they, like us, are hoping that these flowers will grow and evolve, and translate the language of Terra for us.'",
+          "name": "Life I Want to Retain",
           "cost": [
             [
               {
@@ -10101,12 +10101,12 @@
         },
         {
           "id": "uniequip_003_jesca2",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "SPT",
           "type": "Y",
           "icon": "uniequip_003_jesca2",
-          "description": "“杰西卡姐姐......”\r\n她躲在治安官身后，打量着帐篷里的不速之客。\r\n蓬头垢面，衣衫褴褛，活像只沾满泥土的破布袋。桌上一片狼藉，显然已遭洗劫。\r\n“别过来！”\r\n亡命徒紧攥刀柄的手指干枯发黑，上面附着黑色的结晶。\r\n她应该是要害怕的——但她看到治安官的手自然垂下，手铳就在咫尺间。\r\n就在上月，她在野外迎面遇上了一头裂兽，等反应过来时它已扑到面前。\r\n然而，一声铳响，裂兽就倒在了地上，她只看到治安官把铳收回铳套，随后走上前来，将她拥入怀中。\r\n所以她不害怕。她知道治安官随时能像对待那头裂兽一样对待眼前的人。\r\n但治安官迟迟没有动作。\r\n“您......喜欢巧克力吗？”\r\n“......什么？”\r\n“我和孩子们也很喜欢，商队经过时总会买些。不过......壶里的水已经凉了吧？热的会更好喝。”\r\n她顺着治安官手指的方向看去。凌乱的桌上，唯独陶瓷杯摆得稳稳当当，一旁躺着被仓促撕开的包装。\r\n“晚上营地里会有些烤肉和啤酒，当然，也可以有热巧克力。也许......您可以一起？”\r\n她听治安官这样说道。\r\n\r\n当晚，这个生面孔出现在了篝火旁。\r\n“你怎么知道他不是坏人？”\r\n“我不知道，所以我会看紧他的。”\r\n“可妈妈说，拓荒地有很多坏人......”\r\n“也会有需要帮助的人。恶劣的气候、匮乏的物资，还有各种毒虫猛兽......想在拓荒地生存下去是这样艰难，大家都很害怕，也很不安，所以总争先恐后拿起武器。”\r\n治安官摸了摸她的头。\r\n治安官曾俯身为那头倒下的裂兽阖上眼睛，那时她的眼神与此刻如出一辙。\r\n“有时候的确无可奈何，但至少此时此刻，在我力所能及的范围内......我希望一杯热巧克力能比子弹管用。”\r\n女孩最终半信半疑地回到篝火旁。\r\n那个“不知是不是坏人”的人最初缩在角落，风卷残云般将盘中的食物一扫而空，对所有投来或错愕或警戒目光的人怒目而视。只是，后来大家唱起歌时，她注意到他听了一会儿，竟也跟着小声哼唱起来。\r\n我孤身一人漂泊至此，身无分文♪\r\n家乡在身后，千里之遥♪",
-          "name": "未曾风化",
+          "description": "'Jessica...'\nShe hid behind the sheriff, watching the unexpected visitor in the tent.\nThe man's clothes were tattered and his face dirty. He looked like a broken linen bag that had been dragged through mud. The desk had been ransacked.\n'Stay away!'\nThe desperate man clutched his knife with black and withered fingers. There were black crystals on them.\nShe should be afraid, but she saw the sheriff lower her hand, very close to her gun.\nShe remembered how she ran into a mangler in the wild last month, which had surprised her with no time to react.\nThat's when she heard a loud crack, and saw the mangler fall lifeless to the ground. The sheriff then put her gun back in its holster, and pulled her into her embrace.\nShe was not afraid. She knew the sheriff could easily do to this man what she did to the mangler.\nBut the sheriff did not make a move.\n'...Do you like cocoa?'\n'...What?'\n'The kids and I love it too. We always buy some whenever the caravans pass by. But the water in the bottle has gotten cool, hasn't it? Hot cocoa will taste better.'\nHer eyes followed the sheriff's pointing finger. A mug sat serenely amidst the mess on the table, a small torn-open packet next to it.\n'We're having barbecue and beer at the camp tonight. We'll have hot cocoa too. Would you care to join us?'\nShe heard the sheriff say to the man.\n\nA new face joined the campfire that night.\n'How'd you know he wasn't a bad guy?'\n'I don't. That's why I'm keeping a close eye on him.'\n'Mom said there are loads of bad people out on the frontier...'\n'And loads of people who need help, too. Harsh weather, few supplies, dangerous wildlife... Life on the frontier is hard. People are scared, which is why they take up arms.'\nThe sheriff patted her head.\nShe had the same look in her eyes as when she closed the eyes of the mangler.\n'Sometimes you don't get a choice. But right here, right now, where it's within my power... it's my hope that a cup of hot cocoa can do more than a bullet.'\nThe girl returned to the campfire, still harboring doubts.\nAt first, the man who may or may not be a bad guy simply devoured the food on his plate and glared at anyone who looked at him too long. But when the others began to sing, she saw him listening for a while before beginning to hum softly.\nI wandered here alone, not a penny to my name♪\nMy hometown far behind me, miles and miles away♪",
+          "name": "Unweathered",
           "cost": [
             [
               {
@@ -41004,12 +41004,12 @@
         },
         {
           "id": "uniequip_003_haak",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "GEE",
           "type": "Y",
           "icon": "uniequip_003_haak",
-          "description": "“还想要这条胳膊的话，就坐好别乱动。”\n被喝止的后勤干员尴尬地坐回板凳，如果不是自己的伤......他绝不会来求助阿。\n“再提醒我一下，你怎么受伤的来着？”\n“帮工程部训练新研发的格斗机器人时摔伤了。”\n“摔伤怎么会有这么长一根钢钉插进胳膊里？”\n“不是插进去的。”干员的声音越来越小，“是上周医疗部做手术时植入的。”\n“嗯？”\n“骨折手术，同一条胳膊，同样的原因。”干员挠挠头，“请别说出去，谁被机器人揍了都会不甘心的。”\n阿夸张地笑了两声。\n“好了，准备开始吧。可能有点疼。”\n“等等，我还没——啊啊！”\n干员的目光在这间屋子里来回搜寻，试图找点什么分散注意力。然后，他看到了摊在桌上的一本残破的笔记，上面的字迹狂乱得像是咒语：\n“百种毒物，熬至无渣，取其澄液，避光避热。”\n阿从保温杯里抽出一管幽蓝色的液体。\n“于心脉三寸处，注入。”\n阿狠狠将针头扎下。\n“见血，便封喉！”\n“等一下——”干员怒吼出声，冷汗如雨落下。\n阿啧了一声，用毛巾塞住了他的嘴。\n干员再度醒来时，胳膊上的伤口处只剩下一道浅浅的缝合痕迹。\n阿悠然开口：“反其道而行之，阻断神经传导，剂量减半，转死为生。”\n“那、那本笔记？”干员重新向桌上望去，笔记已不见踪迹。\n“哦，那其实是本账簿。谁欠了谁的命，谁要杀谁，怎么杀，上面都记得很清楚。可惜里面提到的人和写它的人都死了。”\n“那我的胳膊......”\n“没事了，我顺便帮你增强了一下全身肌肉爆发力，现在那台机器人肯定打不过你了。”阿说，“不过嘛，既然是全身肌肉，当然也包括横膈膜之类的组织。”\n“什么——嗝儿，什么意思？”\n“意思就是你会像现在这样一刻不停地打嗝，连续打上两三周，哈哈！你要是不喜欢打嗝，我也可以再想想办法。对了，相比于打嗝，你会更愿意肠道气体从其他地方不受控制地排出吗？”\n话音未落，病人便已打着嗝慌张逃走。阿拍了拍自己的外套口袋，毒医留下的残卷此刻就静静地待在里面。\n他似是自言自语，又似是向谁以难得一见的耐心慢慢解释：\n“老东西以为抓住了那些人的把柄就能活得长久，结果呢？死得比谁都难看。\n“我就不一样了，我治好他们，或者玩坏他们，全看心情。这本子唯一的用处，就是用来涂鸦。哦对了，还有提醒我，别活得像他那么累。”",
-          "name": "毒医残章",
+          "description": "'Sit still if you still want to keep your arm.'\nThe logistics operator sits back on the bench, embarrassed. He would not have come to Aak if he hadn't hurt his arm.\n'Tell me again how you got hurt?'\n'I fell while helping Engineering train their new fighting robot.'\n'And how'd that end up with you getting a metal rod stuck in there?'\n'It didn't.' The operator's voice gets lower and lower. 'Medical put that in during last week's surgery.'\n'Oh?'\n'Fracture. Same arm, same reason.' The operator scratches his head. 'Please don't tell anyone. I just couldn't get over getting punched by that robot.'\nAak lets out a couple of exaggerated laughs.\n'Let's begin. This may hurt a little.'\n'Wait, I haven't—arrrggghhh!'\nThe operator's gaze searches the room for something to distract himself with. He finds a tattered notebook open on the table, the wild scribblings on it like some kind of magical incantation:\n'Simmer a hundred poisonous things until any solids are fully dissolved. Extract the clear liquid and keep it away from heat or light sources.'\nAak takes out a tube of an eerie blue liquid from an insulated container.\n'Insert it three inches above the artery.'\nAak stabs with the needle.\n'One drop of blood, and death is assured!'\n'Wait—' The operator cries out, sweating profusely.\nAak clicks his tongue and stuffs a towel in the operator's mouth.\nWhen the operator wakes up again, he sees that the wound on his arm has been sewn up.\nAak says, 'Do the opposite, sever the nerve conduction, and cut the dosage in half to reverse death.'\n'Th-That notebook?' The operator looks again at the desk. The notebook was gone.\n'Oh, it's a ledger, a record of lives owed. It tells who killed who, and how they did it. But the writer and everyone mentioned in it are already dead.'\n'Then, my arm...'\n'Is fine. I gave all your muscles an explosive boost. That robot will be no match for you now,' says Aak. 'But I do mean <i>all</i> your muscles, including involuntary ones like your diaphragm.'\n'What—*hic* What do you mean?'\n'It means you'll be hiccupping like that for a couple of weeks. If you'd rather not, there are other options. Maybe you'd prefer the gas in your intestines to be expelled uncontrollably?'\nHe barely finishes his sentence before the patient flees, still hiccupping as he runs. Aak pats his pocket where the rogue doctor's notes lay.\nHe speaks softly, as though whispering to himself, but also as though he were slowly explaining to someone with rare patience:\n'The old man thought he'd live for a long time because he had something on those people. But he's the one who ended up dying in the worst way.\n'I'm different. I heal them or break them on a whim. The only use I have for this notebook is for doodling, and as a reminder not to live such a tedious life.'",
+          "name": "Remnant of the Malpractice",
           "cost": [
             [
               {
@@ -70735,7 +70735,7 @@
       ]
     },
     "char_4031_liesel": {
-      "cnOnly": true,
+      "cnOnly": false,
       "name": "Ripresa",
       "profession": "Caster",
       "rarity": "TIER_5",
@@ -70845,7 +70845,7 @@
         {
           "id": "skchr_liesel_1",
           "icon": "skchr_liesel_1",
-          "name": "合奏起拍",
+          "name": "Conductor's Cue",
           "masteryCosts": [
             [
               {
@@ -70894,7 +70894,7 @@
         {
           "id": "skchr_liesel_2",
           "icon": "skchr_liesel_2",
-          "name": "直到终曲",
+          "name": "Al Fine",
           "masteryCosts": [
             [
               {
@@ -70944,12 +70944,12 @@
       "modules": [
         {
           "id": "uniequip_002_liesel",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "SPC",
           "type": "Y",
           "icon": "uniequip_002_liesel",
-          "description": "指挥棒划过面前铜板上乐谱的最后一个音符，演出结束在延绵不断的掌声中。莉泽尔像往常一样，转身向观众致意，她的目光掠过台下，却感受到了一丝莫名的异样。那是一位与葆拉年纪相仿的卡普里尼女士，眼神中藏匿着些许不安，又带着某种压抑住的欣喜——像是在聆听某种已经远去的、只有自己才能听见的旋律。\n这首欢快明亮的曲子为何会带来这样的情绪？这是葆拉妈妈心仪的曲子，她缠着葆拉妈妈花了好几个月才弄清那些调式里的细节，因为她沉醉于其中的奔放和随性，像无边无际原野上的舞者一般无拘无束。葆拉妈妈还告诉她，不必执着于准确性，想象自己被抛入云层中的空灵感觉......\n“谢谢你，我以为......我以为我再也听不到这样的曲子了。\n“我在家乡的街角听过相似的旋律，那是我听过的最自由的声音，但是，警卫后来赶跑了那个流浪的老乐师......\n“那些高塔乐师说，这样的音乐乖张走板，是对至高艺术的亵渎。只有没受过正统训练的乐师才会视其为......美。\n“但是，美是某种可以被谁定义的东西吗......？”\n女士沉默许久，那个莉泽尔未曾踏足的地方，似乎潜藏着某些不能言说的痛楚，那或许是葆拉妈妈当年来到新沃尔西尼的原因之一。她想起葆拉妈妈曾经在誊抄的乐谱旁写下她的感悟：\n表达和审美从来不是任何人的特权，热爱也无法被阻挡。不必害怕责难和审视，只要愿意尽情挥洒，人们便能在平等中相逢，那些热爱会促成团结，人们会因此走到一起，凝聚出新的事物。\n那时莉泽尔还不太懂，她只觉得这些话很美好，很温暖，就像葆拉妈妈本人一样。如今，面对这位女士眼中的渴望和哀伤，她突然明白，这首葆拉妈妈最喜欢的曲子，也承载着她建立乐团的信念，并不是因为它足够优美，而是因为这是热爱着音乐的乐师们内心的声音，拿起乐器，便值得被倾听。\n她距离葆拉妈妈又近了一步。\n“我的母亲从莱塔尼亚离开，带着这首曲子来到这里，将它教给了我。既然它走到了能够被人们听见的地方，乐团也会让它值得被倾听。”\n莉泽尔伸出手。\n“欢迎来到新沃尔西尼，下次演出，我们还会演奏它。”\n面前的女士笑了，那是个很轻的笑容，像是有什么困惑烟消云散了。\n“谢谢......我会来的。”\n莉泽尔目送女士离去，她想起葆拉妈妈站在指挥台上的样子，想起乐谱上的那行小字——\n献给所有乐师。\n莉泽尔·梅明格深吸一口气，抬起头。\n明天，还有明天的演出要准备。",
-          "name": "“暮约”",
+          "description": "The conductor's baton brushes past the last note on the score, and the performance concludes to fervent applause. As usual, Liesel turns around to bow, but someone in the audience catches her eye. It is a Caprinae woman, around the same age as Paola, with both anxiety and suppressed joy in her eyes, as though she were listening to some distant melody only she could hear.\nWhy would this bright, uplifting piece bring about such emotions? It was Paola's favorite work, and Liesel had pestered her for months before she figured out the details, for she had been fascinated by the music's freedom and spontaneity, unbound like a dancer upon the vast plains. Paola had told her not to be obsessed with accuracy, but to imagine the floating sensation of being thrown to the clouds...\n'Thank you. I thought I would never hear music like that again.\n'I used to hear such melodies from street corners in my hometown. It was the most unrestrained sound I'd ever heard. But then the wandering musician was chased off by the guards.\n'The musicians of the spires say that such dissonance is an affront to art, that it is only beautiful to the untrained.\n'But... is beauty something that can be so arbitrarily defined?'\nThe woman falls silent. There seemed to be some kind of unspeakable pain there, hidden where Liesel could not tread. Perhaps it was the very reason Paola came to Nuovo Volsinii. She recalls Paola's comments in the margins of a copied score:\nExpression and beauty are not privileges, and nothing can stop true passion. Do not be fazed by criticism and scrutiny. Express yourself to your heart's delight, and we shall meet in equality. Passion will create unity, and we will come together to make new things.\nLiesel had not understood at the time. All she knew was that the words were beautiful and warm, just like Paola herself. Now, seeing the longing and sorrow in this woman's eyes, she realizes that the reason this piece was Paola's favorite was not because of the beauty of the music itself, but because it represented the voices of the musicians who loved music, and Paola's own vision when she founded the orchestra. Everyone who expresses themselves through their instrument deserves to be listened to.\nThis brings her one step closer to Paola.\n'My mother left Leithanien, brought this music here, and taught it to me. Now that it's where people can hear it, this orchestra will make sure it deserves to be heard.'\nLiesel extends her hand.\n'Welcome to Nuova Volsinii. We'll perform it again next time.'\nThe woman smiles, a faint smile as if her doubts have faded away.\n'Thank you... I'll come again.'\nAs Liesel watches the woman leave, she recalls how Paola stood upon the podium, and the dedication on the score—\nTo all musicians.\nLiesel Memminger takes a deep breath and looks up.\nShe must prepare for tomorrow's performance.",
+          "name": "'Dusk Covenant'",
           "cost": [
             [
               {
@@ -71548,7 +71548,7 @@
       ]
     },
     "char_4037_demetr": {
-      "cnOnly": true,
+      "cnOnly": false,
       "name": "Bellone",
       "profession": "Guard",
       "rarity": "TIER_6",
@@ -71666,7 +71666,7 @@
         {
           "id": "skchr_demetr_1",
           "icon": "skchr_demetr_1",
-          "name": "家主的余裕",
+          "name": "A Don's Plenty",
           "masteryCosts": [
             [
               {
@@ -71715,7 +71715,7 @@
         {
           "id": "skchr_demetr_2",
           "icon": "skchr_demetr_2",
-          "name": "军师的手段",
+          "name": "An Advisor's Tricks",
           "masteryCosts": [
             [
               {
@@ -71764,7 +71764,7 @@
         {
           "id": "skchr_demetr_3",
           "icon": "skchr_demetr_3",
-          "name": "清算",
+          "name": "Riscossione",
           "masteryCosts": [
             [
               {
@@ -71814,12 +71814,12 @@
       "modules": [
         {
           "id": "uniequip_002_demetr",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "FGT",
           "type": "Y",
           "icon": "uniequip_002_demetr",
-          "description": "即使是现在，在新沃尔西尼的私人酒吧里为自己调酒时，德米特里偶尔还是会想起在贝洛内家最后一次与大家共进晚餐的那个夜晚。\n那天他刚去见了安插在罗塞蒂家族的线人，回到家里，餐桌上已经布好了晚餐的前菜，不是什么特殊的日子，但又很难得，莱昂从建设部回来了，贝纳尔多和拉维妮娅也在。不知从什么时候起，大家像这样齐聚在一起，坐在桌边的次数就越来越少了。\n他在为他预留了餐具的座位前坐下，自然而然地说起了自己查访到的情报，但贝纳尔多看了一眼面色沉下来的拉维妮娅，打断了他。他知道拉维妮娅与其他有家族支持的法官不同，对叙拉古的“家族”有一些别的想法，但他当时觉得，迟早有一天她也会成为贝洛内家的一员，只是贝纳尔多认为还没到时候，所以有些话不适合在她面前说。\n他决定晚些再找贝纳尔多单独汇报。这些日子以来，贝纳尔多向他直接发布的命令已逐渐减少，更多时候，贝纳尔多会任由他自主行动，因此这些情报都是他自行搜集的。随着新移动城市建设逐渐完成，各个家族蠢蠢欲动，他认为有必要掌握其他家族的动向，这是他作为贝洛内家军师应当承担的职责。他将向贝纳尔多证明，自己是个合格的军师，值得托付家族的未来。\n炖肉和汤端上来之后，他掏出随身的匕首为席间的众人切了肉，又分了汤。罗塞蒂家族的动向带来的沉重气氛在此时已经消散，莱昂兴致勃勃地讲起了他在建设部的见闻，拉维妮娅时不时会点评几句，贝纳尔多虽然没有多说什么，但偶尔也会点头表示赞同。建设部是个被众多家族盯着的地方，那些所见所闻里同样掺杂着叙拉古常见的家族争斗带来的血腥与暴力，但不知为何，当它们从莱昂的嘴里说出来的时候，又带着一些希望与朝气，似乎未来会有全新的变化，与从前完全不同。\n在当时的德米特里看来，莱昂说的话透着一股天真。但这也没什么不好，未来的家主当然应该多接触各种不同的人和事，这样当他继承贝洛内家时，就能更好地纵观全局，做出最清晰明确的指示，同时也能更好地体谅与关怀家族里的每一个成员，让贝洛内家继续发展壮大。尽管莱昂现在的道路多少有些偏离他的预想，但德米特里相信，在自己的辅佐与培养之下，总有一天，莱昂会成为最完美的家族领袖，而到了那时，他将与他手中的匕首一样，成为莱昂最实用的工具。\n如今想来，那一天晚上，真正天真的人恐怕只有他自己。\n德米特里用匕首将冰块切成圆球，放入面前的酒杯之中。这把匕首跟随了他许多年，至今依然实用，他也同样如此。",
-          "name": "实用的工具",
+          "description": "Even now, as he blends drinks in his private bar in Nuova Volsinii, Demetri occasionally thinks back to the last time they were gathered around the dinner table of the Bellones' house.\nHe had met with his informant in the Famiglia Rossati earlier that day, and returned home to see the dinner table already set up. It was not a particularly special day, but it was a rare one: Leon was back from the Ministero dei Lavori Pubblici, and both Bernardo and Lavinia were home. Such occasions had become hard to come by.\nHe sat down in his usual seat and began to talk about the information he had garnered, but Bernardo took a glance at the look on Lavinia's face and interrupted him. He knew that Lavinia, unlike the other famiglia-backed judges, had her own ideas about the mafiosi of Siracusa, but assumed the day would eventually come when she truly became a part of Bellone. That Bernardo only meant that now was not the time.\nHe decided to give his report later that night. The information gathering operation had been Demetri's own idea. Bernardo had been giving him fewer orders recently, allowing him to act on his own judgment most of the time. The famiglie were stirring as the new city neared completion, and he felt the need to be aware of their movements. It was his duty as the advisor to the Bellones, after all. He would prove to Bernardo that he was worthy to carry the famiglia's future.\nHe carved the stewed meat with his knife and served the soup for the others. The heavy atmosphere brought about by his news of Rossati's movements had dissipated—Leon was chatting excitedly about what he saw at the Ministero dei Lavori Pubblici, with the occasional comment by Lavinia. Bernardo said little, but nodded from time to time. The Ministero dei Lavori Pubblici has long been closely watched by the famiglie, and those experiences were of no doubt mixed with bloodshed and violence, yet Leon's words seemed to carry hope and expectation, as though they were heralding a brand-new future that was completely different from the past.\nDemetri thought his words were naive. Not that there was anything wrong with naivete, of course. It was only natural that the future Don should expand his horizons, so that when the time came to take over, he would have the vision to see the big picture and choose the best course of action. He would have to understand and take care of all of the famiglia's members, and ensure Bellone's continued prosperity. Though Leon's path had deviated somewhat from his expectations, Demetri had believed that he would groom Leon into the perfect Don, at which point he and his knife would become the Don's perfect tools.\nThinking back now, perhaps he was the truly naive one.\nDemetri cuts the ice cube into a sphere with his knife, and places it into the glass. This knife has been with him for so many years and remains a useful instrument to this day; he is much the same.",
+          "name": "The Instrument",
           "cost": [
             [
               {
@@ -122215,6 +122215,22 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
+          "stageId": "act20mini_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act20mini_02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act20mini_03",
+          "occPer": "ALMOST"
+        },
+        {
+          "stageId": "act20mini_04",
+          "occPer": "ALMOST"
+        },
+        {
           "stageId": "act49side_01",
           "occPer": "USUAL"
         },
@@ -122227,7 +122243,7 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act40side_03",
+          "stageId": "act40side_01",
           "occPer": "USUAL"
         },
         {
@@ -122235,15 +122251,15 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act40side_01",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act48side_02",
+          "stageId": "act40side_03",
           "occPer": "USUAL"
         },
         {
           "stageId": "act48side_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act48side_02",
           "occPer": "USUAL"
         },
         {
@@ -122275,7 +122291,7 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act46side_01",
+          "stageId": "act46side_03",
           "occPer": "USUAL"
         },
         {
@@ -122283,7 +122299,11 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act46side_03",
+          "stageId": "act46side_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act37side_01",
           "occPer": "USUAL"
         },
         {
@@ -122295,15 +122315,11 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act37side_01",
+          "stageId": "act45side_02",
           "occPer": "USUAL"
         },
         {
           "stageId": "act45side_01",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act45side_02",
           "occPer": "USUAL"
         },
         {
@@ -122315,10 +122331,6 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act35side_03",
-          "occPer": "USUAL"
-        },
-        {
           "stageId": "act35side_01",
           "occPer": "USUAL"
         },
@@ -122327,11 +122339,7 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act19mini_01",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act19mini_02",
+          "stageId": "act35side_03",
           "occPer": "USUAL"
         },
         {
@@ -122343,7 +122351,11 @@
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act34side_01",
+          "stageId": "act19mini_02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act19mini_01",
           "occPer": "USUAL"
         },
         {
@@ -122351,7 +122363,7 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act43side_01",
+          "stageId": "act34side_01",
           "occPer": "USUAL"
         },
         {
@@ -122359,11 +122371,15 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act42side_02",
+          "stageId": "act43side_01",
           "occPer": "USUAL"
         },
         {
           "stageId": "act42side_03",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act42side_02",
           "occPer": "USUAL"
         },
         {
@@ -122379,16 +122395,12 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act41side_02",
-          "occPer": "USUAL"
-        },
-        {
           "stageId": "act41side_01",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act18mini_04",
-          "occPer": "ALMOST"
+          "stageId": "act41side_02",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act18mini_03",
@@ -122403,8 +122415,8 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act31side_01",
-          "occPer": "USUAL"
+          "stageId": "act18mini_04",
+          "occPer": "ALMOST"
         },
         {
           "stageId": "act31side_03",
@@ -122412,6 +122424,14 @@
         },
         {
           "stageId": "act31side_02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act31side_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act30side_03",
           "occPer": "USUAL"
         },
         {
@@ -122423,14 +122443,6 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act30side_03",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act29side_01",
-          "occPer": "USUAL"
-        },
-        {
           "stageId": "act29side_02",
           "occPer": "USUAL"
         },
@@ -122439,7 +122451,7 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act36side_02",
+          "stageId": "act29side_01",
           "occPer": "USUAL"
         },
         {
@@ -122447,7 +122459,7 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act28side_01",
+          "stageId": "act36side_02",
           "occPer": "USUAL"
         },
         {
@@ -122456,6 +122468,10 @@
         },
         {
           "stageId": "act28side_02",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act28side_01",
           "occPer": "USUAL"
         },
         {
@@ -122479,19 +122495,11 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act27side_02",
-          "occPer": "USUAL"
-        },
-        {
           "stageId": "act27side_01",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act26side_01",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act26side_02",
+          "stageId": "act27side_02",
           "occPer": "USUAL"
         },
         {
@@ -122499,11 +122507,11 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act25side_02",
+          "stageId": "act26side_02",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act25side_03",
+          "stageId": "act26side_01",
           "occPer": "USUAL"
         },
         {
@@ -122511,12 +122519,20 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act17d0_02",
-          "occPer": "ALMOST"
+          "stageId": "act25side_03",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act25side_02",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act17d0_03",
           "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act17d0_02",
+          "occPer": "ALMOST"
         },
         {
           "stageId": "act17d0_01",
@@ -122531,11 +122547,15 @@
           "occPer": "USUAL"
         },
         {
+          "stageId": "act22side_02",
+          "occPer": "USUAL"
+        },
+        {
           "stageId": "act22side_01",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act22side_02",
+          "stageId": "act23side_03",
           "occPer": "USUAL"
         },
         {
@@ -122547,11 +122567,7 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act23side_03",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act16mini_02",
+          "stageId": "act16mini_01",
           "occPer": "USUAL"
         },
         {
@@ -122563,15 +122579,15 @@
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act16mini_01",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act19side_02",
+          "stageId": "act16mini_02",
           "occPer": "USUAL"
         },
         {
           "stageId": "act19side_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act19side_02",
           "occPer": "USUAL"
         },
         {
@@ -122583,11 +122599,11 @@
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act15mini_02",
+          "stageId": "act15mini_01",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act15mini_01",
+          "stageId": "act15mini_02",
           "occPer": "USUAL"
         },
         {
@@ -122607,20 +122623,16 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act16side_03",
+          "stageId": "act16side_02",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act16side_02",
+          "stageId": "act16side_03",
           "occPer": "USUAL"
         },
         {
           "stageId": "act16side_01",
           "occPer": "USUAL"
-        },
-        {
-          "stageId": "act14mini_04",
-          "occPer": "ALMOST"
         },
         {
           "stageId": "act14mini_03",
@@ -122635,11 +122647,11 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act15side_02",
-          "occPer": "USUAL"
+          "stageId": "act14mini_04",
+          "occPer": "ALMOST"
         },
         {
-          "stageId": "act15side_03",
+          "stageId": "act15side_02",
           "occPer": "USUAL"
         },
         {
@@ -122647,7 +122659,11 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act14side_03",
+          "stageId": "act15side_03",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act14side_01",
           "occPer": "USUAL"
         },
         {
@@ -122655,7 +122671,7 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act14side_01",
+          "stageId": "act14side_03",
           "occPer": "USUAL"
         },
         {
@@ -122671,11 +122687,11 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act13mini_04",
+          "stageId": "act13mini_03",
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act13mini_03",
+          "stageId": "act13mini_04",
           "occPer": "ALMOST"
         },
         {
@@ -122684,10 +122700,6 @@
         },
         {
           "stageId": "act13mini_01",
-          "occPer": "USUAL"
-        },
-        {
-          "stageId": "act12mini_01",
           "occPer": "USUAL"
         },
         {
@@ -122703,7 +122715,15 @@
           "occPer": "USUAL"
         },
         {
+          "stageId": "act12mini_01",
+          "occPer": "USUAL"
+        },
+        {
           "stageId": "act11mini_04",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act18d3_03",
           "occPer": "ALWAYS"
         },
         {
@@ -122711,15 +122731,7 @@
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act18d3_03",
-          "occPer": "ALWAYS"
-        },
-        {
           "stageId": "act18d3_01",
-          "occPer": "ALMOST"
-        },
-        {
-          "stageId": "act10mini_04",
           "occPer": "ALMOST"
         },
         {
@@ -122729,6 +122741,10 @@
         {
           "stageId": "act10mini_01",
           "occPer": "USUAL"
+        },
+        {
+          "stageId": "act10mini_04",
+          "occPer": "ALMOST"
         },
         {
           "stageId": "act10mini_02",
@@ -123304,6 +123320,22 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
+          "stageId": "act20mini_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act20mini_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act20mini_03",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act20mini_04",
+          "occPer": "USUAL"
+        },
+        {
           "stageId": "act49side_01",
           "occPer": "OFTEN"
         },
@@ -123316,7 +123348,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act40side_03",
+          "stageId": "act40side_01",
           "occPer": "OFTEN"
         },
         {
@@ -123324,15 +123356,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act40side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act48side_02",
+          "stageId": "act40side_03",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act48side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act48side_02",
           "occPer": "OFTEN"
         },
         {
@@ -123364,7 +123396,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act46side_01",
+          "stageId": "act46side_03",
           "occPer": "OFTEN"
         },
         {
@@ -123372,7 +123404,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act46side_03",
+          "stageId": "act46side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act37side_01",
           "occPer": "OFTEN"
         },
         {
@@ -123384,15 +123420,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act37side_01",
+          "stageId": "act45side_02",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act45side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act45side_02",
           "occPer": "OFTEN"
         },
         {
@@ -123404,10 +123436,6 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act35side_03",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act35side_01",
           "occPer": "OFTEN"
         },
@@ -123416,11 +123444,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act19mini_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act19mini_02",
+          "stageId": "act35side_03",
           "occPer": "OFTEN"
         },
         {
@@ -123432,7 +123456,11 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act34side_01",
+          "stageId": "act19mini_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act19mini_01",
           "occPer": "OFTEN"
         },
         {
@@ -123440,7 +123468,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act43side_01",
+          "stageId": "act34side_01",
           "occPer": "OFTEN"
         },
         {
@@ -123448,11 +123476,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act42side_02",
+          "stageId": "act43side_01",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act42side_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act42side_02",
           "occPer": "OFTEN"
         },
         {
@@ -123468,16 +123500,12 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act41side_02",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act41side_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act18mini_04",
-          "occPer": "USUAL"
+          "stageId": "act41side_02",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act18mini_03",
@@ -123492,8 +123520,8 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act31side_01",
-          "occPer": "OFTEN"
+          "stageId": "act18mini_04",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act31side_03",
@@ -123501,6 +123529,10 @@
         },
         {
           "stageId": "act31side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act31side_01",
           "occPer": "OFTEN"
         },
         {
@@ -123520,11 +123552,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act29side_03",
+          "stageId": "act29side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act29side_02",
+          "stageId": "act29side_03",
           "occPer": "OFTEN"
         },
         {
@@ -123536,15 +123568,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act28side_01",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act28side_03",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act28side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act28side_01",
           "occPer": "OFTEN"
         },
         {
@@ -123556,11 +123588,15 @@
           "occPer": "USUAL"
         },
         {
+          "stageId": "act17mini_02",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "act17mini_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act17mini_02",
+          "stageId": "act27side_01",
           "occPer": "OFTEN"
         },
         {
@@ -123572,15 +123608,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act27side_01",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act26side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act26side_02",
           "occPer": "OFTEN"
         },
         {
@@ -123588,7 +123616,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act25side_03",
+          "stageId": "act26side_02",
           "occPer": "OFTEN"
         },
         {
@@ -123600,11 +123628,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act17d0_02",
-          "occPer": "USUAL"
+          "stageId": "act25side_03",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act17d0_01",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act17d0_02",
           "occPer": "USUAL"
         },
         {
@@ -123616,11 +123648,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act22side_01",
+          "stageId": "act22side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act22side_02",
+          "stageId": "act22side_01",
           "occPer": "OFTEN"
         },
         {
@@ -123636,10 +123668,6 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act16mini_02",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act16mini_04",
           "occPer": "USUAL"
         },
@@ -123648,15 +123676,19 @@
           "occPer": "USUAL"
         },
         {
+          "stageId": "act16mini_02",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "act16mini_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act19side_02",
+          "stageId": "act19side_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act19side_01",
+          "stageId": "act19side_02",
           "occPer": "OFTEN"
         },
         {
@@ -123668,15 +123700,11 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act15mini_02",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act15mini_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act20side_02",
+          "stageId": "act15mini_02",
           "occPer": "OFTEN"
         },
         {
@@ -123684,7 +123712,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act18side_02",
+          "stageId": "act20side_02",
           "occPer": "OFTEN"
         },
         {
@@ -123692,7 +123720,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act16side_02",
+          "stageId": "act18side_02",
           "occPer": "OFTEN"
         },
         {
@@ -123704,11 +123732,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act14mini_03",
-          "occPer": "USUAL"
+          "stageId": "act16side_02",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act14mini_04",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act14mini_03",
           "occPer": "USUAL"
         },
         {
@@ -123720,19 +123752,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act15side_02",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act15side_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act15side_01",
+          "stageId": "act15side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act14side_03",
+          "stageId": "act15side_01",
           "occPer": "OFTEN"
         },
         {
@@ -123741,6 +123769,10 @@
         },
         {
           "stageId": "act14side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act14side_03",
           "occPer": "OFTEN"
         },
         {
@@ -123756,23 +123788,19 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act13mini_04",
-          "occPer": "USUAL"
+          "stageId": "act13mini_02",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act13mini_03",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act13mini_02",
-          "occPer": "OFTEN"
+          "stageId": "act13mini_04",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act13mini_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act12mini_01",
           "occPer": "OFTEN"
         },
         {
@@ -123788,31 +123816,35 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act11mini_03",
-          "occPer": "ALWAYS"
+          "stageId": "act12mini_01",
+          "occPer": "OFTEN"
         },
         {
-          "stageId": "act18d3_01",
-          "occPer": "USUAL"
+          "stageId": "act11mini_03",
+          "occPer": "ALWAYS"
         },
         {
           "stageId": "act18d3_02",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act10mini_03",
+          "stageId": "act18d3_01",
           "occPer": "USUAL"
-        },
-        {
-          "stageId": "act10mini_02",
-          "occPer": "OFTEN"
         },
         {
           "stageId": "act10mini_01",
           "occPer": "OFTEN"
         },
         {
+          "stageId": "act10mini_02",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "act10mini_04",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act10mini_03",
           "occPer": "USUAL"
         },
         {
@@ -124391,6 +124423,22 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
+          "stageId": "act20mini_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act20mini_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act20mini_03",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "act20mini_04",
+          "occPer": "USUAL"
+        },
+        {
           "stageId": "act49side_01",
           "occPer": "OFTEN"
         },
@@ -124407,11 +124455,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act40side_03",
+          "stageId": "act40side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act40side_02",
+          "stageId": "act40side_03",
           "occPer": "OFTEN"
         },
         {
@@ -124423,11 +124471,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act39side_02",
+          "stageId": "act39side_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act39side_01",
+          "stageId": "act39side_02",
           "occPer": "OFTEN"
         },
         {
@@ -124443,19 +124491,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act38side_02",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act38side_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act46side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act46side_02",
+          "stageId": "act38side_02",
           "occPer": "OFTEN"
         },
         {
@@ -124463,15 +124503,23 @@
           "occPer": "OFTEN"
         },
         {
+          "stageId": "act46side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act46side_01",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "act37side_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act37side_02",
+          "stageId": "act37side_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act37side_03",
+          "stageId": "act37side_02",
           "occPer": "OFTEN"
         },
         {
@@ -124483,11 +124531,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act44side_02",
+          "stageId": "act44side_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act44side_01",
+          "stageId": "act44side_02",
           "occPer": "OFTEN"
         },
         {
@@ -124507,16 +124555,16 @@
           "occPer": "USUAL"
         },
         {
+          "stageId": "act19mini_04",
+          "occPer": "USUAL"
+        },
+        {
           "stageId": "act19mini_02",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act19mini_01",
           "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act19mini_04",
-          "occPer": "USUAL"
         },
         {
           "stageId": "act34side_02",
@@ -124547,19 +124595,19 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act33side_02",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act33side_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act41side_02",
+          "stageId": "act33side_02",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act41side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act41side_02",
           "occPer": "OFTEN"
         },
         {
@@ -124595,11 +124643,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act30side_02",
+          "stageId": "act30side_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act30side_01",
+          "stageId": "act30side_02",
           "occPer": "OFTEN"
         },
         {
@@ -124615,11 +124663,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act36side_01",
+          "stageId": "act36side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act36side_02",
+          "stageId": "act36side_01",
           "occPer": "OFTEN"
         },
         {
@@ -124687,11 +124735,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act17d0_02",
+          "stageId": "act17d0_01",
           "occPer": "USUAL"
         },
         {
-          "stageId": "act17d0_01",
+          "stageId": "act17d0_02",
           "occPer": "USUAL"
         },
         {
@@ -124963,6 +125011,10 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
+          "stageId": "act20mini_05",
+          "occPer": "ALWAYS"
+        },
+        {
           "stageId": "act49side_06",
           "occPer": "ALWAYS"
         },
@@ -125011,12 +125063,12 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act43side_05",
-          "occPer": "USUAL"
-        },
-        {
           "stageId": "act43side_04",
           "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "act43side_05",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act42side_07",
@@ -125462,6 +125514,22 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
+          "stageId": "act20mini_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act20mini_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act20mini_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act20mini_04",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "act49side_01",
           "occPer": "OFTEN"
         },
@@ -125478,11 +125546,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act40side_03",
+          "stageId": "act40side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act40side_02",
+          "stageId": "act40side_03",
           "occPer": "OFTEN"
         },
         {
@@ -125494,11 +125562,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act39side_02",
+          "stageId": "act39side_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act39side_01",
+          "stageId": "act39side_02",
           "occPer": "OFTEN"
         },
         {
@@ -125514,19 +125582,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act38side_02",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act38side_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act46side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act46side_02",
+          "stageId": "act38side_02",
           "occPer": "OFTEN"
         },
         {
@@ -125534,15 +125594,23 @@
           "occPer": "OFTEN"
         },
         {
+          "stageId": "act46side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act46side_01",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "act37side_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act37side_02",
+          "stageId": "act37side_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act37side_03",
+          "stageId": "act37side_02",
           "occPer": "OFTEN"
         },
         {
@@ -125554,11 +125622,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act44side_02",
+          "stageId": "act44side_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act44side_01",
+          "stageId": "act44side_02",
           "occPer": "OFTEN"
         },
         {
@@ -125578,15 +125646,15 @@
           "occPer": "OFTEN"
         },
         {
+          "stageId": "act19mini_04",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "act19mini_02",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act19mini_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act19mini_04",
           "occPer": "OFTEN"
         },
         {
@@ -125618,19 +125686,19 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act33side_02",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act33side_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act41side_02",
+          "stageId": "act33side_02",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act41side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act41side_02",
           "occPer": "OFTEN"
         },
         {
@@ -125666,11 +125734,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act30side_02",
+          "stageId": "act30side_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act30side_01",
+          "stageId": "act30side_02",
           "occPer": "OFTEN"
         },
         {
@@ -125686,11 +125754,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act36side_01",
+          "stageId": "act36side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act36side_02",
+          "stageId": "act36side_01",
           "occPer": "OFTEN"
         },
         {
@@ -125758,11 +125826,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act17d0_02",
+          "stageId": "act17d0_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act17d0_01",
+          "stageId": "act17d0_02",
           "occPer": "OFTEN"
         },
         {
@@ -126517,6 +126585,22 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
+          "stageId": "act20mini_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act20mini_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act20mini_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act20mini_04",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "act49side_01",
           "occPer": "OFTEN"
         },
@@ -126529,15 +126613,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act40side_01",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act40side_03",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act40side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act40side_01",
           "occPer": "OFTEN"
         },
         {
@@ -126569,11 +126653,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act38side_02",
+          "stageId": "act38side_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act38side_03",
+          "stageId": "act38side_02",
           "occPer": "OFTEN"
         },
         {
@@ -126581,11 +126665,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act46side_02",
+          "stageId": "act46side_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act46side_03",
+          "stageId": "act46side_02",
           "occPer": "OFTEN"
         },
         {
@@ -126601,11 +126685,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act45side_02",
+          "stageId": "act45side_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act45side_01",
+          "stageId": "act45side_02",
           "occPer": "OFTEN"
         },
         {
@@ -126629,6 +126713,10 @@
           "occPer": "OFTEN"
         },
         {
+          "stageId": "act19mini_04",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "act19mini_03",
           "occPer": "OFTEN"
         },
@@ -126638,10 +126726,6 @@
         },
         {
           "stageId": "act19mini_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act19mini_04",
           "occPer": "OFTEN"
         },
         {
@@ -126661,11 +126745,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act42side_03",
+          "stageId": "act42side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act42side_02",
+          "stageId": "act42side_03",
           "occPer": "OFTEN"
         },
         {
@@ -126717,15 +126801,15 @@
           "occPer": "OFTEN"
         },
         {
+          "stageId": "act30side_01",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "act30side_03",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act30side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act30side_01",
           "occPer": "OFTEN"
         },
         {
@@ -126741,11 +126825,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act36side_01",
+          "stageId": "act36side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act36side_02",
+          "stageId": "act36side_01",
           "occPer": "OFTEN"
         },
         {
@@ -126761,10 +126845,6 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act17mini_04",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act17mini_03",
           "occPer": "OFTEN"
         },
@@ -126777,11 +126857,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act27side_03",
+          "stageId": "act17mini_04",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act27side_01",
+          "stageId": "act27side_03",
           "occPer": "OFTEN"
         },
         {
@@ -126789,7 +126869,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act26side_02",
+          "stageId": "act27side_01",
           "occPer": "OFTEN"
         },
         {
@@ -126797,11 +126877,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act26side_01",
+          "stageId": "act26side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act25side_01",
+          "stageId": "act26side_01",
           "occPer": "OFTEN"
         },
         {
@@ -126809,11 +126889,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act25side_02",
+          "stageId": "act25side_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act17d0_02",
+          "stageId": "act25side_02",
           "occPer": "OFTEN"
         },
         {
@@ -126821,11 +126901,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act32side_01",
+          "stageId": "act17d0_02",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act32side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act32side_01",
           "occPer": "OFTEN"
         },
         {
@@ -126849,19 +126933,19 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act16mini_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act16mini_04",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act16mini_03",
           "occPer": "OFTEN"
         },
         {
+          "stageId": "act16mini_01",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "act16mini_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act16mini_04",
           "occPer": "OFTEN"
         },
         {
@@ -126897,15 +126981,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act18side_02",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act18side_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act16side_03",
+          "stageId": "act18side_02",
           "occPer": "OFTEN"
         },
         {
@@ -126917,11 +126997,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act14mini_04",
+          "stageId": "act16side_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act14mini_03",
+          "stageId": "act14mini_04",
           "occPer": "OFTEN"
         },
         {
@@ -126933,11 +127013,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act15side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act15side_01",
+          "stageId": "act14mini_03",
           "occPer": "OFTEN"
         },
         {
@@ -126945,7 +127021,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act14side_02",
+          "stageId": "act15side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act15side_02",
           "occPer": "OFTEN"
         },
         {
@@ -126953,11 +127033,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act14side_01",
+          "stageId": "act14side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act13side_01",
+          "stageId": "act14side_01",
           "occPer": "OFTEN"
         },
         {
@@ -126965,15 +127045,11 @@
           "occPer": "OFTEN"
         },
         {
+          "stageId": "act13side_01",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "act13side_03",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act13mini_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act13mini_02",
           "occPer": "OFTEN"
         },
         {
@@ -126985,7 +127061,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act12mini_04",
+          "stageId": "act13mini_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act13mini_01",
           "occPer": "OFTEN"
         },
         {
@@ -126993,11 +127073,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act12mini_02",
+          "stageId": "act12mini_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act12mini_01",
+          "stageId": "act12mini_04",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act12mini_02",
           "occPer": "OFTEN"
         },
         {
@@ -127005,15 +127089,19 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act18d3_02",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act18d3_01",
           "occPer": "OFTEN"
         },
         {
+          "stageId": "act18d3_02",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "act18d0_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act10mini_03",
           "occPer": "OFTEN"
         },
         {
@@ -127026,10 +127114,6 @@
         },
         {
           "stageId": "act10mini_04",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act10mini_03",
           "occPer": "OFTEN"
         },
         {
@@ -127588,6 +127672,22 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
+          "stageId": "act20mini_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act20mini_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act20mini_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act20mini_04",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "act49side_01",
           "occPer": "OFTEN"
         },
@@ -127600,7 +127700,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act40side_03",
+          "stageId": "act40side_01",
           "occPer": "OFTEN"
         },
         {
@@ -127608,15 +127708,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act40side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act48side_02",
+          "stageId": "act40side_03",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act48side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act48side_02",
           "occPer": "OFTEN"
         },
         {
@@ -127648,7 +127748,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act46side_01",
+          "stageId": "act46side_03",
           "occPer": "OFTEN"
         },
         {
@@ -127656,7 +127756,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act46side_03",
+          "stageId": "act46side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act37side_01",
           "occPer": "OFTEN"
         },
         {
@@ -127668,15 +127772,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act37side_01",
+          "stageId": "act45side_02",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act45side_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act45side_02",
           "occPer": "OFTEN"
         },
         {
@@ -127688,10 +127788,6 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act35side_03",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act35side_01",
           "occPer": "OFTEN"
         },
@@ -127700,11 +127796,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act19mini_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act19mini_02",
+          "stageId": "act35side_03",
           "occPer": "OFTEN"
         },
         {
@@ -127716,7 +127808,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act34side_01",
+          "stageId": "act19mini_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act19mini_01",
           "occPer": "OFTEN"
         },
         {
@@ -127724,7 +127820,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act43side_01",
+          "stageId": "act34side_01",
           "occPer": "OFTEN"
         },
         {
@@ -127732,11 +127828,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act42side_02",
+          "stageId": "act43side_01",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act42side_03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act42side_02",
           "occPer": "OFTEN"
         },
         {
@@ -127752,15 +127852,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act41side_02",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act41side_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act18mini_04",
+          "stageId": "act41side_02",
           "occPer": "OFTEN"
         },
         {
@@ -127776,7 +127872,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act31side_01",
+          "stageId": "act18mini_04",
           "occPer": "OFTEN"
         },
         {
@@ -127788,11 +127884,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act30side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act30side_01",
+          "stageId": "act31side_01",
           "occPer": "OFTEN"
         },
         {
@@ -127800,7 +127892,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act29side_01",
+          "stageId": "act30side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act30side_01",
           "occPer": "OFTEN"
         },
         {
@@ -127812,7 +127908,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act36side_02",
+          "stageId": "act29side_01",
           "occPer": "OFTEN"
         },
         {
@@ -127820,7 +127916,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act28side_01",
+          "stageId": "act36side_02",
           "occPer": "OFTEN"
         },
         {
@@ -127829,6 +127925,10 @@
         },
         {
           "stageId": "act28side_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act28side_01",
           "occPer": "OFTEN"
         },
         {
@@ -127852,15 +127952,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act27side_02",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act27side_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act26side_01",
+          "stageId": "act27side_02",
           "occPer": "OFTEN"
         },
         {
@@ -127872,15 +127968,19 @@
           "occPer": "OFTEN"
         },
         {
+          "stageId": "act26side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act25side_01",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "act25side_03",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act25side_02",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act25side_01",
           "occPer": "OFTEN"
         },
         {
@@ -127900,11 +128000,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act22side_01",
+          "stageId": "act22side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act22side_02",
+          "stageId": "act22side_01",
           "occPer": "OFTEN"
         },
         {
@@ -127920,7 +128020,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act16mini_02",
+          "stageId": "act16mini_01",
           "occPer": "OFTEN"
         },
         {
@@ -127932,15 +128032,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act16mini_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act19side_02",
+          "stageId": "act16mini_02",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act19side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act19side_02",
           "occPer": "OFTEN"
         },
         {
@@ -127952,15 +128052,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act15mini_02",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act15mini_01",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act20side_02",
+          "stageId": "act15mini_02",
           "occPer": "OFTEN"
         },
         {
@@ -127968,7 +128064,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act18side_02",
+          "stageId": "act20side_02",
           "occPer": "OFTEN"
         },
         {
@@ -127976,7 +128072,7 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act16side_02",
+          "stageId": "act18side_02",
           "occPer": "OFTEN"
         },
         {
@@ -127988,11 +128084,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act14mini_03",
+          "stageId": "act16side_02",
           "occPer": "OFTEN"
         },
         {
           "stageId": "act14mini_04",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act14mini_03",
           "occPer": "OFTEN"
         },
         {
@@ -128004,19 +128104,15 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act15side_02",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act15side_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act15side_01",
+          "stageId": "act15side_02",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act14side_03",
+          "stageId": "act15side_01",
           "occPer": "OFTEN"
         },
         {
@@ -128025,6 +128121,10 @@
         },
         {
           "stageId": "act14side_01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act14side_03",
           "occPer": "OFTEN"
         },
         {
@@ -128040,11 +128140,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act13mini_04",
+          "stageId": "act13mini_03",
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act13mini_03",
+          "stageId": "act13mini_04",
           "occPer": "OFTEN"
         },
         {
@@ -128053,10 +128153,6 @@
         },
         {
           "stageId": "act13mini_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act12mini_01",
           "occPer": "OFTEN"
         },
         {
@@ -128072,27 +128168,23 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "act11mini_01",
-          "occPer": "USUAL"
+          "stageId": "act12mini_01",
+          "occPer": "OFTEN"
         },
         {
-          "stageId": "act18d3_01",
-          "occPer": "OFTEN"
+          "stageId": "act11mini_01",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act18d3_02",
           "occPer": "OFTEN"
         },
         {
+          "stageId": "act18d3_01",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "act18d0_01",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act10mini_04",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "act10mini_03",
           "occPer": "OFTEN"
         },
         {
@@ -128101,6 +128193,14 @@
         },
         {
           "stageId": "act10mini_02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act10mini_04",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act10mini_03",
           "occPer": "OFTEN"
         },
         {
@@ -128172,6 +128272,10 @@
       "itemType": "MATERIAL",
       "stageDropList": [
         {
+          "stageId": "act20mini_06",
+          "occPer": "ALMOST"
+        },
+        {
           "stageId": "act49side_04",
           "occPer": "OFTEN"
         },
@@ -128180,12 +128284,12 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act48side_03",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act48side_05",
           "occPer": "USUAL"
+        },
+        {
+          "stageId": "act48side_03",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act47side_04",
@@ -128224,12 +128328,12 @@
           "occPer": "ALMOST"
         },
         {
-          "stageId": "act43side_05",
-          "occPer": "USUAL"
-        },
-        {
           "stageId": "act43side_03",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "act43side_05",
+          "occPer": "USUAL"
         },
         {
           "stageId": "act42side_05",
@@ -128280,12 +128384,12 @@
           "occPer": "USUAL"
         },
         {
-          "stageId": "act23side_05",
-          "occPer": "OFTEN"
-        },
-        {
           "stageId": "act23side_06",
           "occPer": "USUAL"
+        },
+        {
+          "stageId": "act23side_05",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "act16mini_06",
@@ -129285,6 +129389,10 @@
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
+        {
+          "stageId": "act20mini_07",
+          "occPer": "OFTEN"
+        },
         {
           "stageId": "act38side_09",
           "occPer": "USUAL"
@@ -130473,6 +130581,10 @@
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
+        {
+          "stageId": "act20mini_08",
+          "occPer": "OFTEN"
+        },
         {
           "stageId": "act38side_10",
           "occPer": "USUAL"
