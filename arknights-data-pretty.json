@@ -6150,12 +6150,12 @@
         },
         {
           "id": "uniequip_004_ghost2",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "ISW",
           "type": "A",
           "icon": "uniequip_004_ghost2",
-          "description": "归溟幽灵鲨已获得特别认证许可\n根据外勤部门决议\n在集成战略行动中以改良策略应对敌人\n特别颁发此证章\n以兹证明\n“走向狂乱的死亡吧，害兽。”",
-          "name": "归溟幽灵鲨特限证章",
+          "description": "In light of special permissions granted, the Field Operations Department has hence passed the following resolution with respect to Specter the Unchained:\nWhere the entailing mission would fall under Integrated Strategies scope, this operator shall be pursuant to tactics of a reinforced nature in meeting the enemy.\nIn witness whereof,\nThis badge is hereby conferred upon the above named.\n'Die in madness, you pest.'",
+          "name": "Specter the Unchained's Specialized Badge",
           "cost": [
             [
               {
@@ -7467,12 +7467,12 @@
         },
         {
           "id": "uniequip_003_texas2",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "EXE",
           "type": "X",
           "icon": "uniequip_003_texas2",
-          "description": "新沃尔西尼夜色浓郁，德克萨斯接过交警手里的皮夹。\n“核验无误……谢天谢地，你确实有驾照！呃，我是说，谢谢配合，你可以回到……咦，你的车里刚才有别人吗？”\n德克萨斯看了一眼副驾驶。\n“是一个朋友。”\n片刻之后，德克萨斯平稳地开着车，和副驾驶座的人搭话：“刚才我有点担心。”乘客没有接话，她就自顾自地说了下去，“还好你坐的是副驾驶。差点以为你要开走我的新车。”\n“呵呵。”副驾驶座的人配合地笑了两声，百无聊赖地扫视着这辆车的内饰，簇新的皮革散发轻微的鞣制气味。这样的气味过去由坚韧的刀鞘、窄室的座椅、浸湿的绳索散发，现在却只显得这辆车的内饰风格经典、用料扎实。乘客摇下车窗，夜风洁净干燥。德克萨斯稍微拧大了音响的声音。\n乘客拿起放在仪表台上的驾照夹，正反看看，说：“你还真是好市民。”打开皮夹，左侧是和这辆车一样崭新的新沃尔西尼驾照，右侧的透明隔层里插着一张照片，照片上的人们站在这辆车前，德克萨斯被簇拥在中间，气氛好得不能再好。\n“人还挺齐。”乘客评价道。\n“提车的时候拍的。可颂专门查了天气，说怕下雨，新车刚开出来就脏了。”德克萨斯说。\n乘客捻了捻照片，发现下面还有一张，指尖用力把紧贴着皮面的纸片抽了出来，挑了挑眉毛。她看见了自己。\n醉醺醺的拉普兰德靠在吧台上，德克萨斯比了个胜利的手势，和前一张“朋友聚会”上的手势别无二致。如出一辙的无聊。\n德克萨斯扶着方向盘，余光瞥见了那张照片，说：“你喝输了的那次拍的。”\n“我记着呢。”拉普兰德拈着那张照片，笑眯眯地说。“原来放在这里啊。看来我也是你的‘好朋友’之一了？”她问，语气轻快。\n“是啊。”德克萨斯变道超过了前车，平静地回答。\n拉普兰德笑出了声：“没关系没关系，我已经接受你就和我想象的一样无聊这个事实了。”\n“嗯，你习惯习惯吧。”德克萨斯点了点头。\n“方便停车吗？”拉普兰德彬彬有礼地发问，“兜风很愉快。我自己的照片，我就拿走了。”\n德克萨斯把车靠边，说：“哦，照片我洗了两张，你直接从遮阳板里拿吧。”",
-          "name": "“新车和新生活”",
+          "description": "Night has fallen upon Nuova Volsinii as Texas takes the wallet back from the traffic cop.\n'Everything seems to be in order... Thank goodness you actually have a license! I mean, thank you for your cooperation. You can go back to... hey, was there always someone else in your car?'\nTexas takes a glance at the passenger seat.\n'A friend.'\nA few minutes later, Texas talks to her passenger as she drives steadily down the road. 'You know, I was worried for a moment.' The passenger does not answer. Texas continues, 'Good thing you were sitting in the passenger seat, or I'd have thought you were driving away with my new car.'\n'Haha.' The passenger laughs dryly and surveys the car's interior with a bored look. The brand-new leather still has the lingering scent of the tanning process, which once represented hardened sheathes, chairs in narrow rooms, and soaked ropes. Now, it represents classical style and quality. The passenger rolls down the window to let in the clean and dry night breeze, while Texas turns up the radio.\nThe passenger takes the license holder from the dashboard and examines it. 'You're a good citizen alright.' On the left side of the wallet is a Nuova Volsinii license as new as the car itself, while on the right side is a photo with several people standing in front of the car. Texas is in the middle, and everyone wears bright smiles.\n'Quite the roster,' remarks the passenger.\n'We took it when I picked up the car. Croissant made sure to check the weather, worried that the new car would get dirty in the rain,' says Texas.\nThe passenger fiddles with the photo and finds another one beneath it. She raises an eyebrow as she pulls it out. Her own face is in it.\nIn the photo, an inebriated Lappland is leaning against the bar counter, while Texas makes a V-sign towards the camera, the same boring gesture she made in the 'gathering of friends' photo.\nHer hands still on the steering wheel, Texas glances at the photo and says, 'That was the time you lost a drinking contest.'\n'I remember,' Lappland says with a grin as she holds the photo. 'So this is where you kept it. I guess I'm one of your 'friends' too?' she asks lightly.\n'Yes,' Texas answers calmly as she changes lanes to pass a car.\nLappland laughs. 'It's alright. I've already come to terms with the fact that you're just as boring as I thought you were.'\n'Get used to it,' Texas nods.\n'Could you pull over somewhere?' Lappland asks politely. 'It was a nice ride. I'll take the photo of myself with me.'\nTexas pulls over and replies, 'I printed two of them. You can take the one in the sun visor.'",
+          "name": "'New Car and New Life'",
           "cost": [
             [
               {
@@ -9749,7 +9749,7 @@
           "type": "A",
           "icon": "uniequip_004_swire2",
           "description": "In light of special permissions granted,\nthe Field Operations Department has hence passed the following resolution with respect to Swire the Elegant Wit:\nWhere the entailing mission would fall under Integrated Strategies scope, this operator shall be pursuant to tactics of a reinforced nature in meeting the enemy.\nIn witness whereof,\nThis badge is hereby conferred upon the above named.\n'For crying out loud, you wasted my time, you punk!'",
-          "name": "Swire the Elegant Wit's Badge",
+          "name": "Swire the Elegant Wit's Specialized Badge",
           "cost": [
             [
               {
@@ -15567,8 +15567,8 @@
       ]
     },
     "char_1052_kalts2": {
-      "cnOnly": true,
-      "name": "Kal'tsit·Esperanta",
+      "cnOnly": false,
+      "name": "Kal'tsit Esperanta",
       "profession": "Medic",
       "rarity": "TIER_6",
       "skillLevelUpCosts": [
@@ -15685,7 +15685,7 @@
         {
           "id": "skchr_kalts2_1",
           "icon": "skchr_kalts2_1",
-          "name": "应急肃正防线",
+          "name": "Kriza Responda Bastiono",
           "masteryCosts": [
             [
               {
@@ -15734,7 +15734,7 @@
         {
           "id": "skchr_kalts2_2",
           "icon": "skchr_kalts2_2",
-          "name": "保护性拒止",
+          "name": "Repuŝado Defenda",
           "masteryCosts": [
             [
               {
@@ -15783,7 +15783,7 @@
         {
           "id": "skchr_kalts2_3",
           "icon": "skchr_kalts2_3",
-          "name": "破梏重生",
+          "name": "Renaskiĝo Malkatena",
           "masteryCosts": [
             [
               {
@@ -34124,12 +34124,12 @@
         },
         {
           "id": "uniequip_004_typhon",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "ISW",
           "type": "A",
           "icon": "uniequip_004_typhon",
-          "description": "提丰已获得特别认证许可\n根据外勤部门决议\n在集成战略行动中以改良策略应对敌人\n特别颁发此证章\n以兹证明\n“猎物没有任何机会，能从猎人的手中逃脱。”",
-          "name": "提丰特限证章",
+          "description": "In light of special permissions granted, the Field Operations Department has hence passed the following resolution with respect to Typhon:\nWhere the entailing mission would fall under Integrated Strategies scope, this operator shall be pursuant to tactics of a reinforced nature in meeting the enemy.\nIn witness whereof,\nThis badge is hereby conferred upon the above named.\n'The prey has no chance to escape from the hunter's hands.'",
+          "name": "Typhon's Specialized Badge",
           "cost": [
             [
               {
@@ -63708,7 +63708,7 @@
           "typeName1": "PRO",
           "type": "X",
           "icon": "uniequip_002_bubble",
-          "description": "Bubble is in a horrible mood.\nJust recently, she was watching the new animated film The Three Little Musketeers with some friends her age. Each of the heroes, seemingly just as young as them, had a shiny and glowy Originium blade and could use super-awesome techniques that made the whole screen flicker and shine like crazy, and it got everyone watching all pumped up. But then Shamare, who's always so cold, was there all alone like 'that sword's obviously just a toy' like she didn't get the mood at all.\nBubble wasn't one to say much about weapons, really. Swords were all light and fragile, and they'd never beat the cool stuff like giant axes and hammers.\nBut when she saw the friends she'd watched the film with get together one day and bring swords out, that really drove her nuts.\nThey were just like the ones in the movie! The shininess, the little button, and the dashing-ness that exuded from her friends when they lifted their swords to the air and yelled out the super-awesome move name.\nAnd like that, a need to HAVE overtook Bubble's heart.\nShe couldn't steal anyone's—she'd been scolded enough times already for that—but she had no idea how she'd get one like that for herself.\nBy buying it? How? From who? With what? She didn't even know how many rooms were inside this metal plate box, not to mention her friends were telling her they got shipped in from Kazimierz and she can't buy one now.\nWhy can't Bubble get the thing she wants?! It was all her mind could dwell on, but here she is now, and she doesn't know anything, except that aside from stealing someone else's she's got no way of getting the toy. But the lessons she's been having lately, and the sense of morals educated into her, stifle her urge to snatch one.\nSo now Bubble can only storm around in a huff, carelessly knocking into things and yelling loudly to vent her discontent. On occasion, when she tuckers herself out, she hides away in her dorm, crying as she hugs her tribe's totem.\nThis helplessness weighs down on Bubble very, very hard.\nMorte tastes this morsel and shares it with Shamare. After getting the rough gist of things, Shamare seeks out a psychological consultant operator at Medical, and very soon thereafter, a message is sent from HR out to Sargon...\nToday is Bubble's annual 'See Papa Day,' in which her father has agreed to come visit her once a year. It's the most important day of the year to her (aside from her birthday), and Bubble forces herself to shape up and look strong, to meet Papa with a smile. Even still, once she sees him, the gloom in her heart all spills out as tears, and she can't even put her words together properly, only lie in her Papa's arms and cry away.\nAfter the tears are done, she jumps out of her Papa's embrace, and sits silently on the couch again. And surprise! From his rucksack, her father pulls out a toy sword.\nIt's in this instant that Bubble's eyes shine like stars.",
+          "description": "Bubble is in a horrible mood.\nJust recently, she was watching the new animated film The Three Little Swashbucklers with some friends her age. Each of the heroes, seemingly just as young as them, had a shiny and glowy Originium blade and could use super-awesome techniques that made the whole screen flicker and shine like crazy, and it got everyone watching all pumped up. But then Shamare, who's always so cold, was there all alone like 'that sword's obviously just a toy' like she didn't get the mood at all.\nBubble wasn't one to say much about weapons, really. Swords were all light and fragile, and they'd never beat the cool stuff like giant axes and hammers.\nBut when she saw the friends she'd watched the film with get together one day and bring swords out, that really drove her nuts.\nThey were just like the ones in the movie! The shininess, the little button, and the dashing-ness that exuded from her friends when they lifted their swords to the air and yelled out the super-awesome move name.\nAnd like that, a need to HAVE overtook Bubble's heart.\nShe couldn't steal anyone's—she'd been scolded enough times already for that—but she had no idea how she'd get one like that for herself.\nBy buying it? How? From who? With what? She didn't even know how many rooms were inside this metal plate box, not to mention her friends were telling her they got shipped in from Kazimierz and she can't buy one now.\nWhy can't Bubble get the thing she wants?! It was all her mind could dwell on, but here she is now, and she doesn't know anything, except that aside from stealing someone else's she's got no way of getting the toy. But the lessons she's been having lately, and the sense of morals educated into her, stifle her urge to snatch one.\nSo now Bubble can only storm around in a huff, carelessly knocking into things and yelling loudly to vent her discontent. On occasion, when she tuckers herself out, she hides away in her dorm, crying as she hugs her tribe's totem.\nThis helplessness weighs down on Bubble very, very hard.\nMorte tastes this morsel and shares it with Shamare. After getting the rough gist of things, Shamare seeks out a psychological consultant operator at Medical, and very soon thereafter, a message is sent from HR out to Sargon...\nToday is Bubble's annual 'See Papa Day,' in which her father has agreed to come visit her once a year. It's the most important day of the year to her (aside from her birthday), and Bubble forces herself to shape up and look strong, to meet Papa with a smile. Even still, once she sees him, the gloom in her heart all spills out as tears, and she can't even put her words together properly, only lie in her Papa's arms and cry away.\nAfter the tears are done, she jumps out of her Papa's embrace, and sits silently on the couch again. And surprise! From his rucksack, her father pulls out a toy sword.\nIt's in this instant that Bubble's eyes shine like stars.",
           "name": "Bubble's Shining Sword",
           "cost": [
             [
@@ -64845,7 +64845,7 @@
           "typeName1": "BOM",
           "type": "X",
           "icon": "uniequip_002_rosmon",
-          "description": "'Outcast, I'm a little concerned. After returning from the Chernobog core city, Rosmontis has been carrying out her missions with extreme aggression. The human traffickers in Minos are indeed despicable, but they fall under Minoan jurisdiction. The original plan only called for us to rescue the Infected children, not eliminate the suspects.'\n'Isn't it normal to adjust mission objectives in our line of work? Pith, you oughta trust Rosmontis's judgment.'\n'Have you heard? Surviving witnesses refer to her as the 'Scourge of Minos.' Fortunately, the girl herself doesn't remember any of it. Touch says she had forgotten all details of the mission by the time she returned to the ship. I'm not sure her brain will manage to derive any worthwhile experience from the whole thing.'\n'Memories aren't always useful experiences, sometimes they can be heavy burdens. Since her opinions aren't colored by her own prejudices, and she isn't hemmed in by community consensus, Rosmontis might be even more impartial than we are. She's like a mirror that can't be stained, reflecting the morality of the situations around her.'\n'That's why Kal'tsit wants us to guide her together. Even if her actions reflect our values, Rhodes Island won't be with her her whole life. Once we're gone, who can judge the mirror itself, whether she's good or evil?'\n'She's awake now, Pith. We can ask her ourselves.'\nHello, Outcast.\n'Hello, Rosmontis.'\nAre you leaving, Outcast?\n'Yes, I'm off to Victoria for a little something. But Pith is right, I'll be gone, Kal'tsit will be gone, and someday, we'll all be gone.'\n'Will Amiya be gone too?'\n'Could be. Nobody knows the future. Judge Rosmontis, Your Little Honor, can you look after yourself for us?'\nYes, I promise. I promise everyone that I'll write everything down. I remember the stories you and Pith told me. I won't forget.\nI can do it, you and Pith don't need to worry.\nIf I ever turn bad... no, no matter what I become in the future.\nI'll document it all, I'll look over it carefully.\nThe last one I will judge will be me, myself.",
+          "description": "'Outcast, I'm a little concerned. After returning from the Chernobog core city, Rosmontis has been carrying out her missions with extreme aggression. The human traffickers in Minos are indeed despicable, but they fall under Minoan jurisdiction. The original plan only called for us to rescue the Infected children, not eliminate the suspects.'\n'Isn't it normal to adjust mission objectives in our line of work? Pith, you oughta trust Rosmontis's judgment.'\n'Have you heard? Surviving witnesses refer to her as the 'Scourge of Milia.' Fortunately, the girl herself doesn't remember any of it. Touch says she had forgotten all details of the mission by the time she returned to the ship. I'm not sure her brain will manage to derive any worthwhile experience from the whole thing.'\n'Memories aren't always useful experiences, sometimes they can be heavy burdens. Since her opinions aren't colored by her own prejudices, and she isn't hemmed in by community consensus, Rosmontis might be even more impartial than we are. She's like a mirror that can't be stained, reflecting the morality of the situations around her.'\n'That's why Kal'tsit wants us to guide her together. Even if her actions reflect our values, Rhodes Island won't be with her her whole life. Once we're gone, who can judge the mirror itself, whether she's good or evil?'\n'She's awake now, Pith. We can ask her ourselves.'\nHello, Outcast.\n'Hello, Rosmontis.'\nAre you leaving, Outcast?\n'Yes, I'm off to Victoria for a little something. But Pith is right, I'll be gone, Kal'tsit will be gone, and someday, we'll all be gone.'\n'Will Amiya be gone too?'\n'Could be. Nobody knows the future. Judge Rosmontis, Your Little Honor, can you look after yourself for us?'\nYes, I promise. I promise everyone that I'll write everything down. I remember the stories you and Pith told me. I won't forget.\nI can do it, you and Pith don't need to worry.\nIf I ever turn bad... no, no matter what I become in the future.\nI'll document it all, I'll look over it carefully.\nThe last one I will judge will be me, myself.",
           "name": "'Notes'",
           "cost": [
             [
@@ -85821,12 +85821,12 @@
         },
         {
           "id": "uniequip_003_blkkgt",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "SWO",
           "type": "Y",
           "icon": "uniequip_003_blkkgt",
-          "description": "“你迟到了，黑骑士，这可真少见。”\n喀兰贸易的办公室，新任总裁对着刚走进来的锏露出微笑，手里正在摆弄着什么。\n“有人通知我，说你今天要给我一份新合同，诺希斯。”\n“是的，文件都在桌上，不过——”他顿了顿，“你看到楼下那台新摩托了吗？\n“喀兰贸易在民用工业上有了新突破，终于能自主生产摩托车了，它可以在零下二十度的严寒中稳定启动，其他国家都没有做到过。”\n“当然，它很显眼。”\n锏一边回答着，一边踱步走到房间的右侧——那里摆着一个新的展示柜，想必是新总裁的喜好。\n柜子玻璃后放着一个冻裂的轴承。锏还记得，这是他们第一次在谢拉格取样矿产时，坏掉的钻机里面的。当锏把灰头土脸的恩希欧迪斯从矿洞里拉出来后，他执意要保留这个作为纪念。\n“没记错的话，原本这里有一幅恩希欧迪斯的画像。”锏比划着对诺希斯说。\n“我拿下来了，锏。如果你在半夜收到他发来的工作消息，而他的脸又正好对着你，你会有什么想法？”\n“原来是因为这个……谢谢你，诺希斯。”\n“其实还有件事，你一定会更高兴。”诺希斯难得有些兴奋，“我们正在策划面向游客的冰钓项目，为此研发了高科技钓竿，可以辅助控制收竿的时机和力度。听说你以前——”\n“诺希斯。”她的音调不高，但把短短的一个名字念得十分冰冷。\n“……抱歉，可能是我听到了一些谣言。”\n“你只需要知道，那是过去的事了。”\n沉默在两人之间拉长。\n“不过恰好，我为你准备了一件礼物，现在就权当我的赔礼。”诺希斯离开了座位，将一直握在手中的东西递给了锏。\n锏接过了它——一把漆黑的摩托钥匙，带着喀兰贸易的标志。\n“这比你原来的那台更好，我们还特地把它涂成了适合你的红黑配色。”诺希斯露出微笑，“我和恩希欧迪斯商量过，员工们也同意——\n“大家一致决定，把喀兰贸易生产的第一台摩托车，送给你。”\n锏嘴唇微动，但还是什么也没有说，只是拇指按在标志上，轻轻擦了一下。\n“谢谢。”\n她转过身，朝着门外走去。\n“等等，锏。”诺希斯的声音在身后响起，“合同你还没——”\n“不用了。”\n锏没有回头。\n“我会一直留在这里。”右手食指穿过钥匙的圆环，举到锏的耳边。\n“直到某一天，我们的路不同了——”她平静地说着，像是在陈述商业条款，“那时我就骑着它离开，当作这些年的报酬。”\n接着，门被拉开，冷风灌进办公室，吹动着桌上的纸张。\n诺希斯站在原地，低声开口，声音融进了风里。\n“那么，如你所愿。”",
-          "name": "新合同",
+          "description": "'You're late, Black Knight. How unusual.'\nThe new president of Karlan Trade smiles at Degenbrecher as she walks into his office. He is fiddling with something in his hand.\n'I was told that you're renewing my contract, Gnosis.'\n'Yes. The documents are on the table. However—' He pauses. 'Did you see the new motorcycle outside?\n'Karlan Trade is finally starting to produce its own motorcycles. Made entirely domestically, and able to operate reliably at minus 20 degrees, something that no other country has achieved.'\n'Yes. It was hard to miss.'\nDegenbrecher strides over to the right side of the room, where a display cabinet was recently installed by the new president.\nInside is a cracked bearing, from the drilling machine that broke down when they first tried digging for ore samples in Kjerag. Enciodes had insisted on keeping it as a souvenir after Degenbrecher pulled him out of the hole, his face covered in dust.\n'There used to be a portrait of Enciodes here, if I recall correctly.' Degenbrecher says as she gestures at the location.\n'I took it down. How would YOU feel if you got a late-night message about work while his face was staring at you?'\n'I see... thanks, Gnosis.'\n'There's something else that will make you even happier.' Gnosis seems unusually excited. 'We're planning ice fishing activities targeted at tourists, for which we've developed smart fishing rods that assist the user in reeling in the catch. I heard that you used to—'\n'Gnosis.' She does not raise her voice, but her tone is cold as ice.\n'...I'm sorry. I just heard rumors.'\n'All you need to know is that it's all in the past.'\nThe silence lingers between them.\n'It just so happens that I have a present for you. Let it serve as an apology.' Gnosis stands up and gives Degenbrecher the object he had been holding.\nIt is a black motorcycle key, with the Karlan Trade emblem on it.\n'It's an upgrade over your current ride, and we had it painted red and black for you.' Gnosis smiles. 'I discussed it with Enciodes, and the staff agreed unanimously:\n'You deserve to get the first ever motorcycle manufactured by Karlan Trade.'\nDegenbrecher's lips twitch, but she says nothing, only touching the emblem lightly with her thumb.\n'Thanks.'\nShe turns around and walks towards the door.\n'Wait,' Gnosis calls out to her. 'You haven't signed the—'\n'No need to.'\nDegenbrecher does not turn around.\n'I'm staying here.' She puts a finger through the keychain ring, and lifts it up beside her ear.\n'If there comes a day when our paths diverge—' Her tone is calm and matter-of-fact, like reading out the terms of a contract. 'I'll ride this away as payment for my years of service.'\nThe door is pulled open. Cold wind blows into the office, rustling the papers on the desk.\nGnosis mutters softly, the words disappearing into the wind:\n'As you wish.'",
+          "name": "New Contract",
           "cost": [
             [
               {
@@ -100369,12 +100369,12 @@
         },
         {
           "id": "uniequip_003_rmixer",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "SPT",
           "type": "Y",
           "icon": "uniequip_003_rmixer",
-          "description": "育婴圣堂的日程一成不变。晚上八点，帕特里奇昂已经卸去甲胄，他用左手开门，因为右手已经被两颗健手球占得满满当当。晚上八点半，帕特里奇昂陷进沙发，摊开手掌，开始仔细地端详那两颗古怪的健手球——或者说，一颗仙人球，和一颗球形的手榴弹。自从在家里发现了这两颗陌生的怪东西后，帕特里奇昂就一直试图搞清它们的来历。\n把手榴弹当健手球送给别人——听起来像是他会做的恶作剧，但他是要送给谁呢？肯定不是潘，那家伙自己就会抱着铳睡觉，这样的恶作剧根本整蛊不到他。况且他们都多少年没联系过了？\n至于那颗仙人球……它几乎要成为帕特里奇昂最大的心事。吉奥瓦尼早就退休了，每次冷餐会上的仙人掌挞，都只是为帕特里奇昂一人准备的。薇尔丽芙为此揶揄过他很多次，可他甚至说不上自己是为什么会对仙人掌情有独钟。\n他一定是忘了什么。\n所以，当牧首阐释那套包容万物的秩序时，当她述说那个没有隔阂、没有遗忘，也没有别离的未来时，帕特里奇昂从不会像身边的信徒那样落泪。\n他知道那个未来一定缺了什么——他要送手榴弹的整蛊对象，让他喜欢上仙人掌的罪魁祸首。他知道吉雅是为何而死，也知道潘是为何离他而去，但唯独这个人，他既想不起是谁，也不知道是怎么消失的。\n那些确切的代价，他都能说服自己接受，他也都这样做了。但一个既不知道是什么、也不知道从何而来的空缺，他要如何说服自己接受？\n所以，每当万千人的感动顺着光环灌入他的大脑，帕特里奇昂总要捏紧那两颗健手球，用手心的刺痛提醒自己，牧首承诺的未来，一定还缺了什么。\n\n“我该感动吗，帕特里奇昂？”\n“你再说这种话，我就要拉黑你了，教宗阁下。”\n“至少把那颗手榴弹给我吧？本来就是为我准备的，对吧？作为我之前送你仙人球的回礼。”\n“你知道吗，我突然觉得应该把火药都塞回去再给你。”\n“但说真的，帕特里奇昂。知道你一直对牧首抱有戒心，是因为意识到了我的消失……我还是很欣慰。”\n“我只是意识到有人消失了，可没想起来是你。我没法付出一个我甚至都不知道是什么的代价，仅此而已。如果我当时想起来了消失的是你，搞不好就全心全意去帮牧首了。”\n“感谢主，你没想起来。”\n“感谢主，我没想起来。”",
-          "name": "“老朋友”",
+          "description": "The Shrine of Nurtury's schedule never changed. At 8pm, Patrizion would take off his armor and open the door with his left hand, because his right one would be holding two hand exercise balls. Half an hour later, he would sink into the sofa and begin examining the two strange objects in his hand—a ball cactus and a spherical hand grenade. He had been trying to figure out where they came from ever since they showed up in his home.\nGiving a hand grenade to someone as a hand exercise ball definitely sounded like a prank he would pull, but who would he give it to? Not Pag, certainly: he sleeps with a gun in his arms and the prank would simply fall flat. Besides, they hadn't communicated in years.\nMeanwhile, the ball cactus weighed even heavier on his mind. Giovanni was long retired, and Patrizion himself was the only reason cactus tarts were still being served at meal gatherings, something Velliv often teased him for. Though he himself didn't know why he had such a liking for cactus.\nHe must have forgotten something.\nThis was why Patrizion never wept like the other believers when the Matriarch explained the order that encompassed all things, when she spoke of a future with no barriers, no forgetting, and no partings.\nBecause he knew that something was missing from that future: the one he wanted to prank with the grenade, the one who made him fall in love with cactus. He knew what Gia died for and why Pag had cut him out of his life, yet there was always one person he could not remember at all. Nor did he know why that person was gone.\nHe was able to convince himself to accept any tangible price, but how could he convince himself to accept a void, when he had no idea what it was or where it came from?\nAnd so, when the emotions of thousands rushed into his brain through his halo, Patrizion had to clutch those two exercise balls tightly, so the pain would remind him that the future promised by the Matriarch was missing something.\n\n'Should I be touched, Patrizion?'\n'Say that again, Your Holiness, and I'll block you.'\n'At least give me the grenade. You meant it for me, didn't you? In return for that ball cactus that I gave you?'\n'Maybe I should. After I've loaded it with explosives and armed it.'\n'In all seriousness, though... I'm glad to hear that your wariness of the Matriarch stemmed from an awareness that I was missing.'\n'I just felt <i>someone</i> was missing. I didn't know it was you. I can't pay a price when I don't even know what it is, that's all. I might have served the Matriarch wholeheartedly if I'd remembered it was you.'\n'Then thank God you didn't.'\n'Thank God I didn't remember.'",
+          "name": "'Old Friends'",
           "cost": [
             [
               {
@@ -106669,7 +106669,7 @@
       ]
     },
     "char_4225_tanya": {
-      "cnOnly": true,
+      "cnOnly": false,
       "name": "Crackborne",
       "profession": "Defender",
       "rarity": "TIER_5",
@@ -106779,7 +106779,7 @@
         {
           "id": "skchr_tanya_1",
           "icon": "skchr_tanya_1",
-          "name": "涤净",
+          "name": "Decontamination",
           "masteryCosts": [
             [
               {
@@ -106828,7 +106828,7 @@
         {
           "id": "skchr_tanya_2",
           "icon": "skchr_tanya_2",
-          "name": "溃决",
+          "name": "Cracking Dam",
           "masteryCosts": [
             [
               {
@@ -106878,12 +106878,12 @@
       "modules": [
         {
           "id": "uniequip_002_tanya",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "PRP",
           "type": "X",
           "icon": "uniequip_002_tanya",
-          "description": "瑭雅从手推车上搬下最后一个伤员，然后瘫坐在泥地上。距离他们从泽尔格勒撤离已过去了十几个小时，炮弹声已经杳不可闻。\n神色疲惫的弑君者出现在了瑭雅背后，看向手推车上那个瑭雅自己做的铁皮水桶，还有里面满满一桶空的洗涤剂罐子。\n“你之前跟雷德说手推车上挤不出一点儿空了。他背着五个孩子跑了一路。”\n“这个水桶是我必须要带上的东西。”瑭雅说，“你找雷德聊过了？”\n“嗯。他告诉我你去问了整合运动的事。所以，你决定好了？雷德会很乐意接纳你。”\n“还在考虑。”瑭雅顿了顿，“我想到了我的妹妹。”\n“玛莎，还是更小的那个？我刚看见她们和格里沙都睡着了。”弑君者突然反应过来，“哦，你说的是……”\n“妮娜。”\n弑君者坐了下来。\n“那些都是我用空的洗涤剂罐子。”瑭雅说，“小时候，我爸妈就在用这个牌子了。家里有很多罐子，它们就是我全部的玩具。也是妮娜以前最喜欢的玩具。”\n“我看见上面有很多被劈开的缺口。你用罐子当训练用的靶子？”\n“嗯。但它们本该是玩具。”\n“那个桶呢？”\n“它本该是用来装水或者瘤奶的，用来让人活着。后来，我开始训练自己，就用它来洗染血的布。再后来……”瑭雅从铁桶底部拿出一个白布包，解开后，里面露出一捧骨白色的灰烬。“我想过要留下妮娜的襁褓，但最后还是烧掉了。”\n瑭雅长久地看着那捧无害的灰烬。烈焰如水，漂洗干净了一切污浊和罪恶。\n“从始至终，我想要的都只是，让孩子是孩子，让玩具是玩具，让一个桶，就是一个桶，不是别的。”\n弑君者摇了摇头：“这太难了。你想要整片大地翻个面，恐怕都还容易些。”\n“那至少，我想保住我的生活。”瑭雅定定地看向弑君者的双眼，“可现在泽尔格勒不在了。在这种时候，一个人只顾着她自己的生活，是不是有些丢脸？”\n“每个人都会有自己的看法。”弑君者说，“问我的话，我会觉得直面自己的生活是一件非常需要勇气的事。”\n“所以并不丢脸。”瑭雅点点头。\n“该休息了，瑭雅。明天还有路要赶。”\n“等等，我听说罗德岛对儿童感染者有医疗优待，是真的吗？”\n“不止是儿童。像你这样的感染情况，其实也可以向罗德岛申请个干员身份什么的，能减轻不少生活压力。”弑君者往瑭雅松垮的绷带下使了个眼色，瑭雅才发现被自己掩藏了许久的那块黑色石头不知什么时候露了出来。\n“这绷带该洗洗了。”瑭雅自言自语着，又想到，也许自己以后便不用再拿绷带来藏起些什么了。",
-          "name": "“漂洗”",
+          "description": "Tonya helps the last wounded off the cart and sits down on the muddy ground, exhausted. A dozen hours have passed since they evacuated from Zelgrad. The sound of artillery fire has grown too distant to hear.\nCrownslayer appears behind her and takes a look at the metal bucket Tonya made herself, and the empty detergent cans inside.\n'You told Red there was no room on the cart. He was carrying five children on his back.'\n'I had to bring this bucket,' Tonya says. 'Did you talk to Red?'\n'Yeah, he told me you asked about Reunion. Have you made up your mind? He would be happy to take you in.'\n'Still thinking about it.' Tonya pauses for a moment. 'I was thinking about my sister.'\n'Masha, or the little one? I just saw them sleeping with Grisha.' Then Crownslayer realizes with a start. 'Oh, you were talking about...'\n'Nina.'\nCrownslayer sits down.\n'These cans were all mine,' says Tonya. 'Papa and Mama were using this brand since I was little. We had a lot of cans like these. They were all the toys I had, and Nina's favorite too.'\n'I see many gashes on them. Were you using them for target practice?'\n'Yes. But they should have been toys.'\n'What about the bucket?'\n'It used to be for water and cystymilk, things that bring life. Then I started washing blood-stained fabric in it after I began to train. And then...' Tonya takes out a white packet from the bottom of the bucket, opening it to reveal white ashes. 'I wanted to keep Nina's swaddle, but I ended up burning it.'\nTonya takes a long look at the harmless ash, the flames like water having washed away all corruption and sin.\n'All I ever wanted was for children to be children, and toys to be toys. For a bucket to be a bucket, and nothing else.'\nCrownslayer shakes her head. 'It would be easier to flip Terra on its head.'\n'I wanted to protect my way of life, at least.' Tonya gazes into Crownslayer's eyes. 'But Zelgrad is gone. Is it shameful for someone to be obsessed with her own way of life at a time like this?'\n'Everyone has their own perspective,' says Crownslayer. 'If you ask me, I think it takes a lot of courage to look one's way of life in the eye.'\n'So it's not shameful, then.' Tonya nods.\n'Get some rest, Tonya. There's a long journey waiting for us tomorrow.'\n'Just a moment. Is it true that Rhodes Island offers subsidies for Infected children?'\n'Not just children. People like you can apply to become operators there, which can take a lot of the pressure off.' Crownslayer glances at Tonya's bandages. She realizes that they have gotten loose, revealing the black stone she had been hiding for a long time.\n'It's time to wash the bandages,' mutters Tonya. Then, a thought occurs to her: Maybe she won't have to hide it much longer.",
+          "name": "'The Rinsing'",
           "cost": [
             [
               {
@@ -106940,8 +106940,8 @@
       ]
     },
     "char_4226_veen": {
-      "cnOnly": true,
-      "name": "Вий",
+      "cnOnly": false,
+      "name": "Viy",
       "profession": "Caster",
       "rarity": "TIER_6",
       "skillLevelUpCosts": [
@@ -107058,7 +107058,7 @@
         {
           "id": "skchr_veen_1",
           "icon": "skchr_veen_1",
-          "name": "“自呼号生发”",
+          "name": "'From Wailing Born'",
           "masteryCosts": [
             [
               {
@@ -107107,7 +107107,7 @@
         {
           "id": "skchr_veen_2",
           "icon": "skchr_veen_2",
-          "name": "“以鲜血洗去”",
+          "name": "'By Blood Cleansed'",
           "masteryCosts": [
             [
               {
@@ -107156,7 +107156,7 @@
         {
           "id": "skchr_veen_3",
           "icon": "skchr_veen_3",
-          "name": "“用赤铁铭记”",
+          "name": "'With Iron Engraved'",
           "masteryCosts": [
             [
               {
@@ -107206,12 +107206,12 @@
       "modules": [
         {
           "id": "uniequip_002_veen",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "MSC",
           "type": "Y",
           "icon": "uniequip_002_veen",
-          "description": "他踩进浅而宽阔的溪水里，拨开芦苇丛，涉向对岸。身后，篝火和着歌声在晴夜的天幕下闪烁。队里祖上做过天灾信使的小子用他妈妈的名誉发誓，一周之内都不会出什么问题，“谢钦”便在这里扎了营。此时士兵们三三两两都坐在一起，只有一个不久前从前锋营调来的新人，独自过了河，不知要做什么。\n作为首领，斯乔帕有义务了解，于是他循着有军靴踩过的路线走去。小几码的脚印在泥地上留下的浅淡痕迹，引着他来到一盏小小的源石灯前。\n斯乔帕自顾自在地上坐下，那双眼睛自他出现起，就紧紧盯着他。\n“紧张吗？对明天的战斗。”\n“不，只是些山匪。”\n“虽然你这么说，但这毕竟是你加入我们之后的头次行动，我能理解。对了，你到底会不会唱歌？”\n原本只是直视的目光瞬间变得凶狠莫名。斯乔帕摸了摸头，本想为同伴刚才起哄的行为道歉，话到嘴边，却险些变成先前僵持的重演。\n“看来是不会了。但没事啊，我也不会唱。以后那些家伙再要你唱歌，你就像我这样，把歌词直接念出来。\n“我们的一位老祖母，将玻璃屋架在羽兽的双腿上。\n“不是为了像我们一样迁徙，而是为了随时能够转身——”\n歌声打断斯乔帕的“演示”。几句之后，声音渐小。她停了下来。\n“原来你会。”斯乔帕笑了，并不在乎自己的理解是不是出了错，“如果只是不想唱，可以直说啊。不像其他正规军，我们没那么多忌讳。”\n“我会习惯的。”\n“啪”的一声，源石灯被按灭了。黑暗中，术法的光芒从自由民的刀尖上蹿出，像一只眼睛。刀的主人站起身，示意士兵跟上自己。\n\n首领的帐篷里收拾得意外整齐，只有一件外套摊开在行军床上。各式武器在厚实的布料上排列开来，旁边擦成了灰色的毛巾和水盆，显示出主人正在清理装备的状态。\n“等我一下。”斯乔帕走过去掀起外套，在上面无数个口袋里摸索着，半晌终于摸出来一个椭圆形的铁片。\n“本来应该早点做好的，一直忙着规划路线，没刻完。现在差不多了，给你。”\n灰发的青年摩挲铁片上突出的字母，没有说话。\n“‘伊琳娜·艾利安诺夫娜’……我应该没刻错名字。哦，还有这个，拿着。上面有我留下的咒语。”\n一把银色的匕首又不知从哪里被掏了出来。\n“只要你没弄丢，只要我还活着，上面设置的术法就能保护你免受一次致命的攻击。这里每个人都有一把。\n“虽然现在说有点晚了，但欢迎加入‘谢钦’。”\n士兵点点头，接过匕首。她看着手中的铁片，又看向斯乔帕那条挂满了不同军牌的链子，声音像往常一样平淡。\n“谢谢。\n“但其实最后就那样也很好，对军人而言，是个不错的结局。”",
-          "name": "军械库",
+          "description": "He steps into the wide yet shallow creek, wading through the reeds towards the other side. Behind him, the campfire burns bright, surrounded by song under the clear night. The kid whose ancestors were Catastrophe Messengers swore on his mother's name that there would be no trouble for at least another week, so this is where Sechin made camp. The soldiers sit together in small groups, all except for one rookie recently reassigned from the Vanguard Battalion, who crossed the creek on her own for reasons unknown.\nAs their Ataman, it was Scioppa's job to know, so he follows the bootprints in the mud. They are smaller than his own, leaving marks of varying depths, and lead him to a small Originium lamp.\nScioppa sits down on the ground, a pair of eyes fixated upon him.\n'Nervous about tomorrow?'\n'Just some bandits. Not a problem.'\n'Still, it's your first mission since you joined us. So, can you sing or not?'\nThe eyes upon him suddenly grow fierce. Scioppa rubs his head—he'd meant to apologize for his comrades' earlier heckling, only to almost repeat the same standoff.\n'Guess not. It's alright, you know. I can't hold a tune either. Next time they want you to sing, just recite the words like I do.'\n'Our Baba put a glass house upon the legs of a fowlbeast.'\n'Not to move from place to place like us, but so that she could turn around—'\nScioppa's 'demonstration' is interrupted by actual singing, which grows softer after a couple of phrases, before stopping.\n'So you CAN sing.' Scioppa laughs, unconcerned by the misunderstanding. 'If you didn't want to sing, you could have just said so. We don't have all the rules and taboos of the regular forces.'\n'I'll get used to it.'\nThe Originium lamp is turned off with a crack. The Volnik's blade gleams in the dark like an eye as its wielder stands up and gestures for the soldier to follow him.\n\nThe Ataman's tent is surprisingly tidy. A jacket is spread over the bunk, and various weapons are lined up on the sturdy fabric, with a water basin and a dirty towel next to them indicating that their owner was cleaning his gear.\n'Give me a moment.' Scioppa grabs the jacket and begins digging through its pockets. It takes a while for him to find what he was looking for—an oval-shaped piece of metal.\n'I should've done this sooner, but I was busy with route planning. It's finished now. Here.'\nThe gray-haired young woman silently touches the words on the metal plate.\n'Irina Arianovna... I hope I spelled it right. Take this too. I put a spell on it.'\nScioppa takes out a silver dagger.\n'While I still live, the enchantment will protect you from one fatal blow, so long as you don't lose it. Everyone here has one.\n'It might be a little late, but let me say this: Welcome to Sechin.'\nThe soldier nods and takes the dagger. She stares at the piece of metal in her hand, then at the ones just like it hanging from the chain that Scioppa is wearing. She answers in her usual, unemotional tone,\n'Thank you.\n'But that's not such a bad ending for a soldier.'",
+          "name": "Keep Close At Hand",
           "cost": [
             [
               {
@@ -107268,7 +107268,7 @@
       ]
     },
     "char_4227_gallus": {
-      "cnOnly": true,
+      "cnOnly": false,
       "name": "GALLUS²",
       "profession": "Caster",
       "rarity": "TIER_1",
@@ -107283,7 +107283,7 @@
       "modules": []
     },
     "char_4228_closur": {
-      "cnOnly": true,
+      "cnOnly": false,
       "name": "Closure",
       "profession": "Vanguard",
       "rarity": "TIER_6",
@@ -107401,7 +107401,7 @@
         {
           "id": "skchr_closur_1",
           "icon": "skchr_closur_1",
-          "name": "递归策略",
+          "name": "Recursive Tactics",
           "masteryCosts": [
             [
               {
@@ -107450,7 +107450,7 @@
         {
           "id": "skchr_closur_2",
           "icon": "skchr_closur_2",
-          "name": "模型扩展",
+          "name": "Model Expansion",
           "masteryCosts": [
             [
               {
@@ -107549,12 +107549,12 @@
       "modules": [
         {
           "id": "uniequip_002_closur",
-          "cnOnly": true,
+          "cnOnly": false,
           "typeName1": "TAC",
           "type": "X",
           "icon": "uniequip_002_closur",
-          "description": "【采购部特殊渠道进货清单】\n\n松香、小提琴清洁剂及维护套组——莱塔尼亚——进价：■■■■，售价：-\n从泽尔格勒回来之后，阿米娅拉小提琴的次数多了不少。真让人欣慰。之前阿米娅总说那把小提琴用不着太贵的维护套组，我也不太懂。问了好几个莱塔尼亚的干员才知道，不管小提琴本身如何，精心养护一定是没错的。乌萨斯这一整档子事过去之后，也该好好犒劳一下她了。\n\n各种报纸合订本——泰拉各国——进价：■■■■，售价：-\n全自动扫描设备和阅读器——卡西米尔——进价：■■■■，售价：-\n凯尔希没说，但这段时间泰拉发生了什么，她肯定想知道。\n扫描仪和阅读器就当我送她的了。卡西米尔的厂商偶尔还是能做出些有用的物件，自动翻页自动扫描自动整理的扫描仪在泰拉其他地方可不好找……虽然感觉像是哪个绝望的秘书发明的东西。\n\n热水壶智能化改装组件——哥伦比亚——进价：■■■■，售价：-\n说是智能化改装，其实是买了一整台提卡伦多产的智能净水机，再想办法把上面的组件改到热水壶上，因为实在是找不到“智能热水壶”这种东西——哥伦比亚人怎么就体会不到热水壶的好呢！\n不对，热水壶有什么好？\n……算了，反正现在这把水壶已经可以声控了，能控制水温，还能直出过滤后的冷水，大概相当于一个小型化了的净水机。不管喜不喜欢，这都是博士的了。\n\n掌机游戏开发大师V10.0——东国（南院）——进价：■■■■，售价：-\n……\n\n收到了礼物的人们担心可露希尔忙到忘了她自己，于是各自准备了回礼，一起去向可露希尔道谢。不过这样的担心是多余的。他们到工程部时，可露希尔正趴在桌子上呼呼大睡，身旁还放了个很有她个人风格的小奖杯。",
-          "name": "给自己的小奖杯",
+          "description": "[Procurement Department Special Acquisitions List]\n\nRosin, violin cleaner and maintenance set, Leithanien. Purchase Price: ■■■■. Sales Price: -\nGood to see that Amiya's been playing the violin more since we got back from Zelgrad. She used to say she didn't need any expensive maintenance equipment for it, and I didn't know any better. Only after talking to some Leithanian operators did I learn that good maintenance is always better, no matter the quality of the violin. She deserves it after all this Ursus stuff.\n\nCompilation of various newspapers from across Terra. Purchase Price: ■■■■. Sales Price: -\nAuto-scanner and reader, Kazimierz. Purchase Price: ■■■■. Sales Price: -\nKal'tsit didn't say anything, but of course she'd want to know what happened while she was gone.\nThe scanner and reader are gifts from me. So the Kazimierzians CAN make something useful once in a while, a scanner that can automatically turn pages, scan documents, and organize them is hard to find... maybe it was invented by a desperate secretary.\n\nSmart Kettle Modification Kit, Columbia. Purchase Price: ■■■■. Sales Price: -\nBasically a Tkaronto smart water purifier refit as a kettle. Because I couldn't find a 'smart kettle' anywhere? What do the Columbians have against kettles, anyway?\n...Wait, what's so great about kettles, anyway?\nLong story short, it's now operable by voice commands, and can control the water temperature and dispense cold, filtered water directly. Basically a compact water purifier. Like it or not, it's all yours, Doctor.\n\nHandheld Electronic Game Dev Master V10.0, Higashi (Southern Court). Purchase Price: ■■■■. Sales Price: -\n......\n\nThe recipients of these gifts were concerned that Closure was so busy that she forgot to treat herself, so they prepared their own gifts and went to thank her together. Their worries turned out to be unfounded, however, as they found her snoozing on her desk with a little trophy—in true Closure style—right next to her.",
+          "name": "Little Trophy for Herself",
           "cost": [
             [
               {
@@ -117178,7 +117178,7 @@
           "typeName1": "CHA",
           "type": "Y",
           "icon": "uniequip_003_pasngr",
-          "description": "The Reefsteep Black Market, where I was born anew.\nAt the end of the western passage, one can see the land and the sky. Once, it was an arms dealer's territory. I worked under him in my first few years in this place. He was a born despot. He left several welts on my back, but I've no hate for him. It was only natural, just as it was only natural that his irate underlings slit his throat in drunkenness, before throwing him from a cliff. I placed my first gold coin in those turncoats' hands, and it was warm to the touch.\nThe northern oasis, Reefsteep's border. For a time and an age, the favored turf of the mercenaries. Soldiers were replaced batch by batch, but there was only ever one leader. My biggest customer, and the one who taught me how to taste wine. But that winter, he died. He died in front of my storehouse, his body bruised and battered. He coveted my creations, and died to my precautions. Mercenaries keep no loyalty, and thus I rewarded his subordinates at his funeral. Unfortunately, his life couldn't even buy a decent bottle of wine.\nThe southern side, where the towns sit. Messengers and merchants come and go in spades, the value they trade in circulating through the villages. The lords recognize as much, hence why Ibut's lord ameer had such a special fondness for the place. Sargon's unbearably chaotic, barbaric politics never interested me, but I needed the lord's support. The division of powers within the Reefsteep Black Market bored me so much I'm loathe to mention it, but we all had something to say when it came to the lord. I'm surprised that I held such frail relations for so long; a lord that doesn't judge by the cover, perhaps? Out of respect, I didn't personally attend the revolt. But once his family were puppets, I did show up to pay respects to that poor boy—he was akin to Elliot. Akin to me.\nThe Reefsteep Black Market's center. An old tomb lies there, an ancient pasha's grave. Every night, Isin carefully wipes his memory under the light of the stars. A long time ago, I exhausted his wealth. And by now, I've repaid him several times over, but he doesn't pay any mind. His age looms by the day, and aside from a few errant, insignificant questions, we never even speak.\nThat day, Old Isin asked me why others call me 'Sand Soldier.'\n'Sand Soldier.'\nThe meaninglessness of a grain of sand. The pathetic fate of a pawn. The term is filled with significance I abhor.\nHence why I gladly accepted it. As a price paid in advance, for the impossible trial to follow. The Reefsteep Black Market had its towns, and they were fuel ready for the fire.\nI waited for the lord ameer of Ibut to come. If I could, I would have burned even the golden sands to nothing.\nAnd in the final moment before I set the flame alight—\n—what came to mind was the afternoon a young Elliot Glover was taken to tour an institute of science, where he sees a new model of Originium engine ignite and combust, upon which a tremendous machine stirs to life. He's always remembered how much that moved him.\nI've always remembered.",
+          "description": "The Reefsteep Black Market, where I was born anew.\nAt the end of the western passage, one can see the land and the sky. Once, it was an arms dealer's territory. I worked under him in my first few years in this place. He was a born despot. He left several welts on my back, but I've no hate for him. It was only natural, just as it was only natural that his irate underlings slit his throat in drunkenness, before throwing him from a cliff. I placed my first gold coin in those turncoats' hands, and it was warm to the touch.\nThe northern oasis, Reefsteep's border. For a time and an age, the favored turf of the mercenaries. Soldiers were replaced batch by batch, but there was only ever one leader. My biggest customer, and the one who taught me how to taste wine. But that winter, he died. He died in front of my storehouse, his body bruised and battered. He coveted my creations, and died to my precautions. Mercenaries keep no loyalty, and thus I rewarded his subordinates at his funeral. Unfortunately, his life couldn't even buy a decent bottle of wine.\nThe southern side, where the towns sit. Messengers and merchants come and go in spades, the value they trade in circulating through the villages. The lords recognize as much, hence why Ibut's lord ameer had such a special fondness for the place. Sargon's unbearably chaotic, barbaric politics never interested me, but I needed the lord's support. The division of powers within the Reefsteep Black Market bored me so much I'm loath to mention it, but we all had something to say when it came to the lord. I'm surprised that I held such frail relations for so long; a lord that doesn't judge by the cover, perhaps? Out of respect, I didn't personally attend the revolt. But once his family were puppets, I did show up to pay respects to that poor boy—he was akin to Elliot. Akin to me.\nThe Reefsteep Black Market's center. An old tomb lies there, an ancient pasha's grave. Every night, Isin carefully wipes his memory under the light of the stars. A long time ago, I exhausted his wealth. And by now, I've repaid him several times over, but he doesn't pay any mind. His age looms by the day, and aside from a few errant, insignificant questions, we never even speak.\nThat day, Old Isin asked me why others call me 'Sand Soldier.'\n'Sand Soldier.'\nThe meaninglessness of a grain of sand. The pathetic fate of a pawn. The term is filled with significance I abhor.\nHence why I gladly accepted it. As a price paid in advance, for the impossible trial to follow. The Reefsteep Black Market had its towns, and they were fuel ready for the fire.\nI waited for the lord ameer of Ibut to come. If I could, I would have burned even the golden sands to nothing.\nAnd in the final moment before I set the flame alight—\n—what came to mind was the afternoon a young Elliot Glover was taken to tour an institute of science, where he sees a new model of Originium engine ignite and combust, upon which a tremendous machine stirs to life. He's always remembered how much that moved him.\nI've always remembered.",
           "name": "Gold of Crowns",
           "cost": [
             [
@@ -123157,6 +123157,14 @@
           "occPer": "ALWAYS"
         },
         {
+          "stageId": "main_17-08",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "main_17-08#s",
+          "occPer": "ALWAYS"
+        },
+        {
           "stageId": "main_16-01",
           "occPer": "ALWAYS"
         },
@@ -123971,6 +123979,14 @@
           "occPer": "ALWAYS"
         },
         {
+          "stageId": "main_17-01",
+          "occPer": "ALWAYS"
+        },
+        {
+          "stageId": "main_17-01#s",
+          "occPer": "ALWAYS"
+        },
+        {
           "stageId": "main_16-07",
           "occPer": "ALWAYS"
         },
@@ -124086,7 +124102,7 @@
       "description": "Rich in organics, it is commonly seen in regions where Originium has completely volatilized. Compared to Originium, it is easier to exploit.",
       "rarity": "TIER_1",
       "iconId": "MTL_SL_G1",
-      "sortId": 100036,
+      "sortId": 100040,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -124698,7 +124714,7 @@
       "description": "With numerous micropores, it is often used in the interlayer of armors as an adsorbent of the breakdown product of Originium gas.",
       "rarity": "TIER_2",
       "iconId": "MTL_SL_G2",
-      "sortId": 100035,
+      "sortId": 100039,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -124961,7 +124977,7 @@
       "description": "Compressed from Orirock Cubes, it can be formed naturally. It is a fragile material, but industrial technology has made it possible to produce complete Orirock Clusters now. People often mistake it for an ordinary cluster of rocks.",
       "rarity": "TIER_3",
       "iconId": "MTL_SL_G3",
-      "sortId": 100034,
+      "sortId": 100038,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -125116,7 +125132,7 @@
       "description": "This Orirock looks different from the raw material after the refinement process. It costs much more than other processing methods. Anyone who has seen the smooth cutting surface will be amazed. That must be the charm of combining nature with industry.",
       "rarity": "TIER_4",
       "iconId": "MTL_SL_G4",
-      "sortId": 100033,
+      "sortId": 100037,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -125199,7 +125215,7 @@
       "description": "It's slightly sweet and possibly edible. It is also commonly used in chemical manufacturing.",
       "rarity": "TIER_1",
       "iconId": "MTL_SL_STRG1",
-      "sortId": 100048,
+      "sortId": 100052,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -125807,7 +125823,7 @@
       "description": "A more expensive sugar made from natural materials. Ahh, this taste... will surely put one in a great mood. However, it's not for casual snacking.",
       "rarity": "TIER_2",
       "iconId": "MTL_SL_STRG2",
-      "sortId": 100047,
+      "sortId": 100051,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -126078,7 +126094,7 @@
       "description": "A calorie-rich sugar pack that's highly sought after. Its weight never seems to meet the standards set for chemical manufacturing. The production line employees may have something to do with it.",
       "rarity": "TIER_3",
       "iconId": "MTL_SL_STRG3",
-      "sortId": 100046,
+      "sortId": 100050,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -126229,7 +126245,7 @@
       "description": "A nice, finely processed sugar lump commonly used for potion production. Do not taste test it! This is not food and is not to be sold as food! EVER!",
       "rarity": "TIER_4",
       "iconId": "MTL_SL_STRG4",
-      "sortId": 100045,
+      "sortId": 100049,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -126318,7 +126334,7 @@
       "description": "One of the most important materials in modern industry. Its appearance has lead to the development of many modern products. This one, of course, is only a raw material that has practical application.",
       "rarity": "TIER_1",
       "iconId": "MTL_SL_RUSH1",
-      "sortId": 100044,
+      "sortId": 100048,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -126914,7 +126930,7 @@
       "description": "Although its is lacking in potency, it can still be used to produce some basic materials we need. It is also a common ingredient in some sustained-release drugs.",
       "rarity": "TIER_2",
       "iconId": "MTL_SL_RUSH2",
-      "sortId": 100043,
+      "sortId": 100047,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -127137,6 +127153,14 @@
         {
           "stageId": "tough_10-14",
           "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_17-11",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_17-11#s",
+          "occPer": "USUAL"
         }
       ],
       "recipe": {
@@ -127161,7 +127185,7 @@
       "description": "After a series of processes, it meets the standards and general needs of most products on the market. It can also be used to process some special materials.",
       "rarity": "TIER_3",
       "iconId": "MTL_SL_RUSH3",
-      "sortId": 100042,
+      "sortId": 100046,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -127332,7 +127356,7 @@
       "description": "A refined material. As a product, it is mostly sold to organizations and research institutions that have extremely high raw material needs. It may become the basis of the next generation of materials.",
       "rarity": "TIER_4",
       "iconId": "MTL_SL_RUSH4",
-      "sortId": 100041,
+      "sortId": 100045,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -127421,7 +127445,7 @@
       "description": "A byproduct of massive metal processing. Its high plasticity and oxidation resistance make it a common material of smelting and phased processing.",
       "rarity": "TIER_1",
       "iconId": "MTL_SL_IRON1",
-      "sortId": 100052,
+      "sortId": 100056,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -128013,7 +128037,7 @@
       "description": "In a small number of inerting processes, Oriron Shards may have phase changed and polymerized into Oriron. It is generally thought that Oriron is relatively stable when it reaches this level.",
       "rarity": "TIER_2",
       "iconId": "MTL_SL_IRON2",
-      "sortId": 100051,
+      "sortId": 100055,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -128272,7 +128296,7 @@
       "description": "During the processing, influenced by very few unartificial factors, multiple Orirons may merge into this form by chance. Its hardness has decreased but its purity has increased.",
       "rarity": "TIER_3",
       "iconId": "MTL_SL_IRON3",
-      "sortId": 100050,
+      "sortId": 100054,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -128349,6 +128373,14 @@
           "occPer": "OFTEN"
         },
         {
+          "stageId": "main_17-06",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_17-06#s",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "main_15-11",
           "occPer": "OFTEN"
         },
@@ -128419,10 +128451,18 @@
       "description": "An Oriron block fused with multiple Oriron Clusters under extremely harsh conditions. As the most stable and rarest form of Oriron, it can be used in all manners of industrial production.",
       "rarity": "TIER_4",
       "iconId": "MTL_SL_IRON4",
-      "sortId": 100049,
+      "sortId": 100053,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
+        {
+          "stageId": "main_17-06",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_17-06#s",
+          "occPer": "SOMETIMES"
+        },
         {
           "stageId": "main_16-04",
           "occPer": "SOMETIMES"
@@ -128508,7 +128548,7 @@
       "description": "A very small amount of Diketon. After reprocessing, Engineer Operators use solidification during chemical combination to bond other stable structures.",
       "rarity": "TIER_1",
       "iconId": "MTL_SL_KETONE1",
-      "sortId": 100056,
+      "sortId": 100060,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -129096,7 +129136,7 @@
       "description": "A small amount of Polyketon preparation produced through a special process. Its closed molecular structure has changed much complicated processing into simple chemical reactions. Of course, certain technical support is still needed.",
       "rarity": "TIER_2",
       "iconId": "MTL_SL_KETONE2",
-      "sortId": 100055,
+      "sortId": 100059,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -129347,7 +129387,7 @@
       "description": "A modest amount of Aketon preparation produced through further dehydrocarbon processing. The preparation reacts with the non-oxygen molecules in the air, so Engineer Operators must be careful during processing to avoid waste.",
       "rarity": "TIER_3",
       "iconId": "MTL_SL_KETONE3",
-      "sortId": 100054,
+      "sortId": 100058,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -129444,6 +129484,14 @@
           "occPer": "OFTEN"
         },
         {
+          "stageId": "main_17-12",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_17-12#s",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "main_16-11",
           "occPer": "OFTEN"
         },
@@ -129518,10 +129566,18 @@
       "description": "A large amount of unstable Keton preparation. As one of the advanced industrial materials, it is closely monitored by our Engineer Operators. Please be careful when handling.",
       "rarity": "TIER_4",
       "iconId": "MTL_SL_KETONE4",
-      "sortId": 100053,
+      "sortId": 100057,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
+        {
+          "stageId": "main_17-12",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_17-12#s",
+          "occPer": "SOMETIMES"
+        },
         {
           "stageId": "main_16-11",
           "occPer": "SOMETIMES"
@@ -129615,7 +129671,7 @@
       "description": "A broken device that was embedded in the enemy's weapons and armor. It got damaged during a fierce fight, but the components inside are still valuable.",
       "rarity": "TIER_1",
       "iconId": "MTL_SL_BOSS1",
-      "sortId": 100040,
+      "sortId": 100044,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -130223,7 +130279,7 @@
       "description": "A set of devices that are relatively complete with numerous valuable components. To make it portable and practical, almost every bit of space around the motherboard is in use.",
       "rarity": "TIER_2",
       "iconId": "MTL_SL_BOSS2",
-      "sortId": 100039,
+      "sortId": 100043,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -130502,7 +130558,7 @@
       "description": "A set of brand new devices. By reproducing the structure of devices of the same type, the lack of space around the motherboard has been solved. The energy consumption, of course, has also become higher.",
       "rarity": "TIER_3",
       "iconId": "MTL_SL_BOSS3",
-      "sortId": 100038,
+      "sortId": 100042,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -130540,6 +130596,14 @@
         },
         {
           "stageId": "act18d3_09",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_17-11",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_17-11#s",
           "occPer": "USUAL"
         },
         {
@@ -130629,7 +130693,7 @@
       "description": "After undergoing a large number of private modifications, these devices have greatly expanded capacity, which improves performance at the cost of stability. From this, one can feel the dedication and perseverance from the makers.",
       "rarity": "TIER_4",
       "iconId": "MTL_SL_BOSS4",
-      "sortId": 100037,
+      "sortId": 100041,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -130698,7 +130762,7 @@
       "description": "An outstanding chemical mediator. When in use, it often changes between two forms to store and release other materials. When it becomes liquid, some of its properties are the same as those of alcohol, which often leaves our Engineer Operators tipsy.",
       "rarity": "TIER_3",
       "iconId": "MTL_SL_ALCOHOL1",
-      "sortId": 100026,
+      "sortId": 100030,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -130767,15 +130831,15 @@
           "occPer": "USUAL"
         },
         {
+          "stageId": "main_02-09",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "main_11-11",
           "occPer": "OFTEN"
         },
         {
           "stageId": "tough_11-11",
-          "occPer": "OFTEN"
-        },
-        {
-          "stageId": "main_02-09",
           "occPer": "OFTEN"
         },
         {
@@ -130838,7 +130902,7 @@
       "description": "A product made from Loxic Kohl after fine processing. It was named after the company that discovered its production method. Experiments show that it tends to transform to a higher structure in abnormal environments.",
       "rarity": "TIER_4",
       "iconId": "MTL_SL_ALCOHOL2",
-      "sortId": 100025,
+      "sortId": 100029,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -130931,7 +130995,7 @@
       "description": "A metal that is used to produce a catalyst widely used in industries. As the reprocessing is complicated, accidents caused by nonstandard techniques do happen from time to time.",
       "rarity": "TIER_3",
       "iconId": "MTL_SL_MANGANESE1",
-      "sortId": 100028,
+      "sortId": 100032,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -130965,6 +131029,14 @@
         },
         {
           "stageId": "tough_10-14",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_17-05",
+          "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_17-05#s",
           "occPer": "USUAL"
         },
         {
@@ -131043,7 +131115,7 @@
       "description": "A precious metal which few companies are willing to use to produce industrial catalysts. The catalyst made from it, however, has an extremely long service life. It can be used repeatedly and even stripped and recycled, but the complicated processes have forced many companies to give up.",
       "rarity": "TIER_4",
       "iconId": "MTL_SL_MANGANESE2",
-      "sortId": 100027,
+      "sortId": 100031,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -131128,7 +131200,7 @@
       "description": "An important tool in component processing. It has stable properties, and will never explode, powderize, or crack.",
       "rarity": "TIER_3",
       "iconId": "MTL_SL_PG1",
-      "sortId": 100030,
+      "sortId": 100034,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -131264,7 +131336,7 @@
       "description": "Compared to normal Grindstone, this tool has an even more stable structure. It is highly non-reactive.",
       "rarity": "TIER_4",
       "iconId": "MTL_SL_PG2",
-      "sortId": 100029,
+      "sortId": 100033,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -131341,7 +131413,7 @@
       "description": "A mineral whose natural form is a complicated polyhedron. Its value for Originium Arts was known long before its industrial value.",
       "rarity": "TIER_3",
       "iconId": "MTL_SL_RMA7012",
-      "sortId": 100032,
+      "sortId": 100036,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -131473,7 +131545,7 @@
       "description": "A mineral whose natural form is a complicated polyhedron. Found in 1024, it shows great industrial value that other minerals used for Originium Arts lack.",
       "rarity": "TIER_4",
       "iconId": "MTL_SL_RMA7024",
-      "sortId": 100031,
+      "sortId": 100035,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -131761,7 +131833,7 @@
       "description": "An artificial material serendipitously born in the laboratory. It has excellent resistance to extreme temperatures, is lightweight, and is easy to process, making it ideal for use in high-tech projects.",
       "rarity": "TIER_3",
       "iconId": "MTL_SL_PGEL3",
-      "sortId": 100024,
+      "sortId": 100028,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -131814,6 +131886,10 @@
           "occPer": "OFTEN"
         },
         {
+          "stageId": "main_08-08",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "main_12-04",
           "occPer": "OFTEN"
         },
@@ -131822,7 +131898,11 @@
           "occPer": "OFTEN"
         },
         {
-          "stageId": "main_08-08",
+          "stageId": "main_17-02",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_17-02#s",
           "occPer": "OFTEN"
         },
         {
@@ -131873,10 +131953,18 @@
       "description": "An artificial material created from a large number of experiments using coagulating gel as a base material. It can maintain its stability even in high-pressure environments, playing a key role in some high-tech projects.",
       "rarity": "TIER_4",
       "iconId": "MTL_SL_PGEL4",
-      "sortId": 100023,
+      "sortId": 100027,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
+        {
+          "stageId": "main_17-02",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_17-02#s",
+          "occPer": "SOMETIMES"
+        },
         {
           "stageId": "main_16-12",
           "occPer": "SOMETIMES"
@@ -131954,7 +132042,7 @@
       "description": "An alloy smelted from several rare Terran metals. Used to manufacture rare electronic components and circuit boards, it has become an indispensable material in the cutting-edge electronics industry.",
       "rarity": "TIER_3",
       "iconId": "MTL_SL_IAM3",
-      "sortId": 100022,
+      "sortId": 100026,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -132086,7 +132174,7 @@
       "description": "A product derived from further processing of incandescent alloy. After complicated industrial processing, the stability of its solid-liquid hybridization state at certain temperatures has been preserved. As a result, it has an irreplaceable role in product development in the cutting-edge electronics industry.",
       "rarity": "TIER_4",
       "iconId": "MTL_SL_IAM4",
-      "sortId": 100021,
+      "sortId": 100025,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -132179,7 +132267,7 @@
       "description": "A raw industrial material made with the outer shell of an Originium crystal. A fundamental product in the modern Originium electronics industry.",
       "rarity": "TIER_3",
       "iconId": "MTL_SL_OC3",
-      "sortId": 100020,
+      "sortId": 100024,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -132303,7 +132391,7 @@
       "description": "A core product in the modern Originium electronics industry. Found inside electronic goods far and wide throughout Terra's nations. The mass application of crystalline circuitry is one more reminder of Terra's industrial modernization.",
       "rarity": "TIER_4",
       "iconId": "MTL_SL_OC4",
-      "sortId": 100019,
+      "sortId": 100023,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -132388,7 +132476,7 @@
       "description": "The product of a traditional solvent undergoing a modernization process, it demonstrates remarkably enhanced properties.",
       "rarity": "TIER_3",
       "iconId": "MTL_SL_SS",
-      "sortId": 100018,
+      "sortId": 100022,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -132411,6 +132499,14 @@
         {
           "stageId": "act18side_07",
           "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_17-09",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_17-09#s",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "main_15-04",
@@ -132460,7 +132556,7 @@
       "description": "A coating held together by high-molecule polymers. In addition to its baseline protective capabilities, it has also gained other special characteristics, of which heat resistance is but one of many.",
       "rarity": "TIER_4",
       "iconId": "MTL_SL_RS",
-      "sortId": 100017,
+      "sortId": 100021,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -132537,7 +132633,7 @@
       "description": "Provides lubrication and heat resistance during the refining process, which can further increase the rate at which metal products meet final quality specifications.",
       "rarity": "TIER_3",
       "iconId": "MTL_SL_CCF",
-      "sortId": 100016,
+      "sortId": 100020,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -132625,7 +132721,7 @@
       "description": "A biologically stable stock solution. Precautions should be taken to avoid cross-contamination during storage.",
       "rarity": "TIER_4",
       "iconId": "MTL_SL_PLCF",
-      "sortId": 100015,
+      "sortId": 100019,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -132706,7 +132802,7 @@
       "description": "The surface of this material has mutable characteristics, realizing results that were originally nearly impossible. CAUTION: industrial salt is not to be eaten under any circumstances.",
       "rarity": "TIER_3",
       "iconId": "MTL_SL_ZY",
-      "sortId": 100014,
+      "sortId": 100018,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -132732,6 +132828,14 @@
         },
         {
           "stageId": "tough_14-01",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_17-14",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_17-14#s",
           "occPer": "OFTEN"
         },
         {
@@ -132786,10 +132890,18 @@
       "description": "A stable crystalline body, manufactured as a crystal blend within saturated solutions. Can provide materials with a diverse array of capabilities.",
       "rarity": "TIER_4",
       "iconId": "MTL_SL_ZYK",
-      "sortId": 100013,
+      "sortId": 100017,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
+        {
+          "stageId": "main_17-14",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_17-14#s",
+          "occPer": "SOMETIMES"
+        },
         {
           "stageId": "main_16-09",
           "occPer": "SOMETIMES"
@@ -132863,7 +132975,7 @@
       "description": "A derived product in Originium engineering, widely used in industrial fields due to its exceptional functionality. In recent years, its unique appearance has also drawn keen interest from those working in design.",
       "rarity": "TIER_3",
       "iconId": "MTL_SL_XW",
-      "sortId": 100012,
+      "sortId": 100016,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -132892,6 +133004,14 @@
           "occPer": "OFTEN"
         },
         {
+          "stageId": "main_17-16",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_17-16#s",
+          "occPer": "OFTEN"
+        },
+        {
           "stageId": "main_15-16",
           "occPer": "OFTEN"
         },
@@ -132911,10 +133031,18 @@
       "description": "A compound fiber board crafted through bespoke manufacturing. Exhibits outstanding functionality, both physically and chemically, coupled with a rarely-seen ease of processing. An irreplaceable part of many an industrial workflow.",
       "rarity": "TIER_4",
       "iconId": "MTL_SL_XWB",
-      "sortId": 100011,
+      "sortId": 100015,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
+        {
+          "stageId": "main_17-16",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_17-16#s",
+          "occPer": "SOMETIMES"
+        },
         {
           "stageId": "main_15-16",
           "occPer": "SOMETIMES"
@@ -132964,7 +133092,7 @@
       "description": "A novel transparent material born from the laboratory. Its high luminous transmittance and phenomenal durability in all aspects promise to make it an excellent substitute for many conventional materials.",
       "rarity": "TIER_3",
       "iconId": "MTL_SL_HT",
-      "sortId": 100010,
+      "sortId": 100014,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -132975,6 +133103,14 @@
         {
           "stageId": "act35side_09",
           "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_17-07",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_17-07#s",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "main_15-18",
@@ -133020,10 +133156,18 @@
       "description": "An industrial product arrived at through the introduction of several excellent materials into the synthesis process, preserving luminous transmittance while vastly increasing strength and shock resistance. Prospects are high for its wide adoption in the field of defense.",
       "rarity": "TIER_4",
       "iconId": "MTL_SL_HTT",
-      "sortId": 100009,
+      "sortId": 100013,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
+        {
+          "stageId": "main_17-07",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_17-07#s",
+          "occPer": "SOMETIMES"
+        },
         {
           "stageId": "main_16-14",
           "occPer": "SOMETIMES"
@@ -133089,7 +133233,7 @@
       "description": "A particle that can adsorb many different materials. At first, it was only used in cheap adsorbents, but has since become a cutting-edge material thanks to its strong universal coagulative properties.",
       "rarity": "TIER_3",
       "iconId": "MTL_SL_JH",
-      "sortId": 100008,
+      "sortId": 100012,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
@@ -133100,6 +133244,14 @@
         {
           "stageId": "act44side_08",
           "occPer": "USUAL"
+        },
+        {
+          "stageId": "main_17-03",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_17-03#s",
+          "occPer": "OFTEN"
         },
         {
           "stageId": "main_15-08",
@@ -133117,10 +133269,18 @@
       "description": "An optical material that boasts both physical durability and astonishing Originium Arts resistance, currently used in studies regarding optical protection. Other uses are still being tested.",
       "rarity": "TIER_4",
       "iconId": "MTL_SL_QGT",
-      "sortId": 100007,
+      "sortId": 100011,
       "classifyType": "MATERIAL",
       "itemType": "MATERIAL",
       "stageDropList": [
+        {
+          "stageId": "main_17-03",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_17-03#s",
+          "occPer": "SOMETIMES"
+        },
         {
           "stageId": "main_15-08",
           "occPer": "SOMETIMES"
@@ -133145,6 +133305,136 @@
           },
           {
             "id": "30023",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 300,
+            "type": "gold"
+          }
+        ]
+      }
+    },
+    "31103": {
+      "itemId": "31103",
+      "name": "Liquefied High-Energy Gas",
+      "description": "A type of highly flammable, highly reactive gas product that burns extremely hot, enough to melt the vast majority of metals. Widely used in industrial settings for welding and catalytic reactions.",
+      "rarity": "TIER_3",
+      "iconId": "MTL_SL_YHT",
+      "sortId": 100010,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [
+        {
+          "stageId": "main_17-04",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_17-04#s",
+          "occPer": "OFTEN"
+        }
+      ]
+    },
+    "31104": {
+      "itemId": "31104",
+      "name": "Liquefied Ether Adsorbent",
+      "description": "An ether preparation produced by the inerting of a ketone preparation. It is relatively stable and will not react with reactive metals, leading it to be used in all sorts of industrial processes.",
+      "rarity": "TIER_4",
+      "iconId": "MTL_SL_YHT4",
+      "sortId": 100009,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [
+        {
+          "stageId": "main_17-04",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_17-04#s",
+          "occPer": "SOMETIMES"
+        }
+      ],
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30053",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31093",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31103",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "4001",
+            "count": 300,
+            "type": "gold"
+          }
+        ]
+      }
+    },
+    "31113": {
+      "itemId": "31113",
+      "name": "Electrode Unit",
+      "description": "An electrode made from special materials that does not participate in the electrolysis process itself. Extremely useful when smelting or purifying other materials.",
+      "rarity": "TIER_3",
+      "iconId": "MTL_SL_DJ",
+      "sortId": 100008,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [
+        {
+          "stageId": "main_17-10",
+          "occPer": "OFTEN"
+        },
+        {
+          "stageId": "main_17-10#s",
+          "occPer": "OFTEN"
+        }
+      ]
+    },
+    "31114": {
+      "itemId": "31114",
+      "name": "Energy Accumulation Motor Unit",
+      "description": "After a comprehensive reworking of the confiscated device, the new hydraulic pressure unit retains its functionality while greatly reducing the rate of malfunctions, leading to a significant increase in productivity.",
+      "rarity": "TIER_4",
+      "iconId": "MTL_SL_DJ4",
+      "sortId": 100007,
+      "classifyType": "MATERIAL",
+      "itemType": "MATERIAL",
+      "stageDropList": [
+        {
+          "stageId": "main_17-10",
+          "occPer": "SOMETIMES"
+        },
+        {
+          "stageId": "main_17-10#s",
+          "occPer": "SOMETIMES"
+        }
+      ],
+      "recipe": {
+        "count": 1,
+        "costs": [
+          {
+            "id": "30063",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31103",
+            "count": 1,
+            "type": "MATERIAL"
+          },
+          {
+            "id": "31113",
             "count": 1,
             "type": "MATERIAL"
           },
